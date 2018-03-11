@@ -1,0 +1,102 @@
+Điểm Phòng thủ
+Đây có vẻ là một khu vực thích hợp để đặt trụ phòng thủ.{^n}{^n}Trụ chỉ có thể được xây khi Luyện ngục tạm ngừng. Khi một điểm phòng thủ được kích hoạt, nó không thể được thay thế nữa.
+Tạo Trụ Tử hàn
+Trụ Tử hàn phóng những quả cầu băng về phía kẻ địch ở tầm xa, làm chậm tốc độ, cùng cơ hội đóng băng chúng, nhưng sát thương của loại trụ này khá thấp.{^n}{^n}(Yêu cầu 5 Cống hiến và 2500 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 2500 Sắt)
+Không đủ Vật liệu.
+Cân nhắc những lựa chọn khác.
+
+Tôi kiếm Cống hiến bằng cách nào?
+Cống hiến là tiền tệ trong Luyện ngục, được phân phát bởi Chủ nhân cho những ai ông thấy...thú vị.{^n}{^n}Bạn không thể có quá 100 Cống hiến trong cùng thời điểm.
+Cân nhắc những lựa chọn khác.
+Lùi lại
+Lùi lại
+Trụ Tử hàn phóng những quả cầu băng về phía kẻ địch ở tầm xa, làm chậm tốc độ, cùng cơ hội đóng băng chúng, nhưng sát thương của loại trụ này khá thấp.{^n}{^n}(Yêu cầu 5 Cống hiến và 7000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 7000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Trụ Tử hàn phóng những quả cầu băng về phía kẻ địch ở tầm xa, làm chậm tốc độ, cùng cơ hội đóng băng chúng, nhưng sát thương của loại trụ này khá thấp.{^n}{^n}(Yêu cầu 5 Cống hiến và 10000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 10000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Tạo Trụ Liệt hỏa
+Trụ Liệt hỏa liên tục phun lửa vào kẻ địch xung quanh trong một khu vực lớn làm giảm giáp của chúng, nhưng tầm bắn của chúng khá hạn chế.{^n}{^n}(Yêu cầu 5 Cống hiến và 2500 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 2500 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Trụ Liệt hỏa liên tục phun lửa vào kẻ địch xung quanh trong một khu vực lớn làm giảm giáp của chúng, nhưng tầm bắn của chúng khá hạn chế.{^n}{^n}(Yêu cầu 5 Cống hiến và 7000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 7000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Trụ Liệt hỏa liên tục phun lửa vào kẻ địch xung quanh trong một khu vực lớn làm giảm giáp của chúng, nhưng tầm bắn của chúng khá hạn chế.{^n}{^n}(Yêu cầu 5 Cống hiến và 10000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 10000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Tạo Trụ Lạc lôi
+Trụ Lạc lôi phóng một tia sét chuỗi vào những kẻ địch ở xa làm giảm kháng của chúng, nhưng trụ này chỉ có thể nhắm tới số lượng mục tiêu giới hạn và bắn khá chậm.{^n}{^n}(Yêu cầu 5 Cống hiến và 2500 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 2500 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Trụ Lạc lôi phóng một tia sét chuỗi vào những kẻ địch ở xa làm giảm kháng của chúng, nhưng trụ này chỉ có thể nhắm tới số lượng mục tiêu giới hạn và bắn khá chậm.{^n}{^n}(Yêu cầu 5 Cống hiến và 7000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 7000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Trụ Lạc lôi phóng một tia sét chuỗi vào những kẻ địch ở xa làm giảm kháng của chúng, nhưng trụ này chỉ có thể nhắm tới số lượng mục tiêu giới hạn và bắn khá chậm.{^n}{^n}(Yêu cầu 5 Cống hiến và 10000 Sắt)
+Tạo Trụ này (dùng 5 Cống hiến + 10000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Tạo Cờ Thạch bích
+Cờ Thạch bích cho những người chơi xung quanh tăng thêm các chỉ số phòng thủ.{^n}{^n}(Yêu cầu 5 Cống hiến và 2500 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 2500 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Cờ Thạch bích cho những người chơi xung quanh tăng thêm các chỉ số phòng thủ.{^n}{^n}(Yêu cầu 5 Cống hiến và 7000 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 7000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Cờ Thạch bích cho những người chơi xung quanh tăng thêm các chỉ số phòng thủ.{^n}{^n}(Yêu cầu 5 Cống hiến và 10000 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 10000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Tạo Cờ Tiên phong
+Cờ Tiên phong cho những người chơi xung quanh tăng thêm các chỉ số tấn công.{^n}{^n}(Yêu cầu 5 Cống hiến và 2500 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 2500 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Cờ Tiên phong cho những người chơi xung quanh tăng thêm các chỉ số tấn công.{^n}{^n}(Yêu cầu 5 Cống hiến và 7000 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 7000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Cờ Tiên phong cho những người chơi xung quanh tăng thêm các chỉ số tấn công.{^n}{^n}(Yêu cầu 5 Cống hiến và 10000 Sắt)
+Tạo Cờ này (dùng 5 Cống hiến + 10000 Sắt)
+Không đủ Vật liệu.
+
+
+Lùi lại
+Lùi lại

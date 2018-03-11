@@ -1,0 +1,4313 @@
+#prefix/quality/style/name/suffix concatenation
+
+tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+tagItemNameAndStack={%s0} ({%d1})
+
+#Weapons
+
+tagWeaponSwordA000=Shiv
+tagWeaponSwordA001=Gladius
+tagWeaponSwordA002=Razor
+tagWeaponSwordA003=Shortsword
+tagWeaponSwordA004=Carver
+tagWeaponSwordA005=Longsword
+tagWeaponSwordA006=Broadsword
+tagWeaponSwordA007=Butcher
+tagWeaponSwordA008=Cutlass
+tagWeaponSwordA009=Mangler
+tagWeaponSwordA010=Fellblade
+tagWeaponSwordA011=Bonesaw
+tagWeaponSwordA012=Conqueror
+tagWeaponSwordA013=Sabre
+
+tagWeaponSwordB001=*Salazar's Sovereign Blade*
+tagWeaponSwordB001Desc="Được ban cho Lưỡi kiếm Âm binh để tưởng thưởng sự phục vụ không biết mệt mỏi của y."
+tagWeaponSwordB002=Spectral Broadsword
+tagWeaponSwordB003=*Spectral Longsword*
+tagWeaponSwordB004=Honed Longsword
+tagWeaponSwordB005=Honed Broadsword
+tagWeaponSwordB006=Honed Conqueror
+tagWeaponSwordB007=*Malkadarr's Dreadblade*
+tagWeaponSwordB008=Manticore Longsword
+tagWeaponSwordB009=Bonecarver
+tagWeaponSwordB010=*Boneblade*
+tagWeaponSwordB011=Dermapteran Claw
+tagWeaponSwordB012=*Dermapteran Slicer*
+tagWeaponSwordB013=*Bloodlord's Blade*
+tagWeaponSwordB013Desc="Kiếm của Thalonis, mang sức mạnh thần thánh do tắm máu bọn Âm binh."
+
+tagWeaponSwordC001=Lightning Rod
+tagWeaponSwordC002=Hound's Bite
+tagWeaponSwordC002Desc="Lưỡi kiếm toát ra mùi của sự mục nát và tha hóa."
+tagWeaponSwordC003=Omen
+tagWeaponSwordC004=Madness
+tagWeaponSwordC004Desc="Lưỡi kiếm méo mó của sự điên dại khiến mọi kẻ chạm phải nó phát khùng."
+tagWeaponSwordC005=Blood Carver
+tagWeaponSwordC006=Bloodreaper's Claw
+tagWeaponSwordC007=Duelist's Sabre
+tagWeaponSwordC007Desc="Đạt được sự cân bằng tuyệt đối khi được truyền qua nhiều thế hệ kiếm sĩ bậc thầy."
+tagWeaponSwordC008=Magistrate's Censor
+tagWeaponSwordC008Desc="Khi thấy việc mua chuộc những đối thủ chính trị là chưa đủ, Thẩm phán xứ Malmouth đã mang ra một phương thức thương lượng mới."
+tagWeaponSwordC009=Flamebrand
+tagWeaponSwordC010=Soulthief
+tagWeaponSwordC011=Chillblaze
+tagWeaponSwordC012=Spinecarver
+tagWeaponSwordC013=Assassin's Calling
+tagWeaponSwordC013Desc="Một ống chất độc nhỏ được gắn lên kiếm, làm kẻ địch tê cứng và sau cùng là cái chết."
+tagWeaponSwordC014=Razor of the Blind Assassin
+tagWeaponSwordC015=Stormseeker's Sabre
+tagWeaponSwordC016=Willie's Razor
+tagWeaponSwordC016Desc="Lưỡi kiếm này không bao giờ cùn."
+tagWeaponSwordC017=Bloodborn Sabre
+
+tagWeaponSwordD001=Crimson Spike
+tagWeaponSwordD001Desc="Món vũ khí khiến người mang nó cảm nhận được một cơn khát máu không thể chấm dứt được."
+tagWeaponSwordD002=Crystallum
+tagWeaponSwordD002Desc="Một thanh kiếm tinh thể của người Soladrin chứa đầy sức mạnh chưa được khai thác."
+tagWeaponSwordD003=Grim Fate
+tagWeaponSwordD004=Mindwarp
+tagWeaponSwordD005=Beronath, Reforged
+tagWeaponSwordD005Desc="Kẻ sát nhân xứ Beronath từng bị gãy, nay đã được rèn lại thành một thanh kiếm dũng mãnh."
+tagWeaponSwordD006=Bloodsong
+tagWeaponSwordD007=Nex
+tagWeaponSwordD007Desc="Bạn có thể cảm nhận được cái chết của chính mình khi nhìn ngắm thanh gươm này."
+tagWeaponSwordD008=Ortus
+tagWeaponSwordD008Desc="Chỉ nhìn thanh kiếm này thôi cũng đã khiến bạn tràn trề hi vọng rồi."
+tagWeaponSwordD009=Deathmarked Claw
+tagWeaponSwordD010=Stormheart
+tagWeaponSwordD010Desc="Có mấy chữ được khắc ở chuôi kiếm: D.T."
+tagWeaponSwordD011=Reaver's Claw
+tagWeaponSwordD012=Mad Queen's Claw
+tagWeaponSwordD012Desc="Bị tách khỏi đàn và kẹt bên dưới những bức tường pháo đài, con ong chúa đã dần bị phát điên."
+tagWeaponSwordD013=Razor of the Venomblade
+
+tagWeaponSwordF001=Legion Carver
+tagWeaponSwordF002=Chosen Blade
+tagWeaponSwordF003=Devil's Bargain
+tagWeaponSwordF004=Legion Slicer
+
+tagWeaponBluntA000=Club
+tagWeaponBluntA001=Ball Mace
+tagWeaponBluntA002=Mace
+tagWeaponBluntA003=Flanged Mace
+tagWeaponBluntA004=Mallet
+tagWeaponBluntA005=Morningstar
+tagWeaponBluntA006=Truncheon
+tagWeaponBluntA007=Bladed Mace
+tagWeaponBluntA008=Bludgeon
+tagWeaponBluntA009=Warhammer
+tagWeaponBluntA010=Warmace
+
+tagWeaponBluntB000=Torch
+tagWeaponBluntB001=Warden's Verdict
+tagWeaponBluntB001Desc="Không rõ đã có bao nhiêu người vô tội mất mạng vì thứ vũ khí này."
+tagWeaponBluntB002=*Warden's Judgement*
+tagWeaponBluntB003=Troll Bonesmasher
+tagWeaponBluntB004=*Troll Bonecrusher*
+tagWeaponBluntB005=Spectral Morningstar
+tagWeaponBluntB006=*Spectral Bludgeon*
+tagWeaponBluntB007=*Kilrian's Skullbreaker*
+tagWeaponBluntB008=Skinner's Torch
+tagWeaponBluntB008Desc="Hi vọng cuối cùng của một người tuyệt vọng..."
+tagWeaponBluntB009=Adept's Bladed Mace
+tagWeaponBluntB010=Adept's Morningstar
+tagWeaponBluntB011=Adept's Flanged Mace
+tagWeaponBluntB012=Mutant Arm
+tagWeaponBluntB013=*Mutant Bludgeon*
+
+tagWeaponBluntC001=Aetherwoe
+tagWeaponBluntC002=Anarchy
+tagWeaponBluntC002Desc="Chiếc trượng thánh trước kia đã méo mó thành dạng hiện tại sau khi bị bôi máu tươi của đám Âm binh."
+tagWeaponBluntC003=Touch of Malice
+tagWeaponBluntC003Desc="Một thứ vũ khí đê tiên đã cướp đi mạng sống của vô số người."
+tagWeaponBluntC004=Guardsman's Hammer
+tagWeaponBluntC005=Blackwood Wand
+tagWeaponBluntC006=Sacred Hammer of Eternal Wrath
+tagWeaponBluntC007=Blessed Torch
+tagWeaponBluntC007Desc="Chiếc búa rực lửa của những Vệ binh xứ Menhir."
+tagWeaponBluntC008=Spiritcrusher
+tagWeaponBluntC009=Defiance
+tagWeaponBluntC009Desc="Hiện thân của khả năng thích ứng của nhân loại."
+tagWeaponBluntC010=Aethersteel Arbiter
+tagWeaponBluntC011=Fist of the Blind Assassin
+tagWeaponBluntC012=Bonesnap Gavel
+tagWeaponBluntC013=Black Hand of Sanar'Siin
+tagWeaponBluntC014=Progenitor
+tagWeaponBluntC015=War's Rebuke
+tagWeaponBluntC016=Gavel of Barthollem
+tagWeaponBluntC016Desc="Búa thánh của Quan chấp chính Barthollem, từng được dùng để tuyên án lên những kẻ không xứng đáng."
+tagWeaponBluntC017=Chillsteel Redeemer
+
+tagWeaponBluntD001=Death Omen
+tagWeaponBluntD001Desc="Kẻ mang tới cái chết."
+tagWeaponBluntD002=Beacon of the Winter's Veil
+tagWeaponBluntD003=Agony
+tagWeaponBluntD004=Herald of Blazing Ends
+tagWeaponBluntD005=Plaguebearer of Dreeg
+tagWeaponBluntD006=Dawnbreaker's Sledge
+tagWeaponBluntD007=Fist of the Venomblade
+tagWeaponBluntD008=Warborn Gavel
+
+tagWeaponBluntF001=Devil's Crusher
+tagWeaponBluntF002=Legion Warhammer
+tagWeaponBluntF003=Death's Force
+tagWeaponBluntF004=Rhowari Gavel
+tagWeaponBluntF005=Devil's Cudgel
+
+tagWeaponAxeA000=Woodsman's Axe
+tagWeaponAxeA001=Sawblade
+tagWeaponAxeA002=Hatchet
+tagWeaponAxeA003=Double Axe
+tagWeaponAxeA004=Cleaver
+tagWeaponAxeA005=Blade Axe
+tagWeaponAxeA006=Battle Axe
+tagWeaponAxeA007=Crescent Axe
+tagWeaponAxeA008=Heavy Axe
+tagWeaponAxeA009=Bearded Axe
+
+tagWeaponAxeB001=Spectral Cleaver
+tagWeaponAxeB002=*Spectral Battle Axe*
+tagWeaponAxeB003=*Pit Master's Axe*
+tagWeaponAxeB004=Bonecleaver
+tagWeaponAxeB005=*Bonescythe*
+tagWeaponAxeB006=Olman's Axe
+tagWeaponAxeB007=*Aetherwarped Cleaver*
+
+tagWeaponAxeC001=Cruel Edge
+tagWeaponAxeC002=Reaper's Touch
+tagWeaponAxeC002Desc="Một công cụ cổ dùng trong các nghi thức hiến tế, được rèn bởi một chủng tộc đã tuyệt diệt từ lâu."
+tagWeaponAxeC003=Gorefeast
+tagWeaponAxeC004=Bloodreaper's Cleaver
+tagWeaponAxeC005=Storm's Edge
+tagWeaponAxeC006=Krieg's Cleaver
+tagWeaponAxeC006Desc="Một món vũ khí tàn bạo của một kẻ tàn bạo."
+tagWeaponAxeC007=Maleficus
+tagWeaponAxeC008=Doomsaw of Gluttony
+tagWeaponAxeC009=Thirsting Maw
+tagWeaponAxeC010=Immaterial Edge
+tagWeaponAxeC010Desc="Lưỡi của món vũ khí này khai thác sức mạnh đến từ chính Aether."
+tagWeaponAxeC011=Notched Bone of a Thousand Deaths
+tagWeaponAxeC011Desc="Mỗi nút là một mạng."
+tagWeaponAxeC012=Corpse Desecrator
+tagWeaponAxeC013=Chonag'Ri
+tagWeaponAxeC013Desc="Một chiếc rìu làm phép được ghép từ nhiều mảnh xương vụn không rõ của người hay động vật."
+tagWeaponAxeC014=Asterkarn Cleaver
+tagWeaponAxeC015=Hellclaw Slicer
+
+tagWeaponAxeD001=Butcher of Burrwitch
+tagWeaponAxeD001Desc="Hiện thân của sự điên cuồng và đồi bại đã trấn nhiếp người nhân xứ Cairn sau sự kiện Grim Dawn."
+tagWeaponAxeD002=Crescent Moon
+tagWeaponAxeD002Desc="Vũ khí được ban phước của những người thờ Nguyệt thần, được cho là đã bị phá hủy trong cuộc Đại Thanh tẩy."
+tagWeaponAxeD003=Brutallax
+tagWeaponAxeD004=Earthsplitter
+tagWeaponAxeD004Desc="Truyền thuyết kể về một phàm nhân, khi được những vị thần nhờ cậy, đã chẻ đôi Núi Menhir, tạo ra ngọn Núi đôi Menhir."
+tagWeaponAxeD005=Damnation
+tagWeaponAxeD006=Deathmarked Decapitator
+
+tagWeaponAxeF001=Rhowari Justice
+tagWeaponAxeF002=Solar Edge
+tagWeaponAxeF003=Death's Crescent
+
+tagWeaponGun1hA001=Hand-Blunderbuss
+tagWeaponGun1hA002=Howdah
+tagWeaponGun1hA003=Pepperbox Gun
+tagWeaponGun1hA004=Hand Cannon
+tagWeaponGun1hA005=Revolver
+tagWeaponGun1hA006=Sixgun
+tagWeaponGun1hA007=Derringer
+tagWeaponGun1hA008=Repeater
+tagWeaponGun1hA009=Scope Revolver
+tagWeaponGun1hA010=Volley Gun
+
+tagWeaponGun1hB001=Double-Barrel Pistol
+tagWeaponGun1hB002=Hand Mortar
+tagWeaponGun1hB003=Shrapnel Pistol
+tagWeaponGun1hB004=Bloodsworn Pistol
+tagWeaponGun1hB005=*Bloodsworn Repeater*
+tagWeaponGun1hB006=Francis' Gun
+
+tagWeaponGun1hC001=Leander Greene's Hand Cannon
+tagWeaponGun1hC001Desc="Được lấy từ bàn tay lạnh giá của tên cướp quá cố vùng Blackwater."
+tagWeaponGun1hC002=Witchstalker
+tagWeaponGun1hC002Desc="Được truyền vào những ma thuật bóng tối để chiến đấu với những kẻ lạm dụng ma pháp vào việc xấu trên chính lĩnh vực của chúng."
+tagWeaponGun1hC003=Orwell's Revolver
+tagWeaponGun1hC003Desc="Người tu sĩ già chẳng hề nổi tiếng về tài ăn nói."
+tagWeaponGun1hC004=Marauder's Fury
+tagWeaponGun1hC005=Marauder's Justice
+tagWeaponGun1hC006=The Slugger
+tagWeaponGun1hC006B=Slugger
+tagWeaponGun1hC007=3rd Company's Revolver
+tagWeaponGun1hC007Desc="Trên báng súng chỉ khắc một từ duy nhất: Trung thành."
+tagWeaponGun1hC008=Mutiny
+tagWeaponGun1hC009=Outlaw's Retribution
+tagWeaponGun1hC009Desc="Một cách lý giải méo mó về công lý."
+tagWeaponGun1hC010=Slime Bolter
+tagWeaponGun1hC011=Soulflayer
+tagWeaponGun1hC012=Plagueborne Revolver
+tagWeaponGun1hC013=The Mediator
+tagWeaponGun1hC014=Frigid Barrel of the Relentless North
+tagWeaponGun1hC015=Burrwitch Peacekeeper
+tagWeaponGun1hC015Desc="Món đồ chơi đáng tin cậy của Cảnh sát trưởng Harmon Griffith."
+tagWeaponGun1hC016=Apothecary's Injector
+tagWeaponGun1hC017=Oathbreaker
+tagWeaponGun1hC018=Corpseflayer
+tagWeaponGun1hC019=Earthscorcher
+tagWeaponGun1hC020=Chillborer
+
+tagWeaponGun1hD001=Deviltongue
+tagWeaponGun1hD002=Havoc
+tagWeaponGun1hD003=Exonerator
+tagWeaponGun1hD003Desc="Vũ khí của Thanh tra Josian Farral, từng được sử dụng trong chuyến thanh tẩy đám dị giáo tôn thờ một phù thủy."
+tagWeaponGun1hD004=Exterminus
+tagWeaponGun1hD004Desc="Triệt tiêu, phá hoại, hủy diệt."
+tagWeaponGun1hD005=Arcanum Sigillis
+tagWeaponGun1hD005Desc="Được chế tạo chính xác theo ý của Master Agrivix, Đại Pháp sư của Tòa tháp Bạc."
+tagWeaponGun1hD006=Deathdealer's Sidearm
+tagWeaponGun1hD007=Demonslayer's Life-Ender
+tagWeaponGun1hD008=Barrelsmith's Salvo
+tagWeaponGun1hD009=Barrelsmith's Crossfire
+
+tagWeaponGun1hF001=Devil's Retribution
+tagWeaponGun1hF002=Solar Revolver
+tagWeaponGun1hF003=Death's Revolver
+tagWeaponGun1hF004=Legion Hand Cannon
+tagWeaponGun1hF005=Death's Sixgun
+
+tagWeaponGun2hA001=Musket
+tagWeaponGun2hA002=Flintlock Rifle
+tagWeaponGun2hA003=Bolt-Action Rifle
+tagWeaponGun2hA004=Blunderbuss
+tagWeaponGun2hA005=Revolving Rifle
+tagWeaponGun2hA006=Repeating Rifle
+tagWeaponGun2hA007=Carbine
+tagWeaponGun2hA008=Breechloading Rifle
+tagWeaponGun2hA009=Revolving Cannon
+tagWeaponGun2hA010=Shotgun
+tagWeaponGun2hA011=Combat Shotgun
+
+tagWeaponGun2hB001=Rotating Rifle
+tagWeaponGun2hB002=Frontloading Rifle
+tagWeaponGun2hB003=Shrapnel Gun
+tagWeaponGun2hB004=Fleshwarped Rifle
+tagWeaponGun2hB005=*Fleshwarped Carbine*
+tagWeaponGun2hB006=Fleshwarped Conflagrator
+tagWeaponGun2hB007=*Fleshwarped Incinerator*
+
+tagWeaponGun2hC001=The Huntsman
+tagWeaponGun2hC001B=Huntsman
+tagWeaponGun2hC002=The Eye
+tagWeaponGun2hC002B=Eye
+tagWeaponGun2hC002Desc="Một viên, một mạng"
+tagWeaponGun2hC003=Hellmaw Shotgun
+tagWeaponGun2hC004=Devil's Mark
+tagWeaponGun2hC005=Will of Fate
+tagWeaponGun2hC005Desc="Mọi viên đạn đều được tiền định sẽ tới đúng mục tiêu thật sự, dù cho có ai ngăn cản nó đi nữa."
+tagWeaponGun2hC006=The Scarlet Marksman
+tagWeaponGun2hC006B=Scarlet Marksman
+tagWeaponGun2hC007=Salt-core Bolter
+tagWeaponGun2hC007Desc="Một món vũ khí ghép từ phế liệu được đặc chế để tiêu diệt bọn Aetherial."
+tagWeaponGun2hC008=Wrathbringer
+tagWeaponGun2hC009=Thunderclap
+tagWeaponGun2hC010=Sharpshooter's Bolt Rifle
+tagWeaponGun2hC011=Brimstone Repeater
+tagWeaponGun2hC012=Wrathsteel Repeater
+tagWeaponGun2hC013=Flame Keeper's Repeater
+
+tagWeaponGun2hD001=The Adversary
+tagWeaponGun2hD002=Witching Hour
+tagWeaponGun2hD002Desc="Vũ khí được ban phước bởi những thần phù thủy và ban cho các tín đồ nhằm bảo vệ thánh địa của họ trước cơn thịnh nộ của tòa án dị giáo."
+tagWeaponGun2hD003=Hellborne
+tagWeaponGun2hD003Desc="Nòng súng phun ra cơn cuồng nộ của bảy tầng địa ngục."
+tagWeaponGun2hD004=Vortex of Souls
+tagWeaponGun2hD004Desc="Mỗi phát bắn phóng ra những làn sóng xuyên qua aether."
+tagWeaponGun2hD005=Gutripper
+tagWeaponGun2hD006=Ulzuin's Flamespreader
+tagWeaponGun2hD007=Valdun's Rifle
+
+tagWeaponGun2hF001=Devil's Musket
+tagWeaponGun2hF002=Harvest's Double-Barrel
+
+tagWeaponCrossbow2hA001=Crossbow
+tagWeaponCrossbow2hA002=Arbalest
+tagWeaponCrossbow2hA003=Heavy Crossbow
+tagWeaponCrossbow2hA004=Scorpion
+
+tagWeaponCrossbow2hB001=Spectral Crossbow
+tagWeaponCrossbow2hB002=*Spectral Arbalest*
+tagWeaponCrossbow2hB003=Ghavlin's Crossbow
+
+tagWeaponCrossbow2hC001=Boltspitter
+tagWeaponCrossbow2hC001Desc="Một loại vũ khí mẫu. Thật không may, tác giả của nó đã bị giết trước khi kịp đưa nó vào sản xuất hàng loạt."
+tagWeaponCrossbow2hC002=Malady
+tagWeaponCrossbow2hC003=Curse of Burrwitch
+tagWeaponCrossbow2hC003Desc="Một món vũ khí xui xẻo với quá nhiều người chủ quá cố."
+tagWeaponCrossbow2hC004=Blackwood Arbalest
+tagWeaponCrossbow2hC004Desc="Được chế tạo từ gỗ lấy từ khu rừng bên ngoài Biệt thự Blackwood."
+tagWeaponCrossbow2hC005=Frigid Quillbreath
+tagWeaponCrossbow2hC006=Stake-Thrower
+tagWeaponCrossbow2hC007=The Arachnid's Embrace
+tagWeaponCrossbow2hC007B=Arachnid's Embrace
+tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
+tagWeaponCrossbow2hC008Desc="Vũ khí mang tính biểu tượng của những tín đồ tôn thờ Bysmiel."
+tagWeaponCrossbow2hC009=Ulda'Jax
+tagWeaponCrossbow2hC009Desc="Một món vũ khí thô sơ, nhưng có hiệu quả đáng ngạc nhiên ở vùng rừng núi."
+tagWeaponCrossbow2hC010=Sparkbolt Arbalest
+tagWeaponCrossbow2hC011=Nar's Arcane Destroyer
+tagWeaponCrossbow2hC011Desc="Vũ khí ưa thích của Altos Nar, một pháp sư đổi nghề sang sát thủ."
+tagWeaponCrossbow2hC012=Warpbreath Arbalest
+
+tagWeaponCrossbow2hD001=Silverbolt
+tagWeaponCrossbow2hD001Desc="Món vũ khí thường dùng của Thợ săn Quỷ Edith Máu me, nguyên tín đồ Ch'thon chuyển sang nghiệp giết quỷ."
+tagWeaponCrossbow2hD002=Quillthrower of Dreeg
+tagWeaponCrossbow2hD002Desc="Được truyền vào chính tinh anh của thần phù thủy Dreeg."
+tagWeaponCrossbow2hD003=The Northern Wyrm
+tagWeaponCrossbow2hD003Desc="Con rồng khổng lồ đóng băng mọi thứ nó chạm phải trước khi nuốt chửng chúng."
+tagWeaponCrossbow2hD004=Raka'Jax
+tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
+
+tagWeaponCrossbow2hF001=Rhowari Scorpion
+tagWeaponCrossbow2hF002=Chosen Bolter
+tagWeaponCrossbow2hF003=Rhowari Arbalest
+
+tagWeaponMelee2hA001=Greatsword
+tagWeaponMelee2hA002=Warsword
+tagWeaponMelee2hA003=Claymore
+tagWeaponMelee2hA004=Flamberge
+tagWeaponMelee2hA005=Great Axe
+tagWeaponMelee2hA006=War Axe
+tagWeaponMelee2hA007=Scythe
+tagWeaponMelee2hA008=Halberd
+tagWeaponMelee2hA009=Maul
+tagWeaponMelee2hA010=Sledgehammer
+tagWeaponMelee2hA011=Warmaul
+
+tagWeaponMelee2hB001=Troll Headsmasher
+tagWeaponMelee2hB002=*Troll Skullcrusher*
+tagWeaponMelee2hB003=Brutal Great Axe
+tagWeaponMelee2hB004=Brutal Carver
+tagWeaponMelee2hB005=Brutal Decapitator
+tagWeaponMelee2hB006=*Alkamos' Scythe*
+tagWeaponMelee2hB007=Spectral War Axe
+tagWeaponMelee2hB008=*Alkamos' Warsword*
+tagWeaponMelee2hB009=*Spectral Warmaul*
+tagWeaponMelee2hB010=*Archon's Warmaul*
+tagWeaponMelee2hB011=Obsidian Headsplitter
+tagWeaponMelee2hB012=*Obsidian War Cleaver*
+tagWeaponMelee2hB013=Hevill's Greatsword
+
+tagWeaponMelee2hC001=Gutwrench Eviscerator
+tagWeaponMelee2hC002=Massacre
+tagWeaponMelee2hC003=Slithbane
+tagWeaponMelee2hC003Desc="Có tên này từ vô số xương sọ quái vật nó đã bổ làm đôi."
+tagWeaponMelee2hC004=Falcon's Claw
+tagWeaponMelee2hC005=Tremor
+tagWeaponMelee2hC006=The Conduit
+tagWeaponMelee2hC006B=Conduit
+tagWeaponMelee2hC006Desc="Một thành công hiếm hoi trong những thử nghiệm về kỹ thuật rèn ma pháp."
+tagWeaponMelee2hC007=Boneshard Lacerator
+tagWeaponMelee2hC008=Golemfist Gavel
+tagWeaponMelee2hC009=Wrathblade
+tagWeaponMelee2hC010=The Farmstead Liberator
+tagWeaponMelee2hC010B=Farmstead Liberator
+tagWeaponMelee2hC010Desc="Một món vũ khí lịch sử từ cuộc khởi nghĩa Farmstead, bị dập tắt một cách tàn bạo bởi quân đội của Đế chế."
+tagWeaponMelee2hC011=Alvarick's Rebuke
+tagWeaponMelee2hC012=Prismatic Eviscerator
+tagWeaponMelee2hC013=Razorleaf Glaive
+tagWeaponMelee2hC013Desc="Được rèn bằng những kỹ thuật cổ xưa đã thất truyền từ lâu."
+tagWeaponMelee2hC014=Scythe of Tenebris
+tagWeaponMelee2hC014Desc="Vật hút máu của Tenebris, Lưỡi hái Uống máu."
+tagWeaponMelee2hC015=Warhammer of Heavenly Judgment
+tagWeaponMelee2hC015Desc="Búa lớn của Huynh Bernard Mellington của Hội Templar."
+tagWeaponMelee2hC016=Champion of the Light
+tagWeaponMelee2hC017=Wildcaller's Decapitator
+tagWeaponMelee2hC018=Shar'Zul's Furnace
+tagWeaponMelee2hC018B=Shar'Zul's Incinerator
+tagWeaponMelee2hC018Desc="Lửa thiêu không ngừng nghỉ trong lò của Shar'Zul."
+tagWeaponMelee2hC019=Wrathmourne
+tagWeaponMelee2hC020=Trollgut Eviscerator
+tagWeaponMelee2hC021=Blessed Cleaver of Mogdrogen
+
+tagWeaponMelee2hD001=Stonefist Rebuke
+tagWeaponMelee2hD002=The Guillotine
+tagWeaponMelee2hD003=Nightshade's Reach
+tagWeaponMelee2hD003Desc="Công cụ không chính thống của Bậc thầy Sát thủ Belanor. Chẳng có mấy Nightblade thành thục thuật dùng đại kiếm như ông."
+tagWeaponMelee2hD004=Obsidian Juggernaut
+tagWeaponMelee2hD004Desc="Được rèn ngay trong lòng dung nham của một ngọn núi lửa đang hoạt động."
+tagWeaponMelee2hD005=Infernal Brimstone
+tagWeaponMelee2hD005Desc="Sinh ra khi ngọn thương được ban phước của Hiệp sỹ Allister Forgebearer chạm vào trái tim một chúa quỷ."
+tagWeaponMelee2hD006=Stormreaver
+tagWeaponMelee2hD006Desc="Tích tụ qua vô số cơn bão nhiệt đới, món vũ khí này đã sẵn sàng giải phóng cơn cuồng nộ của thiên nhiên."
+tagWeaponMelee2hD007=Bane of the Winter King
+tagWeaponMelee2hD007Desc="Thanh kiếm thánh của Vua Hrothnar, người cai trị phương bắc và con của sói trắng vĩ đại."
+tagWeaponMelee2hD008=Temporal Arcblade
+tagWeaponMelee2hD009=Wildblood Crusher
+tagWeaponMelee2hD010=Ultos' Stormseeker
+tagWeaponMelee2hD011=Leviathan
+tagWeaponMelee2hD012=Soulrend
+tagWeaponMelee2hD012_Desc="Cánh tay phải của Alkamos, kẻ nuốt linh hồn và hành hạ những kẻ ác."
+tagWeaponMelee2hD013=Shar'Zul's Worldeater
+tagWeaponMelee2hD013_Desc="Món vũ khí này đã đổ vô số máu cho Ch'thon, và nó vẫn còn thèm thêm nữa."
+
+tagWeaponMelee2hF001=Legion Warblade
+tagWeaponMelee2hF002=Solar Sledge
+tagWeaponMelee2hF003=Death's Scythe
+tagWeaponMelee2hF004=Chosen Warmaul
+tagWeaponMelee2hF005=Lunar Sledge
+tagWeaponMelee2hF006=Chosen Crusher
+
+tagWeaponCaster1hA001=Wand
+tagWeaponCaster1hA002=Scepter
+tagWeaponCaster1hA003=Arcane Wand
+tagWeaponCaster1hA004=Arcane Scepter
+tagWeaponCaster1hA005=Ritual Wand
+tagWeaponCaster1hA006=Ritual Scepter
+tagWeaponCaster1hA007=Exalted Scepter
+tagWeaponCaster1hA008=Sacrificial Knife
+tagWeaponCaster1hA009=Runed Dagger
+tagWeaponCaster1hA010=Arcane Dagger
+tagWeaponCaster1hA011=Spellblade
+tagWeaponCaster1hA012=Arcane Blade
+tagWeaponCaster1hA013=Ritual Dagger
+tagWeaponCaster1hA014=Ritual Blade
+tagWeaponCaster1hA015=Exalted Dagger
+
+tagWeaponCaster1hB001=Adept's Dagger
+tagWeaponCaster1hB002=Adept's Spellblade
+tagWeaponCaster1hB003=Master's Spellblade
+tagWeaponCaster1hB004=Adept's Wand
+tagWeaponCaster1hB005=Adept's Scepter
+tagWeaponCaster1hB006=Master's Scepter
+tagWeaponCaster1hB007=Witch's Spellblade
+tagWeaponCaster1hB008=Boneshiv
+tagWeaponCaster1hB009=*Bonespike*
+tagWeaponCaster1hB010=Rift Scourge Claw
+tagWeaponCaster1hB011=*Rift Scourge Slicer*
+tagWeaponCaster1hB012=Bloodsworn Wand
+tagWeaponCaster1hB013=*Bloodsworn Scepter*
+tagWeaponCaster1hB014=*Loxmere's Frostblade*
+tagWeaponCaster1hB015=Slithtongue
+
+tagWeaponCaster1hC001=Burning Hatred
+tagWeaponCaster1hC002=Spellfire Wand
+tagWeaponCaster1hC003=Chillheart Scepter
+tagWeaponCaster1hC004=Stormcaller's Spellblade
+tagWeaponCaster1hC004_Desc="Lưỡi kiếm lóe sáng với nguồn năng lượng dồi dào, luôn luôn thèm khát thêm nhiều sức mạnh hơn nữa."
+tagWeaponCaster1hC005=Voidblade
+tagWeaponCaster1hC006=Plagueblood Carver
+tagWeaponCaster1hC007=Soulcarver
+tagWeaponCaster1hC007_Desc="Tương truyền thanh kiếm này không chỉ đơn thuần chém vào da thịt."
+tagWeaponCaster1hC008=Cortosian Invoker
+tagWeaponCaster1hC008_Desc="Dụng cụ ưa thích của các Bậc thầy Cortosian trong các nghi lễ ma pháp."
+tagWeaponCaster1hC009=Coldsnap
+tagWeaponCaster1hC010=Lifebinder
+tagWeaponCaster1hC011=Sparkstone Scepter
+tagWeaponCaster1hC012=Firestorm Scepter
+tagWeaponCaster1hC013=Skyshard Spellblade
+tagWeaponCaster1hC013_Desc="Được rèn từ lõi một ngôi sao băng."
+tagWeaponCaster1hC014=Tainted Blade of Nera'Val
+tagWeaponCaster1hC014_Desc="Nera'Val là một bác sĩ thực nghiệm ám ảnh với việc chữa trị một bệnh dịch chết người. Ông ta cấy bệnh và giết vài chục người vô tội để theo đuổi mục đích này và đã bị treo cổ cho tội ác của mình."
+tagWeaponCaster1hC015=Fiendblood Spellblade
+tagWeaponCaster1hC016=Spellweaver
+tagWeaponCaster1hC016_Desc="Dệt aether vào thực tại như kim đâm qua vải."
+tagWeaponCaster1hC017=Blightstone Invoker
+tagWeaponCaster1hC018=Cosmic Invoker
+tagWeaponCaster1hC019=Stormtrap
+tagWeaponCaster1hC020=Hellrune Carver
+tagWeaponCaster1hC021=Glacierborn Spellblade
+tagWeaponCaster1hC022=Bloodied Dagger of the Covenant
+tagWeaponCaster1hC023=Scepter of Aldritch
+tagWeaponCaster1hC023_Desc="Những lời thì thầm bằng thứ ngôn ngữ bạn không thể nắm bắt phát ra từ cây trượng này."
+
+tagWeaponCaster1hD001=Touch of Purity
+tagWeaponCaster1hD001Desc="Dân ca xưa có kể về một sinh vật vô hình đi khắp thế giới thanh tẩy bệnh dịch và chữa trị các vết thương, không bao giờ đòi hỏi thứ gì đền đáp hay bất cứ sự biết ơn nào."
+tagWeaponCaster1hD002=Black Scourge
+tagWeaponCaster1hD003=Wrath of the Ascendant
+tagWeaponCaster1hD004=Soulbearer
+tagWeaponCaster1hD004Desc="Cây trượng ác độc này khống chế những linh hồn lang thang."
+tagWeaponCaster1hD005=Olexra's Chill
+tagWeaponCaster1hD006=Panetti's Replicating Wand
+tagWeaponCaster1hD006Desc="Món đồ từng thuộc về Thầy Panetti, bậc thầy sao chép phép thuật và là tác giả của tuyệt kỹ Phi đạn Nhân bản."
+tagWeaponCaster1hD007=Spark of Ultos
+tagWeaponCaster1hD008=Shard of Asterkarn
+tagWeaponCaster1hD008Desc="Thanh kiếm đánh cắp nhiệt trong không khí, như một cơn gió núi lạnh lẽo vậy."
+tagWeaponCaster1hD009=Venomlash
+tagWeaponCaster1hD010=Warpfire
+tagWeaponCaster1hD011=Temporal Tempest
+tagWeaponCaster1hD011Desc="Thời gian cũng bị bẻ cong quanh lưỡi dao này."
+tagWeaponCaster1hD012=Dracarris
+tagWeaponCaster1hD013=Fang of Ch'thon
+tagWeaponCaster1hD014=Basilisk Claw
+tagWeaponCaster1hD015=Clairvoyant's Wand
+tagWeaponCaster1hD016=Runed Dagger of Dreeg
+tagWeaponCaster1hD017=Trozan's Starkeeper
+tagWeaponCaster1hD018=Blade of the Black Flame
+tagWeaponCaster1hD019=Decree of Aldritch
+tagWeaponCaster1hD019Desc="Với sắc lệnh cuối cùng, Van Aldritch đưa toàn bộ thành phố vào sự hủy diệt của Grim Dawn."
+
+tagWeaponCaster1hF001=Legion Firestarter
+tagWeaponCaster1hF002=Legion Aetherspark
+tagWeaponCaster1hF003=Legion Voidcutter
+tagWeaponCaster1hF004=Rhowari Biletouch
+tagWeaponCaster1hF005=Rhowari Chilltouch
+tagWeaponCaster1hF006=Rhowari Deathtouch
+tagWeaponCaster1hF007=Chosen Skysplitter
+tagWeaponCaster1hF008=Chosen Flamecaller
+tagWeaponCaster1hF009=Chosen Arcanespark
+
+
+tagWeaponArcaneA001=Crude Staff
+tagWeaponArcaneA002=Gnargled Staff
+tagWeaponArcaneA003=Pine Staff
+tagWeaponArcaneA004=Ash Staff
+tagWeaponArcaneA005=Cedar Staff
+tagWeaponArcaneA006=Oak Staff
+tagWeaponArcaneA007=Blackwood Staff
+
+tagWeaponCrossbow1hA001=Pistol Crossbow
+tagWeaponCrossbow1hA002=Compound Crossbow
+tagWeaponCrossbow1hA003=Windlass Crossbow
+tagWeaponCrossbow1hA004=Repeating Crossbow
+
+
+#Shields
+
+tagShieldA000=Plank Shield
+tagShieldA001=Buckler
+tagShieldA002=Round Shield
+tagShieldA003=Heater Shield
+tagShieldA004=Tower Shield
+tagShieldA005=Riot Shield
+tagShieldA006=War Shield
+tagShieldA007=Aegis
+tagShieldA008=Targe
+tagShieldA009=Rondache
+tagShieldA010=Kite Shield
+
+tagShieldB001=Warden's Bulwark
+tagShieldB001Desc="Được rèn từ thép gia cố và lòng căm thù tàn nhẫn."
+tagShieldB002=*Warden's Fortress*
+tagShieldB003=Spectral Shield
+tagShieldB004=*Spectral War Shield*
+tagShieldB005=Battle Shield
+tagShieldB006=Siege Shield
+tagShieldB007=Sovereign Shield
+tagShieldB008=Trog Bonewall
+tagShieldB009=*Vampiric Bonewall*
+tagShieldB010=Obsidian Guard
+tagShieldB011=*Obsidian Bulwark*
+tagShieldB012=Fleshwarped Shield
+tagShieldB013=*Fleshwarped Bulwark*
+tagShieldB014=Bernard's Slightly-Chewed Buckler
+
+tagShieldC001=Người bảo hộ Ngã tư Ác quỷ
+tagShieldC002=Spiriteater Bulwark
+tagShieldC002Desc="Được rèn bằng nghi lễ gọi hồn để làm một bức tường chống lại những linh hồn tai ác."
+tagShieldC003=Guardsman's Defender
+tagShieldC004=Flamebreaker
+tagShieldC005=Devil's Grin
+tagShieldC006=Maw of the Beast
+tagShieldC007=Huân chương của Quân đoàn Đen
+tagShieldC007Desc="Được mang bởi lính từ Quân đoàn Đen thuộc quân lực Đế chế, còn được biết dưới cái tên Ngọn cờ Tử vong."
+tagShieldC008=Lichguard
+tagShieldC009=Dawnshard Bulwark
+tagShieldC009Desc="Được rèn từ mảnh tinh khiết nhất của tinh thể soladrin."
+tagShieldC010=Templar's Faith
+tagShieldC011=Shield of Perdition
+tagShieldC012=Oathbreaker's Guard
+tagShieldC013=Elementium
+tagShieldC013Desc="Được rèn bằng ma pháp để chuyển dịch sức mạnh thô của các nguyên tố."
+tagShieldC014=Ravna's Guard
+tagShieldC014Desc="Tạo ra bằng cách xếp chồng nhiều lần lớp vỏ cứng của mụ Ong chúa quá cố."
+tagShieldC015=The Gladiator
+tagShieldC016=Blazeguard Arbiter
+tagShieldC017=Vanguard of the Legion
+tagShieldC018=Myrmidon's Guard
+
+tagShieldD001=Meat Shield
+tagShieldD001Desc="Khiên của nhà gọi hồn lấy khuôn từ khoang ngực của một nông dân xấu số."
+tagShieldD002=The Final Stop
+tagShieldD002Desc="Rèn bởi những công nhân đường sắt trong một trận chiến vô vọng chống lại bọn Ch'thon."
+tagShieldD003=The Untouchable
+tagShieldD004=Will of the Living
+tagShieldD004Desc="Từng là Gia huy của Hoàng đế, tấm khiên này đã vượt qua lửa Aether để trở thành mẫu mực của nhân loại."
+tagShieldD005=Skybreach Bulwark
+tagShieldD006=Siegebreaker
+tagShieldD007=Zolhan's Revenge
+tagShieldD008=Dawnbreaker's Duty
+tagShieldD009=Markovian's Bulwark
+
+tagShieldF001=Devil's Protector
+tagShieldF002=Harvest's Guard
+tagShieldF003=Chosen Fireguard
+tagShieldF004=Harvest's Defender
+tagShieldF005=Chosen Crimsonguard
+
+tagQualityShieldA01=Scrapmetal
+tagQualityShieldA02=Rusty
+tagQualityShieldA03=Improvised
+tagQualityShieldA04=Tarnished
+tagQualityShieldA05=Raider
+tagQualityShieldA06=Fortified
+tagQualityShieldA07=Weathered
+tagQualityShieldA08=Reinforced
+tagQualityShieldA09=Assault
+tagQualityShieldA10=Imperial
+tagQualityShieldA11=Exalted
+
+
+#Focus
+
+tagFocusA001=Musty Tome
+tagFocusA002=Fleshbound Tome
+tagFocusA003=Runebound Archive
+tagFocusA004=Leatherbound Spellbook
+tagFocusA005=Eldritch Tome
+tagFocusA006=Arcane Codex
+tagFocusA013=Exalted Codex
+
+tagFocusA007=Runed Bone
+tagFocusA008=Fiendish Effigy
+tagFocusA009=Etched Horn
+tagFocusA010=Glyphed Skull
+tagFocusA011=Savage Effigy
+tagFocusA012=Eldritch Effigy
+tagFocusA014=Exalted Effigy
+
+tagFocusB001=*Zarthuzellan's Codex*
+tagFocusB001Desc="Chứa đầy thần chú gọi lửa để hóa kiếp những kẻ không có đức tin."
+tagFocusB002=*Rolderathis' Tome*
+tagFocusB002Desc="Từ ngữ trong cuốn sách này này khiến bạn ớn lạnh với sự căm hận điên cuồng của chúng."
+tagFocusB003A=Glyphed Archive
+tagFocusB003B=Occult Horn
+tagFocusB004A=Glyphed Spellbook
+tagFocusB004B=Occult Skull
+tagFocusB005A=Glyphed Tome
+tagFocusB005B=Occult Effigy
+tagFocusB006=Witch's Effigy
+tagFocusB007=*Pulsing Shard*
+tagFocusB008=Bloodsworn Tome
+tagFocusB009=*Bloodsworn Codex*
+tagFocusB010=Groble Toxic Idol
+tagFocusB011=*Groble Toxic Effigy*
+tagFocusB011_Desc="Thành ngữ Groble cổ: hai cái đầu bị teo nhỏ tốt hơn một cái."
+tagFocusB012=Chipped Yeti Horn
+tagFocusB013=*Yeti Horn*
+tagFocusB014=Groble Sky Idol
+tagFocusB015=*Groble Sky Effigy*
+tagFocusB016=Groble Stone Idol
+tagFocusB017=*Groble Stone Effigy*
+tagFocusB018=Groble Ember Idol
+tagFocusB019=*Groble Ember Effigy*
+tagFocusB020=Groble Death Idol
+tagFocusB021=*Groble Death Effigy*
+tagFocusB022=Gazer Eye
+tagFocusB023=*Overseer Eye*
+tagFocusB023_Desc="Con mắt vẫn co giật nhẹ trong tay bạn."
+tagFocusB024=Karvor's Conjuring Bone
+
+tagFocusC001=Dementia
+tagFocusC002=Crushing Will
+tagFocusC003=Maiven's Tome
+tagFocusC004=Heretic's Tome
+tagFocusC005=Malformed Effigy
+tagFocusC006=Banshee's Misery
+tagFocusC006Desc="Những tiếng than ai oán phát ra từ cuốn sách này mỗi khi lật trang."
+tagFocusC007=Wyrmclaw
+tagFocusC008=Black Grimoire of Og'Napesh
+tagFocusC008Desc="Văn tự hắc ám của Og'Napesh, lên án những thầy gọi hồn."
+tagFocusC009=Edrick's Backscratcher
+tagFocusC010=Sacred Texts of Menhir
+tagFocusC010Desc="Kinh sách từng được mang theo bởi mỗi hiệp sĩ mộ đạo xứ Menhir."
+tagFocusC011=Nocturnis
+tagFocusC012=Channeling Orb of the Covenant
+tagFocusC013=Tome of Plagues
+tagFocusC014=Stormcaller's Effigy
+tagFocusC015=Storm Scion
+tagFocusC016=Scorcher's Archive
+tagFocusC017=Deathlord's Tome
+tagFocusC018=Callidor's Codex
+
+tagFocusD001=Fiend's Resolve
+tagFocusD002=Aldanar's Vanity
+tagFocusD003=Codex of Lies
+tagFocusD003Desc="Văn tự cấm kỵ của thần phù thủy Solael, được ghi lại bởi Cabalist Hester Maughan."
+tagFocusD004=Tome of Names
+tagFocusD004Desc="Cuốn sách này chứa tên của mọi sinh vật tồn tại trên đời từ quá khứ vị lại."
+tagFocusD005=Blood Orb of Ch'thon
+tagFocusD005Desc="Những kẻ cuồng tín thề rằng có một giọt máu từ vị thần cổ đại của chúng được lưu giữ trong viên ngọc này."
+tagFocusD006=Speaker for the Dead
+tagFocusD006Desc="Một bộ sưu tập thơ ca và văn tự tôn giáo để dùng trong đám tang."
+tagFocusD007=Eye of Dominion
+tagFocusD008=Tome of the Arcane Wastes
+tagFocusD009=Skull of Gul'Amash
+tagFocusD009Desc="Sọ của Gul'amash, một occultist hùng mạnh, bị kết tội vì những tri thức của mình và thiêu sống trong một vụ xử công khai nơi đã kết án và hành quyết ông chỉ trong vòng một giờ dưới sự chỉ đạo của một gã thường dân trong cơn giận dữ."
+tagFocusD010=Wretched Tome of Nar'Adin
+tagFocusD011=Codex of Eternal Storms
+tagFocusD012=Consumption of Agrivix
+tagFocusD012Desc="Grand Arcanist Agrivix nổi tiếng với việc thường dùng quá nhiều năng lượng vào các phép thuật của mình, nhưng chính sự thèm khát sức mạnh này đã đưa ông vào con đường diệt vong khi ông tự thuyết phục rằng mình là người có quyền thống trị cả thế giới. Sau cùng Agrivix cũng tận số dưới tay các Thanh tra, nhưng cũng đã lôi được vài người bọn họ đi cùng với mình."
+tagFocusD013=Invoker's Blaze
+tagFocusD014=Iskandra's Texts
+tagFocusD015=Orb of the Black Flame
+tagFocusD016=Codex of Agrivix
+
+tagFocusF001=Harvest's Tome
+tagFocusF002=Harvest's Ledger
+tagFocusF003=Solar Codex
+tagFocusF004=Rhowari Winter Codex
+tagFocusF005=Rhowari Void Codex
+tagFocusF006=Rhowari Sky Codex
+tagFocusF007=Death's Ruin
+tagFocusF008=Death's Embrace
+tagFocusF009=Death's Advance
+tagFocusF010=Rhowari Spellweaver Codex
+tagFocusF011=Death's Gaze
+
+#WEAPON_QUALITY
+
+TagQualityBrokenWeapon01=Broken
+TagQualityBrokenWeapon02=Shattered
+TagQualityBrokenWeapon03=Bent
+TagQualityBrokenArmor01=Ruined
+TagQualityBrokenAll01=Destroyed
+
+tagQualityWeaponMetal01=Scrapmetal
+tagQualityWeaponMetal02=Tarnished
+tagQualityWeaponMetal03=Iron
+tagQualityWeaponMetal04=Steel
+tagQualityWeaponMetal05=Imbued
+tagQualityWeaponMetal06=Raider
+tagQualityWeaponMetal07=Assault
+tagQualityWeaponMetal08=Imperial
+tagQualityWeaponMetal09=Exalted
+
+tagQualityWeaponWood01=Splintered
+tagQualityWeaponWood02=Crude
+tagQualityWeaponWood03=Savage
+tagQualityWeaponWood04=Weathered
+tagQualityWeaponWood05=Solid
+tagQualityWeaponWood06=Polished
+tagQualityWeaponWood07=Imbued
+tagQualityWeaponWood08=Raider
+tagQualityWeaponWood09=Assault
+tagQualityWeaponWood10=Imperial
+tagQualityWeaponWood11=Exalted
+
+
+#ARMOR_STYLES
+
+tagStyle001=Worn
+tagStyle002=Cloth
+tagStyle003=Padded
+tagStyle004=Quilted
+tagStyle005=Brigandine
+tagStyle006=Embroidered
+tagStyle007=Ornate
+tagStyle008=Gilded
+
+tagStyle009=Patchwork
+tagStyle010=Leather
+tagStyle011=Hide
+tagStyle012=Fur-lined
+tagStyle013=Spiked
+tagStyle014=Frontier
+tagStyle015=Hinterland
+tagStyle016=Raider
+
+tagStyle017=Restored
+tagStyle018=Salvaged
+tagStyle019=Engraved
+tagStyle020=Combat
+tagStyle021=Infantry
+tagStyle022=Imperial
+
+tagStyle023=Scrapmetal
+tagStyle024=Splinted
+tagStyle025=Chain
+tagStyle026=Chainmail
+tagStyle027=Scalemail
+tagStyle028=Bronze
+tagStyle029=Steel
+tagStyle030=Plate
+tagStyle031=Plated
+tagStyle032=Field
+tagStyle033=Heavy
+tagStyle034=Assault
+
+tagStyle035=Studded
+tagStyle036=Woven
+tagStyle037=Reinforced
+tagStyle038=Savage
+tagStyle039=Novice
+tagStyle040=Apprentice
+
+tagStyle041=Exalted
+tagStyle042=Opulent
+
+#ArmorClass
+tagArmorClass01=Vải
+tagArmorClass02=
+tagArmorClass03=Nặng
+
+#WeaponClass
+tagOffHand=Trang bị ở Tay chiêu
+tagShield=Khiên
+
+tagOneHandedSword=Kiếm Một tay
+tagOneHandedMace=Chùy Một tay
+tagOneHandedAxe=Rìu Một tay
+tagOneHandedDagger=Dao găm Một tay
+tagOneHandedScepter=Trượng Một tay
+tagOneHandedPistol=Vũ khí Tầm xa Một tay
+
+tagTwoHandedSword=Kiếm Hai tay
+tagTwoHandedMace=Chùy Hai tay
+tagTwoHandedAxe=Rìu Hai tay
+tagTwoHandedRifle=Vũ khí Tầm xa Hai tay
+
+tagSpear=Giáo
+tagStaff=Gậy phép
+
+tagWeaponUnknown=Không xác định
+
+#ArmorSlots
+tagRing=Nhẫn
+tagAmulet=Dây chuyền
+tagMedal=Mề đay
+tagBelt=Thắt lưng
+tagShoulders=Vai
+tagHead=Mũ
+tagLegs=Quần
+tagChest=Áo
+tagFeet=Giày
+tagGloves=Bao tay
+
+#QualityClass
+tagMagic=Tốt 
+tagRare=Hiếm 
+tagEpic=Xịn 
+tagLegend=Huyền thoại 
+
+tagStyleUniqueTier2=Cường hóa
+tagStyleUniqueTier3=Thần thoại
+tagStyleFactionTier2=Cao cấp
+
+tagSoulbound=Khóa
+tagDestroySoulbound=Phá hủy trang bị đã khóa?
+
+tagUntradeable=Không thể trao đổi
+tagDestroyUntradeable=Phá hủy trang Không thể trao đổi?
+
+tagTransmuted=Biến hình
+tagTransmuteCapture=[Nhấp Chuột phải để Lấy]
+tagTransmuteApply=[Nhấp Chuột phải để Gắn]
+tagTransmuteApplyRemove=[Nhấp Chuột phải để loại bỏ Ảo ảnh]
+tagTransmuteUnusable=[Không thể dùng - Chưa đạt Yêu cầu]
+tagTransmuteConfirmation=Bạn chắc mình muốn gắn Biến hình này vào chứ?
+tagTransmuteOverwrite=Bạn chắc mình muốn thay thế Biến hình đang dùng chứ?
+tagTransmuteSoulboundConfirmation=Bạn chắc mình muốn gắn Biến hình này vào chứ? Làm vậy sẽ khóa trang bị này với bạn.
+tagTransmuteSoulboundOverwrite=Bạn chắc mình muốn thay thế Biến hình đang dùng chứ? Làm vậy sẽ khóa trang bị này với bạn.
+tagTransmuteDestroy=Bạn chắc mình muốn lấy Biến hình này chứ? Làm vậy sẽ phá hủy món đồ.
+tagTransmuteRemove=Bạn chắc mình muốn loại bỏ ảo ảnh này chứ?
+
+#ArmorHead
+
+tagHeadA001=Helm
+tagHeadA002=Cap
+tagHeadA003=Helmet
+tagHeadA004=Mask
+tagHeadA005=Coif
+tagHeadA006=Basinet
+tagHeadA007=Casque
+tagHeadA008=Hat
+tagHeadA009=Visage
+tagHeadA010=Cowl
+tagHeadA011=Hood
+tagHeadA012=Circlet
+tagHeadA013=Diadem
+tagHeadA014=Coronet
+
+tagHeadB001=Incendiary Helm
+tagHeadB002=*Incendiary Casque*
+tagHeadB003=Ascended Helm
+tagHeadB004=*Ascended Casque*
+tagHeadB005=Murderer's Coif
+tagHeadB006=*Murderer's Cowl*
+tagHeadB007=Adept's Hood
+tagHeadB008=Ranger's Helm
+tagHeadB009=Adept's Circlet
+tagHeadB010=Ranger's Casque
+tagHeadB011=Ascended Circlet
+tagHeadB012=*Ascended Diadem*
+tagHeadB013=Fleshwarped Helm
+tagHeadB014=*Fleshwarped Casque*
+tagHeadB015=*Spectral Crown*
+tagHeadB015Desc="Năng lượng hùng mạnh từ thuật gọi hồn đã cụ thể hóa chiếc vương miện này ở thế giới vật chất."
+tagHeadB016=*Milton's Casque*
+tagHeadB016Desc="Mỗi vết khắc trên mũ tương ứng với một Kẻ bị Chiếm giữ chết dưới tay anh."
+
+tagHeadC001=Stormcaller's Circlet
+tagHeadC002=Berserker's Cowl
+tagHeadC003=Nether Crown
+tagHeadC003Desc="Từng được đội bởi Vị vua Arcanist đầu tiên và duy nhất ở xứ Cairn, Vua Samuel Drake, trước khi ông bị giới tăng lữ truất ngôi và xử tử với tội dị giáo."
+tagHeadC004=Crown of Command
+tagHeadC005=Templar's Headguard
+tagheadC005Desc="Mũ dành cho thành viên mới của hội Vệ binh xứ Menhir."
+tagHeadC006=Guardsman's Helm
+tagHeadC007=Explorer's Cover
+tagHeadC008=Maiven's Hood
+tagHeadC009=Bloodreaper's Cowl
+tagHeadC010=Eye of the Beholder
+tagHeadC010Desc="Một con mắt nhìn chằm chằm được mang bởi một mụ phù thủy điên khùng bị ám ảnh bởi vẻ đẹp bên ngoài."
+tagHeadC011=Mask of Delirium
+tagHeadC012=Tempest of the Void
+tagHeadC013=Glory of the Silver Knight
+tagHeadC014=Terror of the Grove
+tagHeadC014Desc="Cắt từ da một con Ma Gai cổ đại."
+tagHeadC015=Spiritweaver Circlet
+tagHeadC016=Shadowspark Hood
+tagHeadC017=Herald's Mask
+tagHeadC018=Faceguard of Perdition
+tagHeadC019=Cowl of the Blind Assassin
+tagHeadC020=Sharpshooter's Glass Eye
+tagHeadC021=Unholy Visage of the Covenant
+tagHeadC022=Cowl of the Paragon
+tagHeadC023=Dawnguard Helm
+tagHeadC024=Miasma Hood
+tagHeadC025=Eyes of Flame
+tagHeadC026=Wildcaller's Cowl
+tagHeadC027=Praetorian Faceguard
+tagHeadC028=Frostshard Crown
+tagHeadC029=Circlet of Burning Rage
+tagHeadC030=Eyes of the Reaper
+tagHeadC031=Myrmidon Visor
+tagHeadC032=Cowl of Mogdrogen
+tagHeadC033=Eldritch-Keeper's Casque
+tagHeadC033Desc="Chiếc mũ làm mờ mắt, như thể bạn đang nhìn vào một cõi khác vậy."
+tagHeadC034=The Triumvirate
+tagHeadC034B=Triumvirate
+tagHeadC034Desc="Được phù hộ bởi Tam thần."
+
+tagHeadD001=Maw of Despair
+tagHeadD001Desc="Nhìn vào ta và tuyệt vọng đi, giờ chết của ngươi điểm rồi."
+tagHeadD002=Dread-Mask of Gurgoth
+tagHeadD003=Whisperer of Secrets
+tagheadD003Desc="Thì thầm những bí mật đen tối vào tai những nạn nhân của bạn ngay trước khi chúng nhận đòn kết liễu."
+tagHeadD004=Abyssal Mask
+tagheadD004Desc="Bị trói buộc bằng cái chết vào một cái chết không bị trói buộc."
+tagHeadD005=Circlet of the Great Serpent
+tagHeadD006=Mask of Infernal Truth
+tagHeadD007=Faceguard of Justice
+tagHeadD008=Beastcaller's Cowl
+tagHeadD009=Mask of the Harbinger
+tagHeadD010=Demonslayer's Hat
+tagHeadD011=Clairvoyant's Hat
+tagHeadD012=Markovian's Visor
+tagHeadD013=Ulzuin's Headguard
+tagHeadD014=Hood of Dreeg
+tagHeadD015=Deathmarked Hood
+tagHeadD016=Iskandra's Hood
+tagHeadD017=Ultos' Hood
+tagHeadD018=Crown of the Winter King
+tagheadD018Desc="Vương miện của Vua Hrothnar, chủ nhân của phương bắc và là con của sói trắng vĩ đại."
+tagHeadD019=Trozan's Hat
+tagHeadD020=Valdun's Hat
+tagHeadD021=Outcast's Secret
+tagHeadD022=Eldritch Gaze
+tagHeadD022Desc="The helm whispers to you in voices you cannot comprehend."
+tagHeadD023=Covenant of the Three
+tagHeadD023Desc="Empowered with the essence of the three Witch Gods in a covenant binding them and their followers against mutual destruction."
+tagHeadD024=Cowl of the Venomblade
+tagHeadD025=Visage of the Black Flame
+tagHeadD026=Light's Defender Helm
+tagHeadD027=Infernal Knight's Faceguard
+tagHeadD028=Warborn Visor
+tagHeadD029=Bloodrager's Cowl
+
+
+tagHeadF001=Outcast's Hood
+tagHeadF001Desc="Bạn không thể không cảm thấy dường như chiếc mặt nạ này đang nhìn bạn."
+tagHeadF002=Devil's Cover
+tagHeadF003=Devil's Headguard
+tagHeadF004=Legion Spellbearer
+tagHeadF005=Legion Casque
+tagHeadF006=Legion Headguard
+tagHeadF007=Harvest's Helm
+tagHeadF008=Solar Defender
+tagHeadF009=Death's Visage
+tagHeadF010=Death's Headguard
+tagHeadF011=Chosen Cowl
+tagHeadF012=Chosen Headguard
+
+
+#ArmorShoulders
+
+tagShoulderA001=Spaulders
+tagShoulderA002=Mantle
+tagShoulderA003=Shoulderguard
+tagShoulderA004=Epaulets
+tagShoulderA005=Shoulderplates
+tagShoulderA006=Pauldrons
+
+tagShoulderB001=Incendiary Spaulders
+tagShoulderB002=*Incendiary Shoulderplates*
+tagShoulderB003=Ascended Spaulders
+tagShoulderB004=*Ascended Shoulderplates*
+tagShoulderB005=Murderer's Spaulders
+tagShoulderB006=*Murderer's Epaulets*
+tagShoulderB007=Isaac's Spaulders
+tagShoulderB008=Haunted Mantle
+tagShoulderB009=*Haunted Shoulderpad*
+tagShoulderB010=Ascended Mantle
+tagShoulderB011=*Ascended Epaulets*
+tagShoulderB012=Fleshwarped Spaulders
+tagShoulderB013=*Fleshwarped Pauldrons*
+tagShoulderB014=*Valdaran's Mantle*
+tagShoulderB015=*Valdaran's Shoulderguard*
+tagShoulderB016=*Benn'Jahr's Shoulderguards*
+tagShoulderB017=*Benn'Jahr's Pauldrons*
+tagShoulderB018=*Moosilauke's Shoulderguards*
+tagShoulderB019=*Moosilauke's Pauldrons*
+tagShoulderB020=*Iron Maiden's Mantle*
+tagShoulderB021=*Iron Maiden's Shoulderguard*
+tagShoulderB022=*Zantarin's Mantle*
+tagShoulderB023=*Zantarin's Shoulderguard*
+tagShoulderB024=*Fabius' Shoulderguard*
+tagShoulderB025=*Fabius' Pauldron*
+tagShoulderB026=*Loghorrean's Corruption*
+tagShoulderB026_Desc="Still writhing with void corruption."
+
+tagShoulderC001=Razorback's Spined Mantle
+tagShoulderC001Desc="Được khâu lại từ mảnh xác của Razorback."
+tagShoulderC002=Astral Mantle
+tagShoulderC003=Warlord's Spaulders
+tagShoulderC004=Guardsman's Spaulders
+tagShoulderC005=Grenadier Shoulderguard
+tagShoulderC005Desc="Dù bị bom đạn tàn phá, mảnh giáp vai này vẫn giữ lại được phần nhiều chức năng bảo vệ của nó."
+tagShoulderC006=Mantle of the Weeping Eye
+tagShoulderC006Desc="Trang phục mang tính biểu tượng của một hội kín bị xóa sổ trong thời gian trị vì của vị Vua Arcanist, Samuel Drake."
+tagShoulderC007=Shellshock Epaulets
+tagShoulderC008=Decorated Pauldrons
+tagShoulderC009=Mantle of the Patron
+tagShoulderC009Desc="Áo choàng làm từ những chiếc lông quạ lớn, được thần phù thủy Bysmiel ban cho những tín đồ."
+tagShoulderC010=Shoulderguards of Perdition
+tagShoulderC011=Sharpshooter's Cover
+tagShoulderC012=Unholy Mantle of the Covenant
+tagShoulderC013=Shoulderguard of the Paragon
+tagShoulderC014=Dawnguard Epaulets
+tagShoulderC015=Brimstone Shoulderguard
+tagShoulderC016=Praetorian Shoulderguard
+tagShoulderC017=Alchemist's Mantle
+tagShoulderC018=Chillmane Mantle
+tagShoulderC019=Amarastan Pauldrons
+tagShoulderC020=Flame Keeper's Pauldrons
+tagShoulderC021=Callidor's Mantle
+tagShoulderC030=Spaulders of Mogdrogen
+
+tagShoulderD001=Fateweaver's Mantle
+tagShoulderD001Desc="Sợi tơ số phận, như một mảnh vải vô tận, quấn quít lấy mỗi năm tháng tuổi xuân của con người."
+tagShoulderD002=Divinesteel Shoulderguard
+tagShoulderD002Desc="Giáp vai được ban cho những bậc thầy của hội Templar đã vượt ra ngoài những sứ mệnh của con người để trở thành những Exemplar."
+tagShoulderD003=Bloodfury Spaulders
+tagShoulderD004=Shadowflame Mantle
+tagShoulderD005=Titan Pauldrons
+tagShoulderD005Desc="Những dấu ấn trên miếng giáp này dường như từ một thời đại khác."
+tagShoulderD006=Chilldread Mantle
+tagShoulderD007=Vileblood Mantle
+tagShoulderD008=Fiendflesh Mantle
+tagShoulderD009=Shoulderguards of Justice
+tagShoulderD010=Beastcaller's Shoulderpads
+tagShoulderD011=Dawnbreaker's Shoulderguard
+tagShoulderD012=Wildblood Mantle
+tagShoulderD013=Clairvoyant's Mantle
+tagShoulderD014=Markovian's Vanguard
+tagShoulderD015=Ulzuin's Shoulderguard
+tagShoulderD016=Mantle of Dreeg
+tagShoulderD017=Deathmarked Shoulderguard
+tagShoulderD018=Iskandra's Pauldrons
+tagShoulderD019=Ultos' Spaulders
+tagShoulderD020=Mantle of Mogdrogen
+tagShoulderD020Desc="Áo choàng được chính hiện thân của Mogdrogen mặc."
+tagShoulderD021=Trozan's Mantle
+tagShoulderD022=Mantle of the Black Flame
+tagShoulderD023=Light's Defender Epaulets
+tagShoulderD024=Infernal Knight's Pauldrons
+tagShoulderD025=Mantle of Agrivix
+tagShoulderD026=Warborn Pauldrons
+tagShoulderD027=Bloodrager's Shoulderguard
+
+tagShoulderF001=Outcast's Burning Mantle
+tagShoulderF002=Outcast's Chilled Mantle
+tagShoulderF003=Outcast's Sky Mantle
+tagShoulderF004=Outcast's Wrath Mantle
+tagShoulderF005=Outcast's Void Mantle
+tagShoulderF006=Outcast's Burning Pauldrons
+tagShoulderF007=Outcast's Chilled Pauldrons
+tagShoulderF008=Outcast's Sky Pauldrons
+tagShoulderF009=Outcast's Wrath Pauldrons
+tagShoulderF010=Outcast's Void Pauldrons
+tagShoulderF011=Devil's Spaulders
+tagShoulderF012=Devil's Shoulderguard
+tagShoulderF013=Rhowari Mantle
+tagShoulderF014=Rhowari Shoulderguard
+tagShoulderF015=Legion Mantle
+tagShoulderF016=Legion Spaulders
+tagShoulderF017=Legion Pauldrons
+tagShoulderF018=Death's Mantle
+tagShoulderF019=Death's Pauldrons
+tagShoulderF020=Chosen Mantle
+tagShoulderF021=Chosen Pauldrons
+
+
+#ArmorTorso
+
+tagTorsoA000=Clothing
+tagTorsoA001L=Coat
+tagTorsoA002L=Doublet
+tagTorsoA003L=Cuirass
+tagTorsoA004L=Hauberk
+tagTorsoA005H=Armor
+tagTorsoA006H=Trenchcoat
+tagTorsoA007H=Surcoat
+tagTorsoA008H=Chainmail
+tagTorsoA009H=Platemail
+tagTorsoA010M=Jacket
+tagTorsoA011M=Breastplate
+tagTorsoA012M=Chestguard
+tagTorsoA013M=Harness
+tagTorsoA014C=Tunic
+tagTorsoA015C=Vestment
+tagTorsoA016C=Raiment
+tagTorsoA017C=Robe
+
+tagTorsoB001=Murderer's Armor
+tagTorsoB002=*Murderer's Breastplate*
+tagTorsoB003=Fortified Doublet
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006=Haunted Robes
+tagTorsoB007=*Haunted Vestment*
+tagTorsoB008=Ascended Robes
+tagTorsoB009=*Ascended Vestment*
+tagTorsoB010=Fleshwarped Cuirass
+tagTorsoB011=*Fleshwarped Platemail*
+tagTorsoB012=Bloodsworn Robes
+tagTorsoB013=*Bloodsworn Vestments*
+
+tagTorsoC001=
+tagTorsoC002=Nighthunter's Chestguard
+tagTorsoC003=Gunslinger's Jacket
+tagTorsoC004=Malduin's Cloth
+tagTorsoC005=Doomforged Breastplate
+tagTorsoC006=Guardsman's Breastplate
+tagTorsoC007=Explorer's Tunic
+tagTorsoC008=Bloodreaper's Coat
+tagTorsoC009=Fanatic's Overcoat
+tagTorsoC010=Fused Carapace Armor
+tagTorsoC011=Skinflayer Raiment
+tagTorsoC011Desc="Không biết phải cần bao nhiêu nạn nhân mới đủ để khâu nên tấm áo ghê tởm này."
+tagTorsoC012=Obsidian-Plate Cuirass
+tagTorsoC013=Magnison's Trench Coat
+tagTorsoC014=Vestment of Mourning
+tagTorsoC014Desc="Áo choàng tu sỹ từng được mặc bởi thành viên của nhóm Mắt Lệ."
+tagTorsoC015=Spidersilk Hauberk
+tagTorsoC016=Cloth of Unspeakable Invocation
+tagTorsoC016Desc="Áo choàng Âm binh chỉ những thành viên cao cấp của một giáo phái khát máu mới được mặc."
+tagTorsoC017=Herald's Jacket
+tagTorsoC018=Chestguard of Perdition
+tagTorsoC019=Stealth Jacket of the Blind Assassin
+tagTorsoC020=Sharpshooter's Coat
+tagTorsoC021=Dawnguard Plate
+tagTorsoC022=Zolhan's Battle Plate
+tagTorsoC022Desc="Áo giáp được đặt làm bởi bậc thầy chiến đấu lừng danh, Zolhan."
+tagTorsoC023=Miasma Robes
+tagTorsoC024=Eastern Robes
+tagTorsoC025=Wildcaller's Skins
+tagTorsoC026=Wildspeaker Coat
+tagTorsoC027=Praetorian Chestguard
+tagTorsoC028=Voidforged Battle Plate
+tagTorsoC029=Flame Keeper's Jacket
+tagTorsoC030=Callidor's Vestments
+tagTorsoC031=Myrmidon Chestguard
+tagTorsoC032=Surcoat of Mogdrogen
+
+tagTorsoD001=Fiendscale Jacket
+tagTorsoD002=Devil's Cage Hauberk
+tagTorsoD003=Shroud of Illusion
+tagTorsoD003Desc="Chiếc áo kỳ lạ lấp lánh và mờ dần trong ánh sáng, tạo ra một ảo ảnh quyến rũ quanh người mặc."
+tagTorsoD004=Vestments of the Great Guardian
+tagTorsoD004Desc="Áo choàng dành cho tu sĩ cao cấp của Dreeg, được giao nhiệm vụ canh giữ những lợi ích trần tục của vị thần phù thủy."
+tagTorsoD005=Dread Armor of Azragor
+tagTorsoD005Desc="Azragor là một kẻ tàn bạo khiến ngay cả những hiệp sỹ đồng đội của y cũng phải sợ hãi vì có những chiến lược hạ lưu, nhưng mang lại hiệu quả không thể phủ nhận."
+tagTorsoD006=Korvoran's Chestguard
+tagTorsoD006Desc="Korvoran là một nightblade huyền thoại nổi danh vì tài phi đao trăm phát trăm trúng, thậm chí ngay cả khi trong tay anh ta dường như không hề có dao."
+tagTorsoD007=Fiendmaster Raiment
+tagTorsoD008=Divinesteel Hauberk
+tagTorsoD008Desc="Áo giáp được ban cho những bậc thầy của hội Templar đã vượt ra ngoài những sứ mệnh của con người để trở thành những Exemplar."
+tagTorsoD009=Chestguard of Justice
+tagTorsoD010=Beastcaller's Shroud
+tagTorsoD011=Demonslayer's Jacket
+tagTorsoD012=Clairvoyant's Robe
+tagTorsoD013=Markovian's Platemail
+tagTorsoD014=Ulzuin's Chestguard
+tagTorsoD015=Vestments of Dreeg
+tagTorsoD016=Deathmarked Jacket
+tagTorsoD017=Iskandra's Vestments
+tagTorsoD018=Ultos' Cuirass
+tagTorsoD019=Frostdread Cuirass
+tagTorsoD020=Trozan's Vestments
+tagTorsoD021=Valdun's Jacket
+tagTorsoD022=Stealth Jacket of the Venomblade
+tagTorsoD023=Light's Defender Plate
+tagTorsoD024=Infernal Knight's Jacket
+tagTorsoD025=Vestments of Agrivix
+tagTorsoD026=Warborn Chestguard
+tagTorsoD027=Bloodrager's Coat
+
+tagTorsoF001=Outcast's Burning Vestments
+tagTorsoF002=Outcast's Chilled Vestments
+tagTorsoF003=Outcast's Sky Vestments
+tagTorsoF004=Outcast's Wrath Vestments
+tagTorsoF005=Outcast's Void Vestments
+tagTorsoF006=Outcast's Burning Cuirass
+tagTorsoF007=Outcast's Chilled Cuirass
+tagTorsoF008=Outcast's Sky Cuirass
+tagTorsoF009=Outcast's Wrath Cuirass
+tagTorsoF010=Outcast's Void Cuirass
+tagTorsoF011=Devil's Cuirass
+tagTorsoF012=Devil's Chestguard
+tagTorsoF013=Legion Vestments
+tagTorsoF014=Legion Cuirass
+tagTorsoF015=Legion Chestguard
+tagTorsoF016=Death's Vestments
+tagTorsoF017=Death's Cuirass
+tagTorsoF018=Chosen Vestments
+tagTorsoF019=Chosen Chestguard
+tagTorsoF020=Rhowari Vestments
+tagTorsoF021=Rhowari Cuirass
+
+tagTorsoM001=Ragged Tunic
+tagTorsoM002=Bloodstained Tunic
+tagTorsoM003=Bloodstained Robes
+
+
+#ArmorWaist
+
+tagWaistA001=Cloth Strap
+tagWaistA002=Woven Cord
+tagWaistA003=Hide Sash
+tagWaistA004=Leather Belt
+tagWaistA005=Chain Belt
+tagWaistA006=Infantry Waistguard
+tagWaistA007=Platemail Girdle
+tagWaistA008=Assault Waistguard
+tagWaistA009=Imperial Belt
+tagWaistA010=Exalted Belt
+
+tagWaistB001=Bounty Hunter's Girdle
+tagWaistB002=Shockweave Sash
+tagWaistB003=Warmonger's Belt
+tagWaistB004=Flamesilk Sash
+tagWaistB005=Frostguard Girdle
+tagWaistB006=Wraithbone Sash
+tagWaistB007=*Chains of Ygraad*
+tagWaistB008=*Chains of Ordas*
+tagWaistB009=*Chains of Brandis*
+
+tagWaistC001=Oldenar's Stabilizer
+tagWaistC002=Frizzick's Utility Pack
+tagWaistC002Desc="Trợ giúp đắc lực cho Frizzick tới khi nó hết thuốc chống xác sống."
+tagWaistC003=Alchemist's Belt
+tagWaistC004=Marauder's Ammo Belt
+tagWaistC005=Warchief's Glory
+tagWaistC006=Headhunter's Trophy
+tagWaistC007=Acolyte's Cord
+tagWaistC008=Chthonian Thread Sash
+tagWaistC009=Bloodbathed Links
+tagWaistC009Desc="Mãi mãi thấm đẫm máu tươi."
+tagWaistC010=Cord of the Ancestor
+tagWaistC011=Chains of Anguish
+tagWaistC011Desc="Sợi xích cho sức mạnh không thể tả nổi, nhưng phải đổi bằng lượng máu tương đương."
+tagWaistC012=Warpath Girdle
+tagWaistC013=Sharpshooter's Pouch
+tagWaistC014=Skyreach Sash
+tagWaistC015=Shadowstalker's Belt
+tagWaistC016=Flamescourge Girdle
+tagWaistC017=Legionnaire's Triumph
+tagWaistC018=Stormtouched Chains
+tagWaistC019=Stoneskin Girdle
+tagWaistC020=Soulbinder's Chains
+tagWaistC021=Blazethread Sash
+tagWaistC022=Dreadweave Girdle
+tagWaistC023=Equilibrium Sash
+tagWaistC024=Flame Keeper's Girdle
+
+tagWaistD001=Thorn Girdle of the Misty Glade
+tagWaistD002=Blade Breaker Sash
+tagWaistD003=Boneweave Girdle
+tagWaistD004=Voidmancer's Cord
+tagWaistD005=Guthook Belt
+tagWaistD005Desc="Từng được đeo bởi một tên sát nhân hàng loạt lập dị tự cho rằng đeo ruột những nạn nhân của hắn sẽ bảo vệ cho ruột của chính hắn."
+tagWaistD006=Tinker's Ingenuity
+tagWaistD006Desc="Mọi công cụ con người biết tới, bằng cách nào đó đã được nhét vào một chiếc dây lưng."
+tagWaistD007=Sash of the Bloodlord
+tagWaistD008=Hammerfall Girdle
+tagWaistD009=Reforged Chains of Oleron
+tagWaistD010=Ulzuin's Torment
+tagWaistD011=Sash of the Immortal Sage
+tagWaistD012=Girdle of Stolen Dreams
+tagWaistD013=Spellbreaker Waistguard
+tagWaistD013Desc="Giáp hông đeo bởi trung đoàn Giải phép, một nhóm cá nhân được tuyển lựa trực thuộc hội Templar của Menhir."
+tagWaistD014=Phantom-Thread Girdle
+tagWaistD014Desc="Dệt nên bằng sợi tơ xe từ những linh hồn bị đọa đày thông qua kỹ thuật gọi hồn không thể tả nổi."
+tagWaistD015=Wildblood Girdle
+tagWaistD016=Infernal Knight's Girdle
+
+tagWaistF001=Devil's Cord
+tagWaistF002=Devil's Waistguard
+tagWaistF003=Devil's Girdle
+tagWaistF004=Rhowari Cord
+tagWaistF005=Rhowari Waistguard
+tagWaistF006=Rhowari Girdle
+tagWaistF007=Solar Belt
+tagWaistF008=Solar Waistguard
+tagWaistF009=Solar Girdle
+tagWaistF010=Legion Belt
+tagWaistF011=Legion Waistguard
+tagWaistF012=Legion Girdle
+tagWaistF013=Death's Cord
+tagWaistF014=Death's Waistguard
+tagWaistF015=Death's Girdle
+tagWaistF016=Chosen Cord
+tagWaistF017=Chosen Waistguard
+tagWaistF018=Chosen Girdle
+
+#ArmorHands
+
+tagHandsA001=Gloves
+tagHandsA002=Vambraces
+tagHandsA003=Gauntlets
+tagHandsA004=Grips
+tagHandsA005=Handguards
+
+tagHandsB001=Adept's Gloves
+tagHandsB002=Squire's Gauntlets
+tagHandsB003=Adept's Grips
+tagHandsB004=Squire's Handguards
+
+tagHandsC001=Shadow's Grasp
+tagHandsC002=Zealot's Gauntlets
+tagHandsC003=Bladedancer's Handguards
+tagHandsC004=Spellmaker's Grip
+tagHandsC005=Marauder's Gloves
+tagHandsC006=Soul's Touch
+tagHandsC007=Inscribed Bracers
+tagHandsC008=Brawler's Gloves
+tagHandsC009=Runic Bracers
+tagHandsC009Desc="Khắc sâu vào thép là những biểu tượng mạnh mẽ của sự bất tử."
+tagHandsC010=Blacksteel Gauntlets
+tagHandsC011=Silktouch Handwraps
+tagHandsC011Desc="Hãy đắm mình vào bóng tối, vì ở nơi đó ngươi là vô địch."
+tagHandsC012=Herald's Gloves
+tagHandsC013=Apothecary's Touch
+tagHandsC014=Handguards of Perdition
+tagHandsC015=Dawnguard Gauntlets
+tagHandsC016=Embergrip Handguards
+tagHandsC017=Quickdraw Gloves
+tagHandsC018=Eastern Gloves
+tagHandsC019=Thundertouch Bracers
+tagHandsC020=Obsidian Grasp
+tagHandsC021=Doomtouch
+tagHandsC022=Dreadchill Grasp
+
+tagHandsD001=Grasp of Unchained Might
+tagHandsD001Desc="Bao tay được ban phước bằng chính sự hung bạo của Oleron."
+tagHandsD002=Touch of the Everliving Grove
+tagHandsD003=Voidsteel Gauntlets
+tagHandsD003Desc="Rèn trên cái xác đang cháy âm ỉ của một sứ giả Âm binh."
+tagHandsD004=Bonescavenger's Deathgrips
+tagHandsD004Desc="Bao tay làm phép của thầy gọi hồn vẫn còn giữ được chút ít sức mạnh rùng rợn của chủ cũ."
+tagHandsD005=Wyrmbone Handguards
+tagHandsD006=Iceskorn Talons
+tagHandsD007=Viperfang Grips
+tagHandsD008=Aethereach
+tagHandsD009=Colossal Grasp
+tagHandsD010=Handguards of Justice
+tagHandsD011=Harbinger's Grasp
+tagHandsD012=Light's Defender Gauntlets
+
+tagHandsF001=Rhowari Grips
+tagHandsF002=Rhowari Handguards
+tagHandsF003=Harvest Grips
+tagHandsF004=Harvest Handguards
+
+
+#ArmorLegs
+
+tagLegsA001=Pants
+tagLegsA002=Leggings
+tagLegsA003=Legwraps
+tagLegsA004=Breeches
+tagLegsA005=Chausses
+tagLegsA006=Legguards
+
+tagLegsB001=*Dreeg-Sect Legguards*
+tagLegsB002=*Solael-Sect Legguards*
+tagLegsB003=*Bysmiel-Sect Legguards*
+
+tagLegsC001=Mistwalker Leggings
+tagLegsC002=Hermit's Legguards
+tagLegsC003=Swampdweller's Legguards
+tagLegsC004=Explorer's Trousers
+tagLegsC005=Soiled Trousers
+tagLegsC005Desc="Dường như người chủ cũ đã để lại một bất ngờ nho nhỏ ở đũng quần."
+tagLegsC006=Slithscale Legwraps
+tagLegsC007=Templar's Leg Armor
+tagLegsC008=Legplates of Valor
+tagLegsC009=Flesheater Legwraps
+tagLegsC009Desc="Nguồn gốc của một số đồ vật tốt nhất nên để lại cho sử sách ghi chép."
+tagLegsC010=Shadeleather Leggings
+tagLegsC011=Hulking Legguards
+tagLegsC012=Eastern Legguards
+tagLegsC013=Bladeguard Leggings
+tagLegsC014=Rifthound Legwraps
+tagLegsC015=Spellweave Legwraps
+
+tagLegsD001=Demonbone Legplates
+tagLegsD001Desc="Thử thách thật sự khi chế tạo bộ giáp này nằm ở công đoạn đi tìm những nguyên liệu cần thiết."
+tagLegsD002=Boneweave Leggings
+tagLegsD003=Deathwhisper Leggings
+tagLegsD004=Hellforged Legplates
+tagLegsD004Desc="Được rèn trong hơi thở rực lửa của một con chó săn địa ngục."
+tagLegsD005=Fateweaver's Leggings
+tagLegsD005Desc="Hàng tá bùa chú đã được truyền vào những sợi tơ dệt nên chiếc quần này."
+tagLegsD006=Wraithborne Legwraps
+tagLegsD007=Arcane Harmony Leggings
+tagLegsD008=Thornhide Legguards
+tagLegsD009=Nidalla's Legwraps
+tagLegsD010=Legwraps of the Tranquil Mind
+tagLegsD011=Chausses of Barbaros
+tagLegsD011Desc="Barbaros là một chiến sỹ huyền thoại dưới trướng Quân đoàn Đen đã hi sinh trong chiến trận, vậy quanh bởi hàng tá xác chết biến dạng của cả người và ngựa."
+tagLegsD012=Stormcage Legguards
+tagLegsD013=Pretty Great Pants
+tagLegsD013Desc="Thực ra, chúng cũng tạm được thôi."
+tagLegsD014=Wildshorn Legguards
+
+
+#ArmorFeet
+
+tagFeetA001=Footpads
+tagFeetA002=Boots
+tagFeetA003=Greaves
+tagFeetA004=Sabatons
+tagFeetA005=Treads
+
+tagFeetB001=Adept's Boots
+tagFeetB002=Squire's Boots
+tagFeetB003=Adept's Greaves
+tagFeetB004=Squire's Greaves
+
+tagFeetC001=Molten Walkers
+tagFeetC002=Windborne Greaves
+tagFeetC003=Boots of Unseeing Swiftness
+tagFeetC003Desc="Đôi giày này có vẻ được làm từ nguyên liệu và phương pháp không thuộc về thế giới này."
+tagFeetC004=Stonewrought Groundbreakers
+tagFeetC005=Explorer's Footpads
+tagFeetC006=Bloodhound Greaves
+tagFeetC007=The Final March
+tagFeetC007B=Final March
+tagFeetC007Desc="Mỗi bước đi mang sức nặng của hàng nghìn người lính đã vong mạng trước bọn Âm binh."
+tagFeetC008=Rifthound Leather Boots
+tagFeetC008Desc="Bọn quái thú đó chẳng có gì tốt đẹp, nhưng da chúng làm giày thì tuyệt."
+tagFeetC009=Dreadnought Footpads
+tagFeetC010=Hellion Greaves
+tagFeetC011=Serpentine Wraps
+tagFeetC012=Desecrator Treads
+tagFeetC012Desc="Với sự chênh lệch khôn lường, không để lại gì ngoài một vệt dài báng bổ."
+tagFeetC013=Spellsage Boots
+tagFeetC014=Magelord's Greaves
+
+tagFeetD001=Golemborn Greaves
+tagFeetD002=Wyrmscale Footguards
+tagFeetD002Desc="Kiếm vảy rồng nguy hiểm tới mức chẳng mấy ai có được một mẩu vụn, chứ đừng nói đến một manh giáp. Đôi giày này có thể tượng trưng cho địa vị của một nhà quý tốc giàu có."
+tagFeetD003=Venomspine Greaves
+tagFeetD003Desc="Những cái gai đã được tẩm vào chất độc của vài loài rắn và nhện khác nhau."
+tagFeetD004=Voidwalker Footpads
+tagFeetD005=Boneshatter Treads
+tagFeetD005Desc="Được chế tác với đế nặng để tăng tối đa tiếng xương gãy."
+tagFeetD006=Wraithwalkers
+tagFeetD007=Windshear Greaves
+tagFeetD008=Stormtitan Treads
+tagFeetD009=Footpads of the Grey Magi
+tagFeetD010=Earthshatter Treads
+tagFeetD010Desc="Mặt đất cũng sôi lên và nứt ra dưới gót đôi giày này."
+
+tagFeetF001=Rhowari Footpads
+tagFeetF002=Rhowari Greaves
+tagFeetF003=Legion Greaves
+tagFeetF004=Harvest Footpads
+tagFeetF005=Harvest Greaves
+
+
+#Rings
+
+tagRingA001=Copper Band
+tagRingA002=Silver Band
+tagRingA003=Gold Band
+tagRingA004=Platinum Band
+tagRingA005=Amethyst Ring
+tagRingA006=Moonstone Band
+tagRingA007=Opal Signet
+tagRingA008=Emerald Ring
+tagRingA009=Sapphire Band
+tagRingA010=Topaz Signet
+tagRingA011=Ruby Ring
+tagRingA012=Inscribed Band
+tagRingA013=Diamond Signet
+tagRingA014=Imperial Ring
+tagRingA015=Obsidian Band
+tagRingA016=Imperial Signet
+
+tagRingB001=Reddan Memento Ring
+tagRingB001Desc="Một dòng chữ đã mờ khắc dọc theo nhẫn: Với tình yêu - Amelia"
+tagRingB002=*Cronley's Signet*
+tagRingB002Desc="Vấy máu những nạn nhân của y, và giờ thêm của chính y nữa."
+tagRingB003=Skinner Family Seal
+tagRingB003Desc="Nhiều khả năng là thứ giá trị nhất gia đình này từng sở hữu."
+tagRingB004=*Gollus' Ring*
+tagRingB004Desc="Hắn rất thích chiếc nhẫn này."
+tagRingB005=*Bloodsworn Signet*
+tagRingB005Desc="Viên ngọc bên trong tỏa ánh sáng mờ trong những nghi thức triệu hồi."
+tagRingB006=*Viloth's Ring*
+tagRingB006Desc="Một món trang sức thô sơ. Thật lạ một con slith lại dùng đến thứ này."
+
+tagRingC001=Marrow Band
+tagRingC002=Obsidian Seal
+tagRingC003=Lorekeeper's Band
+tagRingC004=Twilight Signet
+tagRingC005=Blackwatch Seal
+tagRingC006=Starfire
+tagRingC006Desc="Đúc từ tro tàn của một ngôi sao băng."
+tagRingC007=Bloodseal
+tagRingC008=Aetherlord's Signet
+tagRingC008Desc="Một chiếc nhẫn thường được những kẻ quý tộc bị linh hồn Aether chiếm hữu mang theo."
+tagRingC009=Eternal Band
+tagRingC010=Oblitorix
+tagRingC011=Band of Wandering Souls
+tagRingC012=Apothecary's Wisdom
+tagRingC013=Seal of the Royal Crown
+tagRingC014=Jewel of the Royal Crown
+tagRingC015=Ring of Valiance
+tagRingC016=Signet of Valiance
+tagRingC017=Right Hand of Carnage
+tagRingC018=Left Hand of Carnage
+tagRingC019A=Alkamos' Dread
+tagRingC019B=Alkamos' Agony
+tagRingC019Desc="Chết...."
+tagRingC020A=Alkamos' Anguish
+tagRingC020B=Alkamos' Torment
+tagRingC020Desc="Đau..."
+tagRingC021=Band of Black Ice
+tagRingC022=Ring of Vile Intent
+tagRingC023=Chillsurge Ring
+tagRingC023Desc="Viên ngọc bích trong chiếc nhẫn này hút hết nhiệt với cái chạm nhỏ nhất."
+tagRingC024=Ring of Eternal Rot
+tagRingC025=Seal of the Blazing Inferno
+tagRingC026=Sentinel's Seal
+tagRingC027=Quickening Gem
+tagRingC028=Briarthorn Band
+tagRingC029=Lifebloom Band
+tagRingC030=Goliath Signet
+tagRingC031=Sigil of the Depraved
+tagRingC032=Signet of the Damned
+tagRingC033=Mutagenic Sigil
+tagRingC033Desc="Viên ngọc liên tục biến đổi hình dạng trước mắt bạn."
+tagRingC034=Amarastan Sigil
+tagRingC035=Wildpact Emerald
+tagRingC036=Aetherstorm Sigil
+tagRingC037=Aetherstorm Seal
+tagRingC038=Ruby of Elemental Balance
+tagRingC039=Sapphire of Elemental Balance
+
+tagRingD001=Signet of the Fallen
+tagRingD002=Glyph of Kelphat'Zoth
+tagRingD002Desc="Dấu hiệu của Kelphat'Zoth, Đại Sứ giả Âm binh, dành cho những tín đồ trung thành nhất của y."
+tagRingD003=Lifegiver Signet
+tagRingD004=Time-Flux Band
+tagRingD005=Screams of the Aether
+tagRingD005Desc="Nhại lại sự đau đớn trong quá trình chiếm hữu."
+tagRingD006=Entropic Coil
+tagRingD007=Ring of the Black Matriarch
+tagRingD007Desc="Dấu ấn của Nữ chúa Đen, một sát thủ tàn bạo chuyên dùng độc của nhện làm tê liệt rồi kết liễu đối phương."
+tagRingD008=Band of the Eternal Haunt
+tagRingD009=Belgothian's Sigil
+tagRingD010=Albrecht's Duality
+tagRingD010Desc="Thầy Albrecht, người sáng tạo ra tia aether, nổi tiếng không chỉ vì sự thành thạo với ma pháp, mà còn bởi mối liên kết giữa ông với những vị thần ma quái; một sự thật mang đến cho ông ta không ít rắc rối với nhà chức trách và thậm chí đã khiến ông bị xử tử nếu không có sự can thiệp của hội Gildam Arcanum."
+tagRingD011=Open Hand of Mercy
+tagRingD012=Closed Fist of Vengeance
+tagRingD013=Invoker's Burning Hand
+tagRingD014=Invoker's Shocking Touch
+tagRingD015=Alkamos' Touch of Dread
+tagRingD016=Alkamos' Touch of Anguish
+
+
+tagRingF001=Devil's War Seal
+tagRingF002=Devil's Wrath Seal
+tagRingF003=Rhowari Wrath Seal
+tagRingF004=Rhowari Void Seal
+tagRingF005=Legion War Seal
+tagRingF006=Legion Conjuration Seal
+tagRingF007=Harvest Venom Seal
+tagRingF008=Harvest Blade Seal
+tagRingF009=Death's Frost Seal
+tagRingF010=Death's Life Seal
+tagRingF011=Chosen Flame Seal
+tagRingF012=Chosen Storm Seal
+
+
+#Necklaces
+
+tagNecklaceA00=Salt Bag
+tagNecklaceA00Desc="Một túi nhỏ đầy muối, dường như dùng để xua đuổi những linh hồn tà ác."
+
+tagNecklaceA001=Claw Fetish
+tagNecklaceA002=Silver Amulet
+tagNecklaceA003=Skull Fetish
+tagNecklaceA004=Platinum Amulet
+tagNecklaceA005=Bone Charm
+tagNecklaceA006=Moonstone Amulet
+tagNecklaceA007=Opal Pendant
+tagNecklaceA008=Emerald Necklace
+tagNecklaceA009=Sapphire Amulet
+tagNecklaceA010=Topaz Pendant
+tagNecklaceA011=Ruby Necklace
+tagNecklaceA012=Inscribed Amulet
+tagNecklaceA013=Diamond Pendant
+tagNecklaceA014=Imperial Necklace
+tagNecklaceA015=Obsidian Amulet
+tagNecklaceA016=Imperial Pendant
+
+tagNecklaceB001=*Putrid Necklace*
+tagNecklaceB001Desc="Cái đầu lâu được phủ đầy chất dịch hôi thối."
+tagNecklaceB002=*Death-Watcher Pendant*
+tagNecklaceB003=*Ellena's Necklace*
+tagNecklaceB003Desc="Một vật lưu niệm từng thuộc về Ellena, Con Slith Đầu tiên."
+
+tagNecklaceC001=Amulet of the Eye
+tagNecklaceC001Desc="Con mắt không mí xoay qua xoay lại bên trong viên ngọc."
+tagNecklaceC002=Alazra's Ruby
+tagNecklaceC003=Bloodmoon
+tagNecklaceC004=Devil's Charm
+tagNecklaceC004Desc="Một cái lưỡi chẻ thêu dệt nên đủ thứ dối trá."
+tagNecklaceC005=Maiven's Lens
+tagNecklaceC006=Warp Shard
+tagNecklaceC006Desc="Dường như tự mảnh vỡ này đang bẻ cong hiện thực."
+tagNecklaceC007=Warmaster's Pride
+tagNecklaceC008=Spiritstone Charm
+tagNecklaceC009=Vortex Stone
+tagNecklaceC010=Death Ward
+tagNecklaceC010Desc="Một lá bùa từng được đeo để xua đuổi những linh hồn quỷ dữ."
+tagNecklaceC011=Essence of Beronath
+tagNecklaceC011Desc="Giam bên trong một phần tinh hoa của quái thú vĩ đại Beronath."
+tagNecklaceC012=Bane of Nuram'Siin
+tagNecklaceC013=Lapis Lupus
+tagNecklaceC014=Avarice of Androneus
+tagNecklaceC014Desc="Một viên ngọc lục bảo hoàn mỹ thường được Người quản lý Thuế Androneus Phillian trưng trên người, trước khi ông ta ăn một nhát dao vào lưng."
+tagNecklaceC015=Herald's Ward
+tagNecklaceC016=Unseeing Eye of the Blind Assassin
+tagNecklaceC017=Pendant of the Royal Crown
+tagNecklaceC018=Pendant of Valiance
+tagNecklaceC019=Wretched Necessity
+tagNecklaceC019Desc="Chỉ vừa liếc qua viên ngọc này cũng làm bạn nảy sinh ham muốn chiếm nó cho riêng mình."
+tagNecklaceC020=Stormcaller's Gem
+tagNecklaceC021=Blightshard Amulet
+tagNecklaceC022=Shieldmaiden's Guard
+tagNecklaceC023=Frozen Core
+tagNecklaceC024=Amulet of Scorched Earth
+tagNecklaceC025=Plaguemancer's Amulet
+tagNecklaceC026=Cerulean Shard
+tagNecklaceC027=Bladeward's Courage
+tagNecklaceC028=Shard of Menhir
+tagNecklaceC029=Bramblewood Amulet
+tagNecklaceC030=Locust Gem
+tagNecklaceC031=Ancestral Ward
+tagNecklaceC032=Shard of Command
+tagNecklaceC033=Soul Pendant
+tagNecklaceC034=Venomblade Amulet
+tagNecklaceC035=Arcane Eclipse
+tagNecklaceC036=Righteous Flame
+tagNecklaceC037=Icetrap
+tagNecklaceC038=Callidor's Shard
+tagNecklaceC039=Binding Emerald of Mogdrogen
+tagNecklaceC040=Aetherstorm Amulet
+tagNecklaceC041=Lapis Mantichora
+
+tagNecklaceD001=Will of Bysmiel
+tagNecklaceD002=Thread of Mortality
+tagNecklaceD003=Avatar of Mercy
+tagNecklaceD003Desc="Đứng đầu trong bảy đức tính tốt của nhân loại."
+tagNecklaceD004=Sovereign Ruby of Domination
+tagNecklaceD005=The Peerless Eye of Beronath
+tagNecklaceD005Desc="Con mắt của quái thú vĩ đại, Beronath."
+tagNecklaceD006=Starfury Emerald
+tagNecklaceD007=Essence of the Grim Dawn
+tagNecklaceD007Desc="Hình thái vật chất được cụ thể hóa từ sự đau đớn và chết chóc xảy ra vào những thời khắc đầu tiên của sự kiện Grim Dawn."
+tagNecklaceD008=Deathbound Amethyst
+tagNecklaceD009=Celestial Stone of Halakor
+tagNecklaceD009Desc="Ngọc định tâm của Arcanist Geneve Halakor, người đã rời bỏ hội cùng những giáo điều của nó để trở thành một Templar của Menhir."
+tagNecklaceD010=Doombringer
+tagNecklaceD011=Herald of the Apocalypse
+tagNecklaceD011Desc="Nghe đồn đây là thứ đã mở ra khe nứt đầu tiên trong sự kiện Grim Dawn."
+tagNecklaceD012=Pestilence of Dreeg
+tagNecklaceD012Desc="Mang theo bảy dịch bệnh của thần phù thủy Dreeg."
+tagNecklaceD013=Night's Embrace
+tagNecklaceD014=Avenger of Cairn
+tagNecklaceD015=Dawnbreaker's Beacon
+tagNecklaceD016=Demonslayer's Defense
+tagNecklaceD017=Invoker's Shard
+tagNecklaceD018=Black Gem of Dreeg
+tagNecklaceD019=Iskandra's Focusing Prism
+tagNecklaceD020=Ultos' Gem
+tagNecklaceD021=Markovian's Distinction
+tagNecklaceD022=Heart of Ulzuin
+tagNecklaceD023=Heart of the Mountain
+tagNecklaceD024=Valdun's Bounty
+tagNecklaceD025=Arcane Shard of Agrivix
+tagNecklaceD026=Bloodrager's Gem
+
+tagNecklaceF001=Rhowari Guardstone
+tagNecklaceF002=Rhowari Rancor
+tagNecklaceF003=Rhowari Lifecaller
+tagNecklaceF004=Solar Channelling Stone
+tagNecklaceF005=Harvester Stone
+tagNecklaceF006=Thundering Gem
+tagNecklaceF007=Grasp of the Reaper
+tagNecklaceF008=Pendant of Ubiquitous Wrath
+tagNecklaceF009=Voidcaller Pendant
+
+
+#Medals
+
+tagMedalA001=Ribbon
+tagMedalA002=Badge
+tagMedalA003=Mark
+tagMedalA004=Crest
+tagMedalA005=Star
+tagMedalA006=Imperial Crest
+tagMedalA007=Imperial Star
+
+tagMedalB001=Ranger's Ribbon
+tagMedalB002=Ranger's Badge
+tagMedalB003=*Ikrix Scale*
+tagMedalB003=*Ikrix Scale*
+tagMedalB004=*Kymon's Badge*
+tagMedalB005=*Bloodsworn Sigil*
+
+tagMedalC001=Beast Slayer's Mark
+tagMedalC002=Badge of Tenacity
+tagMedalC003=Insignia of Justice
+tagMedalC004=Bloodreaper's Mark
+tagMedalC005=Crimson Heart
+tagMedalC006=Combat Medic's Mark
+tagMedalC006Desc="Được trao cho những quân y dày dạn sa trường vì những cống hiến quả cảm của họ ở nơi chiến sự khốc liệt nhất."
+tagMedalC007=Mark of the Templar
+tagMedalC008=Arcanum Sigil
+tagMedalC009=Vanguard Star
+tagMedalC010=Badge of the Crimson Company
+tagMedalC010Desc="Biểu tượng của Crimson Company, một nhóm lính đánh thuê tàn bạo nhưng hiệu quả."
+tagMedalC011=Apothecary's Sign
+tagMedalC012=Unholy Sigil of the Covenant
+tagMedalC013=Ribbon of Valiance
+tagMedalC014=Enchanter's Insignia
+tagMedalC015=Heretic's Sigil
+tagMedalC016=Tempest Sigil
+tagMedalC017=Mark of the False Gods
+tagMedalC018=Gutworm's Bloody Seal
+tagMedalC018Desc="Ướt sũng máu những nạn nhân của hắn."
+tagMedalC019=Mogdrogen Sigil
+tagMedalC020=Illusionist's Mark
+tagMedalC021=Black Star of Deceit
+tagMedalC022=Mark of the Nymph
+tagMedalC023=Star of Frozen Skies
+tagMedalC024=Volcanum
+tagMedalC025=Mark of Fierce Resolve
+tagMedalC026=Myrmidon Revered Star
+
+tagMedalD001=Mark of the Forbidden
+tagMedalD001Desc="Biểu tượng từ được xăm lên những kẻ dị giáo, sau này lại được những kẻ tôn sùng các thần phù thủy hãnh diện mang trên mình."
+tagMedalD002=Badge of Mastery
+tagMedalD003=Pyroclasm Mark
+tagMedalD004=Sigil of the Bear King
+tagMedalD004Desc="Dấu ấn của Vua Ursal Benedict IV, thường được gọi là Vua Gấu."
+tagMedalD005=Blood Sigil of Ch'Thon
+tagMedalD006=Direwolf Crest
+tagMedalD006Desc="Huy hiệu hình sói trắng vĩ đại, con thú bảo hộ cho vùng hoang địa phía bắc."
+tagMedalD007=Undying Oath
+tagMedalD008=Markovian's Stratagem
+tagMedalD008Desc="Được đặt tên nhằm vinh danh nhà quân sự tài ba Markovian, huân chương này chỉ được thưởng cho những vị tướng thật sự xuất chúng."
+tagMedalD009=Mark of Dark Dreams
+tagMedalD010=Mark of Anathema
+tagMedalD011=Mark of Divinity
+tagMedalD012=Beastcaller's Talisman
+
+tagMedalF001=Devil's Badge of Flame
+tagMedalF002=Devil's Badge of Frost
+tagMedalF003=Devil's Badge of Venom
+tagMedalF004=Legion Mark of the Spellweaver
+tagMedalF005=Legion Mark of the Void
+tagMedalF006=Legion Mark of Blades
+tagMedalF007=Chosen Star of War
+tagMedalF008=Chosen Star of Thunder
+tagMedalF009=Defiled Chosen Star
+tagMedalF009Desc="Tuy đã bị ô uế bởi sức mạnh của kẻ địch, tấm huân chương này vẫn có thể phụng sự cho một mục đích đúng đắn."
+
+
+#Blueprints
+tagTestBlueprint=Bản Thiết kế: Item Name of the Awesomesauce
+tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
+
+tagBlueprint_RelicB001=Bản Thiết kế: Thánh vật - Calamity
+tagBlueprint_RelicB002=Bản Thiết kế: Thánh vật - Ruination
+tagBlueprint_RelicB003=Bản Thiết kế: Thánh vật - Equilibrium
+tagBlueprint_RelicB004=Bản Thiết kế: Thánh vật - Glacier
+tagBlueprint_RelicB005=Bản Thiết kế: Thánh vật - Squall
+tagBlueprint_RelicB006=Bản Thiết kế: Thánh vật - Inferno
+tagBlueprint_RelicB007=Bản Thiết kế: Thánh vật - Corruption
+tagBlueprint_RelicB008=Bản Thiết kế: Thánh vật - Sanctuary
+tagBlueprint_RelicB009=Bản Thiết kế: Thánh vật - Guile
+tagBlueprint_RelicB010=Bản Thiết kế: Thánh vật - Rampage
+tagBlueprint_RelicB011=Bản Thiết kế: Thánh vật - Mistborn Talisman
+tagBlueprint_RelicB012=Bản Thiết kế: Thánh vật - Bladesworn Talisman
+tagBlueprint_RelicB013=Bản Thiết kế: Thánh vật - Gunslinger's Talisman
+tagBlueprint_RelicC001=Bản Thiết kế: Thánh vật - Arbiter
+tagBlueprint_RelicC002=Bản Thiết kế: Thánh vật - Fortress
+tagBlueprint_RelicC003=Bản Thiết kế: Thánh vật - Slaughter
+tagBlueprint_RelicC004=Bản Thiết kế: Thánh vật - Juggernaut
+tagBlueprint_RelicC005=Bản Thiết kế: Thánh vật - Terror
+tagBlueprint_RelicC006=Bản Thiết kế: Thánh vật - Torment
+tagBlueprint_RelicC007=Bản Thiết kế: Thánh vật - Haunt
+tagBlueprint_RelicC008=Bản Thiết kế: Thánh vật - Conflagration
+tagBlueprint_RelicC009=Bản Thiết kế: Thánh vật - Savage
+tagBlueprint_RelicC010=Bản Thiết kế: Thánh vật - Deathchill
+tagBlueprint_RelicC011=Bản Thiết kế: Thánh vật - Sacrifice
+tagBlueprint_RelicC012=Bản Thiết kế: Thánh vật - Zeal
+tagBlueprint_RelicC013=Bản Thiết kế: Thánh vật - Desolation
+tagBlueprint_RelicC014=Bản Thiết kế: Thánh vật - Blight
+tagBlueprint_RelicC015=Bản Thiết kế: Thánh vật - Ancestor
+tagBlueprint_RelicC016=Bản Thiết kế: Thánh vật - Bladedancer's Talisman
+tagBlueprint_RelicC017=Bản Thiết kế: Thánh vật - Marauder's Talisman
+tagBlueprint_RelicD001=Bản Thiết kế: Thánh vật - Aegis
+tagBlueprint_RelicD002=Bản Thiết kế: Thánh vật - Malediction
+tagBlueprint_RelicD003=Bản Thiết kế: Thánh vật - Nemesis
+tagBlueprint_RelicD004=Bản Thiết kế: Thánh vật - Citadel
+tagBlueprint_RelicD005=Bản Thiết kế: Thánh vật - Eye of the Storm
+tagBlueprint_RelicD006=Bản Thiết kế: Thánh vật - Reckoning
+tagBlueprint_RelicD007=Bản Thiết kế: Thánh vật - Scourge
+tagBlueprint_RelicD008=Bản Thiết kế: Thánh vật - Ulzuin's Pyroclasm
+tagBlueprint_RelicD009=Bản Thiết kế: Thánh vật - Necrosis
+tagBlueprint_RelicD010=Bản Thiết kế: Thánh vật - Agrivix's Malice
+tagBlueprint_RelicD011=Bản Thiết kế: Thánh vật - Oblivion
+tagBlueprint_RelicD012=Bản Thiết kế: Thánh vật - Belgothian's Carnage
+tagBlueprint_RelicD013=Bản Thiết kế: Thánh vật - Annihilation
+tagBlueprint_RelicD014=Bản Thiết kế: Thánh vật - Avenger
+tagBlueprint_RelicD015=Bản Thiết kế: Thánh vật - Primal Instinct
+tagBlueprint_RelicD016=Bản Thiết kế: Thánh vật - Solael's Decimation
+tagBlueprint_RelicD017=Bản Thiết kế: Thánh vật - Dreeg's Affliction
+tagBlueprint_RelicD018=Bản Thiết kế: Thánh vật - Bysmiel's Domination
+tagBlueprint_RelicD019=Bản Thiết kế: Thánh vật - Oleron's Wrath
+tagBlueprint_RelicD020=Bản Thiết kế: Thánh vật - Menhir's Bastion
+tagBlueprint_RelicD021=Bản Thiết kế: Thánh vật - Iskandra's Balance
+tagBlueprint_RelicD022=Bản Thiết kế: Thánh vật - Blademaster's Talisman
+tagBlueprint_RelicD023=Bản Thiết kế: Thánh vật - Plunderer's Talisman
+
+tagBlueprint_ComponentA01=Bản Thiết kế: Aether Soul
+tagBlueprint_ComponentA02=Bản Thiết kế: Ballistic Plating
+tagBlueprint_ComponentA03=Bản Thiết kế: Blessed Steel
+tagBlueprint_ComponentA04=Bản Thiết kế: Focusing Prism
+tagBlueprint_ComponentA05=Bản Thiết kế: Leathery Hide
+tagBlueprint_ComponentA06=Bản Thiết kế: Restless Remains
+tagBlueprint_ComponentA07=Bản Thiết kế: Rotten Heart
+tagBlueprint_ComponentA08=Bản Thiết kế: Runestone
+tagBlueprint_ComponentA09=Bản Thiết kế: Sanctified Bone
+tagBlueprint_ComponentA10=Bản Thiết kế: Spined Carapace
+tagBlueprint_ComponentA11=Bản Thiết kế: Vengeful Wraith
+tagBlueprint_ComponentA12=Bản Thiết kế: Wardstone
+tagBlueprint_ComponentA13=Bản Thiết kế: Silk Swatch
+tagBlueprint_ComponentA14=Bản Thiết kế: Scaled Hide
+tagBlueprint_ComponentA15=Bản Thiết kế: Purified Salt
+tagBlueprint_ComponentA16=Bản Thiết kế: Hollowed Fang
+tagBlueprint_ComponentA17=Bản Thiết kế: Imbued Silver
+tagBlueprint_ComponentA18=Bản Thiết kế: Blessed Whetstone
+tagBlueprint_ComponentA19=Bản Thiết kế: Black Tallow
+tagBlueprint_ComponentC01=Bản Thiết kế: Oleron's Blood
+tagBlueprint_ComponentC02=Bản Thiết kế: Shard of Beronath
+tagBlueprint_ComponentC03=Bản Thiết kế: Arcane Spark
+tagBlueprint_ComponentC04=Bản Thiết kế: Prismatic Diamond
+tagBlueprint_ComponentC05=Bản Thiết kế: Haunted Steel
+tagBlueprint_ComponentC06=Bản Thiết kế: Mark of Mogdrogen
+tagBlueprint_ComponentC07=Bản Thiết kế: Silvercore Bolts
+tagBlueprint_ComponentC08=Bản Thiết kế: Bloody Whetstone
+
+
+tagBlueprint_WaistB001=Bản Thiết kế: Bounty Hunter's Girdle
+tagBlueprint_WaistB002=Bản Thiết kế: Shockweave Sash
+tagBlueprint_WaistB003=Bản Thiết kế: Warmonger's Belt
+tagBlueprint_WaistB004=Bản Thiết kế: Flamesilk Sash
+tagBlueprint_WaistB005=Bản Thiết kế: Frostguard Girdle
+tagBlueprint_WaistB006=Bản Thiết kế: Wraithbone Sash
+
+tagBlueprint_WeaponB001=Bản Thiết kế: Battle Shield
+tagBlueprint_WeaponB002=Bản Thiết kế: Siege Shield
+tagBlueprint_WeaponB003=Bản Thiết kế: Sovereign Shield
+tagBlueprint_WeaponB004=Bản Thiết kế: Rotating Rifle
+tagBlueprint_WeaponB005=Bản Thiết kế: Frontloading Rifle
+tagBlueprint_WeaponB006=Bản Thiết kế: Shrapnel Gun
+tagBlueprint_WeaponB007=Bản Thiết kế: Honed Longsword
+tagBlueprint_WeaponB008=Bản Thiết kế: Honed Broadsword
+tagBlueprint_WeaponB009=Bản Thiết kế: Honed Conqueror
+tagBlueprint_WeaponB010=Bản Thiết kế: Brutal Great Axe
+tagBlueprint_WeaponB011=Bản Thiết kế: Brutal Carver
+tagBlueprint_WeaponB012=Bản Thiết kế: Brutal Decapitator
+tagBlueprint_WeaponB013=Bản Thiết kế: Glyphed Archive
+tagBlueprint_WeaponB014=Bản Thiết kế: Glyphed Spellbook
+tagBlueprint_WeaponB015=Bản Thiết kế: Glyphed Tome
+tagBlueprint_WeaponB016=Bản Thiết kế: Occult Horn
+tagBlueprint_WeaponB017=Bản Thiết kế: Occult Skull
+tagBlueprint_WeaponB018=Bản Thiết kế: Occult Effigy
+tagBlueprint_WeaponB019=Bản Thiết kế: Double-Barrel Pistol
+tagBlueprint_WeaponB020=Bản Thiết kế: Hand Mortar
+tagBlueprint_WeaponB021=Bản Thiết kế: Shrapnel Pistol
+tagBlueprint_WeaponB022=Bản Thiết kế: Adept's Bladed Mace
+tagBlueprint_WeaponB023=Bản Thiết kế: Adept's Morningstar
+tagBlueprint_WeaponB024=Bản Thiết kế: Adept's Flanged Mace
+tagBlueprint_WeaponB025=Bản Thiết kế: Adept's Dagger
+tagBlueprint_WeaponB026=Bản Thiết kế: Adept's Spellblade
+tagBlueprint_WeaponB027=Bản Thiết kế: Master's Spellblade
+tagBlueprint_WeaponB028=Bản Thiết kế: Adept's Wand
+tagBlueprint_WeaponB029=Bản Thiết kế: Adept's Scepter
+tagBlueprint_WeaponB030=Bản Thiết kế: Master's Scepter
+
+tagBlueprint_WeaponC001=Bản Thiết kế: Witchstalker
+tagBlueprint_WeaponC002=Bản Thiết kế: The Eye
+tagBlueprint_WeaponC003=Bản Thiết kế: Storm's Edge
+tagBlueprint_WeaponC004=Bản Thiết kế: Omen
+tagBlueprint_WeaponC005=Bản Thiết kế: Tremor
+tagBlueprint_WeaponC006=Bản Thiết kế: Spellfire Wand
+tagBlueprint_WeaponC007=Bản Thiết kế: Firestorm Scepter
+tagBlueprint_WeaponC008=Bản Thiết kế: Ulda'Jax
+tagBlueprint_WeaponC009=Bản Thiết kế: Empowered Spellfire Wand
+tagBlueprint_WeaponC010=Bản Thiết kế: Empowered Skyshard Spellblade
+tagBlueprint_WeaponC011=Bản Thiết kế: Empowered Malformed Effigy
+tagBlueprint_WeaponC012=Bản Thiết kế: Empowered Black Grimoire of Og'Napesh
+
+tagBlueprint_WeaponD001=Bản Thiết kế: Arcanum Sigillis
+tagBlueprint_WeaponD002=Bản Thiết kế: Raka'Jax
+tagBlueprint_WeaponD003=Bản Thiết kế: Damnation
+tagBlueprint_WeaponD004=Bản Thiết kế: Herald of Blazing Ends
+tagBlueprint_WeaponD005=Bản Thiết kế: Beronath, Reforged
+tagBlueprint_WeaponD006=Bản Thiết kế: Leviathan
+tagBlueprint_WeaponD007=Bản Thiết kế: Olexra's Chill
+tagBlueprint_WeaponD008=Bản Thiết kế: Basilisk Claw
+tagBlueprint_WeaponD009=Bản Thiết kế: Siegebreaker
+tagBlueprint_WeaponD010=Bản Thiết kế: Eye of Dominion
+tagBlueprint_WeaponD011=Bản Thiết kế: Codex of Eternal Storms
+
+tagBlueprint_WeaponF001=Bản Thiết kế: Devil's Cudgel
+tagBlueprint_WeaponF002=Bản Thiết kế: Người Bảo hộ Ngã tư Ác quỷ Cường hóa
+tagBlueprint_WeaponF003=Bản Thiết kế: Rhowari Spellweaver Codex
+tagBlueprint_WeaponF004=Bản Thiết kế: Rhowari Arbalest
+tagBlueprint_WeaponF005=Bản Thiết kế: Empowered Omen
+tagBlueprint_WeaponF006=Bản Thiết kế: Lunar Sledge
+tagBlueprint_WeaponF007=Bản Thiết kế: Harvest's Defender
+tagBlueprint_WeaponF008=Bản Thiết kế: Empowered Boltspitter
+tagBlueprint_WeaponF009=Bản Thiết kế: Legion Slicer
+tagBlueprint_WeaponF010=Bản Thiết kế: Huân chương của Quân đoàn Đen Cường hóa
+tagBlueprint_WeaponF011=Bản Thiết kế: Death's Sixgun
+tagBlueprint_WeaponF012=Bản Thiết kế: Death's Gaze
+tagBlueprint_WeaponF013=Bản Thiết kế: Empowered Reaper's Touch
+tagBlueprint_WeaponF014=Bản Thiết kế: Chosen Crimsonguard
+tagBlueprint_WeaponF015=Bản Thiết kế: Chosen Crusher
+tagBlueprint_WeaponF016=Bản Thiết kế: Empowered Orwell's Revolver
+
+
+tagBlueprint_ArmorB001=Bản Thiết kế: Adept's Boots
+tagBlueprint_ArmorB002=Bản Thiết kế: Adept's Greaves
+tagBlueprint_ArmorB003=Bản Thiết kế: Squire's Boots
+tagBlueprint_ArmorB004=Bản Thiết kế: Squire's Greaves
+tagBlueprint_ArmorB005=Bản Thiết kế: Adept's Gloves
+tagBlueprint_ArmorB006=Bản Thiết kế: Adept's Grips
+tagBlueprint_ArmorB007=Bản Thiết kế: Squire's Gauntlets
+tagBlueprint_ArmorB008=Bản Thiết kế: Squire's Handguards
+tagBlueprint_ArmorB009=Bản Thiết kế: Adept's Hood
+tagBlueprint_ArmorB010=Bản Thiết kế: Adept's Circlet
+tagBlueprint_ArmorB011=Bản Thiết kế: Ranger's Helm
+tagBlueprint_ArmorB012=Bản Thiết kế: Ranger's Casque
+
+tagBlueprint_ArmorF001=Bản Thiết kế: Devil's Cord
+tagBlueprint_ArmorF002=Bản Thiết kế: Devil's Waistguard
+tagBlueprint_ArmorF003=Bản Thiết kế: Devil's Girdle
+tagBlueprint_ArmorF004=Bản Thiết kế: Rhowari Cord
+tagBlueprint_ArmorF005=Bản Thiết kế: Rhowari Waistguard
+tagBlueprint_ArmorF006=Bản Thiết kế: Rhowari Girdle
+tagBlueprint_ArmorF007=Bản Thiết kế: Solar Belt
+tagBlueprint_ArmorF008=Bản Thiết kế: Solar Waistguard
+tagBlueprint_ArmorF009=Bản Thiết kế: Solar Girdle
+tagBlueprint_ArmorF010=Bản Thiết kế: Legion Belt
+tagBlueprint_ArmorF011=Bản Thiết kế: Legion Waistguard
+tagBlueprint_ArmorF012=Bản Thiết kế: Legion Girdle
+tagBlueprint_ArmorF013=Bản Thiết kế: Death's Cord
+tagBlueprint_ArmorF014=Bản Thiết kế: Death's Waistguard
+tagBlueprint_ArmorF015=Bản Thiết kế: Death's Girdle
+tagBlueprint_ArmorF016=Bản Thiết kế: Chosen Cord
+tagBlueprint_ArmorF017=Bản Thiết kế: Chosen Waistguard
+tagBlueprint_ArmorF018=Bản Thiết kế: Chosen Girdle
+
+tagBlueprint_ArmorC001=Bản Thiết kế: Guardsman's Defender
+tagBlueprint_ArmorC002=Bản Thiết kế: Guardsman's Breastplate
+tagBlueprint_ArmorC003=Bản Thiết kế: Explorer's Tunic
+tagBlueprint_ArmorC004=Bản Thiết kế: Explorer's Trousers
+tagBlueprint_ArmorC005=Bản Thiết kế: Decorated Pauldrons
+tagBlueprint_ArmorC006=Bản Thiết kế: Cowl of the Blind Assassin
+tagBlueprint_ArmorC007=Bản Thiết kế: Unholy Visage of the Covenant
+tagBlueprint_ArmorC008=Bản Thiết kế: Flame Keeper's Jacket
+tagBlueprint_ArmorC009=Bản Thiết kế: Callidor's Vestments
+tagBlueprint_ArmorC010=Bản Thiết kế: Myrmidon Visor
+tagBlueprint_ArmorC011=Bản Thiết kế: Cowl of Mogdrogen
+
+tagBlueprint_ArmorD001=Bản Thiết kế: Maw of Despair
+tagBlueprint_ArmorD002=Bản Thiết kế: Dread-Mask of Gurgoth
+tagBlueprint_ArmorD003=Bản Thiết kế: Whisperer of Secrets
+tagBlueprint_ArmorD004=Bản Thiết kế: Abyssal Mask
+tagBlueprint_ArmorD005=Bản Thiết kế: Circlet of the Great Serpent
+tagBlueprint_ArmorD006=Bản Thiết kế: Mask of Infernal Truth
+tagBlueprint_ArmorD007=Bản Thiết kế: Faceguard of Justice
+tagBlueprint_ArmorD008=Bản Thiết kế: Beastcaller's Cowl
+tagBlueprint_ArmorD009=Bản Thiết kế: Mask of the Harbinger
+tagBlueprint_ArmorD010=Bản Thiết kế: Demonslayer's Hat
+tagBlueprint_ArmorD011=Bản Thiết kế: Clairvoyant's Hat
+tagBlueprint_ArmorD012=Bản Thiết kế: Markovian's Visor
+tagBlueprint_ArmorD013=Bản Thiết kế: Ulzuin's Headguard
+tagBlueprint_ArmorD014=Bản Thiết kế: Hood of Dreeg
+tagBlueprint_ArmorD015=Bản Thiết kế: Deathmarked Hood
+tagBlueprint_ArmorD016=Bản Thiết kế: Iskandra's Hood
+tagBlueprint_ArmorD017=Bản Thiết kế: Ultos' Hood
+tagBlueprint_ArmorD018=Bản Thiết kế: Crown of the Winter King
+tagBlueprint_ArmorD019=Bản Thiết kế: Trozan's Hat
+tagBlueprint_ArmorD020=Bản Thiết kế: Valdun's Hat
+tagBlueprint_ArmorD021=Bản Thiết kế: Eldritch Gaze
+tagBlueprint_ArmorD022=Bản Thiết kế: Covenant of the Three
+tagBlueprint_ArmorD023=Blueprint: Cowl of the Venomblade
+tagBlueprint_ArmorD024=Blueprint: Visage of the Black Flame
+tagBlueprint_ArmorD025=Blueprint: Light's Defender Helm
+tagBlueprint_ArmorD026=Blueprint: Infernal Knight's Faceguard
+tagBlueprint_ArmorD027=Blueprint: Warborn Visor
+tagBlueprint_ArmorD028=Blueprint: Bloodrager's Cowl
+
+
+tagBlueprint_AccessoryC001=Bản Thiết kế: Maiven's Lens
+tagBlueprint_AccessoryC002=Bản Thiết kế: Vortex Stone
+tagBlueprint_AccessoryC003=Bản Thiết kế: Lapis Mantichora
+tagBlueprint_AccessoryC004=Bản Thiết kế: Mark of Fierce Resolve
+tagBlueprint_AccessoryC005=Bản Thiết kế: Ruby of Elemental Balance
+tagBlueprint_AccessoryC006=Bản Thiết kế: Sapphire of Elemental Balance
+tagBlueprint_AccessoryC007=Bản Thiết kế: Empowered Plaguemancer's Amulet
+tagBlueprint_AccessoryC008=Bản Thiết kế: Empowered Essence of Beronath
+tagBlueprint_AccessoryC009=Bản Thiết kế: Empowered Tempest Sigil
+tagBlueprint_AccessoryC010=Bản Thiết kế: Blazethread Sash
+tagBlueprint_AccessoryC011=Bản Thiết kế: Equilibrium Sash
+tagBlueprint_AccessoryC012=Bản Thiết kế: Empowered Chthonian Thread Sash
+
+tagBlueprint_AccessoryD001=Bản Thiết kế: Starfury Emerald
+tagBlueprint_AccessoryD002=Bản Thiết kế: Essence of the Grim Dawn
+tagBlueprint_AccessoryD003=Bản Thiết kế: Herald of the Apocalypse
+tagBuueprint_AccessoryD004=Bản Thiết kế: Pestilence of Dreeg
+tagBlueprint_AccessoryD005=Bản Thiết kế: Voidmancer's Cord
+tagBlueprint_AccessoryD006=Bản Thiết kế: Tinker's Ingenuity
+tagBlueprint_AccessoryD007=Bản Thiết kế: Reforged Chains of Oleron
+tagBlueprint_AccessoryD008=Bản Thiết kế: Ulzuin's Torment
+tagBlueprint_AccessoryD009=Bản Thiết kế: Spellbreaker Waistguard
+tagBlueprint_AccessoryD010=Bản Thiết kế: Badge of Mastery
+tagBlueprint_AccessoryD011=Bản Thiết kế: Mark of Divinity
+
+tagBlueprint_MiscA01=Bản Thiết kế: Chìa khóa Xương
+tagBlueprint_MiscA01Desc=Một kỹ thuật chế tác cổ xưa chỉ có vài người từng nghe tới.
+
+tagBlueprint_MaterialA01=Bản Thiết kế: Cụm Aether
+
+#Relics
+
+tagDeviceBonus=Thưởng Hoàn thành
+tagDeviceTier01=Thánh vật Cường hóa
+tagDeviceTier02=Thánh vật Siêu việt
+tagDeviceTier03=Thánh vật Thần thoại
+
+tagRelicB001=Tai ương (Calamity)
+tagRelicB001Desc="Sự hủy diệt không thể kiềm chế."
+tagRelicB002=Hủy diệt (Ruination)
+tagRelicB002Desc="Tàn phá bất chấp hậu quả."
+tagRelicB003=Cân bằng (Equilibrium)
+tagRelicB003Desc="Cân bằng trong một biển nguyên tố bất định."
+tagRelicB004=Băng hà (Glacier)
+tagRelicB004Desc="Trái tim của đá, tấm lòng của băng."
+tagRelicB005=Bạo phong (Squall)
+tagRelicB005Desc="Linh hồn dữ dội của Ultos, thần cai quản bầu trời của người Arkovia."
+tagRelicB006=Hỏa ngục (Inferno)
+tagRelicB006Desc="Lòng thù hận chất chứa của Ulzuin."
+tagRelicB007=Tha hóa (Corruption)
+tagRelicB007Desc="Hiện thân sự đau khổ của xứ Cairn."
+tagRelicB008=Bảo hộ (Sanctuary)
+tagRelicB008Desc="Chốn an toàn trong những lúc cam go."
+tagRelicB009=Xảo trá (Guile)
+tagRelicB009Desc="Khéo léo và mưu mẹo mạnh hơn vai u thịt bắp."
+tagRelicB010=Cuồng bạo (Rampage)
+tagRelicB010Desc="Ham muốn tột bậc được gây chiến dưới danh nghĩa của Oleron."
+tagRelicB011=Bùa Mistborn
+tagRelicB011Desc="Một lá bùa được bọn troll mang theo để đưa chúng vào trạng thái chiến đấu điên cuồng không dứt cho đến khi mọi kẻ địch gục ngã."
+tagRelicB012=Bùa Bladesworn
+tagRelicB012Desc="Biểu tượng của sự thành thạo thuật sử dụng cùng lúc hai vũ khí cận chiến."
+tagRelicB013=Bùa Gunslinger
+tagRelicB013Desc="Biểu tượng của sự thành thạo thuật sử dụng hai tay hai súng với độ chính xác chết người."
+tagRelicB014=Bùa Xương
+tagRelicB014Desc="Mảnh xương này được khắc tỉ mỉ trên đó những câu chữ và biểu tượng mang ý nghĩa tâm linh to lớn với những Du dân."
+tagRelicB015=Bùa Ngà
+tagRelicB016=Bùa Thiêng
+
+tagRelicC001=Thẩm phán (Arbiter)
+tagRelicC001Desc="Công lý, công bình và không thiên vị..."
+tagRelicC002=Thành lũy (Fortress)
+tagRelicC002Desc="Lá chắn không thể lay chuyển và người che chở cho kẻ yếu."
+tagRelicC003=Tàn sát (Slaughter)
+tagRelicC003Desc="Không phải nhiệm vụ nào của một nightblade cũng kết thúc gọn gàng."
+tagRelicC004=Chúa tể (Juggernaut)
+tagRelicC004Desc="Một thế lực hủy diệt không thể phủ nhận."
+tagRelicC005=Khủng bố (Terror)
+tagRelicC005Desc="Ảo ảnh về sự khủng bố và sợ hãi đến từ những nơi tăm tối trên thế giới."
+tagRelicC006=Thống khổ (Torment)
+tagRelicC006Desc="Một vật để nhớ tới Bậc thang Thống khổ ở Arkovia, chất chứa trong đó sự đau đớn của hằng hà sa số nạn nhân."
+tagRelicC007=Ám ảnh (Haunt)
+tagRelicC007Desc="Những linh hồn không tuổi, sẵn sàng đào thoát vào thế giới người sống."
+tagRelicC008=Hỏa diệm (Conflagration)
+tagRelicC008Desc="Hơi thở của Ulzuin."
+tagRelicC009=Dã man (Savage)
+tagRelicC009Desc="Đi theo tiếng gọi nơi hoang dã."
+tagRelicC010=Tử hàn (Deathchill)
+tagRelicC010Desc="Ngón tay lạnh lẽo của cái chết vẫn trực chờ trên đầu vạn vật..."
+tagRelicC011=Hy sinh (Sacrifice)
+tagRelicC011Desc="Đổ máu để những người không thể sẽ không phải làm vậy."
+tagRelicC012=Nhiệt huyết (Zeal)
+tagRelicC012Desc="Gây chiến chẳng màng đến tương lai."
+tagRelicC013=Hoang vu (Desolation)
+tagRelicC013Desc="Chẳng để lại gì ngoài sự hoang vu khi người thức tỉnh."
+tagRelicC014=Úa tàn (Blight)
+tagRelicC014Desc="Đòn quyết định trong tất thảy chín dịch bệnh của Dreeg."
+tagRelicC015=Tổ tiên (Ancestor)
+tagRelicC015Desc="Trong dòng dõi của chúng ta có chìa khóa dẫn tới tiềm năng đích thực."
+tagRelicC016=Bùa của Bladedancer
+tagRelicC016Desc="Biểu tượng của khả năng vận dụng tối đa thuật sử dụng cùng lúc hai vũ khí cận chiến."
+tagRelicC017=Bùa của Marauder
+tagRelicC017Desc="Biểu tượng của khả năng vận dụng tối đa thuật sử dụng hai tay hai súng với độ chính xác chết người."
+
+tagRelicD001=Thủ hộ (Aegis)
+tagRelicD001Desc="Ánh sáng soi đường của Ishtak xóa đi sự đau đớn và thay vào đó những quyết tâm mới."
+tagRelicD002=Trù yểm (Malediction)
+tagRelicD002Desc="Bệnh dịch là thế lực vô địch, đánh gục từ người tàn tật đến những chiến binh mạnh mẽ nhất."
+tagRelicD003=Kình địch (Nemesis)
+tagRelicD003Desc="Mặt trăng dẫn đường ta, bóng tối đồng hành ta. Thợ săn là ta..."
+tagRelicD004=Thành quách (Citadel)
+tagRelicD004Desc="Trở thành một tòa thành không thể vươn tới trông kẻ thù cuẩ bạn tới số trước những bức tường không thể vượt qua."
+tagRelicD005=Mắt bão (Eye of the Storm)
+tagRelicD005Desc="Những kẻ tìm kiếm sức mạnh thần thánh chỉ cần ngước lên bầu trời trong cơn bão."
+tagRelicD006=Toan tính (Reckoning)
+tagRelicD006Desc="Mỗi đòn đánh ra, nghìn đòn nghĩ qua."
+tagRelicD007=Thiên tai (Scourge)
+tagRelicD007Desc="Ta chẳng sợ tử thần, bởi ta chính là hiện thân cái chết."
+tagRelicD008=Liệt hỏa (Ulzuin's Pyroclasm)
+tagRelicD008Desc="Tắm cả thế giới trong ngọn lửa trừ tà..."
+tagRelicD009=Hoại tử (Necrosis)
+tagRelicD009Desc="Khi vạn vật đến hồi kết, chúng ta đều cùng chung số phận."
+tagRelicD010=Ác tâm (Agrivix's Malice)
+tagRelicD010Desc="Những bí mật của aether chúng ta có quyền được biết. Đơn giản là ta không sợ những thứ nằm ở phía bên kia thôi."
+tagRelicD011=Lãng quên (Oblivion)
+tagRelicD011Desc="Ta đã nhìn vào bên kia bóng tối sâu thẳm cho rằng nơi đó chỉ có khoảng không trống rỗng. Ta chẳng ngờ nó nhìn lại về phía ta."
+tagRelicD012=Tàn sát (Belgothian's Carnage)
+tagRelicD012Desc="Những huynh đệ nightblade của ta có cách của họ, ta có cách của ta. Chẳng có ai vô tội cả."
+tagRelicD013=Tận diệt (Annihilation)
+tagRelicD013Desc="Bầu trời sẽ rách ra từng mảnh, và lửa mưa xuống từ thiên đường đỏ máu..."
+tagRelicD014=Kẻ báo thù (Avenger)
+tagRelicD014Desc="Đúng, ngươi đã ra một đòn cực mạnh; nhưng đòn cuối cùng sẽ từ tay ta."
+tagRelicD015=Bản năng Nguyên thủy (Primal Instinct)
+tagRelicD015Desc="Tới đây nào, các con của ta. Tới giờ ăn rồi..."
+tagRelicD016=Thảm sát (Solael's Decimation)
+tagRelicD016Desc="Họ nói không người nào có thể vận dụng được sức mạnh cỡ đó, vậy nên ta không làm người nữa."
+tagRelicD017=Ưu tư (Dreeg's Affliction)
+tagRelicD017Desc="Bí mật lớn nhất ngươi không được biết là sự dối trá trong cuộc đời mong manh của ngươi."
+tagRelicD018=Thống trị (Bysmiel's Domination)
+tagRelicD018Desc="Nhìn chúng xem, những con rối nhỏ, tất cả đều di chuyển theo sợi dây vô hình của ta."
+tagRelicD019=Thịnh nộ (Oleron's Wrath)
+tagRelicD019Desc="Máu... đau đớn... cái chết. Ngươi có lờ đi tiếng trống trận?"
+tagRelicD020=Thành lũy (Menhir's Bastion)
+tagRelicD020Desc="Trái đất sẽ không phải chịu đựng cả những linh hồn tội lỗi lẫn thứ máu độc từ bọn ngoại lai. Hãy đứng dậy bảo vệ nó và Cairn sẽ đứng dậy cùng với ngươi."
+tagRelicD021=Công bình (Iskandra's Balance)
+tagRelicD021Desc="Bài học đầu tiên của mọi pháp sư là tìm ra sự cân bằng giữa những luồng ma thuật bao quanh chúng ta."
+tagRelicD022=Bùa của Blademaster
+tagRelicD022Desc="Biểu tượng của bậc thầy thuật sử dụng cùng lúc hai vũ khí cận chiến."
+tagRelicD023=Bùa của Plunderer
+tagRelicD023Desc="Biểu tượng của bậc thầy thuật sử dụng hai tay hai súng với độ chính xác chết người."
+
+#Crafting
+tagCraftTabArtifactA=Thánh vật
+tagCraftTabArtifactB=Bùa, thánh vật và các cổ vật có sức mạnh lớn.
+tagCraftTabMeleeA=Vũ khí Cận chiến
+tagCraftTabMeleeB=Tập hợp vũ khí dùng để đâm, chém và đập.
+tagCraftTabRangedA=Vũ khí Tầm xa
+tagCraftTabRangedB=Bộ sưu tập súng lục, súng trường và nỏ dành cho những người ưa chiến đấu từ xa.
+tagCraftTabArmorA=Giáp
+tagCraftTabArmorB=Bộ sưu tập khiên, focus và giáp trụ từ nhiều nguyên liệu và kiểu dáng.
+tagCraftTabMiscA=Trang sức và Thuốc
+tagCraftTabMiscB=Một số kỹ thuật đôi khi vượt quá cả công năng của lò rèn.
+
+tagCraftMaterial_RoyalJelly=Thạch Ong chúa
+tagCraftMaterial_RoyalJelly_Desc="Cô đọng chất do những con ong khổng lồ ở Cựu Arkovia tiết ra. Nhiều người tin rằng nó có khả năng trị thương."
+tagCraftMaterial_AetherShard=Mảnh Aether
+tagCraftMaterial_AetherShard_Desc="Một mảnh lớn vỡ ra từ tinh thể aether, vẫn chứa đầy sức mạnh chưa được khai thác."
+tagCraftMaterial_AetherCluster=Cụm Aether
+tagCraftMaterial_AetherCluster_Desc="Một tập hợp nhiều Mảnh Aether, chứa đầy nguồn năng lượng bất ổn định."
+tagCraftMaterial_TaintedBrain=Bộ não Vấy bẩn
+tagCraftMaterial_TaintedBrain_Desc="Tế bào não bị cắt và vặn xoắn bởi sự thao túng của một sinh vật Aether hùng mạnh."
+tagCraftMaterial_BloodChthon=Máu của Ch'thon
+tagCraftMaterial_BloodChthon_Desc="Kết hợp tinh hoa của vị thần hư không."
+tagCraftMaterial_AncientHeart=Trái tim Cổ xưa
+tagCraftMaterial_AncientHeart_Desc="Nó vẫn đập liên tục trong túi của bạn với nhịp điệu đều đến kỳ lạ."
+tagCraftMaterial_Manticore=Mắt Manticore
+tagCraftMaterial_Mancitore_Desc="Con mắt tinh tường của một kẻ săn mồi không đối thủ."
+tagCraftMaterial_SkeletonKey=Chìa khóa Xương
+tagCraftMaterial_SkeletonKey_Desc="Nếu những truyền thuyết đáng tin, chiếc chìa khóa này có thể mở hầu hết những cánh cửa cổ."
+tagCraftMaterial_CultistSeal=Phong ấn Trói buộc
+tagCraftMaterial_CultistSeal_Desc="Ấn được những kẻ thuộc Giáo phái thờ Âm binh sử dụng để gắn những sinh vật hùng mạnh vào thế giới vật chất."
+
+tagCraftRandomItemDesc=Thợ rèn sẽ chế một món trang bị với chất lượng tốt hoặc thậm chí là hiếm phù hợp với cấp độ của bạn, thêm vào đó là cơ hội tạo ra những món đồ cực kỳ hiếm.
+tagCraftRandomLegendaryItemDesc=Thợ rèn sẽ chế một món trang bị chất lượng Huyền thoại phù hợp với cấp độ của bạn, lên tới cấp 75.
+tagCraftComponentDesc=Kỹ năng rèn lão luyện có thể chế ra những loại vật liệu với chất lượng cao hơn.
+tagCraftComponentRareDesc=Một kỹ năng chế tác khác thường được cho là đã thất truyền.
+tagCraftShardBeronathDesc=Chuyển hóa thép thành một mảnh của chiếc Beronath thần thánh.
+tagCraftRelicDesc=Kỹ năng rèn cổ xưa được cho là đã thất truyền trong sự kiện Grim Dawn.
+tagCraftTransmuteDesc=Thông qua nhiệt độ của lò rèn và một chút giả kim thuật, những vật liệu hiếm có thể được chuyển hóa thành những tác phẩm cũng hiếm tương đương.
+tagCraftRandomLegendaryDesc=Thợ rèn kết hợp năng lượng huyền bí bên trong những vật thể này để tạo ra một vật phẩm với chất lượng Huyền thoại, lên tới cấp 75. Nhân vật dưới cấp 50 sẽ chỉ chế được một vật phẩm có chất lượng Xịn.
+tagCraftRandomLegendaryAccessoryDesc=Thợ rèn kết hợp năng lượng huyền bí bên trong những vật thể này để tạo ra một vật phẩm với chất lượng Huyền thoại, lên tới cấp 75. Nhân vật dưới cấp 58 sẽ chỉ chế được một vật phẩm có chất lượng Xịn.
+
+tagCraftRandomAxe=Rìu
+tagCraftRandomBlunt=Chùy
+tagCraftRandomCrossbow2h=Nỏ
+tagCraftRandomFocus=Trang bị Tay chiêu
+tagCraftRandomGun2h=Súng trường
+tagCraftRandomShield=Khiên
+tagCraftRandomSword=Kiếm
+tagCraftRandomGun1h=Súng ngắn
+tagCraftRandomAxe2h=Rìu lớn
+tagCraftRandomBlunt2h=Chùy lớn
+tagCraftRandomSword2h=Kiếm lớn
+tagCraftRandomCasterWeapon_01=Vũ khí thuộc tính Băng
+tagCraftRandomCasterWeapon_02=Vũ khí thuộc tính Lửa
+tagCraftRandomCasterWeapon_03=Vũ khí thuộc tính A-xít
+tagCraftRandomCasterWeapon_04=Vũ khí thuộc tính Sét
+tagCraftRandomCasterWeapon_05=Vũ khí thuộc tính Sinh khí
+tagCraftRandomCasterWeapon_06=Vũ khí thuộc tính Hỗn nguyên
+tagCraftRandomCasterWeapon_07=Vũ khí thuộc tính Aether
+
+tagCraftRandomRing=Nhẫn
+tagCraftRandomNecklace=Dây chuyền
+tagCraftRandomMedal=Mề-đay
+tagCraftRandomBelt=Thắt lưng
+
+tagCraftRandomFeet_Heavy=Giày nặng
+tagCraftRandomFeet_Light=Giày
+tagCraftRandomHands_Heavy=Bao tay nặng
+tagCraftRandomHands_Light=Bao tay
+tagCraftRandomHead_Caster=Mũ vải
+tagCraftRandomHead_Heavy=Mũ giáp nặng
+tagCraftRandomHead_Light=Mũ giáp
+tagCraftRandomLegs_Heavy=Quần giáp nặng
+tagCraftRandomLegs_Light=Quần giáp
+tagCraftRandomShoulder_Heavy=Giáp vai nặng
+tagCraftRandomShoulder_Light=Giáp vai
+tagCraftRandomTorso_Caster=Áo vải
+tagCraftRandomTorso_Heavy=Áo giáp nặng
+tagCraftRandomTorso_Light=Áo giáp
+
+tagCraftRandomLegendary_Armor=Giáp Huyền thoại
+tagCraftRandomLegendary_Accessory=Trang sức Huyền thoại
+tagCraftRandomLegendary_MeleeWeapon=Vũ khí Cận chiến Huyền thoại
+tagCraftRandomLegendary_RangedWeapon=Vũ khí Tầm xa Huyền thoại
+tagCraftRandomLegendary_CasterWeapon=Pháp khí Huyền thoại
+
+
+tagSuppliesIncomplete=Crafting Supply Parts
+tagSuppliesComplete=Crafting Supplies
+tagSuppliesNumber={%s0 - %d1 / %d2}
+tagSuppliesBonus=
+tagSuppliesHelp=[Crafting Supplies are used with Blueprints]
+tagSuppliesError=
+
+
+#Consumables
+
+tagScrollDirections=[Nhấp Chuột phải để Ăn]
+tagUseDirections=[Nhấp Chuột phải để Sử dụng]
+
+tagConsumableRoyalJellyBalmBlueprint=Công thức: Dầu thơm Thạch Ong chúa
+tagConsumableRoyalJellyBalmBlueprintDesc="Một loại thuốc bí truyền của những Du dân."
+tagConsumableBlueprintA01=Công thức: Thuốc mỡ Kháng lửa
+tagConsumableBlueprintA02=Công thức: Thuốc mỡ Kháng băng
+tagConsumableBlueprintA03=Công thức: Thuốc mỡ Kháng sét
+tagConsumableBlueprintA04=Công thức: Thuốc mỡ Kháng độc
+tagConsumableBlueprintA05=Công thức: Thuốc mỡ Huyết hệ
+tagConsumableBlueprintA06=Công thức: Thuốc mỡ Diệt linh hồn
+tagConsumableBlueprintA07=Công thức: Lời thì thầm của Cái chết
+tagConsumableBlueprintA08=Công thức: Thuốc mỡ Sương muối
+tagConsumableBlueprintA09=Công thức: Dầu Hút máu
+tagConsumableBlueprintA10=Công thức: Dầu Nanh độc
+tagConsumableBlueprintA11=Công thức: Dầu Nanh máu
+tagConsumableBlueprintA12=Công thức: Dầu Bí truyền
+tagConsumableBlueprintA13=Công thức: Thần dược của Tổ tiên
+tagConsumableBlueprintA13Desc="Một thuật đã bị lãng quên sử dụng tới ma thuật cấm kỵ."
+tagConsumableBlueprintA14=Công thức: Thần dược Aether
+tagConsumableBlueprintA14Desc="Đồ uống hoàn thiện bởi hội Gildam Arcanum để thanh lọc tâm hồn khỏi những vướng bận."
+tagConsumableBlueprintA15=Công thức: Thần dược Hư không
+tagConsumableBlueprintA15Desc="Thứ đồ uống thường được những tín đồ Giáo phái thờ Ch'thon sử dụng để mang bản thân đến gần hơn với chúa của chúng."
+tagConsumableBlueprintA16=Công thức: Thần dược Thợ săn
+tagConsumableBlueprintA16Desc="Một hỗn hợp được các thợ săn sử dụng để theo dấu con mồi tốt hơn."
+tagConsumableBlueprintA17=Công thức: Chiết xuất Thạch Ong chúa
+tagConsumableBlueprintA18=Công thức: Tinh chất Thạch Ong chúa
+tagConsumableBlueprintA19=Công thức: Sáp Ong chúa
+tagConsumableBlueprintA19Desc="Một loại thuốc bí truyền của những Du dân."
+tagConsumableBlueprintA20=Công thức: Thuốc mỡ Thạch Ong chúa
+tagConsumableBlueprintA20Desc="Một loại thuốc bí truyền của những Du dân."
+
+tagConsumable_RoyalJellyBalm=Dầu thơm Thạch Ong chúa
+tagConsumable_RoyalJellyBalmDesc="Đồ uống nhẹ làm từ Thạch Ong chúa cô đặc."
+tagConsumableA01=Thuốc mỡ Kháng lửa
+tagConsumableA01Desc="Một chất lỏng nặng mùi không bắt lửa."
+tagConsumableA02=Thuốc mỡ Kháng băng
+tagConsumableA02Desc="Một hợp chất đặc tạo cảm giác ấm áp kỳ lạ khi chạm vào."
+tagConsumableA03=Thuốc mỡ Kháng sét
+tagConsumableA03Desc="Một hợp chất nhớt có khả năng cách điện."
+tagConsumableA04=Thuốc mỡ Kháng độc
+tagConsumableA04Desc="Một hợp chất có mùi thơm trung hòa được hầu hết các loại độc dược."
+tagConsumableA05=Thuốc mỡ Huyết hệ
+tagConsumableA05Desc="Một hợp chất sền sệt liên tục chuyển đổi giữa màu đen và màu đỏ máu."
+tagConsumableA06=Thuốc mỡ Diệt linh hồn
+tagConsumableA06Desc="Một hợp chất phát quang tỏa ra sự ấm áp kỳ lạ."
+tagConsumableA07=Thuốc mỡ Lời thì thầm của Cái chết
+tagConsumableA07Desc="Một hỗn hợp gây buồn nôn vẫn còn sủi bọt ngay cả sau khi bôi."
+tagConsumableA08=Thuốc mỡ Sương muối
+tagConsumableA08Desc="Một hỗn hợp nhờn ấm tới mức gần như gây bỏng khi chạm vào."
+tagConsumableA09=Dầu Hút máu
+tagConsumableA09Desc="Một loại độc dược ghê tởm dùng để rút sự sống ra khỏi đối tượng nó nhắm vào."
+tagConsumableA10=Dầu Nanh độc
+tagConsumableA10Desc="Một loại độc dược được trộm từ chất độc của nhiều sinh vật khác nhau, thêm vào cả chút nọc của slith nữa."
+tagConsumableA11=Dầu Nanh máu
+tagConsumableA11Desc="Một loại độc dược gây xuất huyết nặng lên mục tiêu."
+tagConsumableA12=Dầu Bí truyền
+tagConsumableA12Desc="Một hợp chất được hội Gildam Arcanum sử dụng để tăng cường những thuộc tính chính của vũ khí."
+tagConsumableA13=Thần dược của Tổ tiên
+tagConsumableA13Desc="Linh dược mạnh mẽ thu được từ những con quái thú cổ xưa ở xứ Cairn."
+tagConsumableA14=Thần dược Aether
+tagConsumableA14Desc="Linh dược mạnh mẽ thu được từ tinh chất của Aether."
+tagConsumableA15=Thần dược Hư không
+tagConsumableA15Desc="Linh dược mạnh mẽ thu được từ ma thuật dùng máu."
+tagConsumableA16=Thần dược Thợ săn
+tagConsumableA16Desc="Linh dược mạnh mẽ được những thợ săn và sát thủ sử dùng để theo dấu con mồi tốt hơn."
+tagConsumableA17=Chiết xuất Thạch Ong chúa
+tagConsumableA17Desc="Dạng cô đặc của Thạch Ong chúa giúp làm trí não nhạy bén hơn."
+tagConsumableA18=Tinh chất Thạch Ong chúa
+tagConsumableA18Desc="Thức uống bổ sung năng lượng được làm từ Thạch Ong chúa."
+tagConsumableA19=Sáp Ong chúa
+tagConsumableA19Desc="Đồ uống nhẹ làm từ Thạch Ong chúa cô đặc."
+tagConsumableA20=Thuốc mỡ Thạch Ong chúa
+tagConsumableA20Desc="Đồ uống nhẹ làm từ Thạch Ong chúa cô đặc."
+tagConsumableA21=
+tagConsumableA21Desc=
+tagConsumableA22=Cụm Aether
+tagConsumableA22Desc="Một cụm lớn Tinh thể Aether, liên tục phát ra thứ năng lượng kỳ lạ."
+
+tagConsumableF01=Dầu Thạch tâm
+tagConsumableF01Desc="Một loại dầu làm khiên cứng hơn và nhẹ hơn."
+tagConsumableF02=Cồn Máu Slith
+tagConsumableF02Desc="Khi đập vỡ lọ sẽ giải phóng một đám mây độc ra xung quanh bạn."
+tagConsumableF03=Dầu của người Rhowar
+tagConsumableF03Desc="Độc dược thu được từ bọn undead lang thang khắp Cựu Arkovia."
+tagConsumableF04=Cồn Thú nộ
+tagConsumableF04Desc="Khi đập vỡ lọ sẽ khiến đám đệ của bạn trở nên điên cuồng."
+tagConsumableF05=Dầu Ong
+tagConsumableF05Desc="Độc dược thu được từ tuyến nọc của Dermapteran."
+tagConsumableF06=Cồn Can đảm
+tagConsumableF06Desc="Khi đập vỡ lọ sẽ khích động đồng đội đứng xung quanh."
+tagConsumableF07=Dầu Truy tâm
+tagConsumableF07Desc="Độc dược do những sát thủ Quân đoàn Đen sáng chế ra."
+tagConsumableF08=Cồn Kiếm phòng hộ
+tagConsumableF08Desc="Khi đập vỡ lọ sẽ gọi ra những lưỡi kiếm xoay quanh bạn."
+tagConsumableF09=Dầu Lãnh huyết
+tagConsumableF09Desc="Một loại độc dược ma thuật khiến máu của kẻ địch đóng băng."
+tagConsumableF10=Cồn Băng vệ
+tagConsumableF10Desc="Khi đập vỡ lọ sẽ giải phóng một làn gió lạnh thấu xương quấn quanh bạn."
+tagConsumableF11=Dầu thiêng của Kymon
+tagConsumableF11Desc="Loại dầu thánh được Kymon đích thân ban phước để thiêu đốt kẻ thù của bạn."
+tagConsumableF12=Cồn Cuồng nộ của Kymon
+tagConsumableF12Desc="Khi đập vỡ lọ sẽ giải phóng cơn thịnh nộ thiêng liêng của Kymon ra khắp xung quanh bạn."
+
+tagConsumable_DevotionReset=Nước Tinh chất
+tagConsumable_DevotionReset_Desc="Thanh tẩy tâm hồn và chuẩn bị nó cho một hành trình tâm linh mới."
+
+#DLC
+tagDLCIllusionRemoval=Xóa-Ảo-Ảnh
+tagDLCIllusionRemovalDesc="Chứa đầy bột tẩy Ảo ảnh xịn 100%."
+tagDLCIllusionA01=Ảo ảnh: Tóc Trang trí
+tagDLCA01=Ảo ảnh: Tóc Trang trí
+tagDLCA01Desc="Định nghĩa của phong cách và sự tinh tế."
+tagDLCIllusionA02=Ảo ảnh: Áo Giang hồ
+tagDLCA02=Ảo ảnh: Áo Giang hồ
+tagDLCA02Desc="Lựa chọn hàng đầu của những người ưa phiêu lưu khắp nơi."
+tagDLCIllusionA03=Ảo ảnh: Danh hiệu Nhà tài trợ
+tagDLCA03=Danh hiệu Nhà tài trợ
+tagDLCA03Desc="Chứng nhận cho những nhà tài trợ tận tâm nhất."
+tagDLCIllusionA04=Ảo ảnh: Huân chương Cống hiến Kickstarter
+tagDLCA04=Huân chương Cống hiến Kickstarter
+tagDLCA04Desc="Một phù hiệu nhà binh từ cuộc Đại chiến Kickstarter năm 2012."
+tagDLCIllusionA05=Ảo ảnh: Huân chương Cựu binh Kickstarter
+tagDLCA05=Huân chương Cựu binh Kickstarter
+tagDLCA05Desc="Một phù hiệu dành cho cựu chiến binh trong cuộc Đại chiến Kickstarter năm 2012."
+tagDLCIllusionA06=Ảo ảnh: Huân chương Sĩ quan Kickstarter
+tagDLCA06=Huân chương Sĩ quan Kickstarter
+tagDLCA06Desc="Một phù hiệu dành cho sĩ quan trong cuộc Đại chiến Kickstarter năm 2012."
+tagDLCIllusionA07=Ảo ảnh: Mũ Đô đốc
+tagDLCA07=Ảo ảnh: Mũ Đô đốc
+tagDLCA07Desc="Luôn đi tiên phong, dù trên đất liền hay biển."
+tagDLCIllusionA08=Ảo ảnh: Mũ của Đại tướng Miền nam
+tagDLCA08=Ảo ảnh: Mũ của Đại tướng Miền nam
+tagDLCA08Desc="Chiếc mũ gợi lên lòng trung thành không gì lay chuyển nổi."
+tagDLCIllusionA09=Ảo ảnh: Mũ của Kẻ cướp bóc
+tagDLCA09=Ảo ảnh: Mũ của Kẻ cướp bóc
+tagDLCA09Desc="Chiếc mũ này đã trải qua vô số cuộc xung đột đẫm máu."
+tagDLCIllusionA10=Ảo ảnh: Mũ Chiến binh Can trường
+tagDLCA10=Ảo ảnh: Mũ Chiến binh Can trường
+tagDLCA10Desc="Danh dự ở khắp mọi nơi."
+tagDLCConsumableA01=Ma trơi trong lọ
+tagDLCConsumableA01Desc="Một linh hồn vô hại, bị nhốt trong lọ."
+tagDLCConsumableA01PetSkill01=Hào quang Ma trơi
+tagDLCConsumableA01PetSkill01Desc=Đốm lửa Ma trơi tỏa ra quanh bạn một luồng sáng ấm áp xuyên qua màn đêm.
+tagDLCConsumableA02=Bia Burrwitch
+tagDLCConsumableA02Desc="Không dành cho kẻ yếu tim. Tác dụng phụ có thể bao gồm: chóng mặt, nôn mửa, quên tối qua mình đã ở đâu."
+
+#ItemNote
+
+tagNoteHelp=[Nhấp Chuột phải để Đọc]
+tagNoteKnown=[Đã Đọc]
+tagNoteExcerpt="{%t}.."
+
+#ItemEnchantment
+
+tagEnchanted=Đã nâng cấp 
+tagEnchantmentName=Nâng cấp
+tagEnchantmentUsable=[Nhấp Chuột phải để Nâng cấp Vật phẩm]
+tagEnchantmentUnusable=[Không thể Dùng - Chưa đạt Yêu cầu]
+tagEnchantmentConfirmation=Bạn chắc mình muốn áp dụng Nâng cấp này chứ?
+tagEnchantmentOverwrite=Bạn chắc mình muốn thay thế Nâng cấp hiện có chứ?
+tagEnchantmentSoulboundConfirmation=Bạn chắc mình muốn áp dụng Nâng cấp này chứ? Nâng cấp món đồ này sẽ khóa nó.
+tagEnchantmentSoulboundOverwrite=Bạn chắc mình muốn thay thế Nâng cấp hiện có chứ? Nâng cấp món đồ này sẽ khóa nó.
+tagEnchantmentSoulboundRemoval=Bạn chắc mình muốn thay thế Nâng cấp hiện có chứ? Thay thế Nâng cấp hiện có sẽ loại bỏ trạng thái Khóa của vật phẩm.
+
+tagEnchantTest=TEST NAME
+tagEnchantTestDesc="A test description."^w^n(Dùng cho nhẫn)
+
+tagEnchantA001A=Manticore Venom
+tagEnchantA001B=Manticore Venom II
+tagEnchantA001C=Manticore Venom III
+tagEnchantA001Desc="Độc dược mạnh trích xuất từ Manticore gây bỏng da khi chạm phải."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA002A=Potent Manticore Venom
+tagEnchantA002B=Potent Manticore Venom II
+tagEnchantA002C=Potent Manticore Venom III
+tagEnchantA002Desc="Độc dược mạnh trích xuất từ Manticore gây bỏng da khi chạm phải."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA003A=Voidbeast Powder
+tagEnchantA003B=Voidbeast Powder II
+tagEnchantA003C=Voidbeast Powder III
+tagEnchantA003Desc="Chất bột mịn thu được từ xác khô của những quái thú Âm binh."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA004A=Potent Voidbeast Powder
+tagEnchantA004B=Potent Voidbeast Powder II
+tagEnchantA004C=Potent Voidbeast Powder III
+tagEnchantA004Desc="Chất bột mịn thu được từ xác khô của những quái thú Âm binh."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA005A=Blacksteel Powder
+tagEnchantA005B=Blacksteel Powder II
+tagEnchantA005C=Blacksteel Powder III
+tagEnchantA005Desc="Hỗn hợp của sắt và nhiều loại kháng chất theo công thức chỉ thành viên Quân đoàn Đen được biết."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA006A=Potent Blacksteel Powder
+tagEnchantA006B=Potent Blacksteel Powder II
+tagEnchantA006C=Potent Blacksteel Powder III
+tagEnchantA006Desc="Hỗn hợp của sắt và nhiều loại kháng chất theo công thức chỉ thành viên Quân đoàn Đen được biết."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA007A=Aether Dust
+tagEnchantA007B=Aether Dust II
+tagEnchantA007C=Aether Dust III
+tagEnchantA007Desc="Bột thu được từ xác của một sinh vật Aether bị dính một lượng lớn muối."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA008A=Potent Aether Dust
+tagEnchantA008B=Potent Aether Dust II
+tagEnchantA008C=Potent Aether Dust III
+tagEnchantA008Desc="Bột thu được từ xác của một sinh vật Aether bị dính một lượng lớn muối."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA009A=Arkovian Rose Powder
+tagEnchantA009B=Arkovian Rose Powder II
+tagEnchantA009C=Arkovian Rose Powder III
+tagEnchantA009Desc="Bột thu được từ một loài hoa đỏ rực chỉ mọc trên đỉnh những ngọn núi ở Cựu Arkovia."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA010A=Rotbloom Powder
+tagEnchantA010B=Rotbloom Powder II
+tagEnchantA010C=Rotbloom Powder III
+tagEnchantA010Desc="Bột thu được từ một loài hoa màu nâu xám mọc ở những nơi có xác chết thối rữa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA011A=Slithweed Powder
+tagEnchantA011B=Slithweed Powder II
+tagEnchantA011C=Slithweed Powder III
+tagEnchantA011Desc="Bột có mùi hôi thu được từ một loại cỏ mọc nhiều ở đầm lầy và bãi thải."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA012A=Stormtail Viper Venom
+tagEnchantA012B=Stormtail Viper Venom II
+tagEnchantA012C=Stormtail Viper Venom III
+tagEnchantA012Desc="Bột lóe lên ánh năng lượng, được trích xuất cẩn thận từ nọc của một con Stormtail Viper."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA013A=Arkovian Bonemeal
+tagEnchantA013B=Arkovian Bonemeal II
+tagEnchantA013C=Arkovian Bonemeal III
+tagEnchantA013Desc="Xương bị nghiền nát của những người Arkovia bị nguyền, được các trưởng lão Du dân làm cho an toàn để sử dụng."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA014A=Potent Arkovian Bonemeal
+tagEnchantA014B=Potent Arkovian Bonemeal II
+tagEnchantA014C=Potent Arkovian Bonemeal III
+tagEnchantA014Desc="Xương bị nghiền nát của những người Arkovia bị nguyền, được các trưởng lão Du dân làm cho an toàn để sử dụng."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA015A=Troll Wart Powder
+tagEnchantA015B=Troll Wart Powder II
+tagEnchantA015C=Troll Wart Powder III
+tagEnchantA015Desc="Bột thu được từ bướu của những con troll cổ đại. Khi thao tác nhớ đeo găng tay."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA016A=Potent Troll Wart Powder
+tagEnchantA016B=Potent Troll Wart Powder II
+tagEnchantA016C=Potent Troll Wart Powder III
+tagEnchantA016Desc="Bột thu được từ bướu của những con troll cổ đại. Khi thao tác nhớ đeo găng tay."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA017A=Boneback Spine
+tagEnchantA017B=Boneback Spine II
+tagEnchantA017C=Boneback Spine III
+tagEnchantA017Desc="Bột thô lấy từ xương sống của loài chuột Boneback."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA018A=Slith Venom
+tagEnchantA018B=Slith Venom II
+tagEnchantA018C=Slith Venom III
+tagEnchantA018Desc="Bột trích xuất từ nọc độc của bọn Slith chúa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA019A=Gazer Eye
+tagEnchantA019B=Gazer Eye II
+tagEnchantA019C=Gazer Eye III
+tagEnchantA019Desc="Bột thu được từ những con mắt bị nghiền nát của bọn Aetherial Gazer."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA020A=Corpsefiend Tentacle
+tagEnchantA020B=Corpsefiend Tentacle II
+tagEnchantA020C=Corpsefiend Tentacle III
+tagEnchantA020Desc="Thứ bột này vẫn tiếp tục chuyển động trong túi, cứ như nó vẫn còn sống vậy."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA021A=Voidvine Powder
+tagEnchantA021B=Voidvine Powder II
+tagEnchantA021C=Voidvine Powder III
+tagEnchantA021Desc="Bột thu được từ một loại dây leo phát triển tràn lan khắp vùng Hư không của bọn Âm binh."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA022A=Potent Voidvine Powder
+tagEnchantA022B=Potent Voidvine Powder II
+tagEnchantA022C=Potent Voidvine Powder III
+tagEnchantA022Desc="Bột thu được từ một loại dây leo phát triển tràn lan khắp vùng Hư không của bọn Âm binh."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA023A=Stonetusk Hoof
+tagEnchantA023B=Stonetusk Hoof II
+tagEnchantA023C=Stonetusk Hoof III
+tagEnchantA023Desc="Bột thu được từ việc nghiền móng của một con lợn rừng Stonetusk, một chu trình bao gồm nhiều nhát đập với một chiếc búa tạ."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA024A=Potent Stonetusk Hoof
+tagEnchantA024B=Potent Stonetusk Hoof II
+tagEnchantA024C=Potent Stonetusk Hoof III
+tagEnchantA024Desc="Bột thu được từ việc nghiền móng của một con lợn rừng Stonetusk, một chu trình bao gồm nhiều nhát đập với một chiếc búa tạ."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA025A=Dermapteran Chitin
+tagEnchantA025B=Dermapteran Chitin II
+tagEnchantA025C=Dermapteran Chitin III
+tagEnchantA025Desc="Bột thu được từ lớp vỏ cứng của Dermapteran, sau khi chúng đã được xử lý kỹ với a-xít."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA026A=Potent Dermapteran Chitin
+tagEnchantA026B=Potent Dermapteran Chitin II
+tagEnchantA026C=Potent Dermapteran Chitin III
+tagEnchantA026Desc="Bột thu được từ lớp vỏ cứng của Dermapteran, sau khi chúng đã được xử lý kỹ với a-xít."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA027A=Raincaller Powder
+tagEnchantA027B=Raincaller Powder II
+tagEnchantA027C=Raincaller Powder III
+tagEnchantA027Desc="Dân gian kháo nhau về một loại bột phù phép, khi đươc ném vào một đống lửa bởi thầy mo trong làng, sẽ gọi mưa tới nội trong nửa tháng."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA028A=Potent Raincaller Powder
+tagEnchantA028B=Potent Raincaller Powder II
+tagEnchantA028C=Potent Raincaller Powder III
+tagEnchantA028Desc="Dân gian kháo nhau về một loại bột phù phép, khi đươc ném vào một đống lửa bởi thầy mo trong làng, sẽ gọi mưa tới nội trong nửa tháng."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA029A=Divine Flame
+tagEnchantA029B=Divine Flame II
+tagEnchantA029C=Divine Flame III
+tagEnchantA029Desc="Bột được Đoàn Tinh binh của Kymon sử dụng trong các nghi lễ. Khi ném vào lò lửa, nó sẽ phụt ra tia lửa hồng rực. "^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA030A=Blessed Ashes
+tagEnchantA030B=Blessed Ashes II
+tagEnchantA030C=Blessed Ashes III
+tagEnchantA030Desc="Tro từ thi thể một thành viên đoàn Tinh binh của Kymon."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA031A=Consecrated Silver
+tagEnchantA031B=Consecrated Silver II
+tagEnchantA031C=Consecrated Silver III
+tagEnchantA031Desc="Bạc được thánh hóa trong ngọn lửa thiêng để chiến đấu với bọn Âm binh đồi bại."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA032A=Ritual Salts
+tagEnchantA032B=Ritual Salts II
+tagEnchantA032C=Ritual Salts III
+tagEnchantA032Desc="Muối dùng trong những nghi thức gọi hồn, thường là để đánh dấu vòng làm lễ và ngăn chặn những linh hồn chưa yên nghỉ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA033A=Necrotic Flesh
+tagEnchantA033B=Necrotic Flesh II
+tagEnchantA033C=Necrotic Flesh III
+tagEnchantA033Desc="Bột thu được từ thịt những người đã chết từ lâu, dùng để tăng sức mạnh cho các nghi thức gọi hồn."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA034A=Mortal Coil
+tagEnchantA034B=Mortal Coil II
+tagEnchantA034C=Mortal Coil III
+tagEnchantA034Desc="Tinh chất của những linh hồn chưa yên nghỉ, cô lại thành dạng vật chất bởi những nghi thức cấm kỵ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA035A=Winterbloom Powder
+tagEnchantA035B=Winterbloom Powder II
+tagEnchantA035C=Winterbloom Powder III
+tagEnchantA035Desc="Bột lấy từ một loài hoa màu xanh tái kỳ lạ thường chỉ thấy nở vào những tháng mùa đông khắc nghiệt."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA036A=Potent Winterbloom Powder
+tagEnchantA036B=Potent Winterbloom Powder II
+tagEnchantA036C=Potent Winterbloom Powder III
+tagEnchantA036Desc="Bột lấy từ một loài hoa màu xanh tái kỳ lạ thường chỉ thấy nở vào những tháng mùa đông khắc nghiệt."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA037A=Witch's Powder
+tagEnchantA037B=Witch's Powder II
+tagEnchantA037C=Witch's Powder III
+tagEnchantA037Desc="Dù bị coi là bất hợp pháp, loại bột này vẫn thường được các thầy pháp của Quân đoàn sử dụng."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA038A=Potent Witch's Powder
+tagEnchantA038B=Potent Witch's Powder II
+tagEnchantA038C=Potent Witch's Powder III
+tagEnchantA038Desc="Dù bị coi là bất hợp pháp, loại bột này vẫn thường được các thầy pháp của Quân đoàn sử dụng."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA039A=Conjurer's Powder
+tagEnchantA039B=Conjurer's Powder II
+tagEnchantA039C=Conjurer's Powder III
+tagEnchantA039Desc="Bột được các Du dân dùng trong nhiều nghi thức và thiền định khác nhau. Có hiệu quả bất ngờ trong những nghi thức triệu hồi."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA040A=Rifthound Salts
+tagEnchantA040B=Rifthound Salts II
+tagEnchantA040C=Rifthound Salts III
+tagEnchantA040Desc="Bột thu được từ da phát quang của một con rifthound chúa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA041A=Beast Tamer's Powder
+tagEnchantA041B=Beast Tamer's Powder II
+tagEnchantA041C=Beast Tamer's Powder III
+tagEnchantA041Desc="Một chất xoa dịu được những nông dân ở Homestead dùng để thuần hóa các loài động vật hoang dã."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantA042A=Potent Beast Tamer's Powder
+tagEnchantA042B=Potent Beast Tamer's Powder II
+tagEnchantA042C=Potent Beast Tamer's Powder III
+tagEnchantA042Desc="Một chất xoa dịu được những nông dân ở Homestead dùng để thuần hóa các loài động vật hoang dã."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantA043A=Firebloom Powder
+tagEnchantA043B=Firebloom Powder II
+tagEnchantA043C=Firebloom Powder III
+tagEnchantA043Desc="Bột thu được từ một loài hoa rất nóng khi chạm phải, thường được tìm thấy bên trong núi lửa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA044A=Storm Powder
+tagEnchantA044B=Storm Powder II
+tagEnchantA044C=Storm Powder III
+tagEnchantA044Desc="Một loại bột xanh lấp lánh với sức mạnh từ sấm sét."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA045A=Binding Dust
+tagEnchantA045B=Binding Dust II
+tagEnchantA045C=Binding Dust III
+tagEnchantA045Desc="Bụi được người trong Hội sử dụng để buộc những sinh vật undead vào ý chí của họ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantA046A=Chillheart Powder
+tagEnchantA046B=Chillheart Powder II
+tagEnchantA046C=Chillheart Powder III
+tagEnchantA046Desc="Bột thu được từ thây ma. Dường như lúc nào nó cũng sẵn sàng hút nhiệt từ không khí xung quanh."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB001A=Ulgrim's Guile
+tagEnchantB001B=Ulgrim's Guile II
+tagEnchantB001BC=Ulgrim's Guile III
+tagEnchantB001Desc="Không ai biết chắc Lưỡi đao Tiên phong của Hoàng đế đã dùng những gì để tạo ra thứ bột phù phép này, nhưng cũng không ai thắc mắc về tác dụng của nó."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB002A=Potent Ulgrim's Guile
+tagEnchantB002B=Potent Ulgrim's Guile II
+tagEnchantB002BC=Potent Ulgrim's Guile III
+tagEnchantB002Desc="Không ai biết chắc Lưỡi đao Tiên phong của Hoàng đế đã dùng những gì để tạo ra thứ bột phù phép này, nhưng cũng không ai thắc mắc về tác dụng của nó."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB003A=Creed's Cunning
+tagEnchantB003B=Creed's Cunning II
+tagEnchantB003BC=Creed's Cunning III
+tagEnchantB003Desc="Bột của viên thanh tra, chỉ đưa cho những đồng minh thân cận nhất, lóe sáng với những năng lượng huyền bí."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB004A=Potent Creed's Cunning
+tagEnchantB004B=Potent Creed's Cunning II
+tagEnchantB004BC=Potent Creed's Cunning III
+tagEnchantB004Desc="Bột của viên thanh tra, chỉ đưa cho những đồng minh thân cận nhất, lóe sáng với những năng lượng huyền bí."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB005A=Oleron's Fervor
+tagEnchantB005B=Oleron's Fervor II
+tagEnchantB005BC=Oleron's Fervor III
+tagEnchantB005Desc="Nhiều đơn vị của Quân đoàn Đen thường hô vang tên của thần chiến tranh khi xông vào trận đánh. Món nâng cấp này, chỉ được phát cho những sĩ quan, được đặt tên để vinh danh vị thần bảo trợ của quân đoàn."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB006A=Potent Oleron's Fervor
+tagEnchantB006B=Potent Oleron's Fervor II
+tagEnchantB006BC=Potent Oleron's Fervor III
+tagEnchantB006Desc="Nhiều đơn vị của Quân đoàn Đen thường hô vang tên của thần chiến tranh khi xông vào trận đánh. Món nâng cấp này, chỉ được phát cho những sĩ quan, được đặt tên để vinh danh vị thần bảo trợ của quân đoàn."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB007A=Aetherstorm Powder
+tagEnchantB007B=Aetherstorm Powder II
+tagEnchantB007BC=Aetherstorm Powder III
+tagEnchantB007Desc="Pháp sư của Quân đoàn Đen tin rằng cách tốt nhất chống lại kẻ địch là dùng chính sức mạnh của chúng. Loại bột này là một ví dụ hiếm hoi khi những thử nghiệm như vậy được chấp thuận."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB008A=Potent Aetherstorm Powder
+tagEnchantB008B=Potent Aetherstorm Powder II
+tagEnchantB008BC=Potent Aetherstorm Powder III
+tagEnchantB008Desc="Pháp sư của Quân đoàn Đen tin rằng cách tốt nhất chống lại kẻ địch là dùng chính sức mạnh của chúng. Loại bột này là một ví dụ hiếm hoi khi những thử nghiệm như vậy được chấp thuận."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB009A=Essence of Ch'thon
+tagEnchantB009B=Essence of Ch'thon II
+tagEnchantB009BC=Essence of Ch'thon III
+tagEnchantB009Desc="Vũ khí được bọc bởi nội tạng của những Âm binh thường trở nên méo mó và biến dạng, nhưng làm vậy sẽ giúp nắm bắt được tinh hoa của hư không."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB010A=Potent Essence of Ch'thon
+tagEnchantB010B=Potent Essence of Ch'thon II
+tagEnchantB010BC=Potent Essence of Ch'thon III
+tagEnchantB010Desc="Vũ khí được bọc bởi nội tạng của những Âm binh thường trở nên méo mó và biến dạng, nhưng làm vậy sẽ giúp nắm bắt được tinh hoa của hư không."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB011A=Rhowan's Wisdom
+tagEnchantB011B=Rhowan's Wisdom II
+tagEnchantB011BC=Rhowan's Wisdom III
+tagEnchantB011Desc="Rhowan, vị vua cuối cùng của Arkovia và là người lập ra tộc Rhowari, đại diện cho sự thông thái giữa những Du dân. Món nâng cấp này được đặt để vinh danh ông."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB012A=Mogdrogen's Sanctity
+tagEnchantB012B=Mogdrogen's Sanctity II
+tagEnchantB012BC=Mogdrogen's Sanctity III
+tagEnchantB012Desc="Truyền thuyết kể về giai đoạn khi Mogdrogen, vị thần thú, giao ước với Rhowan rằng sẽ không loài vật nào làm hại tới ông ta hay thần dân của ông ta nếu họ không bao giờ động tới gươm đao. Không may là dường như những động vật bị ảnh hưởng bởi aether không chia sẻ quan điểm này."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB013A=Traveler's Boon
+tagEnchantB013B=Traveler's Boon II
+tagEnchantB013BC=Traveler's Boon III
+tagEnchantB013Desc="Mỗi Du dân trước khi lên đường cho một hành trình dài sẽ được những trưởng lão chuẩn bị cho thứ này để bảo vệ họ trên con đường dài phía trước."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB014A=Breath of Life
+tagEnchantB014B=Breath of Life II
+tagEnchantB014BC=Breath of Life III
+tagEnchantB014Desc="Tinh thần của mùa xuân, sự hồi sinh, hơi thở của một cuộc đời mới."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB015A=Winter's Chill
+tagEnchantB015B=Winter's Chill II
+tagEnchantB015BC=Winter's Chill III
+tagEnchantB015Desc="Tinh túy từ cái lạnh mùa đông, một sức mạnh kinh khủng của sự chuyển biến và thanh lọc thế giới cũ, đánh dấu một sự khởi đầu mới."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB016A=Rhowan's Resolve
+tagEnchantB016B=Rhowan's Resolve II
+tagEnchantB016BC=Rhowan's Resolve III
+tagEnchantB016Desc="Rhowan, vị của cuối cùng của Arkovia và là người lập ra tộc Rhowari, được cho rằng đã từ bỏ hoàn toàn vương vị khi lên đường đi đó đây. Sự giác ngộ và quyết tâm của ông trong những thời điểm khó khăn đại diện cho mọi thứ mỗi Du dân phấn đấu vươn tới."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB017A=Survivor's Ingenuity
+tagEnchantB017B=Survivor's Ingenuity II
+tagEnchantB017BC=Survivor's Ingenuity III
+tagEnchantB017Desc="Với nguồn nhu yếu phẩm hạn chế, người dân ở Ngã tư Ác quỷ đã nghĩ ra những giải pháp thông minh để đối phó với hầu như mọi loại nguy cơ, và điều đó bao gồm cả việc nâng cấp."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB018A=Survivor's Resilience
+tagEnchantB018B=Survivor's Resilience II
+tagEnchantB018BC=Survivor's Resilience III
+tagEnchantB018Desc="Trong thời khắc ảm đạm nhất, ý chí sống sót của con người sẽ được phát huy ở mức tối đa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB019A=Survivor's Perseverance
+tagEnchantB019B=Survivor's Perseverance II
+tagEnchantB019BC=Survivor's Perseverance III
+tagEnchantB019Desc="Với sức mạnh của cả hỗn nguyên lẫn aether đang cận kề, những người sống sót đã thích ứng được với những nguy cơ mới này."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB020A=Cairn's Hope
+tagEnchantB020B=Cairn's Hope II
+tagEnchantB020BC=Cairn's Hope III
+tagEnchantB020Desc="Ngay cả khi đang dựng thành lũy cố thủ, những người sống sót vẫn hào hứng chuyện trò về một ngày thế giới sẽ sạch bóng những kẻ xâm lược."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB021A=Song of the Elements
+tagEnchantB021B=Song of the Elements II
+tagEnchantB021BC=Song of the Elements III
+tagEnchantB021Desc="Sahdina, người chỉ dẫn linh hồn, đã tạo ra nâng cấp này để kiềm chế sự xung đột giữa hai thế lực băng và lửa."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB022A=Viloth's Bite
+tagEnchantB022B=Viloth's Bite II
+tagEnchantB022BC=Viloth's Bite III
+tagEnchantB022Desc="Nữ chúa slith huyền thoại, Viloth, sản sinh là một loại mật có độc tính phi thường. Barnabas tìm được cách để chế biến nó thành bột, thứ giờ đây ông mang cho những người sẵn lòng chiến đấu vì Ngã tư Ác quỷ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB023A=Overseer's Gaze
+tagEnchantB023B=Overseer's Gaze II
+tagEnchantB023BC=Overseer's Gaze III
+tagEnchantB023Desc="Kasparov, chẳng lúc nào rời mắt khỏi những thí nghiệm, đã tình cờ phát hiện ra một công dụng cho con mắt của bọn Aetherial Overseers khi anh ta cố chế nó thành thuốc nổ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB024A=Nature's Harvest
+tagEnchantB024B=Nature's Harvest II
+tagEnchantB024BC=Nature's Harvest III
+tagEnchantB024Desc="Nông dân thường cầu nguyện cho vụ mùa bội thu. Những người ưa phép thuật biết cách ăn gian để có thứ mình muốn. Khi áp dụng vào vũ khí, sự phát triển thiếu kiểm soát này có thể là một thảm họa đối với da thịt."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB025A=Potent Nature's Harvest
+tagEnchantB025B=Potent Nature's Harvest II
+tagEnchantB025BC=Potent Nature's Harvest III
+tagEnchantB025Desc="Nông dân thường cầu nguyện cho vụ mùa bội thu. Những người ưa phép thuật biết cách ăn gian để có thứ mình muốn. Khi áp dụng vào vũ khí, sự phát triển thiếu kiểm soát này có thể là một thảm họa đối với da thịt."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB026A=Solar Radiance
+tagEnchantB026B=Solar Radiance II
+tagEnchantB026BC=Solar Radiance III
+tagEnchantB026Desc="Sức mạnh của mặt trời, bị giữ trong thứ bột phép này."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB027A=Potent Solar Radiance
+tagEnchantB027B=Potent Solar Radiance II
+tagEnchantB027BC=Potent Solar Radiance III
+tagEnchantB027Desc="Sức mạnh của mặt trời, bị giữ trong thứ bột phép này."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB028A=Menhir's Blessing
+tagEnchantB028B=Menhir's Blessing II
+tagEnchantB028BC=Menhir's Blessing III
+tagEnchantB028Desc="Đồn rằng mảnh đất nào được thần Menhir ban phước sẽ mạng đến những vụ mùa bội thu nhất. Khi được sử dụng đúng cách, lời ban phước này có thể được mở rộng ra cho công cụ, nhà cửa và cả vũ khí nữa."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB029A=Potent Menhir's Blessing
+tagEnchantB029B=Potent Menhir's Blessing II
+tagEnchantB029BC=Potent Menhir's Blessing III
+tagEnchantB029Desc="Đồn rằng mảnh đất nào được thần Menhir ban phước sẽ mạng đến những vụ mùa bội thu nhất. Khi được sử dụng đúng cách, lời ban phước này có thể được mở rộng ra cho công cụ, nhà cửa và cả vũ khí nữa."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB030A=Kymon's Will
+tagEnchantB030B=Kymon's Will II
+tagEnchantB030BC=Kymon's Will III
+tagEnchantB030Desc="Kymon, người được bề trên lựa chọn, ban một chút thân phận thần thánh của mình cho những kẻ xứng đáng và sẵn lòng xả thân."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB031A=Kymon's Fury
+tagEnchantB031B=Kymon's Fury II
+tagEnchantB031BC=Kymon's Fury III
+tagEnchantB031Desc="Những kẻ từng thấy Kymon thân chinh ra trận nói rằng ông ta chiến đấu với sự cuồng nộ đầy căm thù như chính những vị thần vậy."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB032A=Kymon's Vision
+tagEnchantB032B=Kymon's Vision II
+tagEnchantB032BC=Kymon's Vision III
+tagEnchantB032Desc="Tầm nhìn của Kymon về tương lai xứ Cairn đưa những Tinh binh của ông vào cơn cuồng nộ khi họ chiến đấu với những kẻ thù của Cairn."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB033A=Uroboruuk's Word
+tagEnchantB033B=Uroboruuk's Word II
+tagEnchantB033BC=Uroboruuk's Word III
+tagEnchantB033Desc="Trong bài học đầu tiên, đại sư Uroboruuk luôn chỉ thốt ra một từ duy nhất trong khi đặt tay lên một cái xác: Dậy."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB034A=Uroboruuk's Anguish
+tagEnchantB034B=Uroboruuk's Anguish II
+tagEnchantB034BC=Uroboruuk's Anguish III
+tagEnchantB034Desc="Đại sư Uroboruuk đã chịu đựng những khổ ải không nói thành lời trong tay người Arkovia. Món nâng cấp đáng sợ này cố tái hiện lại sự đau đớn của ông."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB035A=Uroboruuk's Path
+tagEnchantB035B=Uroboruuk's Path II
+tagEnchantB035BC=Uroboruuk's Path III
+tagEnchantB035Desc="Đi theo Uroboruuk nghĩa là truy cầu con đường của tri thức, bất kể nó dẫn tới đâu."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB036A=Outcast's Might
+tagEnchantB036B=Outcast's Might II
+tagEnchantB036BC=Outcast's Might III
+tagEnchantB036Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có sức mạnh của mười người."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB037A=Potent Outcast's Might
+tagEnchantB037B=Potent Outcast's Might II
+tagEnchantB037BC=Potent Outcast's Might III
+tagEnchantB037Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có sức mạnh của mười người."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB038A=Outcast's Frostbite
+tagEnchantB038B=Outcast's Frostbite II
+tagEnchantB038BC=Outcast's Frostbite III
+tagEnchantB038Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ băng."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB039A=Potent Outcast's Frostbite
+tagEnchantB039B=Potent Outcast's Frostbite II
+tagEnchantB039BC=Potent Outcast's Frostbite III
+tagEnchantB039Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ băng."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB040A=Outcast's Inferno
+tagEnchantB040B=Outcast's Inferno II
+tagEnchantB040BC=Outcast's Inferno III
+tagEnchantB040Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ lửa địa ngục."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB041A=Potent Outcast's Inferno
+tagEnchantB041B=Potent Outcast's Inferno II
+tagEnchantB041BC=Potent Outcast's Inferno III
+tagEnchantB041Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ lửa địa ngục."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB042A=Outcast's Thunder
+tagEnchantB042B=Outcast's Thunder II
+tagEnchantB042BC=Outcast's Thunder III
+tagEnchantB042Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh của bầu trời."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB043A=Potent Outcast's Thunder
+tagEnchantB043B=Potent Outcast's Thunder II
+tagEnchantB043BC=Potent Outcast's Thunder III
+tagEnchantB043Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh của bầu trời."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB044A=Outcast's Venom
+tagEnchantB044B=Outcast's Venom II
+tagEnchantB044BC=Outcast's Venom III
+tagEnchantB044Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ các loại độc dược."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB045A=Potent Outcast's Venom
+tagEnchantB045B=Potent Outcast's Venom II
+tagEnchantB045BC=Potent Outcast's Venom III
+tagEnchantB045Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ các loại độc dược."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB046A=Outcast's Deathtouch
+tagEnchantB046B=Outcast's Deathtouch II
+tagEnchantB046BC=Outcast's Deathtouch III
+tagEnchantB046Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ tinh hoa của sinh mạng."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB047A=Potent Outcast's Deathtouch
+tagEnchantB047B=Potent Outcast's Deathtouch II
+tagEnchantB047BC=Potent Outcast's Deathtouch III
+tagEnchantB047Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ tinh hoa của sinh mạng."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB048A=Outcast's Wrath
+tagEnchantB048B=Outcast's Wrath II
+tagEnchantB048BC=Outcast's Wrath III
+tagEnchantB048Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh của aether."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB049A=Potent Outcast's Wrath
+tagEnchantB049B=Potent Outcast's Wrath II
+tagEnchantB049BC=Potent Outcast's Wrath III
+tagEnchantB049Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh của aether."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB050A=Outcast's Riftstorm
+tagEnchantB050B=Outcast's Riftstorm II
+tagEnchantB050BC=Outcast's Riftstorm III
+tagEnchantB050Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh hỗn nguyên của hư không."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB051A=Potent Outcast's Riftstorm
+tagEnchantB051B=Potent Outcast's Riftstorm II
+tagEnchantB051BC=Potent Outcast's Riftstorm III
+tagEnchantB051Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng làm chủ sức mạnh hỗn nguyên của hư không."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB052A=Outcast's Bastion
+tagEnchantB052B=Outcast's Bastion II
+tagEnchantB052BC=Outcast's Bastion III
+tagEnchantB052Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng mình đồng da sắt."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB053A=Potent Outcast's Bastion
+tagEnchantB053B=Potent Outcast's Bastion II
+tagEnchantB053BC=Potent Outcast's Bastion III
+tagEnchantB053Desc="Nâng cấp tối thượng do Kẻ bị ruồng bỏ chế ra để cho người sử dụng có khả năng mình đồng da sắt."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB054A=Nature's Wrath
+tagEnchantB054B=Nature's Wrath II
+tagEnchantB054C=Nature's Wrath III
+tagEnchantB054Desc="Hỗn hợp cực mạnh giữa các loại độc dược theo công thức chỉ những Du dân biết và sử dụng trong những tình thế hiểm nghèo nhất."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB055A=Spirit of Vengeance
+tagEnchantB055B=Spirit of Vengeance II
+tagEnchantB055C=Spirit of Vengeance III
+tagEnchantB055Desc="Dạng bị khống chế của một linh hồn độc ác đầy thù hận từ phế tích Arkovia. Bên trong chiếc bình được khắc đầy cổ ngữ bảo hộ."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB056A=Survivor's Ally
+tagEnchantB056B=Survivor's Ally II
+tagEnchantB056C=Survivor's Ally III
+tagEnchantB056Desc="Khi không có mấy đồng minh, một con thú có thể chính là người bạn thực sự duy nhất."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB057A=Beastlord's Calling
+tagEnchantB057B=Beastlord's Calling II
+tagEnchantB057BC=Beastlord's Calling III
+tagEnchantB057Desc="Một thứ nước người dân ở Homestead dùng để cầu phúc cho vật nuôi."^w^n(Dùng cho mọi vũ khí một tay, khiên và trang bị ở tay chiêu)
+
+tagEnchantB058A=Potent Beastlord's Calling
+tagEnchantB058B=Potent Beastlord's Calling II
+tagEnchantB058BC=Potent Beastlord's Calling III
+tagEnchantB058Desc="Một thứ nước người dân ở Homestead dùng để cầu phúc cho vật nuôi."^w^n(Dùng cho mọi vũ khí hai tay)
+
+tagEnchantB059A=Mogdrogen's Blessing
+tagEnchantB059B=Mogdrogen's Blessing II
+tagEnchantB059C=Mogdrogen's Blessing III
+tagEnchantB059Desc="Bột được cho là được chính vị thần thú ban phước dùng để củng cố mối quan hệ giữa người và thú."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB060A=Empyrion's Touch
+tagEnchantB060B=Empyrion's Touch II
+tagEnchantB060C=Empyrion's Touch III
+tagEnchantB060Desc="Bột lấp lánh nhiều người tin là đã được chính Người mang Ánh sáng chạm vào."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB061A=Infernal Dust
+tagEnchantB061B=Infernal Dust II
+tagEnchantB061C=Infernal Dust III
+tagEnchantB061Desc="Bột phù phép cháy bỏng với cơn thịnh nộ của Empyrion."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB062A=Malkadarr's Chillbane
+tagEnchantB062B=Malkadarr's Chillbane II
+tagEnchantB062C=Malkadarr's Chillbane III
+tagEnchantB062Desc="Bột phù phép do Malkadarr, Thành viên đầu tiên của Nhóm Nội bộ, tạo ra."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantB063A=Keeper's Binding Dust
+tagEnchantB063B=Keeper's Binding Dust II
+tagEnchantB063C=Keeper's Binding Dust III
+tagEnchantB063Desc="Bụi Trói buộc do chính Người giữ Sách tạo ra để trói những đầy tớ undead mạnh mẽ nhất."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagEnchantC001A=Mankind's Vigil
+tagEnchantC001Desc="Bột phù phép do những pháp sư của Quân đoàn chế ra nhằm bảo vệ lính của họ trước những thế lực Aether và Âm binh xâm lược."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC002A=Kingsguard Powder
+tagEnchantC002Desc="Bột phù phép được đặt tên khá chuẩn theo mục đích ban đầu của nó là dùng lên áo chùng của hoàng tộc, nhưng nó cũng tìm được giá trị tương ứng trong chiến trận."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC003A=Venomguard Powder
+tagEnchantC003Desc="Bột của Du dân chế từ một vài loại độc dược chết người có nguồn gốc từ cả động và thực vật."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC004A=Nightshade Powder
+tagEnchantC004Desc="Bột thu được từ cánh màu xanh của Asterkarn Nightshade, một loài hoa chỉ nở dưới ánh trăng."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC005A=Bladeward Powder
+tagEnchantC005Desc="Bột ma thuật do Sahdina điều chế để bảo vệ những người đang phòng thủ Ngã tư Ác quỷ khỏi những vết thương thể xác."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC006A=Mogdrogen's Touch
+tagEnchantC006Desc="Một món quà từ vị thần thú để bảo vệ tín đồ của ông trước sự tàn phá của thiên nhiên."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC007A=Flameweave Powder
+tagEnchantC007Desc="Bột phù phép thu được từ xương Manticore phơi nắng, thường được dùng để tăng cường khả năng chống lửa của giáp."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC008A=Solarstorm Powder
+tagEnchantC008Desc="Loại bột đặc dụng này chỉ có thể được pha trộn trong lúc nhật thực, nếu không nó sẽ mất hết phép thuật và chẳng hơn tro bụi là mấy."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC009A=Kymon's Blessing
+tagEnchantC009Desc="Bột phù phép được Cha Kymon ban phước để bảo hộ cho những môn đồ khỏi ngọn lửa bỏng rát của Empyrion."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC010A=Kymon's Conduit
+tagEnchantC010Desc="Bột phù phép do Cha Kymon tạo ra để dẫn sét tránh xa khỏi trái tim người mang nó."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC011A=Demonbane Powder
+tagEnchantC011Desc="Bột phù phép do các tu sĩ đoàn Tinh binh chế ra để bảo vệ đồng đội của họ trước những Âm binh ác độc tới từ Hư không."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC012A=Wraithtouch Powder
+tagEnchantC012Desc="Bột phù phép được truyền tinh chất của một hồn ma bị bắt giữ."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC013A=Spiritguard Powder
+tagEnchantC013Desc="Bột phù phép thu được từ tro cốt của một thầy gọi hồn yểu mệnh."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC014A=Spellward Powder
+tagEnchantC014Desc="Những pháp sư giàu kinh nghiệm trong Hội đã chế ra loại bột này để bảo vệ đồng minh của họ trước những nghi lễ ma pháp."^w^n(Dùng cho mọi loại giáp)
+
+tagEnchantC015A=Outcast's Warding Powder
+tagEnchantC015Desc="Năng lực ma pháp khác thường của Kẻ bị Ruồng bỏ cho phép cô ta tạo ra những loại bột có thể che chở ngay cả người ngu độn nhất trước sức mạnh tàn phá của Aether."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC016A=Outcast's Elemental Scales
+tagEnchantC016Desc="Loại bột đặc chế của Kẻ bị Ruồng bỏ che chở người dùng trước hai sức mạnh đối lập băng và lửa."^w^n(Dùng cho mọi loại giáp)
+tagEnchantC017A=Outcast's Skyguard Powder
+tagEnchantC017Desc="Loại bột đặc chế của Kẻ bị Ruồng bỏ che chở người dùng trước phép thuật của bầu trời."^w^n(Dùng cho mọi loại giáp)
+
+
+
+#ItemComponents
+
+tagComponentIncomplete=Mảnh Phụ kiện
+tagComponentComplete=Phụ kiện
+tagComponentNumber={%s0 - %d1 / %d2}
+tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
+tagComponentBonus=Thưởng Hoàn thành
+tagComponentQualities=Chất lượng Phụ kiện:
+tagComponentHelp=[Nhấp Chuột phải để Dùng hoặc Kết hợp]
+tagComponentError=[Không thể dùng - Chưa đạt Yêu cầu]
+tagComponentCombine=[Nhấp Chuột phải để Kết hợp]
+tagComponentConfirmation=Bạn chắc chắn mình muốn gắn vào món đồ này chứ?
+
+tagCompA001Name=Vỏ gai
+tagCompA001Desc="Một lớp vỏ cứng với gai lởm chởm."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA002Name=Tấm đỡ đạn
+tagCompA002Desc="Mảnh vỡ của một bộ giáp cũ được thiết kế để chống chịu trước tên và đạn."^w^n(Dùng cho áo)
+
+tagCompA003Name=Xương thánh
+tagCompA003Desc="Xương đã được thanh tẩy của một hiệp sỹ hi sinh trong trận chiến vì chính nghĩa"^w^n(Dùng cho áo và mũ)
+
+tagCompA004Name=Da dai
+tagCompA004Desc="Một miếng da dày với bề mặt sần sùi, lý tưởng cho việc hấp thụ lực va đập bất ngờ."^w^n(Dùng cho mũ)
+
+tagCompA005Name=Đá cổ ngữ
+tagCompA005Desc="Một cổ ngữ bí ẩn được vẽ lên hòn đá này."^w^n(Dùng cho mũ)
+
+tagCompA006Name=Huyết tương Đột biến
+tagCompA006Desc="Chảy ra từ những sinh vật ở xứ Cairn bị nhiễm năng lượng của thế giới khác."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA007Name=Trái tim Mục nát
+tagCompA007Desc="Một trái tim đã ngừng đập từ lâu co quắp lại do sức mạnh của thuật gọi hồn."^w^n(Dùng cho áo)
+
+tagCompA008Name=Vảy biến dị
+tagCompA008Desc="Vảy biến dị dày và cứng bất thường do phơi nhiễm với năng lượng Aether."^w^n(Dùng cho giáp vai, áo, quần và giáp tay)
+
+tagCompA009Name=Bụi xác chết
+tagCompA009Desc="Bụi thu được từ thi thể, thường dùng trong phù phép và yểm bùa."^w^n(Dùng cho nhẫn, dây chuyền và mề đay)
+
+tagCompA010Name=Mảnh linh hồn
+tagCompA010Desc="Một viên ngọc ma thuật, sử dụng bởi thợ săn phù thủy, nghe đồn để giam linh hồn những kẻ bị đọa đày."^w^n(Dùng cho nhẫn, dây chuyền và mề đay)
+
+tagCompA011Name=Tế bào Ngoại chất
+tagCompA011Desc="Một chất cặn sền sệt đôi khi bị rớt lại đằng sau những thực thể phi vật chất."^w^n(Dùng cho mũ, nhẫn, dây chuyền và mề đay)
+
+tagCompA012Name=Thép được Ban phước
+tagCompA012Desc="Thép được những tu sĩ của Menhir ban phước lành để xua tan bóng tối đang lan tràn."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA013Name=Nanh độc
+tagCompA013Desc="Một chiếc nanh dữ tợn vẫn còn đẫm chất độc."^w^n(Dùng cho vũ khí cận chiến)
+
+tagCompA014Name=Muối tẩy uế
+tagCompA014Desc="Muối mỏ được khai thác dùng để trừ tà và ngăn cản bọn quỷ dữ từ thế giới khác."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA015Name=Nanh rỗng
+tagCompA015Desc="Một cái nanh cong dùng để tiêu thụ chất lỏng."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA016Name=Vuốt gãy
+tagCompA016Desc="Móng vuốt tách ra từ chân một con mãnh thú."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA017Name=Bạc ma thuật
+tagCompA017Desc="Bạc cám được gia cường với ma thuật mạnh mẽ."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA018Name=Gai ác độc
+tagCompA018Desc="Gai sắc nhọn lấy từ một thực thể không có trong tự nhiên."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA019Name=Ngọc phát sáng
+tagCompA019Desc="Một viên ngọc bóng bẩy tỏa sáng lung linh với các nguyên tố."^w^n(Dùng cho khiên và trang bị ở tay chiêu)
+
+tagCompA020Name=Đạn Trừ tà
+tagCompA020Desc="Đạn thánh dùng để gây sát thương lớn lên những kẻ có ý định không trong sáng."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA021Name=Tên Tử hàn
+tagCompA021Desc="Mang sự lạnh lẽo của cái chết đến với kẻ địch của bạn."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA022Name=Linh hồn Aether
+tagCompA022Desc="Một viên đá rung lên với nội năng, thường còn lại khi một sinh vật Aether bị tiêu diệt trong thế giới vật chất."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompA023Name=Mai cứng
+tagCompA023Desc="Một chiếc vỏ cứng dường như không thể lay chuyển bởi lực tác động bên ngoài."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA024Name=Da dung nham
+tagCompA024Desc="Một lớp da dày lấy từ một sinh vật toàn thân bốc lửa."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA025Name=Đá lửa phép
+tagCompA025Desc="Viên đá lửa này sẽ truyền linh hồn của lửa vào bất kỳ vũ khí nào nó được gắn vào."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA026Name=Đá lạnh
+tagCompA026Desc="Theo dân gian, những viên đá bí ẩn phát ra khí lạnh là trái tim của những hồn ma bị trục xuất khỏi thế giới này."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA027Name=Hổ phách
+tagCompA027Desc="Đồn rằng đôi khi linh hồn của cơn bão bị kẹt trong giọt nhựa kết tinh của những cái cây bị sét đánh."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA028Name=Sỏi mật độc
+tagCompA028Desc="Sỏi độc hình thành trong mật những con quái thú ghê tởm."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA029Name=Đá mài được Ban phước
+tagCompA029Desc="Mài sắc thêm ngay cả những lưỡi kiếm sắc nhất, tăng sát thương xuyên qua giáp kẻ địch."^w^n(Dùng cho Rìu và Kiếm)
+
+tagCompA030Name=Vải lụa
+tagCompA030Desc="Dân du mục phương tây từ lâu đã biết rằng lụa nhiều lớp có thể bao bọc và giảm quá trình đâm xuyên của những loại đạn xuyên phá."^w^n(Dùng cho giáp vai, áo và quần)
+
+tagCompA031Name=Da có vảy
+tagCompA031Desc="Lớp vảy dày nhưng nhẹ này có thể gắn chồng lên giáp để tăng khả năng bảo vệ."^w^n(Dùng cho giáp vai, áo và quần)
+
+tagCompA032Name=Tên lõi đá lửa
+tagCompA032Desc="Lõi đá lửa có thể đánh lửa trên bất cứ mặt phẳng nào."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA033Name=Đạn tẩm độc
+tagCompA033Desc="Độc lấy từ dạ dày một loài thú được phủ lên đầu loại đạn này."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA034Name=Dấu ấn Lữ hành
+tagCompA034Desc="Những người lữ hành dùng dấu ấn này khi đi qua nơi hoang dã, để họ không bị nhầm là thợ săn bởi Mogdrogen, vị thần thú."^w^n(Dùng cho giày)
+
+tagCompA035Name=Khăn choàng thánh
+tagCompA035Desc="Khăn choàng vấy máu đám dị giáo thờ Ch'thon thường đeo."^w^n(Dùng cho giáp tay)
+
+tagCompA036Name=Thi thể chưa yên nghỉ
+tagCompA036Desc="Thi thể của một sinh vật bị tra tấn đã từ chối sự yên bình nó đáng được hưởng."^w^n(Dùng cho giáp tay)
+
+tagCompA037Name=Lông rậm
+tagCompA037Desc="Một bộ lông dày rất lý tưởng cho điều kiện khắc nghiệt của mùa đông."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA038Name=Gai răng cưa
+tagCompA038Desc="Gai mỏng nhưng cực kỳ sắc của một loài quái thú."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA039Name=Than hồng
+tagCompA039Desc="Cục than cháy vĩnh cửu từ một căn nhà bị thiêu rụi."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA040Name=Thép lạnh
+tagCompA040Desc="Mảnh thép này được truyền cái lạnh của cơn gió mùa đông."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA041Name=Nam châm nứt
+tagCompA041Desc="Những tia năng lượng nhảy khắp bề mặt của nó."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA042Name=Móng vuốt sứt mẻ
+tagCompA042Desc="Móng vuốt từ một con thú săn mồi tàn nhẫn cuối cùng đã gặp phải đối thủ."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompA043Name=Mảnh giáp
+tagCompA043Desc="Mảnh vỡ từ một bộ giáp đã không còn được như xưa."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA044Name=Lông lởm chởm
+tagCompA044Desc="Một miếng lông dày lấy từ một loài quái thú không có trong tự nhiên."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA045Name=Mảnh giáp cứng cáp
+tagCompA045Desc="Mảnh của một bộ giáp đã vượt qua vô số trận đánh trông vẫn dư sức vượt qua nhiều trận nữa."^w^n(Dùng cho khiên, trang bị ở tay chiêu, áo và giáp vai)
+
+tagCompA046Name=Ngọc lục bảo nhẵn
+tagCompA046Desc="Một viên ngọc đẹp được mài dũa đến hoàn hảo."^w^n(Dùng cho khiên, trang bị ở tay chiêu, nhẫn, mũ và áo)
+
+tagCompA047Name=Trái tim lạnh giá
+tagCompA047Desc="Mãi mãi bị bủa vây trong băng đen."^w^n(Dùng cho nhẫn)
+
+tagCompA048Name=Máu sôi sục
+tagCompA048Desc="Sủi bọt với cơn cuồng nộ từng kích động nó."^w^n(Dùng cho nhẫn, dây chuyền và mề đay)
+
+tagCompA049Name=Đá bảo hộ
+tagCompA049Desc="Một viên đá khắc trên đó biểu tượng cổ của sự bảo hộ."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompA050Name=Lăng kính Hội tụ
+tagCompA050Desc="Được các arcanist sử dụng để dẫn truyền năng lượng trong một số nghi lễ căng thẳng nhất định."^w^n(Dùng cho dây chuyền)
+
+tagCompA051Name=Mỡ đen
+tagCompA051Desc="Mỡ lấy từ một cây nến cháy trong nghi lễ của bọn Âm binh."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompA052Name=Hồn ma thù hận
+tagCompA052Desc="Một hồn ma thù hận."^w^n(Dùng cho nhẫn, dây chuyền và mề đay)
+
+tagCompA053Name=Dấu ấn Ảo ảnh
+tagCompA053Desc="Một biểu tượng của sức mạnh được sử dụng trong nhiều văn tự."^w^n(Dùng cho nhẫn và dây chuyền)
+
+tagCompA054Name=Xương hàm hoang dã
+tagCompA054Desc="Hàm của một con quái thú được thiết kế để nhai xương như nhai kẹo."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompA055Name=Đá hồn ma
+tagCompA055Desc="Nó rung lên ngay khi chạm nhẹ vào da thịt người sống."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA056Name=Đá khe nứt
+tagCompA056Desc="Chất chứa sức mạnh nguyên thủy của hư không."^w^n(Dùng cho vũ khí cận chiến, khiên và trang bị ở tay chiêu)
+
+tagCompA057Name=Tên thép Aether
+tagCompA057Desc="Được nâng cấp với tinh chất từ những quái vật Aether."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA058Name=Đạn hư vô
+tagCompA058Desc="Được nhúng vào máu tươi của Âm binh."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompA059Name=Mai gia cường
+tagCompA059Desc="Vỏ cứng gần như không thể lay chuyển đã hứng chịu vô số cú đập mạnh."^w^n(Dùng cho khiên)
+
+tagCompA060Name=Mai méo mó
+tagCompA060Desc="Một miếng vỏ cứng đã vượt qua những cú đánh dường như bất khả kháng."^w^n(Dùng cho khiên)
+
+tagCompA061Name=Thuốc mỡ Kháng độc
+tagCompA061Desc="Mật trung hòa lấy từ một sinh vật có độc."^w^n(Dùng cho mọi loại giáp)
+
+tagCompA062Name=Mai răng cưa
+tagCompA062Desc="Vỏ cứng càng cứng hơn với hàng loạt gai sắc như dao cạo."^w^n(Dùng cho khiên)
+
+
+tagCompB001Name=^kPhong ấn của Bysmiel
+tagCompB001Desc="Phong ấn ma thuật được hội phù thủy của Bysmiel sử dụng để gia cường sự kiểm soát với những sinh vật được triệu hồi."^w^n(Dùng cho áo)
+
+tagCompB002Name=^kXiềng xích của Oleron
+tagCompB002Desc="Đoạn dây xích đứt từng được dùng để phong tỏa cơn thịnh nộ của vị thần Oleron."^w^n(Dùng cho áo)
+
+tagCompB003Name=^kĐất thánh
+tagCompB003Desc="Đất từ nền nơi dựng cột đá của Menhir."^w^n(Dùng cho áo)
+
+tagCompB004Name=^kLăng kính Kim cương
+tagCompB004Desc="Lõi của nó sáng mờ với sức mạnh chưa bộc lộ."^w^n(Dùng cho mũ)
+
+tagCompB005Name=^kVải ma thuật
+tagCompB005Desc="Mảnh cắt ra từ vải liệm xác người từng một pháp sư hùng mạnh."^w^n(Dùng cho giáp tay)
+
+tagCompB006Name=^kVăn tự Vô đạo
+tagCompB006Desc="Những từ ngữ mang sức mạnh từ một ngôn ngữ cổ xưa người trần không thể phát âm được."^w^n(Dùng cho giáp tay)
+
+tagCompB007Name=^kMảnh giáp Cổ đại
+tagCompB007Desc="Mảnh vỡ từ một bộ giáp vĩ đại."^w^n(Dùng cho áo và quần)
+
+tagCompB008Name=^kThấu kính Bí thuật
+tagCompB008Desc="Một tụ điểm cho những dòng ma thuật trong khắp vũ trụ."^w^n(Dùng cho dây chuyền)
+
+tagCompB009Name=^kĐạn Ác quỷ
+tagCompB009Desc="Được truyền ngọn lửa của sự báng bổ."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompB010Name=^kTên lõi bạc
+tagCompB010Desc="Thanh trừng cái ác với vết xước nhỏ nhất."^w^n(Dùng cho súng, nỏ và trang bị ở tay chiêu)
+
+tagCompB011Name=^kBiểu tượng của Solael
+tagCompB011Desc="Một biểu tượng bí mật được những tín đồ của Solael sử dụng để dễ dàng nhận ra nhau."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompB012Name=^kKý hiệu của Dreeg
+tagCompB012Desc="Hình vẽ một con mắt không mí nhỏ ra những giọt máu thay cho nước mắt."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompB013Name=^kThép bị ám
+tagCompB013Desc="Nó nhồi nhét tâm trí bạn với lời thầm thì điên cuồng của những linh hồn bị nhốt bên trong."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompB014Name=^kMảnh vỡ Beronath
+tagCompB014Desc="Chỉ là một mảnh cây giáo huyền thoại đã giết Beronath, nhưng trong đó vẫn còn sức mạnh không nhỏ."^w^n(Dùng cho mọi vũ khí, khiên và trang bị ở tay chiêu)
+
+tagCompB015Name=^kĐá mài Đẫm máu
+tagCompB015Desc="Dính đầy máu những kẻ sa ngã, hòn đá mài bị nguyền rủa này mang cho lưỡi kiếm sự khát máu."^w^n(Dùng cho Rìu và Kiếm)
+
+tagCompB016Name=^kNam châm Cộng hưởng
+tagCompB016Desc="Những hòn đá vừa hiếm vừa đặc sắc này vẫn còn vang vọng tiếng sấm của cơn bão sinh ra chúng."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompB017Name=^kKý hiệu của Mogdrogen
+tagCompB017Desc="Một ký hiệu bí mật được những tín đồ của Mogdrogen, thần thú, mang theo."^w^n(Dùng cho giày)
+
+tagCompB018Name=^kĐầu lâu Đáng sợ
+tagCompB018Desc="Một biểu tượng của sát thủ được trao khi họ nhận một nhiệm vụ với độ nguy hiểm cao."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompB019Name=^kTia lửa Ma thuật
+tagCompB019Desc="Một tia lửa chứ đựng năng lượng ma thuật thuần khiết nhất."^w^n(Dùng cho dây chuyền và mề đay)
+
+tagCompB020Name=^kKý hiệu của Myrmidon
+tagCompB020Desc="Một biểu tượng quyền lực trao cho những tướng lãnh can đảm nhất trong chiến trận."^w^n(Dùng cho khiên)
+
+tagCompB021Name=^kMáu của Oleron
+tagCompB021Desc="Máu thiêng của vị thần chiến tranh."^w^n(Dùng cho mọi vũ khí)
+
+tagCompB022Name=^kLinh hồn tan vỡ của Kilrian
+tagCompB022Desc="Linh hồn vấy bẩn của Kilrian, sự kinh hoàng của Thành phố ngầm Arkovia."^w^n(Dùng cho áo)
+
+
+tagCompAetherCrystal=Tinh thể Aether
+tagCompAetherCrystalDesc="Một mảnh tinh thể như pha lê vẫn còn sót lại sức mạnh của aether.  Có thể dùng trong việc chế tạo vật phẩm ma thuật."
+
+tagCompAmmoBox=Hộp quân trang
+tagCompAmmoBoxDesc="Quân kháng chiến luôn cần thêm đạn dược để chống lại những thế lực bóng tối đang lan tràn khắp xứ Cairn."
+
+tagCompAScrap=Phế liệu
+tagCompAScrapDesc="Phế liệu như đinh vít, dây da và kim loại chất lượng thấp có thể dùng để gắn các vật phẩm và công trình lại với nhau."
+
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}Mở khóa độ khó {%s0}
+tagDifficultyAlreadyUnlocked=Bạn đã mở khóa độ khó này rồi
+tagDifficultyUnlockDLC=Bạn không sở hữu DLC liên quan tới vật phẩm này
+
+#ItemFactionBoosters
+
+tagFactionBooster={^E}Tăng {^H}{%d0}% {^E}Danh tiếng nhận được với {%s1}
+tagFactionAlreadyBoosted={^r}[Phe này đã có Giấy Ủy nhiệm có hiệu lực rồi]
+
+tagFactionNegativeBooster={^E}Tăng {^H}{%d0}% {^E}Tai tiếng nhận được với {%s1}
+tagFactionAlreadyNegativeBoosted={^r}[Phe này đã có Giấy Kết tội có hiệu lực rồi]
+
+tagFactionMandateConfirmation=Bạn chắc mình muốn áp dụng Giấy Ủy quyền này chứ? Nó sẽ thay thế cho Giấy Kết tội hiện tại.
+tagFactionWarrantConfirmation=Bạn chắc mình muốn áp dụng Giấy Kết tội này chứ? Nó sẽ thay thế cho Giấy Ủy quyền hiện tại.
+
+tagBoosterADesc=Văn tự của Phe xác nhận bạn là một hình mẫu cho người của họ.^oKhông cộng dồn với Giấy Ủy quyền. Giấy Ủy quyền sẽ phủ định điểm thưởng này.
+tagBoosterBDesc=Văn tự của Phe giao phó cho bên thứ ba làm một người đại diện. ^oCó thể bỏ vào Rương Chuyển đồ để dùng cho nhân vật khác. Không cộng dồn với Giấy Thừa nhận.
+tagBoosterCDesc=Một áp phích truy nã tuyên bố bạn là một kẻ thù không đội trời chung.
+tagBoosterBL_A01=Giấy Thừa nhận của Quân đoàn Đen
+tagBoosterBL_A02=Giấy Thừa nhận Cao cấp của Quân đoàn Đen
+tagBoosterBL_B01=Giấy Ủy nhiệm của Quân đoàn Đen
+tagBoosterBL_B02=Giấy Ủy nhiệm Cao cấp của Quân đoàn Đen
+tagBoosterBL_B03=Giấy Ủy nhiệm Thần cấp của Quân đoàn Đen
+tagBoosterDC_A01=Giấy Thừa nhận của Ngã tư Ác quỷ
+tagBoosterDC_A02=Giấy Thừa nhận Cao cấp của Ngã tư Ác quỷ
+tagBoosterDC_B01=Giấy Ủy nhiệm của Ngã tư Ác quỷ
+tagBoosterDC_B02=Giấy Ủy nhiệm Cao cấp của Ngã tư Ác quỷ
+tagBoosterDC_B03=Giấy Ủy nhiệm Thần cấp của Ngã tư Ác quỷ
+tagBoosterEXILE_A01=Giấy Thừa nhận của Kẻ bị Ruồng bỏ
+tagBoosterEXILE_A02=Giấy Thừa nhận Cao cấp của Kẻ bị Ruồng bỏ
+tagBoosterEXILE_B01=Giấy Ủy nhiệm của Kẻ bị Ruồng bỏ
+tagBoosterEXILE_B02=Giấy Ủy nhiệm Cao cấp của Kẻ bị Ruồng bỏ
+tagBoosterEXILE_B03=Giấy Ủy nhiệm Thần cấp của Kẻ bị Ruồng bỏ
+tagBoosterHS_A01=Giấy Thừa nhận của Homestead
+tagBoosterHS_A02=Giấy Thừa nhận Cao cấp của Homestead
+tagBoosterHS_B01=Giấy Ủy nhiệm của Homestead
+tagBoosterHS_B02=Giấy Ủy nhiệm Cao cấp của Homestead
+tagBoosterHS_B03=Giấy Ủy nhiệm Thần cấp của Homestead
+tagBoosterKC_A01=Giấy Thừa nhận của đoàn Tinh binh của Kymon
+tagBoosterKC_A02=Giấy Thừa nhận Cao cấp của đoàn Tinh binh của Kymon
+tagBoosterKC_B01=Giấy Ủy nhiệm của đoàn Tinh binh của Kymon
+tagBoosterKC_B02=Giấy Ủy nhiệm Cao cấp của đoàn Tinh binh của Kymon
+tagBoosterKC_B03=Giấy Ủy nhiệm Thần cấp của đoàn Tinh binh của Kymon
+tagBoosterODV_A01=Giấy Thừa nhận của Hội Canh giữ Cái chết
+tagBoosterODV_A02=Giấy Thừa nhận Cao cấp của Hội Canh giữ Cái chết
+tagBoosterODV_B01=Giấy Ủy nhiệm của Hội Canh giữ Cái chết
+tagBoosterODV_B02=Giấy Ủy nhiệm Cao cấp của Hội Canh giữ Cái chết
+tagBoosterODV_B03=Giấy Ủy nhiệm Thần cấp của Hội Canh giữ Cái chết
+tagBoosterRO_A01=Giấy Thừa nhận của Du dân
+tagBoosterRO_A02=Giấy Thừa nhận Cao cấp của Du dân
+tagBoosterRO_B01=Giấy Ủy nhiệm của Du dân
+tagBoosterRO_B02=Giấy Ủy nhiệm Cao cấp của Du dân
+tagBoosterRO_B03=Giấy Ủy nhiệm Thần cấp của Du dân
+
+tagBoosterAetherial_C01=Giấy Kết tội Sinh vật Aether
+tagBoosterAetherial_C02=Giấy Kết tội Cao cấp Sinh vật Aether
+tagBoosterAetherial_C03=Giấy Kết tội Thần cấp Sinh vật Aether
+tagBoosterChthonian_C01=Giấy Kết tội Âm binh
+tagBoosterChthonian_C02=Giấy Kết tội Cao cấp Âm binh
+tagBoosterChthonian_C03=Giấy Kết tội Thần cấp Âm binh
+tagBoosterOutlaw_C01=Giấy Kết tội Cronley
+tagBoosterOutlaw_C02=Giấy Kết tội Cao cấp Cronley
+tagBoosterOutlaw_C03=Giấy Kết tội Thần cấp Cronley
+tagBoosterUndead_C01=Giấy Kết tội Người Arkovia
+tagBoosterUndead_C02=Giấy Kết tội Cao cấp Người Arkovia
+tagBoosterUndead_C03=Giấy Kết tội Thần cấp Người Arkovia
+tagBoosterKC_C01=Giấy Kết tội Kymon
+tagBoosterKC_C02=Giấy Kết tội Cao cấp Kymon
+tagBoosterKC_C03=Giấy Kết tội Thần cấp Kymon
+tagBoosterODV_C01=Giấy Kết tội Hội
+tagBoosterODV_C02=Giấy Kết tội Cao cấp Hội
+tagBoosterODV_C03=Giấy Kết tội Thần cấp Hội
+tagBoosterEXILE_C01=Giấy Kết tội Kẻ bị Ruồng bỏ
+tagBoosterEXILE_C02=Giấy Kết tội Cao cấp Kẻ bị Ruồng bỏ
+tagBoosterEXILE_C03=Giấy Kết tội Thần cấp Kẻ bị Ruồng bỏ
+
+
+#Misc
+
+tagMoney01=Sắt
+tagMoneyFormat={^s}{%d0}  {%s1}
+
+tagPotionHealthA01=Thuốc Trị thương
+tagPotionHealthA01Desc="Làm lành vết thương và nắn lại xương gãy."
+tagPotionHealthA02=Thuốc Hồi máu
+tagPotionHealthA02Desc="Làm lành vết thương và nắn lại xương gãy."
+tagPotionHealthA03=Thuốc Hồi sinh
+tagPotionHealthA03Desc="Làm lành vết thương và nắn lại xương gãy."
+
+tagPotionEnergyA01=Thuốc Hồi Năng lượng
+tagPotionEnergyA01Desc="Làm mới tinh thần và trí óc."
+
+tagPotionConstitutionA01=Khẩu phần ăn
+tagPotionConstitutionA01Desc="Vị như rơm khô nhưng không bao giờ hỏng và hồi phục lại Thể lực đã mất."
+
+tagPotionConstitutionB01=Tinh hoa Sự sống
+tagPotionConstitutionB01Desc=Năng lượng sự sống còn sót lại có thể được hấp thụ để hồi phục lại Thể lực đã mất.
+
+tagPotionDirections=[Nhấp Chuột phải để Ăn]
+tagCombineStacks=[Ctrl-Chuột trái để Tách]
+tagHideTooltip=[Giữ Ctrl để Ẩn Thông tin]
+
+# Bonuses
+tagBonusLifePercentAbsPercent={^E}Hồi phục {^H}{%.0f0}%+{%.0f1} {^E}Máu {^H}+{%.0f2}% {^E}theo thời gian
+tagBonusLifePercentPercent={^E}Hồi phục {^H}{%.0f0}% {^E}Máu {^H}+{%.0f1}% {^E}theo thời gian
+tagBonusLifePercentAbs={^E}Hồi phục {^H}{%.0f0}% + {%.0f1} {^E}Máu
+tagBonusLifePercent={^E}Hồi phục {^H}{%.0f0}% {^E}Máu
+tagBonusLifeAbs={^E}Hồi phục {^H}{%.0f0} {^E}Máu
+tagBonusManaPercentAbs={^E}Hồi phục {^H}{%.0f0}% + {%.0f1} {^E}Năng lượng
+tagBonusManaPercent={^E}Hồi phục {^H}{%.0f0}% {^E}Năng lượng
+tagBonusManaAbs={^E}Hồi phục {^H}{%.0f0}% {^E}Năng lượng
+tagBonusExperience={%+d0} Kinh nghiệm
+tagBonusMoney={%+d0} Sắt
+tagBonusSkillPoint={%+d0} Điểm Kỹ năng
+tagBonusAttribPoint={%+d0} Điểm Tiềm năng
+
+
+#Devotion
+tagDevotionReset={^E}Dùng để tẩy Điểm Devotion
+tagDevotionNoPointsUsed={^r}[Không có Điểm Devotion để tẩy]
+tagDevotionResetConfirmation=Tẩy tất cả Điểm Devotion?
+
+
+
+#ItemSets
+
+
+tagItemSetC001Name=Đồng phục Vệ binh
+tagItemSetC001NameB=Đồng phục Lính Trị an
+tagItemSetC001Desc="Từng là trang bị tiêu chuẩn của lực lượng Trị an và Vệ binh Hoàng gia, chỉ một vài bộ sót lại sau sự kiện Grim Dawn."
+
+tagItemSetC002Name=Phục trang Nhà thám hiểm
+tagItemSetC002Desc="Giáp nhẹ nhưng bền dành cho lữ khách nhiệt thành."
+
+tagItemSetC003Name=Thánh địa của Maiven
+tagItemSetC003NameB=Thánh địa của Maiven
+tagItemSetC003Desc="Trang phục vinh danh Arcanist huyền thoại Maiven."
+
+tagItemSetC004Name=Vinh quang của Kẻ gặt Máu tươi
+tagItemSetC004NameB=Cuộc tàn sát của Kẻ gặt Máu tươi
+tagItemSetC004Desc="Giáp và vũ khí chỉ được sử dụng bởi những sát thủ khát máu nhất xứ Cairn."
+
+tagItemSetC005Name=Công lý của Kẻ cướp
+tagItemSetC005NameB=Phát quyết của Kẻ cướp
+tagItemSetC005Desc="Quan tòa, hội thẩm, kiêm đao phủ."
+
+tagItemSetC006Name=Y phục Sứ giả
+tagItemSetC006NameB=Ấn tín Sứ giả
+tagItemSetC006Desc="Giáp được sứ giả của Hoàng đế mặc khi đi làm nhiệm vụ ngoại giao."
+
+tagItemSetC007Name=Dược sĩ
+tagItemSetC007NameB=Nhà Tiên trị
+tagItemSetC007Desc="Y phục mặc bởi những thầy thuốc và nhà tiên tri tận tâm giúp đỡ người khác, chỉ rõ họ là người chữa bệnh và không dính dáng tới ngoại giao."
+
+tagItemSetC008Name=Trầm luân
+tagItemSetC008NameB=Xá tội
+tagItemSetC008Desc="Giáp của Thanh tra Grayweather, khét tiếng với việc thường phun a-xít vào kẻ thù, vì ông ta tin rằng chỉ giết bọn ác ôn thôi là chưa đủ và rằng sự trừng phạt phải tuyệt đối đúng quy trình."
+
+tagItemSetC009Name=Con mắt Mù quáng
+tagItemSetC009Desc="Sát thủ mù, Thaddeus Brannagan, đã nổi danh khi ám sát thành công một thủ lĩnh tối cao của hội Templar giữa thanh thiên bạch nhật."
+
+tagItemSetC010Name=Dấu ấn Thiện xạ
+tagItemSetC010Desc="Đồ chơi của một xạ thủ bậc thầy có khả năng bắn trúng một con chim đang bay cách xa 500 mét."
+
+tagItemSetC011Name=Giao ước Tội lỗi
+tagItemSetC011Desc="Y phục chúng mặc trong những nghi lễ không thể tả bằng lời."
+
+tagItemSetC012Name=Trang sức Hoàng gia
+tagItemSetC012Desc="Bộ sưu tập đồ trang sức của Hoàng gia tưởng như đã mất trong sự kiện Grim Dawn."
+
+tagItemSetC013Name=Kẻ bội ước
+tagItemSetC013NameB=Ngọn lửa của Kẻ bội ước
+tagItemSetC013Desc="Trang bị từng được mang theo bởi Kẻ bội ước, một hiệp sỹ phản bội đức vua của mình bằng cách mở cổng thành cho quân địch."
+
+tagItemSetC014Name=Trang sức của sự Can đảm
+tagItemSetC014Desc="Phần thưởng ban cho những người lính có hành động quả cảm trong thời chiến."
+
+tagItemSetC015Name=Tàn sát
+tagItemSetC015Desc="Những chiếc nhẫn này khơi dậy ý muốn chém giết trong bất cứ ai đeo chúng."
+
+tagItemSetC016Name=Mẫu mực hội Arcanum
+tagItemSetC016Desc="Y phục ban cho những arcanist đạt được bước tiến dài trong sự thấu hiểu về thế giới ma pháp."
+
+tagItemSetC017Name=Dawnguard
+tagItemSetC017Desc="Giáp mặc bởi những hộ vệ nhiệt thành nhất của đức tin vào thánh Menhir."
+
+tagItemSetC018Name=Cơn thịnh nộ của Alkamos
+tagItemSetC018NameB=Cơn cuồng nộ của Alkamos
+tagItemSetC018Desc="Con dấu của Alkamos, Kẻ hành quyết nước Arkovia"
+
+tagItemSetC019Name=Chướng khí
+tagItemSetC019NameB=Chướng khí Chết người
+tagItemSetC019Desc="Y phục được Những người được chọn của Dreeg mặc."
+
+tagItemSetC020Name=Lưu hoàng
+tagItemSetC020NameB=Lưu hoàng Vĩnh cửu
+tagItemSetC020Desc="Giáp và vũ khí được những tôn sùng Ulzuin mang theo."
+
+tagItemSetC021Name=Lời thể Miền đông
+tagItemSetC021Desc="Áo bào mặc bởi những tu sĩ đến từ hải ngoại ở tít bên kia đại dương."
+
+tagItemSetC022Name=Wildcaller
+tagItemSetC022NameB=Tiếng gọi của Wildcaller
+tagItemSetC022Desc="Phục trang của Wildcaller, những thầy bùa hòa hợp với âm thanh của tự nhiên."
+
+tagItemSetC023Name=The Praetorian
+tagItemSetC023Desc="Giáp mặc bởi những chiến binh dày dạn sa trường, như một sự công nhận cho những công hiến dũng cảm của họ trong chiến trận."
+
+tagItemSetC024Name=Người giữ Lửa
+tagItemSetC024Desc="Một trái tim nóng, được tiếp thu linh hồn của ngọn lửa."
+
+tagItemSetC025Name=Y phục của Callidor
+tagItemSetC025Desc="Đồ dùng của Sư phụ Callidor, một Arcanist đáng kính và là người sáng tạo ra thuật vận dụng sét."
+
+tagItemSetC026Name=Giáp Myrmidon
+tagItemSetC026Desc="Giáp Quân đoàn Đen phát cho những lính tiên phong tinh nhuệ của họ."
+
+tagItemSetC027Name=Sự thanh bình của Mogdrogen
+tagItemSetC027Desc="Không mấy người lấy được niềm tin của vị thần thú, số người vẫn được ban phước với cái nhìn thanh thản của ông còn ít hơn."
+
+tagItemSetC028Name=Bão Ma thuật
+tagItemSetC028Desc="Những nguồn năng lượng hỗn tạp hoành hành bên trong aether, chỉ được động tới bởi những kẻ liều lĩnh, hoặc ngu dốt."
+
+tagItemSetC029Name=Cân bằng Nguyên tố
+tagItemSetC029Desc="Cơn thịnh nộ của lửa và sức mạnh của băng, trên đầu ngón tay bạn."
+
+tagItemSetD001Name=Bộ giáp Công lý
+tagItemSetD001Desc="Giáp của Horvald Trầm lặng, Đại Tổng quản hội Vệ binh của Menhir."
+
+tagItemSetD002Name=Sự Cân bằng của Chúa
+tagItemSetD002Desc="Tinh hoa của chính Sự sống và Cái chết được truyền vào hai thanh kiếm này."
+
+tagItemSetD003Name=Y phục Kẻ gọi thú
+tagItemSetD003Desc="Sức mạnh của gấu, trí khôn của cú, hung tợn của sói."
+
+tagItemSetD004Name=Tia sáng Đầu tiên
+tagItemSetD004Desc="Cơn thịnh nộ của mặt trời với màn đêm đang bao trùm."
+
+tagItemSetD005Name=Sứ giả
+tagItemSetD005Desc="Bộ công cụ của Sứ giả, một thợ săn tiền thưởng nổi tiếng ở vùng ngoại vi Erulan."
+
+tagItemSetD006Name=Con dấu của Thẩm phán
+tagItemSetD006Desc="Số phận của vô số người được định đoạt dưới bàn tay một người."
+
+tagItemSetD007Name=Trang phục Người giết quỷ
+tagItemSetD007Desc="Y phục của Oliver Barnstead, con chiên ngoan đạo của Menhir đồng thời là khắc tinh của quỷ dữ."
+
+tagItemSetD008Name=Cặp súng của Barrelsmith
+tagItemSetD008Desc="Rèn cùng nhau, bắn cùng nhau."
+
+tagItemSetD009Name=Tiên phong Hoang dã
+tagItemSetD009Desc="Bộ sưu tập từ một thời đại kém văn minh hơn."
+
+tagItemSetD010Name=Thiên lý nhãn
+tagItemSetD010Desc="Lễ phục từng được mặc trên người đại pháp sư của Tòa tháp Bạc, trụ sở chính của hội Gildam Arcanum."
+
+tagItemSetD011Name=Invoker's Elements
+tagItemSetD011Desc="Sức mạnh cuồng nộ của dung nham núi lửa được cân bằng bởi cái lạnh lẽo của làn gió phương bắc."
+
+tagItemSetD012Name=Pháo đài của Markovian
+tagItemSetD012Desc="Giáp trụ của nhà quân sự tài năng, Tướng Markovian, người thường quả cảm thân chinh ra tiền tuyến cùng quân của mình trong mọi trận đánh."
+
+tagItemSetD013Name=Hiện thân của Ulzuin
+tagItemSetD013Desc="Lòng căm thù sôi sục của vị thần bị phản bội làm người mặc bừng bừng một ngọn lửa không thể dập tắt."
+
+tagItemSetD014Name=Vải liệm Dreeg
+tagItemSetD014Desc="Áo choàng cho Tu sĩ Cấp cao của Hội phù thủy Vệ binh Vĩ đại."
+
+tagItemSetD015Name=Tử Ấn
+tagItemSetD015Desc="Gánh nặng cái chết đè lên vai những ai dám từ bỏ tên thật của mình để nhận lấy di sản của Tử Ấn, một sát thủ lạnh lùng không khoan nhượng."
+
+tagItemSetD016Name=Iskandra's Unity
+tagItemSetD016Desc="Trang phục được bảo quản cẩn thận của Master Iskandra, mặc trong ngày bà tạo ra phép thuật được đặt theo tên mình."
+
+tagItemSetD017Name=Cơn bão Ultos
+tagItemSetD017Desc="Giáp trụ mặc trên những hiện thân của Ultos, chúa tể bầu trời, người tạo ra những cơn bão khủng khiếp."
+
+tagItemSetD018Name=Cuộc Thăng thiên của Trozan
+tagItemSetD018Desc="Tách biệt khỏi cộng đồng, Trozan nghiên cứu những vì sao và hiểu được cách vận dụng quyền năng vô biên của chúng, bất chấp mọi hiểm nguy khi tiếp xúc với những nguồn năng lượng nguyên thủy đó."
+
+tagItemSetD019Name=Sự phản trắc của Valdun
+tagItemSetD019Desc="Valdun từng là một trong những xạ thủ tài ba nhất khắp xứ Cairn, nhưng anh ta chỉ trở nên thực sự khét tiếng từ khi nhắm vào giới quý tộc của Erulan."
+
+tagItemSetD020Name=Giao kèo Độc kiếm
+tagItemSetD020Desc="Phục trang của một nhóm nightblade chuyên sử dụng những loại a-xít ghê tởm trên vũ khí của mình."
+
+tagItemSetD021Name=Hiệp ước Hắc hỏa
+tagItemSetD021Desc="Lễ phục của Kẻ Nhợt nhạt, bậc thầy sử dụng ngọn lửa đen của Solael."
+
+tagItemSetD022Name=Người bảo hộ Ánh sáng
+tagItemSetD022Desc="Thủ hộ của đức tin. Người bảo hộ Ánh sáng của Empyrion."
+
+tagItemSetD023Name=Hiệp sỹ Hỏa ngục
+tagItemSetD023Desc="Giáp trụ của Gallros Val, nổi tiếng hơn với danh hiệu Hiệp sỹ Hỏa ngục của Quân đoàn Đen."
+
+tagItemSetD024Name=Cơn thịnh nộ của Agrivix
+tagItemSetD024Desc="Agrivix là một cao thủ ma pháp lừng danh, nhưng sau cùng sự thèm khát quyền lực đã khiến ông ta thân bại danh liệt."
+
+tagItemSetD025Name=Chiến giáp
+tagItemSetD025Desc="Được rèn nên bởi chiến trận, bộ giáp này đã chứng kiến nhiều cuộc xung đột hơn bất cứ cổ vật nào còn tồn tại đến ngày hôm nay."
+
+tagItemSetD026Name=Sự mê loạn của Huyết cuồng
+tagItemSetD026Desc="Giáp của tộc Huyết cuồng, một bộ lạc man rợ sống ở vùng hoang mạc lạnh lẽo phía bắc."
+
+tagItemSetD027Name=Dấu ấn của Kẻ Hành quyết
+tagItemSetD027Desc="Kẻ hành quyết Alkamos ở xử Arkovia gây sợ hãi chỉ bằng sự hiện diện của mình, một điềm báo cho những nỗi thống khổ sắp ập đến."
+
+#Prefixes
+
+tagPrefixAA002=Enlightening
+tagPrefixAA003=Luminous
+tagPrefixAA004=Shrewd
+tagPrefixAA005=Mighty
+tagPrefixAA006=Mystic
+tagPrefixAA007=Vigorous
+tagPrefixAA008=Energizing
+tagPrefixAA009=Aggressive
+tagPrefixAA010=Stalwart
+
+tagPrefixAA011=Soldier's
+tagPrefixAA012=Demolitionist's
+tagPrefixAA013=Occultist's
+tagPrefixAA014=Nightblade's
+tagPrefixAA015=Arcanist's
+
+tagPrefixAA016=Restorative
+tagPrefixAA017=Subjugator's
+tagPrefixAA018=Wanderer's
+
+tagPrefixAA019=Tenacious
+tagPrefixAA020=Invigorating
+tagPrefixAA021=Shaman's
+
+tagPrefixAD001=Impenetrable
+tagPrefixAD002=Insulating
+tagPrefixAD003=Sheltering
+tagPrefixAD004=Negating
+tagPrefixAD005=Purging
+tagPrefixAD006=Impervious
+tagPrefixAD007=Impervious
+tagPrefixAD008=Impervious
+tagPrefixAD009=Impervious
+tagPrefixAD010=Resistant
+tagPrefixAD011=Resistant
+tagPrefixAD012=Resistant
+tagPrefixAD013=Resistant
+tagPrefixAD014=Resistant
+tagPrefixAD015=Resistant
+tagPrefixAD016=Preserving
+tagPrefixAD017=Ordered
+tagPrefixAD018=Warding
+tagPrefixAD019=Resolute
+tagPrefixAD020=Nullifying
+tagPrefixAD021=Prismatic
+tagPrefixAD022=Rugged
+tagPrefixAD023=Stanching
+tagPrefixAD024=Thawing
+tagPrefixAD025=Durable
+tagPrefixAD026=Enduring
+tagPrefixAD027=Impassable
+tagPrefixAD028=Tough
+tagPrefixAD029=Everlasting
+tagPrefixAD030=Unbreakable
+tagPrefixAD031=Adamant
+tagPrefixAD032=Staunch
+
+
+tagPrefixAO001=Superior
+tagPrefixAO002=Crushing
+tagPrefixAO003=Puncturing
+tagPrefixAO004=Chilled
+tagPrefixAO005=Searing
+tagPrefixAO006=Poisoned
+tagPrefixAO007=Charged
+tagPrefixAO008=Vampiric
+tagPrefixAO009=Draining
+tagPrefixAO010=Sapping
+tagPrefixAO011=Corrosive
+tagPrefixAO012=Warped
+tagPrefixAO013=Void-Touched
+tagPrefixAO014=Decaying
+
+tagPrefixB001_WpnMelee1h_A=Tyrant's
+tagPrefixB002_WpnMelee1h_A=Relentless
+tagPrefixB003_WpnMelee1h_A=Runecaster's
+tagPrefixB004_WpnMelee1h_A=Plaguebearer's
+tagPrefixB005_WpnMelee1h_A=Barbaric
+tagPrefixB006_WpnMelee1h_A=Bloodthirsty
+tagPrefixB007_WpnMelee1h_A=Officer's
+tagPrefixB008_WpnMelee1h_A=Demonic
+tagPrefixB009_WpnMelee1h_A=Infernal
+tagPrefixB010_WpnMelee1h_A=Enchanter's
+tagPrefixB011_WpnMelee1h_A=Eldritch
+tagPrefixB012_WpnMelee1h_A=Skyfallen
+tagPrefixB013_WpnMelee1h_A=Frostborn
+tagPrefixB014_WpnMelee1h_A=Earthbound
+tagPrefixB015_WpnMelee1h_A=Stormcharged
+tagPrefixB016_WpnMelee1h_A=Hellfire
+tagPrefixB017_WpnMelee1h_A=Incanter's
+tagPrefixB018_WpnMelee1h_A=Venomfang
+tagPrefixB019_WpnMelee1h_A=Aetherfire
+tagPrefixB020_WpnMelee1h_A=Sinister
+tagPrefixB021_WpnMelee1h_A=Heart Piercing
+tagPrefixB022_WpnMelee1h_A=Frenzied
+tagPrefixB023_WpnMelee1h_A=Glacial
+tagPrefixB024_WpnMelee1h_A=Thunderstruck
+tagPrefixB025_WpnMelee1h_A=Rimefrost
+
+tagPrefixB001_Ar_A=Celestial
+tagPrefixB002_Ar_A=Rampage
+tagPrefixB003_Ar_A=Renegade's
+tagPrefixB004_Ar_A=Lich's
+tagPrefixB005_Ar_A=Harmonious
+tagPrefixB006_Ar_A=Dread Lord's
+tagPrefixB007_Ar_A=Devastating
+tagPrefixB008_Ar_A=Ancient
+tagPrefixB009_Ar_A=Tempest
+tagPrefixB010_Ar_A=Survivalist's
+tagPrefixB011_Ar_A=Maniacal
+tagPrefixB012_Ar_A=Overseer's
+tagPrefixB013_Ar_A=Paladin's
+tagPrefixB014_Ar_A=Seraphim
+tagPrefixB015_Ar_A=Consecrated
+tagPrefixB016_Ar_A=Rimefrost
+tagPrefixB017_Ar_A=Blighted
+tagPrefixB018_Ar_A=Incorruptible
+tagPrefixB019_Ar_A=Light Bringer's
+tagPrefixB020_Ar_A=Unyielding
+tagPrefixB021_Ar_A=Resonant
+tagPrefixB022_Ar_A=Menacing
+tagPrefixB023_Ar_A=Formidable
+tagPrefixB024_Ar_A=Imposing
+tagPrefixB025_Ar_A=Merciless
+tagPrefixB026_Ar_A=Cutthroat's
+tagPrefixB027_Ar_A=Bloodletter's
+tagPrefixB028_Ar_A=Stonehide
+tagPrefixB029_Ar_A=General's
+tagPrefixB030_Ar_A=Glacial
+tagPrefixB031_Ar_A=Thunderstruck
+tagPrefixB032_Ar_A=Demonic
+tagPrefixB033_Ar_A=Aetherfire
+tagPrefixB034_Ar_A=Taskmaster's
+tagPrefixB035_Ar_A=Dominator's
+
+tagPrefixB001_Class_A=Commando's
+tagPrefixB002_Class_A=Witchblade's
+tagPrefixB003_Class_A=Blademaster's
+tagPrefixB004_Class_A=Battlemage's
+tagPrefixB005_Class_A=Pyromancer's
+tagPrefixB006_Class_A=Saboteur's
+tagPrefixB007_Class_A=Sorcerer's
+tagPrefixB008_Class_A=Witch Hunter's
+tagPrefixB009_Class_A=Warlock's
+tagPrefixB010_Class_A=Spellbreaker's
+tagPrefixB011_Class_A=Warrior's
+tagPrefixB012_Class_A=Arsonist's
+tagPrefixB013_Class_A=Heretic's
+tagPrefixB014_Class_A=Assassin's
+tagPrefixB015_Class_A=Magi's
+tagPrefixB016_Class_A=Warder's
+tagPrefixB017_Class_A=Elementalist's
+tagPrefixB018_Class_A=Conjurer's
+tagPrefixB019_Class_A=Trickster's
+tagPrefixB020_Class_A=Druid's
+tagPrefixB021_Class_A=Seer's
+
+tagPrefixB001_Sh_A=Immovable
+tagPrefixB002_Sh_A=Keeper's
+tagPrefixB003_Sh_A=Supercharged
+tagPrefixB004_Sh_A=Chronomancer's
+tagPrefixB005_Sh_A=Overlord's
+tagPrefixB006_Sh_A=Houndmaster's
+tagPrefixB007_Sh_A=Sandstorm
+tagPrefixB008_Sh_A=Glacial
+tagPrefixB009_Sh_A=Thunderstruck
+tagPrefixB010_Sh_A=Caustic
+tagPrefixB011_Sh_A=Destroyer's
+tagPrefixB012_Sh_A=Flamewall
+tagPrefixB013_Sh_A=Glacial
+tagPrefixB014_Sh_A=Thunderstruck
+tagPrefixB015_Sh_A=Caustic
+tagPrefixB016_Sh_A=Stonehide
+tagPrefixB017_Sh_A=Eldritch
+tagPrefixB018_Sh_A=Infernal
+tagPrefixB019_Sh_A=Stormcharged
+tagPrefixB020_Sh_A=Hoarfrost
+tagPrefixB021_Sh_A=Demonic
+tagPrefixB022_Sh_A=Aetherfire
+
+#Suffixes
+
+tagSuffixA001=of Prowess
+tagSuffixA002=of Fortitude
+tagSuffixA003=of Psyche
+tagSuffixA004=of the Wolf
+tagSuffixA005=of the Fox
+tagSuffixA006=of the Boar
+tagSuffixA007=of the Eagle
+
+tagSuffixA008=of Vitality
+tagSuffixA009=of Wisdom
+tagSuffixA010=of Potency
+tagSuffixA011=of Meditation
+
+tagSuffixA014=of Alacrity
+tagSuffixA015=of Haste
+tagSuffixA016=of Celerity
+tagSuffixA017=of Zeal
+tagSuffixA017B=of Clout
+
+tagSuffixA018=of Attack
+tagSuffixA019=of Protection
+tagSuffixA020=of Readiness
+
+tagSuffixA022=of Detoxification
+tagSuffixA023=of Coagulation
+
+tagSuffixA024=of the Hunt
+tagSuffixA025=of Murder
+tagSuffixA026=of Banishment
+tagSuffixA027=of Exorcism
+
+tagSuffixA028=of Ruin
+tagSuffixA029=of Frostbite
+tagSuffixA030=of Scorching
+tagSuffixA031=of Thunder
+tagSuffixA032=of Corrosion
+tagSuffixA033=of Decay
+tagSuffixA034=of Venom
+tagSuffixA035=of Blood
+tagSuffixA036=of Fortification
+tagSuffixA037=of Thorns
+tagSuffixA038=of the Aether
+tagSuffixA039=of the Void
+tagSuffixA040=of Spines
+
+tagSuffixA041=of Mending
+tagSuffixA042=of Renewal
+tagSuffixA043=of the Tortoise
+tagSuffixA044=of the Wolverine
+tagSuffixA045=of the Badger
+tagSuffixA046=of the Serpent
+tagSuffixA047=of the Sea
+tagSuffixA048=of the Mountain
+
+tagSuffixA049=of the Bat
+tagSuffixA050=of the Viper
+tagSuffixA051=of the Bull
+tagSuffixA052=of the Owl
+tagSuffixA053=of the Rifthound
+tagSuffixA054=of the Desert
+tagSuffixA055=of the Arctic
+tagSuffixA056=of the Wastes
+tagSuffixA057=of the Swamp
+tagSuffixA058=of the Wind
+tagSuffixA059=of the Wraith
+tagSuffixA060=of Spellweaving
+tagSuffixA061=of the Flame
+tagSuffixA062=of Chilling
+tagSuffixA063=of Electrocution
+tagSuffixA064=of Trauma
+
+tagSuffixA065=of Barricades
+
+tagSuffixB001_Wpn_A=of Conflagration
+tagSuffixB002_Wpn_A=of Insanity
+tagSuffixB003_Wpn_A=of Sanctification
+tagSuffixB004_Wpn_A=of the Abyss
+tagSuffixB005_Wpn_A=of the Sage
+tagSuffixB006_Wpn_A=of the Slayer
+tagSuffixB007_Wpn_A=of Voracity
+tagSuffixB008_Wpn_A=of the Devourer
+tagSuffixB009_Wpn_A=of Fervor
+tagSuffixB010_Wpn_A=of Cruelty
+tagSuffixB011_Wpn_A=of Ruthlessness
+tagSuffixB012_Wpn_A=of Bestial Rage
+tagSuffixB013_Wpn_A=of Fury
+tagSuffixB014_Wpn_A=of Ferocity
+tagSuffixB015_Wpn_A=of Slaughter
+tagSuffixB016_Wpn_A=of Onslaught
+tagSuffixB017_Wpn_A=of Wildfire
+tagSuffixB018_Wpn_A=of Torrents
+tagSuffixB019_Wpn_A=of Shattering
+tagSuffixB020_Wpn_A=of Blight
+tagSuffixB021_Wpn_A=of the Venomclaw
+tagSuffixB022_Wpn_A=of the Abomination
+tagSuffixB023_Wpn_A=of Annihilation
+tagSuffixB024_Wpn_A=of the Elements
+tagSuffixB025_Wpn_A=of Binding
+tagSuffixB026_Wpn_A=of Affliction
+tagSuffixB027_Wpn_A=of Piercing Darkness
+tagSuffixB028_Wpn_A=of the Winter Storm
+tagSuffixB029_Wpn_A=of Squalls
+tagSuffixB030_Wpn_A=of the Hurricane
+tagSuffixB031_Wpn_A=of Arcane Balance
+tagSuffixB032_Wpn_A=of the Flamecaller
+tagSuffixB033_Wpn_A=of the Arcane Blaze
+tagSuffixB034_Wpn_A=of Voidfire
+tagSuffixB035_Wpn_A=of Fallen Skies
+tagSuffixB036_Wpn_A=of Solael's Malice
+tagSuffixB037_Wpn_A=of Shattered Reality
+tagSuffixB038_Wpn_A=of the Cabal
+
+tagSuffixB001_Ar_A=of Arcane Lore
+tagSuffixB002_Ar_A=of Menhir's Wall
+tagSuffixB003_Ar_A=of Ulzuin's Flame
+tagSuffixB004_Ar_A=of Dreeg's Gaze
+tagSuffixB005_Ar_A=of Solael's Malice
+tagSuffixB006_Ar_A=of Oleron's Wrath
+tagSuffixB007_Ar_A=of Nature's Bounty
+tagSuffixB008_Ar_A=of Albrecht's Focus
+tagSuffixB009_Ar_A=of the Gildam Arcanum
+tagSuffixB010_Ar_A=of Hungering Rifts
+tagSuffixB011_Ar_A=of the Grove
+tagSuffixB012_Ar_A=of Blades
+tagSuffixB013_Ar_A=of Heroism
+tagSuffixB014_Ar_A=of the Dranghoul
+tagSuffixB015_Ar_A=of the Wild
+tagSuffixB016_Ar_A=of the Untamed
+tagSuffixB017_Ar_A=of Incineration
+tagSuffixB018_Ar_A=of the Glacier
+tagSuffixB019_Ar_A=of the Hurricane
+tagSuffixB020_Ar_A=of the Basilisk
+tagSuffixB021_Ar_A=of the Slith
+tagSuffixB022_Ar_A=of Anomalies
+tagSuffixB023_Ar_A=of the Diviner
+tagSuffixB024_Ar_A=of the Flesh Hulk
+tagSuffixB025_Ar_A=of the Void Harbinger
+tagSuffixB026_Ar_A=of Balanced Steel
+tagSuffixB027_Ar_A=of Supremacy
+tagSuffixB028_Ar_A=of Shadows
+tagSuffixB029_Ar_A=of Vicious Barbs
+tagSuffixB030_Ar_A=of Butchery
+tagSuffixB031_Ar_A=of Incantations
+tagSuffixB032_Ar_A=of Insight
+tagSuffixB033_Ar_A=of Scorched Ends
+tagSuffixB034_Ar_A=of Survival
+tagSuffixB035_Ar_A=of Kings
+tagSuffixB036_Ar_A=of Destruction
+tagSuffixB037_Ar_A=of Amarasta's Flurry
+tagSuffixB038_Ar_A=of Maiven's Wit
+tagSuffixB039_Ar_A=of the Winter Storm
+tagSuffixB040_Ar_A=of Squalls
+tagSuffixB041_Ar_A=of Arcane Balance
+tagSuffixB042_Ar_A=of the Arcane Blaze
+tagSuffixB043_Ar_A=of Voidfire
+tagSuffixB044_Ar_A=of Fallen Skies
+tagSuffixB045_Ar_A=of Shattered Reality
+tagSuffixB046_Ar_A=of the Cabal
+tagSuffixB047_Ar_A=of Blight
+tagSuffixB049_Ar_A=of Dreeg's Gaze
+tagSuffixB050_Ar_A=of Solael's Malice
+tagSuffixB051_Ar_A=of Oleron's Wrath
+tagSuffixB052_Ar_A=of Nature's Bounty
+tagSuffixB053_Ar_A=of Destruction
+tagSuffixB054_Ar_A=of Amarasta's Flurry
+tagSuffixB055_Ar_A=of Fallen Skies
+tagSuffixB056_Ar_A=of Arcane Winds
+tagSuffixB057_Ar_A=of Featherstep
+tagSuffixB058_Ar_A=of Stonefooting
+tagSuffixB059_Ar_A=of Dancing Shadows
+tagSuffixB060_Ar_A=of Reptilian Resilience
+tagSuffixB061_Ar_A=of Arcane Winds
+tagSuffixB062_Ar_A=of Rapid Reflexes
+tagSuffixB063_Ar_A=of Amarasta's Alacrity
+tagSuffixB064_Ar_A=of the Honor Guard
+tagSuffixB065_Ar_A=of Arcane Minds
+tagSuffixB066_Ar_A=of Aether Storms
+tagSuffixB067_Ar_A=of Dark Intent
+tagSuffixB068_Ar_A=of Battle Fury
+tagSuffixB069_Ar_A=of Arcane Might
+tagSuffixB070_Ar_A=of Stone Fists
+tagSuffixB071_Ar_A=of the Wild
+tagSuffixB072_Ar_A=of the Untamed
+
+tagSuffixB001_Sh_A=of Redoubt
+tagSuffixB002_Sh_A=of Valor
+tagSuffixB003_Sh_A=of the Protector
+tagSuffixB004_Sh_A=of the Oracle
+tagSuffixB005_Sh_A=of Spectres
+tagSuffixB006_Sh_A=of Serenity
+tagSuffixB007_Sh_A=of Wildfire
+tagSuffixB008_Sh_A=of Shattering
+tagSuffixB009_Sh_A=of Torrents
+tagSuffixB010_Sh_A=of Blight
+tagSuffixB011_Sh_A=of the Defiler
+tagSuffixB012_Sh_A=of the Abomination
+tagSuffixB013_Sh_A=of Solael's Malice
+tagSuffixB014_Sh_A=of Vengeance
+tagSuffixB015_Sh_A=of the Sage
+tagSuffixB016_Sh_A=of the Guardian
+tagSuffixB017_Sh_A=of Wildfire
+tagSuffixB018_Sh_A=of Shattering
+tagSuffixB019_Sh_A=of Torrents
+tagSuffixB020_Sh_A=of Blight
+tagSuffixB021_Sh_A=of Menhir's Wall
+tagSuffixB022_Sh_A=of Annihilation
+tagSuffixB023_Sh_A=of Rituals
+tagSuffixB024_Sh_A=of Binding
+tagSuffixB025_Sh_A=of Affliction
+tagSuffixB026_Sh_A=of the Sands
+tagSuffixB027_Sh_A=of Death's Chill
+tagSuffixB028_Sh_A=of Storms
+tagSuffixB029_Sh_A=of Conflagration
+tagSuffixB030_Sh_A=of the Winter Storm
+tagSuffixB031_Sh_A=of Squalls
+tagSuffixB032_Sh_A=of Immortality
+tagSuffixB033_Sh_A=of Arcane Balance
+tagSuffixB034_Sh_A=of the Flamecaller
+tagSuffixB035_Sh_A=of the Arcane Blaze
+tagSuffixB036_Sh_A=of Voidfire
+tagSuffixB037_Sh_A=of Fallen Skies
+tagSuffixB038_Sh_A=of Shattered Reality
+tagSuffixB039_Sh_A=of the Cabal
+tagSuffixB040_Sh_A=of Corruption
+tagSuffixB041_Sh_A=of Annihilation
+tagSuffixB042_Sh_A=of Conflagration
+tagSuffixB043_Sh_A=of the Hurricane
+tagSuffixB044_Sh_A=of the Glacier
+
+#ItemSkills
+
+tagAutoSkillCondition01= ({%d0}% Cơ hội ở {%.0f1}% Máu)
+tagAutoSkillCondition02= ({%d0}% Cơ hội ở {%.0f1}% Năng lượng)
+tagAutoSkillCondition03= ({%d0}% Cơ hội khi Trúng đòn)
+tagAutoSkillCondition04= ({%d0}% Cơ hội khi Trúng đòn Cận chiến)
+tagAutoSkillCondition05= ({%d0}% Cơ hội khi Trúng đòn Tầm xa)
+tagAutoSkillCondition06= ({%d0}% Cơ hội khi một Buff được Thi triển)
+tagAutoSkillCondition07= ({%d0}% Cơ hội khi Tấn công)
+tagAutoSkillCondition08= (Có Hiệu lực khi Trang bị)
+tagAutoSkillCondition09= ({%d0}% Cơ hội khi Trúng đòn Chí mạng)
+tagAutoSkillCondition10= ({%d0}% Cơ hội khi Ra đòn Chí mạng)
+tagAutoSkillCondition11= ({%d0}% Cơ hội khi Đỡ)
+tagAutoSkillCondition12= ({%d0}% Cơ hội khi Kẻ địch Chết)
+
+#LootChests
+
+tagChestWoodA01=Rương bạc màu
+tagChestRationA01=Túi của Người làm thuê
+tagChestMetalA01=Hòm Kim loại
+tagChestNaturalA01=Tảng đá được đánh dấu
+tagChestNaturalA02=Gốc cây bật rễ
+tagChestCorpseA01=Xác thối
+tagChestRockCairnA01=Ụ đá
+tagChestCocoonA01=Xác kén
+tagChestWoodB01=Rương sáng bóng
+tagChestMetalB01=Hòm sắt hoa mỹ
+tagChestStoneAltarC01=Bệ thờ Đá
+tagChestSlithAltarC01=Bệ thờ Slith
+tagChestStoneMonolithC01=Hòm Đá
+tagChestStoneSarcophagusC01=Quan tài Cổ
+tagChestBoneChestD01=Hòm Xương
+tagChestBoneChestD02=Hòm Xương
+tagChestTreasureTrove01=Kho báu bị giấu
+tagChestCorruptedChestD01=Hòm Thánh tích Tha hóa
+tagChestCorruptedChestD02=Quan tài Tha hóa
+
+tagChestRackArmorA01=Giá để Giáp
+tagChestRackArmorB01=Đống Giáp
+tagChestRackWeaponsA01=Giá để Vũ khí
+tagChestRackWeaponsB01=Đống Vũ khí
+
+tagChestCorpse_Mornay=Xác Mornay
+tagChestCorpse_RoverElder=Xác Trưởng lão Mathias
+tagChestCorpse_Jacob=Xác Jacob
+tagChestCorpse_Refugee=Xác Dahlia Taverin
+tagChestCorpse_BlackLegion=Thi thể lính Quân đoàn Đen
+tagChestCorpse_Malkadarr=Thi thể Malkadarr
+tagChestCorpse_BurrwitchScout=Thi thể của Thalna
+
+tagLectern_WardensLabA01=Nhật ký Nghiên cứu
+tagLectern_OldArkoviaRuinsA01=Bục giảng Cũ
+tagChestBozemanFolly=Túi của Bozeman
+
+tagChestHeroD01=Rương Anh hùng
+tagChestHeroD01_Dropped=Chiến lợi phẩm Anh hùng
+tagChestHeroD02=Rương lớn
+tagChestHeroD02_Dropped=Chiến lợi phẩm lớn
+tagChestHeroD03=Rương Cực lớn
+tagChestHeroD03_Dropped=Chiến lợi phẩm Cực lớn
+tagChestHeroD04=Rương Vĩ đại
+tagChestHeroD04_Dropped=Chiến lợi phẩm Vĩ đại
+tagChestHeroD05=Rương Lộng lẫy
+tagChestHeroD06=Rương Siêu việt
+tagChestHeroD07=Cụm Hắc diện thạch
+tagChestHeroD08=Hòm Hắc diện
+tagChestHeroD09=Gia tài Hắc diện
+tagChestHeroD10=Hòm Loghorrean
+tagChestHeroD11=Kho của Edmund
+tagChestNemesis01=Hòm Kình địch
+tagChestNemesis02=Hòm của Nhân bản
+
+tagChestSecret01=Chiến lợi phẩm bị giấu
+tagChestSecret02=Thi thể bị giấu
+tagChestSecret03=Hòm bị giấu
+
+tagBreakableA01=Thùng rượu
+tagBreakableA02=Thùng gỗ
+tagBreakableJugA01=Hũ sành
+tagBreakableBonePileHumanA01=Di cốt
+tagBreakableBonePileHumanA02=Di cốt
+tagBreakableJunkPileA01=Đống rác
+tagBreakableGrobleTotemA01=Vật tổ Groble
+tagBreakableSlithPileA01=Rác từ Slith
+tagBreakableScrapPileA01=Đống Phế liệu
+tagBreakableWaspClusterA01=Tổ ong
+tagBreakableUrnA01=Bình sứt
+tagBreakableUrnB01=Bình cổ
+tagBreakableUrnClusterA01=Đám bình
+tagBreakableDermapteranA01=Tổ Dermaptera
+tagBreakableBonePileA01=Đống Xương
+tagBreakableObsidianA01=Thi thể phạm nhân
+tagBreakableObsidianB01=Mảnh Hắc diện
+tagBreakableAetherCrystal=Cụm Tinh thể Aether
+
+tagChestLocked= {^R} ~ Bị khóa
+tagChestLockedBoss= {^R} ~ Bị khóa bởi một kẻ Hùng mạnh
+tagChestLockedQuest= {^R} ~ Bị khóa bởi Nhiệm vụ
+
+tagChestBossOneShot_Warden=Rương của Cai ngục
+tagChestBossOneShot_Darius=Rương của Darius
+tagChestBossOneShot_Loghorrean=Sự tha hóa của Loghorrean
+tagChestOneShot_Sacrifice=Rương của Isaac
+tagChestOneShot_Generic01=Rương Cao quý
+tagChestOneShot_Generic02=Rương Cao quý
+tagChestOneShot_BurrwitchCave01=Kho tàng của Quái vật
+tagChestOneShot_LowerCrossingCave01=Kho tàng của Quái vật
+tagChestOneShot_CultistSummoner=Rương của Karroz
+tagChestOneShot_ChthonicAbomination=Rương Âm binh
+tagChestOneShot_HiddenWealth=Gia tài bị giấu
+
+#Interactive Objects
+tagShrineConstitutionA01=Bữa ăn còn nguyên vẹn
+tagShrineBossLocked= {^R} ~ Phong ấn bởi một kẻ Hùng mạnh
+tagShrineMogdrogenLocked= {^R} ~ Phong ấn bởi Năng lượng Âm ti
+
+#Breakables
+
+tagWoodenDoor=Cửa Gỗ
+tagBarnDoor=Cửa Kho thóc
+tagCageDoor=Cửa chuồng
+tagTrollDoor=Cửa Troll
+
+tagBreakableStoneWall=Tường Nứt
+tagBreakableNaturalWall=Đất Xốp
+
+#Dungeon Doors
+
+tagUGDoorCave01=Cửa Hang
+tagUGDoorTrapdoor01=Cửa Sập
+tagUGDoorTrapDoorLocked01=Cửa Sập bị Khóa
+tagUGDoorLadder01=Cầu thang Ọp ẹp
+tagUGDoorCellarDoor01=Nắp Hầm
+tagUGDoorMine01=Lối vào Mỏ
+tagUGDoorRuin01=Lối vào Phế tích
+tagUGDoorIronDoorSecret01=Cửa Sắt
+tagUGDoorIronGate=Cổng Sắt
+tagUGDoorPortcullisFloor01=Khung lưới sắt
+tagUGDoorBoat=Thuyền nhỏ
+tagUGDoorObsidian=Gai Hắc diện
+tagUGDoorFort=Lối vào Pháo đài
+tagUGDoorCrypt=Lối vào Hầm mộ
+tagUGDoorWitchGods=Tảng đá được Đánh dấu
+tagUGDoorAetherFire=Rào chắn Aether
+tagDoorLocked= {^R} ~ Bị khóa
+tagUGCellarOneWay=Cửa Hầm
+
+tagDoorOneWay01=Thoát lên Mặt đất
+tagDoorOneWayPortValbury=Rời khỏi Thành phố
+tagDoorLever01=Cần điều khiển Lưới sắt
+tagTorchLever01=Đuốc Tắt
+tagStoneLever01=Đá nứt
+
+#Doors
+
+tagCellDoor=Cửa xà lim
+tagPrisonEntranceDoor=Cổng Nhà tù Burrwitch
+tagMineDoor=Cửa vào Mỏ
+tagEpicDoor_StepsOfTorment=Cổng Tang tóc
+tagEpicDoor_BastionOfChais=Cổng Thành Hỗn nguyên
+tagEpicDoor_PortValbury=Cổng vào Cảng Valbury
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Phong ấn bởi Sức mạnh Thượng cổ (Cần một Chìa khóa Xương)
+tagLocked= {^R} ~ Bị khóa
+tagBlocked= {^R} ~ Bị đất đá sập chắn đường
+tagLocked_BlackLegion= {^R} ~ Phong ấn bởi Quân đoàn Đen
+tagLocked_Cult= {^R} ~ Phong ấn bởi Giáo phái thờ Ch'thon
+tagUGDoorDermapteranQueen=Lối vào Sào huyệt Ong chúa
+tagUGDoorDermapteranQueenLocked= {^R} ~ Phong ấn bởi các Cận thần
+tagUGDoorDermapteranQueenShortcut=Đường tắt tới Cửa Hang
+tagDoorRampart=Cửa bị chặn
+tagDoorWarden=Cửa Sắt
+tagDoorFarmland=Cổng Gỗ
+tagDoorLab=Cửa Gia cố
+tagDoorStone=Cửa Đá
+tagLocked_Kymon= {^R} ~ Phong ấn bởi Cha Kymon
+tagLocked_Necro= {^R} ~ Phong ấn bởi Hội Canh giữ Cái chết
+tagLocked_Outcast= {^R} ~ Phong ấn bởi Anasteria
+tagLocked_BoCGauntlet= {^R} ~ Phong ấn bởi những Vệ binh
+tagLocked_WitchGods= {^R} ~ Phong ấn bởi Sức mạnh Ma quái
+
+#Quest Rewards
+
+tagQuestItemBrothersAmulet=Dây chuyền Ban sự sống của Em gái
+tagQuestItemBrothersAmuletDesc="Gửi anh thân yêu: Mong chiếc dây chuyền này giúp anh mạnh mẽ hơn trong trận chiến. -Sybil"
+
+tagQuestItemSlithRing=Nhẫn Slith
+tagQuestItemSlithRingDesc="Có một mùi khó chịu lưu trên chiếc nhẫn này không thể tẩy sạch được."
+
+tagItemTest=Gazer Man
+tagItemTestDesc="A crowning achievement in Gazer wear."
+
+#Equipment Locations
+
+tagSlotLeftHand= (Tay Trái)
+tagSlotRightHand= (Tay Phải)
+tagSlotHead= (Đầu)
+tagSlotNeck= (Cổ)
+tagSlotRing1= (Nhẫn 1)
+tagSlotRing2= (Nhẫn 2)
+tagSlotChest= (Ngực)
+tagSlotLegs= (Chân)
+tagSlotShoulders= (Vai)
+tagSlotHands= (Cánh tay)
+tagSlotFeet= (Bàn chân)
+tagSlotWaist= (Lưng)
+tagSlotRelic= (Thánh vật)
+tagSlotMedal= (Mề đay)
+tagSlotUnknown= (Không Trang bị)

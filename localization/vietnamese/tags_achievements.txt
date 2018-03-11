@@ -1,0 +1,228 @@
+# Achievement Groups
+
+achGroupAct1=Hồi I
+achGroupAct2=Hồi II
+achGroupAct3=Hồi III
+achGroupChallenges=Thử thách
+achGroupCharacter=Nhân vật
+achGroupMonsters=Quái vật
+achGroupStory=Cốt truyện
+achGroupWorld=Thế giới
+
+# Achievements
+
+ach001Title=Người giết Quái
+ach001Desc=Tiêu diệt 25 Anh hùng (đánh dấu bằng một Ngôi sao).
+
+ach002Title=Người giết Anh hùng
+ach002Desc=Tiêu diệt 100 Anh hùng (đánh dấu bằng một Ngôi sao).
+
+ach003Title=Sát thủ Huyền thoại
+ach003Desc=Tiêu diệt 1000 Anh hùng (đánh dấu bằng một Ngôi sao).
+
+ach004Title=Đại kình địch
+ach004Desc=Giết một Đại kình địch ở Độ khó Cao cấp hoặc Tối thượng.
+
+ach005Title=Không thể ngăn cản
+ach005Desc=Giết sáu Đại kình địch ở Độ khó Cao cấp hoặc Tối thượng.
+
+ach006Title=Thanh tẩy thế giới
+ach006Desc=Xử lý 25000 con quái ở Cairn.
+
+ach007Title=Một cuộc Thảm sát
+ach007Desc=Xử lý 50000 con quái ở Cairn.
+
+ach008Title=Bể máu
+ach008Desc=Xử lý 100000 con quái ở Cairn.
+
+ach009Title=Bằng hữu trong ngày Tận thế
+ach009Desc=Đạt mức quan hệ Kính phục với một Phe.
+
+ach010Title=Mẫu mực xứ Cairn
+ach010Desc=Đạt mức quan hệ Kính phục với 6 Phe.
+
+ach011Title=Bầy tôi của Empyrion
+ach011Desc=Đạt mức quan hệ Kính phục với đoàn Tinh binh của Kymon.
+
+ach012Title=Tín đồ của Uroboruuk
+ach012Desc=Đạt mức quan hệ Kính phục với Hội Canh giữ Cái chết.
+
+ach013Title=Cái kết của sự Sa đọa
+ach013Desc=Giết Salazar, Lưỡi kiếm Âm binh trong Thánh đường Sa đọa.
+
+ach014Title=Bẻ gãy Lưỡi kiếm Âm binh
+ach014Desc=Giết Salazar, Lưỡi kiếm Âm binh trong Thánh đường Sa đọa ở độ khó Tối thượng.
+
+ach015Title=Hành quyết Kẻ Hành quyết
+ach015Desc=Giết Alkamos, Kẻ Hành quyết trong Bậc thang Thống khổ.
+
+ach016Title=Chấm dứt Đau khổ
+ach016Desc=Giết Alkamos, Kẻ Hành quyết trong Bậc thang Thống khổ ở độ khó Tối thượng.
+
+ach017Title=Kẻ Hành quyết bất tử
+ach017Desc=Giết Alkamos, Kẻ Hành quyết trong Bậc thang Thống khổ ở chế độ Hardcore.
+
+ach018Title=Tống đạt Công lý
+ach018Desc=Giết Cai ngục Krieg trong Phòng thí nghiệm Bí mật.
+
+ach019Title=Nguy cơ Cũ
+ach019Desc=Giết Darius Cronley.
+
+ach020Title=Máu trả Máu
+ach020Desc=Giết Karroz, Dấu ấn Âm binh.
+
+ach021Title=Tai ương xứ Cairn
+ach021Desc=Giết Loghorrean, Tiếng nói Âm binh.
+
+ach022Title=Dập tắt Chiến hỏa
+ach022Desc=Giết Sứ giả của Lửa trong Chiến hỏa Bình nguyên.
+
+ach023Title=Sợ chi đốm Lửa tàn
+ach023Desc=Giết Sứ giả của Lửa trong Chiến hỏa Bình nguyên ở độ khó Tối thượng.
+
+ach024Title=Gutting Gutworm
+ach024Desc=Giết Gutworm trong Vũng của Kẻ buôn lậu.
+
+ach025Title=You've Got Guts
+ach025Desc=Giết Gutworm trong Vũng của Kẻ buôn lậu ở độ khó Tối thượng.
+
+ach026Title=Táy máy là nghề của nàng
+ach026Desc=Cứu Darlet ở Burrwitch.
+
+ach027Title=Trước cây búa Malleum Menhir
+ach027Desc=Tranh thủ sự giúp đỡ của một Thợ rèn.
+
+ach028Title=Hết súp rồi
+ach028Desc=Cứu Ulgrim ở Ngoại vi Burrwitch.
+
+ach029Title=Nghệ nhân Tập sự
+ach029Desc=Chế tác 10 món đồ.
+
+ach030Title=Nghệ nhân Lành nghề
+ach030Desc=Chế tác 100 món đồ.
+
+ach031Title=Nghệ nhân Bậc thầy
+ach031Desc=Chế tác 1000 món đồ.
+
+ach032Title=Di vật từ Quá khứ
+ach032Desc=Chế tác một Thánh vật.
+
+ach033Title=Quyền năng Siêu việt
+ach033Desc=Chế tác một Thánh vật Siêu việt.
+
+ach034Title=Quyền năng Thần thoại
+ach034Desc=Chế tác một Thánh vật Thần thoại.
+
+ach035Title=Nhà thám hiểm trẻ
+ach035Desc=Mở 10 Rương chỉ-mở-một-lần.
+
+ach036Title=Chiến lợi phẩm dành cho người ưa tìm tòi
+ach036Desc=Mở 20 Rương chỉ-mở-một-lần.
+
+ach037Title=Tìm kiếm những Vì sao
+ach037Desc=Khôi phục 10 Điện thờ.
+
+ach038Title=Con chiên Đích thực
+ach038Desc=Khôi phục 50 Điện thờ.
+
+ach039Title=Người sống sót
+ach039Desc=Đạt cấp 10.
+
+ach040Title=Nhà vô địch
+ach040Desc=Đạt cấp 35.
+
+ach041Title=Anh hùng
+ach041Desc=Đạt cấp 50.
+
+ach042Title=Huyền thoại
+ach042Desc=Đạt cấp 85.
+
+ach043Title=Huyền thoại Bất diệt
+ach043Desc=Đạt cấp 85 trong Chế độ Hardcore.
+
+ach044Title=Vị cứu tinh xứ Cairn
+ach044Desc=Hoàn thành Trò chơi ở Độ khó Tối thượng.
+
+ach045Title=Vị cứu tinh Bất diệt
+ach045Desc=Hoàn thành Trò chơi ở Độ khó Tối thượng, Chế độ Hardcore.
+
+ach046Title=Quyết định Khó khăn
+ach046Desc=Giải quyết tình hình ở Cảng mới không dùng đến bạo lực.
+
+ach047Title=Không có Ngoại lệ
+ach047Desc=Giết Anasteria.
+
+ach048Title=Ta không ngờ đấy, Con người
+ach048Desc=Giết Cai ngục Krieg ở chế độ Kỳ cựu với một nhân vật chưa đạt cấp độ 11.
+
+ach049Title=Chiếm Burrwitch
+ach049Desc=Chiếm lại Cổng dịch chuyển Burrwitch ở Chế độ Kỳ cựu.
+
+ach050Title=Ẩn trong Đường mòn Ngập nước
+ach050Desc=Khám phá thứ được giấu đằng sau những tảng đá sập trong Đường mòn Ngập nước.
+
+ach051Title=Bí mật của Cronley
+ach051Desc=Khám phá Bí mật của Darius Cronley.
+
+ach052Title=Gia tài Chôn giấu
+ach052Desc=Tìm ra kho báu được chôn trong những trang trại gần near Homestead.
+
+ach053Title=Dưới vực sâu, Y sống trong Quên lãng
+ach053Desc=Giết Gollus, Cư dân dưới vực sâu
+
+ach054Title=Căn phòng chết
+ach054Desc=Vượt qua Sảnh Linh hồn.
+
+ach055Title=Để tôi ghi lại đã
+ach055Desc=Thu thập 5 Ghi chú
+
+ach056Title=Nhà sưu tầm Ghi chú
+ach056Desc=Thu thập 20 Ghi chú
+
+ach057Title=Người giữ Tri thức
+ach057Desc=Thu thập 50 Ghi chú
+
+ach058Title=Miền Tuyệt vọng
+ach058Desc=Vượt qua Miền Tuyệt vọng.
+
+ach059Title=Hủy thiên Diệt địa
+ach059Desc=Đánh bại Hiện thân của Mogdrogen.
+
+ach060Title=Shar'Zul bị lu mờ
+ach060Desc=Giết Shar'Zul, Sứ giả Hỗn nguyên trong Thành Hỗn nguyên.
+
+ach061Title=Chinh phục Tòa thành
+ach061Desc=Giết Shar'Zul, Sứ giả Hỗn nguyên trong Thành Hỗn nguyên ở Độ khó Tối thượng.
+
+ach062Title=Kẻ chinh phục Hỗn nguyên Bất diệt
+ach062Desc=Giết Shar'Zul, Sứ giả Hỗn nguyên trong Thành Hỗn nguyên ở Chế độ Hardcore.
+
+ach063Title=Anh hùng của Hội
+ach063Desc=Giết Quan chấp chính Barthollem dưới danh nghĩa Hội Canh giữ Cái chết ở Độ khó Tối thượng.
+
+ach064Title=Tinh binh của Kymon
+ach064Desc=Giết Malkadarr dưới danh nghĩa Tinh binh của Kymon ở Độ khó Tối thượng.
+
+ach065Title=Thanh tẩy Vùng đất Hiến tế
+ach065Desc=Giết Sứ giả Hủy diệt trong Vùng đất Hiến tế.
+
+ach066Title=Cấm túc Sứ giả
+ach066Desc=Giết Sứ giả Hủy diệt trong Vùng đất Hiến tế ở Độ khó Tối thượng.
+
+ach067Title=Người bảo vệ xứ Cairn
+ach067Desc=Hoàn thành Trò chơi.
+
+ach068Title=Nhà vô địch xứ Cairn
+ach068Desc=Hoàn thành Trò chơi ở Độ khó Cao cấp.
+
+ach069Title=Ngọn lửa Valbury
+ach069Desc=Vượt qua Ngọn lửa của Valbury.
+
+ach070Title=Chúa tể bị Chế ngự
+ach070Desc=Giết Chúa tể Van Aldritch trong Cảng Valbury.
+
+ach071Title=Báo thù cho Cảng Valbury
+ach071Desc=Giết Chúa tể Van Aldritch trong Cảng Valbury ở Độ khó Tối thượng.
+
+ach072Title=Kẻ Thống trị Bất tử ở Valbury
+ach072Desc=Giết Chúa tể Van Aldritch trong Cảng Valbury ở Chế độ Hardcore.

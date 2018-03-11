@@ -1,0 +1,39 @@
+Greven
+Chào mừng [[ms]anh[fs]cô] trở lại trại của chúng tôi.
+Cáo từ.
+Chào mừng [[ms]anh[fs]cô] đến trại của chúng tôi.
+Cáo từ.
+Xin chào! Điều gì đã đưa [[ms]anh[fs]cô] đến trại của chúng tôi vậy?
+Tôi tìm thấy trưởng lão của các anh trong khu phế tích. Tôi rất tiếc.
+A...một sự mất mát lớn cho đồng bào tôi. Trưởng lão Mathias đã làm mọi thứ có thể để giữ lá bùa không rơi vào tay bọn cướp, và dường như đã phải hi sinh cả tính mạng để hoàn thành trọng trách. Nói cho tôi đi, [[ms]anh[fs]cô] có tìm thấy một lá bùa trong người ông ấy không? Đó là một vật nhỏ được chạm khắc từ xương. Nếu [[ms]anh[fs]cô] có nó xin hãy trả lại, chúng tôi sẵn lòng hậu tạ.
+Quả là có. Nó đây.
+Ít nhất cái chết của ông ấy cũng không vô ích. Cảm ơn [[ms]anh[fs]cô]...tìm lại được lá bùa này sẽ giúp tinh thần của đồng bào tôi phấn chấn hơn nhiều.
+Không có gì. Tạm biệt.
+Không, tôi không thấy lá bùa nào. (Nói dối)
+Vậy thì hôm nay chúng tôi đã mất cả người trưởng lão cùng với thánh vật của bộ lạc rồi. Cảm ơn [[ms]anh[fs]cô] đã đưa tin, dù nó chẳng vui vẻ gì.
+Tôi rất tiếc về những mất mát của anh. Tạm biệt.
+Có, nhưng tôi làm mất nó trên đường về rồi.
+Ồ? Nếu [[ms]anh[fs]cô] có thể tìm lại thánh vật đó, chúng tôi sẵn lòng hậu tạ cho những phiền phức này.
+Tôi sẽ tìm lại nó.
+Tạm biệt.
+[[ms]Anh[fs]Cô] tìm thấy Trưởng lão Mathias chưa?
+Tôi tìm thấy ông ấy rồi, tôi rất tiếc.
+A...một sự mất mát lớn cho đồng bào tôi. Trưởng lão Mathias đã làm mọi thứ có thể để giữ lá bùa không rơi vào tay bọn cướp, và dường như đã phải hi sinh cả tính mạng để hoàn thành trọng trách. Nói cho tôi đi, [[ms]anh[fs]cô] có tìm thấy một lá bùa trong người ông ấy không?
+Quả là có. Nó đây.
+Ít nhất cái chết của ông ấy cũng không vô ích. Cảm ơn [[ms]anh[fs]cô]...tìm lại được lá bùa này sẽ giúp tinh thần của đồng bào tôi phấn chấn hơn nhiều.
+Không có gì. Tạm biệt.
+Không, tôi không thấy lá bùa nào. (Nói dối)
+Vậy thì hôm nay chúng tôi đã mất cả người trưởng lão cùng với thánh vật của bộ lạc rồi. Cảm ơn [[ms]anh[fs]cô] đã đưa tin, dù nó chẳng vui vẻ gì.
+Tôi rất tiếc về những mất mát của anh. Tạm biệt.
+Tạm biệt
+[[ms]Anh[fs]Cô] tìm thấy Trưởng lão Mathias chưa?
+Tôi nên tìm ở đâu nhỉ?
+Hãy đi về phía tây trại này, qua Mỏ Staunton. Trưởng lão Mathias đi vào những phế tích trong khu vực đó.
+Cảm ơn. Tôi sẽ tiếp tục tìm kiếm.
+Vẫn đang tìm. Tạm biệt.
+Xin chào! Thật mừng khi gặp một người thân thiện ở nơi đây. Bọn cướp chẳng mấy khi lịch sự với chúng tôi. [[ms]Anh[fs]Cô] đang đi trong vùng này, không biết [[ms]anh[fs]cô] có thể giúp chúng tôi chút việc được không.
+Anh cần giúp việc gì?
+Trưởng lão của chúng tôi, Mathias, mới đây đã mất tích sau khi bọn cướp tấn công trại. Trưởng lão quyết giữ lá bùa, một thánh vật quý của chúng tôi, khỏi bàn tay tham lam của bọn chúng nên ông ấy đã chạy vào những phế tích gần đây khi bọn cướp xuất hiện.{^n}{^n}Đã vài ngày trôi qua và tôi bắt đầu lo đã có chuyện chẳng lành. Nếu [[ms]anh[fs]cô] có khám phá những phế tích phía tây Mỏ Staunton, xin hãy tìm giúp tôi Trưởng lão Mathias.{^n}{^n}Nếu Trưởng lão đã qua đời đúng như tôi lo sợ, xin hãy giúp tôi lấy lại lá bùa. Đó là môt vật nhỏ được khắc từ xương và mang ý nghĩa tinh thần rất to lớn. Chúng tôi sẽ vô cùng biết ơn.
+Tôi sẽ tìm Trưởng lão của anh.
+Tôi xin lỗi. Tôi không thể giúp được.
+Tôi không hứng thú. Tạm biệt.

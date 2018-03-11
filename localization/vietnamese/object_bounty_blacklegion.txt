@@ -1,0 +1,188 @@
+Bảng Truy nã của Quân đoàn Đen
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã chiến thắng trở về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đang làm một nhiệm vụ truy nã khác cho Quân đoàn Đen.
+Rời khỏi Bảng Truy nã.
+Quân Đoàn Đen luôn tìm kiếm những cá nhân có năng lực để giúp họ trong những nhiệm vụ khó khăn.
+Xem qua Bảng Truy nã.
+Bạn đã làm hết những gì Quân đoàn yêu cầu trong lần này.
+Rời khỏi Bảng Truy nã.
+Xem qua Bảng Truy nã.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rời khỏi Bảng Truy nã.
+Quân đoàn yêu cầu hỗ trợ xử lý mối đe dọa từ bọn Fleshwarped.{^n}{^n}Việc loại trừ Fleshwarped Commander hết sức thiết yếu cho sự thành công của quân ta trong khu vực.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ chống lại Giáo phái thờ Ch'thon.{^n}{^n}Bloodsworn Doomsayer đang tàn phá khắp hàng ngũ quân ta trong Khu rừng Máu. Chúng sẽ là mục tiêu chính cho mọi thành viên Quân đoàn.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ chống lại những sinh vật Hư không.{^n}{^n}Chthonian Devourer đang hoành hành khắp Khu rừng Máu, cắn xé quân ta bằng những bộ hàm sắc nhọn. Chúng làm giảm sĩ khí và cần phải bị thanh trừng.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ đi săn quái vật.{^n}{^n}Một con Gai thường xuân có tên Ol' Bloodbriar đã lẩn tránh được thợ săn quân ta. Hang ổ của nó được cho là nằm đâu đó trong Vũng Ảm đạm.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ với mối đe dọa từ loài Ong.{^n}{^n}Một Cận thần trong tổ Ong ở Đồng ruộng Hư hỏng đã bị nhiễm Aether. Nếu bọn sinh vật Aether lợi dụng điều này, chẳng mấy chúng sẽ nắm toàn quyền kiểm soát toàn bộ tổ ong. Con ong Cận thần này phải bị tiêu diệt ngay lập tức.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ chống lại những sinh vật Hư không.{^n}{^n}Một cổng dịch chuyển dẫn thẳng vào hư không đã mở ra ở Bình nguyên Phân tranh, phía bắc Pháo đài Ikon. Ở đó, có một quái vật hắc diện tên là Bane'Gargoth đang chỉ huy bọn Âm binh tấn công thế giới của chúng ta. Ai đó phải đương đầu với hư không và tiêu diệt nó, vì nhân loại.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng lượng Sắt đáng kể.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ đi săn quái vật.{^n}{^n}Một nữ chúa manticore có tên Mogara tỏ ra là một mục tiêu khó nhằn, thường biến những thợ săn thành con mồi. Khu vực kiếm ăn ưa thích của nó là Hoang địa Gập ghềnh ở phía nam.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ chống lại Giáo phái thờ Ch'thon.{^n}{^n}Một Âm binh tên là Gluttrius'Maw đang khủng bố lực lượng của chúng ta ở Khu rừng Máu. Nó rất khó nắm bắt, và cực kỳ nguy hiểm. Tiêu diệt được nó đã trở thành mục tiêu chính.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ đi săn quái vật.{^n}{^n}Một quái vật trong hang có tên Sicrix đã lẩn trốn khỏi thợ săn của Quân đoàn, nhưng họ đã lần theo nó tới một nơi cực kỳ nguy hiểm là Vực Sâu. Họ đã xin thêm viện binh để hạ sinh vật này.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ đi săn quái vật.{^n}{^n}Một con Gai thường xuân tên là Emberjaw đã cho thấy khả năng kháng lửa đáng ngạc nhiên. Lần cuối cùng nó xuất hiện là ở Vũng Ảm đạm, rải lửa khắp nơi nó đi qua.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ thu thập tin tức tình báo.{^n}{^n}Giáo phái thờ Ch'thon gần đây sử dụng những Phong ấn kỳ lạ trong nghi lễ triệu hồi của chúng. Chúng ta cần tìm hiểu thêm về dụng cụ này nếu muốn chống lại hoạt động của Giáo phái.{^n}{^n}Giao nộp một Phong ấn Trói buộc sẽ được trả công bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ thu thập tin tức tình báo.{^n}{^n}Giáo phái thờ Ch'thon bị cuồng một thứ gọi là Máu của Ch'thon. Quân đoàn muốn nghiên cứu sâu hơn về thứ chất lỏng này.{^n}{^n}Giao nộp một bình Máu của Ch'thon sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ thu thập tin tức tình báo.{^n}{^n}Những sinh vật Aether lấy năng lượng từ nhiều loại tinh thể khác nhau. Quân đoàn yêu cầu lấy mẫu của những tinh thể đó để tìm cách chống lại thứ tài nguyên này của kẻ thù.{^n}{^n}Giao nộp một Mảnh Aether sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ thu thập tin tức tình báo.{^n}{^n}Những Cụm Tinh thể Aether mạnh mẽ nhất, chỉ có thể lấy từ những viên Tinh thể Aether lớn nhất và Aetherial Obelisks, dường như chứa đựng một lượng năng lượng thô khổng lồ bên trong. Quân đoàn muốn tìm hiểu thêm về cách chúng hoạt động.{^n}{^n}Giao nộp một Cụm Aether sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ thu thập tin tức tình báo.{^n}{^n}Có vẻ bị sinh vật Aether nhập sẽ dẫn đến sự biến đổi cấu trúc sinh hóa của bộ não. Quân đoàn muốn nghiên cứu sâu hơn vấn đề này, nhưng cần mẫu vật.{^n}{^n}Giao nộp một Bộ não Vấy bẩn sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Một thây ma gọi là Kilrian đang ngụ trong Thành phố ngầm của Cựu Arkovia. Hắn tụ tập những thây ma, tạo ra một đội quân đủ để đe dọa nghiêm trọng đến nhân loại. Hắn phải bị tiêu diệt bằng mọi giá.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng lượng Sắt đáng kể.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Harrath, một con troll Fleshwarped, được cho là đã bị tiêu diệt ở cổng dịch chuyển bên ngoài Homestead. Bằng cách chúng ta không thể giải thích nổi, hắn đã sống dậy và lại đang tàn phá xung quanh Đồng ruộng Hư hỏng. Mối đe dọa này cần phải được loại trừ, một lần nữa.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Padmanestia, một kẻ bị nhập, đã bị phát hiện ở Chiến hỏa Bình nguyên. Quân đoàn không tha thứ cho bất kỳ kẻ nào phản bội nhân loại. Ả phải bị tiêu diệt với ưu tiên cao nhất.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Corprus, một con ghoul phàm ăn, đang cản trở những nỗ lực của quân ta ở Necropolis. Nếu muốn ngăn chặn bọn Dị giáo, mối đe dọa này phải bị tiêu diệt ngay lập tức. Hãy săn lùng con ghoul trong hang ổ của nó; Hầm mộ Đá đen.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Luthus'Balok là một Âm binh mạnh mẽ có khả năng dẫn truyền sức mạnh sấm sét qua cơ thể của nó. Có người thấy nó xuất hiện từ Ngai vàng Hắc diện, tạo ra bão sấm sét bất cứ nơi nào nó đi qua. Cần phải chấm dứt sự hỗn loạn này.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Bên trong Vực Sâu có rất nhiều nguồn tài nguyên chưa được khai thác, nhưng các kỹ sư của Quân đoàn không thể nào vào bên trong khi có một sinh vật nguy hiểm sống trong hang có tên là Ikrix đang hoành hành ở đó.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng lượng Sắt đáng kể.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Một khe nứt khổng lồ đã mở ra gần Necropolis và từ nó chui ra hàng trăm Âm binh. Chúng ta gọi nơi đó là Thành Hỗn nguyên. Ở sâu bên trong, có một sinh vật mạnh mẽ tên là Lagoth'Ak, Sứ giả Máu. Nếu hắn bị tiêu diệt, chúng ta sẽ giáng một đòn chí mạng vào bọn Âm binh.{^n}{^n}Quân đoàn sẵn sàng chia sẻ một ít tài nguyên quý hiếm với bất kỳ ai hoàn thành được nhiệm vụ bất khả thi này.{^n}{^n}Nhiệm vụ này yêu cầu một chiếc Chìa khóa Xương.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Ở phía bắc Homestead, trong một khu vực chúng ta gọi là Chiến hỏa Bình nguyên, Quân đoàn đã buộc phải rút lui khỏi một sinh vật Aether gọi là Sứ giả của Lửa. Sinh vật này phóng ra lửa aether ở bất cứ nơi nào nó đi qua, và mục tiêu tiếp theo có vẻ là Homestead. Mối nguy hại từ vị Sứ giả này không thể bị xem nhẹ. Nó phải bị tiêu diệt bằng mọi giá. Quân đoàn sẵn sàng chia sẻ một ít tài nguyên quý hiếm với bất kỳ ai có thể hoàn thành được nhiệm vụ bất khả thi này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Xa về phía nam, bên trong Đồi Tan tác, có một khu phế tích mang tên Bậc thang Thống khổ. Có vẻ đó là trọng tâm những hoạt động của đám Thây ma bên trong Arkovia. Tại tầng dưới cùng của nơi bị nguyền rủa này, bên kia Cánh cổng Tang tóc, là nơi cư ngụ của sự suy tàn mang tên Ilgorr. Nếu kẻ canh giữ này bị tiêu diệt và tòa tháp được thanh tẩy, Quân đoàn có thể nghiên cứu khu phế tích và khai quật chúng để tìm cổ vật. Một nguồn tài nguyên có giá trị như vậy không thể bị xem nhẹ.{^n}{^n}Quân đoàn sẵn sàng chia sẻ một ít tài nguyên quý hiếm với bất kỳ ai hoàn thành được nhiệm vụ bất khả thi này.{^n}{^n}Nhiệm vụ này yêu cầu một chiếc Chìa khóa Xương.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn yêu cầu hỗ trợ tiêu diệt một mục tiêu quan trọng.{^n}{^n}Một trong những thủ lĩnh Dị giáo cuối cùng cũng đã lộ diện ở Necropolis. Chúa tể Máu Thalonis đang cố hồi sinh một á thần được biết đến với cái tên Unraveler. Chúng ta không thể để chuyện này xảy ra. Chúa tể Máu Thalonis phải bị ngăn chặn bằng mọi giá. Quân đoàn kêu gọi tất cả đồng minh giúp đỡ trong vấn đề này.{^n}{^n}Mọi sự hỗ trợ sẽ được trả công bằng vật liệu lấy từ kho của Quân đoàn.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Quân đoàn Đen luôn tìm kiếm những cá nhân có năng lực để giúp họ trong những nhiệm vụ khó khăn.
+
+Rời khỏi Bảng Truy nã.
+Quân đoàn Đen vẫn chưa tin tưởng vào khả năng của bạn.{^n}{^n}Danh tiếng cần ở mức Thân mật mới có thể xem Bảng Truy nã
+Rời khỏi Bảng Truy nã.

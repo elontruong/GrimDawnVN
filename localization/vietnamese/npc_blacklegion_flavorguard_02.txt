@@ -1,0 +1,20 @@
+Bộ binh
+Quay về đi.
+Cáo từ.
+Ulgrim muốn gặp [[ms]anh[fs]cô]. Xin hãy tới chỗ ông ấy ngay lập tức.
+Ulgrim ở đâu?
+Ulgrim đang bàn chuyện với Thanh tra Creed, ở trên ban công nhìn ra những cánh đồng.{^n}{^n}[[ms]Anh[fs]Cô] sẽ tìm thấy cầu thang lên đó ở gần phòng tác chiến nơi Đội trưởng đang ở.
+Cảm ơn anh.
+Tôi sẽ đi gặp ông ấy.
+Ulgrim muốn gặp [[ms]anh[fs]cô]. Xin hãy tới chỗ ông ấy ngay lập tức.
+Tôi sẽ đi gặp ông ấy.
+Tôi không có thời gian cho chuyện này.
+Anh mở cổng được không?
+Ulgrim đã nói rõ sẽ không ai rời đi cho tới khi ông ấy nhận được đầy đủ báo cáo về những sự việc gần đây.
+Tôi sẽ đi gặp ông ấy.
+Tôi không có thời gian cho chuyện này.
+Hãy giữ vững tinh thần cảnh giác. Kẻ thù của nhân loại ở khắp quanh ta.
+Anh mở cổng được không?
+Tôi rất tiếc. Chúng tôi được lệnh trực tiếp không mở cổng chừng nào hiểm họa Aetherial ở phía đông vẫn còn đang đe dọa nơi này.
+Tôi hiểu rồi.
+Tôi sẽ cẩn thận.

@@ -1,0 +1,2907 @@
+tagSkillClassName01=Soldier
+tagSkillClassName02=Demolitionist
+tagSkillClassName03=Occultist
+tagSkillClassName04=Nightblade
+tagSkillClassName05=Arcanist
+tagSkillClassName06=Shaman
+tagSkillClassName07=?
+tagSkillClassName08=?
+tagSkillClassName09=?
+
+tagSkillClassName0102=Commando
+tagSkillClassName0103=Witchblade
+tagSkillClassName0104=Blademaster
+tagSkillClassName0105=Battlemage
+tagSkillClassName0106=Warder
+tagSkillClassName0107=
+tagSkillClassName0108=
+tagSkillClassName0109=
+tagSkillClassName0203=Pyromancer
+tagSkillClassName0204=Saboteur
+tagSkillClassName0205=[ms]Sorcerer[fs]Sorceress
+tagSkillClassName0206=Elementalist
+tagSkillClassName0207=
+tagSkillClassName0208=
+tagSkillClassName0209=
+tagSkillClassName0304=Witch Hunter
+tagSkillClassName0305=Warlock
+tagSkillClassName0306=Conjurer
+tagSkillClassName0307=
+tagSkillClassName0308=
+tagSkillClassName0309=
+tagSkillClassName0405=Spellbreaker
+tagSkillClassName0406=Trickster
+tagSkillClassName0407=
+tagSkillClassName0408=
+tagSkillClassName0409=
+tagSkillClassName0506=Druid
+tagSkillClassName0507=
+tagSkillClassName0508=
+tagSkillClassName0509=
+tagSkillClassName0607=
+tagSkillClassName0608=
+tagSkillClassName0609=
+tagSkillClassName0708=
+tagSkillClassName0709=
+tagSkillClassName0809=
+
+tagSkillDevotion=Tín ngưỡng
+
+tagSkillClassDescription01=Những chiến binh trong quân đội hoàng gia được rèn luyện để vượt qua mọi điều kiện hiểm nghèo trong khi vẫn giữ vững đội ngũ trước những kẻ thù nguy hiểm nhất của đế chế. Soldier ưa sử dụng những loại vũ khí cận chiến, như kiếm và khiên, nhưng cũng không tệ khi sử dụng súng ống. Dù không có lượng sát thương lớn, một Soldier sẽ bù vào đó bằng sự kiên cường và khả năng lãnh đạo.
+
+tagSkillClassDescription02=Những bậc thầy về thuốc nổ trong quân đội hoàng gia, Demolitionist vừa là kỹ sư vừa là phù thủy. Họ thường được sử dụng để phá vỡ hàng ngũ quân địch và thọc sâu vào các phòng tuyến với đủ loại thuốc nổ kèm với phép thuật hủy diệt. Họ thường giữ khoảng cách; tấn công kẻ địch bằng súng, bẫy và thuốc nổ nhưng cũng có thể sử dụng thành thạo những vũ khí cận chiến nữa.
+
+tagSkillClassDescription03=Từng bị săn lùng bởi đế chế trong một nỗ lực nhằm kiểm soát quyền năng kỳ thuật, những ngón nghề của Occultist tập trung chủ yếu vào việc triệu hồi và mượn sức mạnh từ ba "thần" phù thủy Bysmiel, Solael và Dreeg. Các thuật đa dạng của họ bao gồm những lời nguyền ghê tởm cùng những phép thuật gây sát thương với độc, a-xít và năng lượng hỗn độn. Không thạo cả kiếm lẫn cung, họ vẫn có thể dùng chúng để tăng khả năng tấn công của mình.
+
+tagSkillClassDescription04=Nightblade từng là những chiến binh bí mật phục vụ cho những gia tộc lớn trong đế chế vì tiền. Nightblade thuần thục đủ loại vũ khí, nhưng thậm chí còn đáng sợ hơn với lưỡi đao ma thuật bí truyền của bọn họ. Nightblade không phù hợp để đối mặt trực tiếp với những kẻ địch mạnh mẽ mà dựa vào ảo ảnh để tiếp cận và xuất ra các chiêu thức nhanh gọn, tàn độc hoặc chiến đấu từ khoảng cách xa với những lưỡi huyễn ảnh đao.
+
+tagSkillClassDescription05=Với Arcanist, sự cụ thể hóa của ma thuật không phải là bí ẩn không thể giải thích hay ý chí của thánh thần, mà là một thứ khoa học cần được làm sáng tỏ.  Cuộc theo đuổi tri thức này là động lực cho mọi Arcanist, luôn háo hức khám phá những kỹ thuật mới để khẳng định tên tuổi.  Arcanist khống chế sinh vật Aether và năng lượng nguyên tố theo ý mình, tạo ra những cuộc biểu dương sức mạnh có thể sánh ngang với cả một đội quân nhỏ.  Tuy nhiên, sức mạnh thuần túy như vậy không còn mấy chỗ dành cho phòng thủ.
+
+tagSkillClassDescription06=Xuất thân từ miền bắc hoang dã, Shaman từng là những lãnh tụ tinh thần và người bảo vệ cho bộ lạc của mình. Mang theo sự hòa hợp đáng kinh ngạc với thế giới hoang dã và vị thần bảo hộ Mogdrogen, Shaman có khả năng sử dụng những thế lực kinh khủng của tự nhiên để chống lại kẻ thù hoặc thậm chí còn gọi những dã thú tới giúp sức. Shaman sử dụng thuần thục những vũ khí cận chiến hai tay, nhưng cũng có thể dễ dàng làm quen với các công cụ chiến đấu khác niệm những quyền năng chủ chốt của mình.
+
+tagSkillClassDescription07=
+
+tagSkillClassDescription08=
+
+tagSkillClassDescription09=
+
+#Default
+
+tagSkillDefaultAttackName01=Đánh thường
+tagSkillDefaultAttackDescription01=Tấn công với vũ khí được trang bị.
+
+tagSkillDefaultMoveTo=Đi tới
+tagSkillDefaultMoveToDescription=Di chuyển vị trí được chọn.
+
+tagSkillDefaultPetAttack=Đệ tấn công
+tagSkillDefaultPetAttackDescription=Ra lệnh cho mọi đệ có thể điều khiển tấn công.
+
+tagSkillInnate=Khả năng Bẩm sinh
+tagSkillSumLVL=Tăng theo cấp triệu hồi.
+
+tagSkillUsableReady=Kỹ năng Sẵn sàng
+
+#Class01
+
+tagClass01SkillName00A=Soldier
+tagClass01SkillDescription00A=Rèn luyện thể chất là cần thiết để đương đầu với hiện thực khắc nghiệt ở xứ Cairn.
+
+tagClass01SkillName01A=Tiết tấu (Cadence)
+tagClass01SkillDescription01A=Việc sử dụng các loại vũ khí trong chiến đấu mang lại cho đòn tấn công của bạn một tiết tấu tự nhiên với những nốt trầm bổng, dù dễ đoán, nhưng không hề kém hiệu quả và rất khó để đối phó.  {^n}^oKhi sử dụng như đòn đánh thường của vũ khí, Tiết tấu sẽ khuếch đại sức mạnh của mỗi đòn đánh thứ ba của cùng một vũ khí.
+tagClass01SkillName01B=Tư thế Chiến đấu (Fighting Form)
+tagClass01SkillDescription01B=Sức mạnh của Tiết tấu cộng hưởng với mục tiêu, gây ra xuất huyết nặng và tấn công thêm cả những mục tiêu xung quanh. {^n}^oVới vũ khí tầm xa, Tiết tấu có cơ hội bắn xuyên qua kẻ địch.
+tagClass01SkillName01C=Giai điệu Tử vong (Deadly Momentum)
+tagClass01SkillDescription01C=Nương theo đà tấn công từ một đòn Tiết tấu, trong một khoảng thời gian ngắn mọi cú đánh của bạn đều được tăng thêm sức mạnh chết người. {^n}^oGiai điệu Tử vong tác động lên mọi đòn đánh khi được kích hoạt.
+tagClass01SkillName01D=Lạc nhịp (Discord)
+tagClass01SkillDescription01D=Sự lạc nhịp của một linh hồn giận dữ xâm chiếm tiết tấu thuần khiết của người lính và gieo rắc vào đó năng lượng của những nguyên tố.
+
+tagClass01SkillName02A=Sóng Xung lực (Forcewave)
+tagClass01SkillDescription02A=Xung lực cực lớn được dồn vào đòn đánh khiến nó nén chặt không khí lại, rồi phóng ra một luồng sóng làm choáng và gây sát thương lên kẻ địch. {^n}^oYêu cầu mang khiên hoặc vũ khí cận chiến hai tay.
+tagClass01SkillName02B=Lực Phá giáp (Rending Force)
+tagClass01SkillDescription02B=Sóng Xung lực đập xuyên qua lớp phòng thủ của địch, gây tổn hại nghiêm trọng lên những điểm yếu bị lộ ra.
+tagClass01SkillName02C=Nội thương (Internal Trauma)
+tagClass01SkillDescription02C=Sóng Xung lực đánh gãy xương dập nội tạng, gây xuất huyết nặng cả trong lẫn ngoài.
+tagClass01SkillName02D=Chấn động (Tremor)
+tagClass01SkillDescription02D=Với ý chí của Menhir, đập mạnh xuống đất với một món vũ khí hai tay và xuất những luồng sóng hủy diệt về phía kẻ thù. {^n}^oKỹ thuật này yêu cầu mang vũ khí cận chiến hai tay. Chấn động không phải kỹ năng bổ trợ cho đòn đánh thường và không thể kích hoạt những hiệu ứng như Lợi thế của Markovian.
+
+tagClass01SkillName03A=Tiến công Chớp nhoáng (Blitz)
+tagClass01SkillDescription03A=Lao vào giữa vòng chiến với tốc độ hủy diệt, khiến kẻ địch bất ngờ. {^n}^oYêu cầu mang vũ khí cận chiến. Khi dùng với khiên, sát thương của khiên sẽ được thêm vào.
+tagClass01SkillName03B=Đột kích (Blindside)
+tagClass01SkillDescription03B=Sự bất ngờ và hung bạo trong đòn đánh của bạn khiến kẻ địch mất thăng bằng, giảm sức chiến đấu của chúng.
+
+tagClass01SkillName04A=Tiếng gầm Chiến trận (War Cry)
+tagClass01SkillDescription04A=Một tiếng gầm đáng sợ làm giảm quyết tâm đồng thời ngắt quãng sự tập trung của kẻ địch.
+tagClass01SkillName04C=Kinh hãi (Terrify)
+tagClass01SkillDescription04C=Những kẻ địch thiếu kiên cường sẽ bỏ chạy khi nghe tiếng gầm thách thức của bạn.
+tagClass01SkillName04B=Vỡ mật (Break Morale)
+tagClass01SkillDescription04B=Tiếng gầm Chiến trận đập tan sĩ khí của kẻ địch, khiến chúng trở nên bất lực trước bạn.
+
+tagClass01SkillName05A=Nhát chém Vòng cung (Blade Arc)
+tagClass01SkillDescription05A=Một cú chém hình vòng cung cắt qua nhiều kẻ địch xung quanh bạn. {^n}^oYêu cầu mang vũ khí cận chiến.
+tagClass01SkillName05B=Xé toạc (Laceration)
+tagClass01SkillDescription05B=Kỹ thuật thuần thục giúp Nhát chém Vòng cung tấn công được nhiều kẻ địch hơn đồng thời cắt sâu vào da thịt chúng, gây xuất huyết.
+tagClass01SkillName05C=Quét sạch (Clean Sweep)
+tagClass01SkillDescription05C=Một biến thể mạnh mẽ hơn của Nhát chém Vòng cung trong đó người Chiến binh dồn sức giữa những đòn tấn công rồi giải phóng nó trong một cú đánh bùng nổ gây sát thương tức thời lớn tới mức có thể hất ngã kẻ thù.
+
+tagClass01SkillName06A=Lợi thế của Markovian
+tagClass01SkillDescription06A=Quân sư nổi tiếng Markovian luôn điều động để quân mình có thể tấn công từ địa hình cao hơn. Chiêu thức cổ điển này, lấy cảm hứng từ chiến thuật của Markovian, là một nhát chém cực mạnh từ trên xuống để làm kẻ địch mất thăng bằng, giảm sức phòng thủ của chúng. {^n}^oCó thể kích hoạt với mọi đòn tấn công thường của vũ khí.
+tagClass01SkillName06B=Tuyệt kỹ của Zolhan
+tagClass01SkillDescription06B=Được đặt tên theo đấu sỹ bậc thầy nổi tiếng, chiêu thức này dồn trọng tâm xuống thấp và tung ra cú vung uy lực để làm đối phương mất cân bằng. {^n}^oCó thể kích hoạt với mọi đòn tấn công thường của vũ khí. Khi dùng với vũ khí cận chiến, chiêu thức này sẽ trúng thêm nhiều mục tiêu xung quanh.
+
+tagClass01SkillName07A=Nghị lực Chiến đấu (Fighting Spirit)
+tagClass01SkillDescription07A=Chẳng những không thể bị khuất phục, sự đau đớn từ những cú đánh của kẻ địch lại đánh thức cơn giận trong bạn, làm mỗi chiêu thức bạn đánh ra có uy lực hơn. ^oKích hoạt khi nhận sát thương.
+tagClass01SkillName08A=Ý chí của Menhir
+tagClass01SkillDescription08A=Khi cận kề cái chết, ý chí bất khuất của Menhir lại truyền sức mạnh tươi mới vào khắp cơ thể bạn. {^n}^oYêu cầu mang khiên hoặc vũ khí cận chiến hai tay.
+
+tagClass01SkillName09A=Chỉ huy Chiến trường (Field Command)
+tagClass01SkillDescription09A=Ý thức kỷ luật cao cùng những hiểu biết về hành quân đánh trận khiến bạn trở thành một người lãnh đạo tự nhiên giữa trận chiến. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass01SkillName09B=Chiến thuật Nhóm (Squad Tactics)
+tagClass01SkillDescription09B=Động viên những chiến hữu của bạn phát huy tối đa khả năng của họ.
+
+tagClass01SkillName10A=Phong thái Quân nhân (Military Conditioning)
+tagClass01SkillDescription10A=Chế độ rèn luyện hà khắc trong quân ngũ giúp cơ thể trở nên mạnh mẽ và cứng cáp trước những gian khổ của chiến tranh.
+tagClass01SkillName11A=Kỳ cựu (Veterancy)
+tagClass01SkillDescription11A=Từng trải qua những trận đánh khó khăn nhất trong cuộc chiến tranh thuộc địa đã cho bạn khả năng vượt qua những thử thách được xem là chí tử đối với kẻ khác.
+tagClass01SkillName12A=Chiến binh Ưu tú (Decorated Soldier)
+tagClass01SkillDescription12A=Khả năng giữ bình tĩnh và suy nghĩ thấu đáo giữa trận chiến cho phép những cựu binh dễ dàng phát hiện lỗ hổng trong phòng ngự của địch, hoặc đoán trước hướng tấn công của chúng để họ có thể dễ dàng đáp trả.
+
+tagClass01SkillName13A=Bức tường của Menhir
+tagClass01SkillDescription13A=Gọi ra thần đất, Menhir. Menhir là một vị thần cổ xưa đã ban cho những tín đồ của ông sự kiên cường của đất. {^n}^oYêu cầu mang khiên. Kỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass01SkillName14A=Cơn cuồng nộ của Oleron
+tagClass01SkillDescription14A=Gọi ra thần chiến tranh, Oleron. Oleron là một vị thần cổ xưa thường thôi thúc sự điên cuồng bất chấp mọi thứ trong những tín đồ của y. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass01SkillName15A=Cảnh giác (Overguard)
+tagClass01SkillDescription15A=Vào thế thủ để tăng đáng kể nhận thức chiến đấu của bạn. Bạn chỉ có thể tập trung ở mức độ này trong một thời gian ngắn. {^n}^oYêu cầu mang khiên.
+tagClass01SkillName15B=Thế thủ của Markovian
+tagClass01SkillDescription15B=Markovian trở thành huyền thoại trên chiến trường nhờ vào binh pháp thần thánh, nhưng chính việc sử dụng khiên thuần thục mới cho phép ông vượt qua được vô số cuộc xung đột với vị thế của kẻ chiến thắng. Khi có đủ sự tập trung và rèn luyện, Markovian có thể duy trì thế thủ gần như vô tận với cái giá là khả năng tấn công, ông dùng cách này để tiêu hao thể lực địch trước khi ra đòn kết liễu.
+
+tagClass01SkillName16=Sẹo Chiến tranh (Scars of Battle)
+tagClass01SkillDescription16=Qua vô số cuộc đụng độ vũ trang, bạn đã thấy những thứ tồi tệ nhất của chiến trận. Sự khủng khiếp của chiến tranh đã chẳng thể ngăn được bạn, một chút máu rơi có xá gì.
+
+tagClass01SkillName17=Phản kích (Counter Strike)
+tagClass01SkillDescription17=Bước vào một trạng thái sẵn sàng cực độ để tung ra những cú phản kích chớp nhoáng lên những kẻ tấn công bạn. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass01SkillName18=Rèn luyện dùng Khiên (Shield Training)
+tagClass01SkillDescription18=Nghiên cứu sâu rộng về những kỹ thuật dùng khiên trong chiến đấu cho bạn khả năng vận dụng và điểu khiển chúng một cách cơ động; đảm bảo rằng tấm khiên sẽ không bao giờ cản trở bạn. {^n}^oYêu cầu mang khiên.
+
+
+
+#Class02
+
+tagClass02SkillName00A=Demolitionist
+tagClass02SkillDescription00A=Thành thạo trong việc kết hợp khoa học với ma thuật để rải lửa địa ngục lên khắp chiến trường.
+
+tagClass02SkillName01A=Lựu đạn (Grenado)
+tagClass02SkillDescription01A=Lựu đạn là một phát minh mới đã nhanh chóng được sử dụng rộng rãi trên chiến trường nơi nó san bằng khoảng cách giữa sự thao túng bằng ma thuật với những vũ khí thông thường.
+tagClass02SkillName01B=Tác động Mạnh (High Impact)
+tagClass02SkillDescription01B=Một thiết kế cải tiến so với Lựu đạn thường khiến nó tỏa nhiệt mạnh khi phát nổ kèm với đó là những mảnh đạn sắc nhọn hết sức nguy hiểm.
+tagClass02SkillName01C=Lựu đạn Thiên hỏa (Skyfire Grenado)
+tagClass02SkillDescription01C=Khi chỉ làm kẻ địch nổ tung là chưa đủ, việc thay thế chất nổ trong Lựu đạn bằng hợp chất giả kim sẽ giải phóng ra một cơn bão điện khi kích nổ.
+tagClass02SkillName01D=Vụ nổ Vụn vỡ (Shattering Blast)
+tagClass02SkillDescription01D=Sức ép cực mạnh tạo ra khi Lựu đạn nổ xuyên qua kẻ địch của bạn, gây nội thương nặng.
+
+tagClass02SkillName02A=Mìn chói (Flashbang)
+tagClass02SkillDescription02A=Một luồng sáng chói lòa nhất thời làm kẻ địch lúng túng đồng thời ngăn chặn khả năng tự phòng vệ của chúng.
+tagClass02SkillName02B=Ánh sáng Bỏng cháy (Searing Light)
+tagClass02SkillDescription02B=Cảm giác chói thiêu đốt võng mạc kẻ địch làm giảm khả năng ra đòn chính xác của chúng.
+
+tagClass02SkillName03A=Hỏa kích (Fire Strike)
+tagClass02SkillDescription03A=Một kỹ thuật giả kim chết người khiến cho những đòn tấn công đốt cháy không khí quanh kẻ địch. {^n}^oKhi sử dụng như đòn đánh thường của vũ khí, Hỏa kích gây thêm sát thương.
+tagClass02SkillName03B=Bạo kích (Explosive Strike)
+tagClass02SkillDescription03B=Tăng tiềm năng của Hỏa kích bằng một vụ nổ gây thêm sát thương lên những kẻ địch xung quanh.
+tagClass02SkillName03C=Điện kích (Static Strike)
+tagClass02SkillDescription03C=Tiếp tục cải tiến công thức hóa chất khiến Hỏa kích sốc điện mục tiêu với cơ hội hất ngã chúng.
+tagClass02SkillName03D=Lưu huỳnh (Brimstone)
+tagClass02SkillDescription03D=Thuật dùng lửa mang chút huyền bí bao trùm Hỏa kích bằng sức mạnh hỗn độn của lưu huỳnh. {^n}^oĐòn đánh tầm xa cũng sẽ tách thành những mảnh vụn rực lửa.
+tagClass02SkillName03E=Nhiệt kích (Searing Strike)
+tagClass02SkillDescription03E=Tập trung sức hủy diệt của Hỏa kích cho phép ra đòn mãnh liệt hơn trong khi cần ít năng lượng hơn, nhưng kỹ thuật này chỉ có thể thực hiện bằng thao tác chính xác với vũ khí cận chiến một tay.  {^n}^oYêu cầu mang vũ khí cận chiến một tay.
+tagClass02SkillName03F=Nhiệt dũng (Searing Might)
++tagClass02SkillDescription03F=Khi được dẫn truyền qua một vũ khí cận chiến hoặc tầm xa hai tay mạnh mẽ, Hỏa kích gây sát thương hủy diệt. ^oYêu cầu mang vũ khí cận chiến hoặc tầm xa hai tay.
+
+tagClass02SkillName04A=Bom chùm (Canister Bomb)
+tagClass02SkillDescription04A=Một gói thuốc nổ chứa nhiều gói thuốc nổ khác, thiết bị quái quỷ này dư sức tàn phá cả một cánh quân địch. 
+tagClass02SkillName04B=Vỏ bọc Cải tiến (Improved Casing)
+tagClass02SkillDescription04B=Một điều chỉnh cho vỏ Bom chùm cải thiện lực nổ của nó, gây chấn thương nặng trong bán kính lớn hơn.
+tagClass02SkillName04C=Bom Xung chấn (Concussive Bomb)
+tagClass02SkillDescription04C=Được đóng gói để có một vụ nổ lớn hơn, Bom Xung chấn gây ít sát thương hơn một chút nhưng sẽ khiến kẻ địch choáng váng.
+
+tagClass02SkillName05A=Bẫy Pháo (Mortar Trap)
+tagClass02SkillDescription05A=Đặt một cây pháo cối liên tục nhả thuốc nổ lên trời cho tới khi hết đạn. {^n}^oBẫy tỉ lệ với sát thương thêm của người chơi.
+tagClass02SkillName05B=Vũ khí Hạng nặng (Heavy Ordnance)
+tagClass02SkillDescription05B=Phù phép tăng sát thương gây ra bởi đạn cối và truyền cho nó sát thương sét.^oẢnh hưởng tới cả Pháo thường lẫn "Quả Bự".
+tagClass02SkillName05C="Quả Bự"
+tagClass02SkillDescription05C=Nạp Bẫy pháo với một quả bom hủy diệt gọi là "Quả Bự", nó sẽ được bắn cuối cùng trong loạt đạn pháo. Vụ nổ khổng lồ nó gây ra sẽ làm kẻ địch choáng váng, nếu chúng còn sống.
+tagClass02SkillName05D=Pháo lửa (Fire Mortar)
+tagClass02SkillDescription05D=Phóng một quả pháo nổ vào kẻ địch.
+tagClass02SkillName05E=Pháo điện (Electrical Mortar)
+tagClass02SkillDescription05E=Phóng một quả pháo tích điện vào kẻ địch.
+
+tagClass02SkillName06A=Mìn Nhiệt nhôm (Thermite Mine)
+tagClass02SkillDescription06A=Thả ba quả pháo nhỏ nhưng nguy hiểm, chúng sẽ thiêu cháy kẻ địch với những tia lửa cực mạnh. {^n}^oMìn tỉ lệ với sát thương thêm của người chơi.
+tagClass02SkillName06B=Mìn Hỏa ngục (Hellfire Mine)
+tagClass02SkillDescription06B=Nửa pháo, nửa giả kim thuật, cải tiến chết người cho Mìn Nhiệt nhôm này làm nó thiêu đốt khẻ địch bằng ngọn lửa từ thế giới khác làm khô héo cả sự tồn tại của chúng.
+tagClass02SkillName06C=Tia lửa (Flame Jet)
+tagClass02SkillDescription06C=Phóng ra một tia lửa trắng chết người để thiêu cháy kẻ địch đi qua nó.
+tagClass02SkillName06D=Kích nổ
+
+tagClass02SkillName07A=Khiên chịu nổ (Blast Shield)
+tagClass02SkillDescription07A=Kết hợp giữa quân trang và thuật dùng lửa tạo ra một lá chắn có khả năng đánh bật một lượng cố định của mọi sát thương nhận phải đồng thời giảm sát thương lửa và xuyên phá phải nhận. Kẻ địch tấn công sẽ phải chịu sát thương dội lại từ tấm khiên.
+tagClass02SkillName07B=Người được Ulzuin chọn
+tagClass02SkillDescription07B=Những kẻ hi sinh nhiều thứ để theo đuổi thuật dùng lửa sau cùng đều sẽ được Ulzuin để mắt tới, nhận được sự ban phước của ông trong việc khơi ngọn lửa tàn phá trên khắp thế giới. {^n}^o[Ảnh hưởng tới Stun Jacks, Lựu đạn và Bom chùm đồng thời cần một trong ba loại để mở khóa]
+
+tagClass02SkillName08A=Cốc-tai Hắc thủy (Blackwater Cocktail)
+tagClass02SkillDescription08A=Cốc-tai Hắc thủy được chế ra khi thuốc nổ thông thường trở nên khan hiếm. Loại bom xăng tự chế này khi nổ để lại một đám lửa tự cấp nhiên liệu và đặc biệt hiệu quả với đám đông kẻ địch đứng gần nhau.
+tagClass02SkillName08B=Lửa Ác quỷ (Demon Fire)
+tagClass02SkillDescription08B=Phù phép yểm vào ngọn lửa sức mạnh hỗn độn có thể làm tan chảy da thịt kẻ địch.
+tagClass02SkillName08C=Ngọn lửa Đau đớn (Agonizing Flames)
+tagClass02SkillDescription08C=Tăng cường ngọn lửa tới độ nó sẽ lập tức biến kẻ địch của bạn thành tro bụi.
+tagClass02SkillName08D=Hiệu lực Cao (High Potency)
+tagClass02SkillDescription08D=Công thức với hiệu lực cao thiêu đốt lâu hơn và giảm khả năng chiến đấu của kẻ địch.
+
+tagClass02SkillName09A=Cầu Choáng (Stun Jacks)
+tagClass02SkillDescription09A=Quăng một nắm cầu tích điện tí hon để tạm thời chặn đứng kẻ địch.
+tagClass02SkillName09B=Rải đều (Full Spread)
+tagClass02SkillDescription09B=Tăng điện dung của mỗi quả cầu choáng đồng thời tăng số lượng cầu có thể ném trong một lần.
+tagClass02SkillName09C=Cầu nhanh (Quick Jacks)
+tagClass02SkillDescription09C=Chúng mất khả năng chặn địch của Cầu Choáng nhưng có thể ném liên tục để gây sát thương lượng lớn sát thương điện lên đám đông kẻ địch.
+
+tagClass02SkillName12A=Flame Touched
+tagClass02SkillDescription12A=Vượt qua ranh giới, như nhiều Demolitionist đã làm, để dấn thân vào hỏa thuật mở ra khả năng bao bọc bản thân cùng đồng đội xung quanh bằng một ngọn lửa sống nhằm nâng cao sức tấn công và phản kích lại kẻ địch. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass02SkillName12B=Tôi luyện (Temper)
+tagClass02SkillDescription12B=Tìm hiểu sâu hơn những bí mật của hỏa thuật cho bạn sự kiểm soát tinh tế đối với ngọn lửa tới mức nó có thể dùng để tôi luyện vũ khí và giáp của đồng minh vượt xa năng lực bình thường đồng thời bao bọc chúng với một ngọn lửa sống.
+
+tagClass02SkillName13A=Ngọn lửa Hận thù (Vindictive Flame)
+tagClass02SkillDescription13A=Ngọn lửa vĩnh hằng của Ulzuin từng mang tới sự sống tới cho thế giới, nhưng sự bội phản và dày vò đã bóp méo món quà này thành một thứ vũ khí của lòng thù hận. Những ai thề trung thành với Ulzuin sẽ nhận được sức mạnh trong chiến trận và phản đòn lên kẻ thù của họ. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass02SkillName13B=Cơn thịnh nộ của Ulzuin
+tagClass02SkillDescription13B=Khi ngọn lửa của Ulzuin thiêu đốt những kẻ địch đứng gần nhau, những mũi tên ma thuật lửa và sét sẽ phóng ta để tấn công những kẻ địch ở xa hơn.
+
+tagClass02SkillName10A=Nạp điện (Lightning Charge)
+tagClass02SkillDescription10A=Quăng một quả bom sạc đầy điện về phía kẻ địch. Hiệu quả đối với những mục tiêu đơn lẻ.
+tagClass02SkillName10B=Quá tải (Overload)
+tagClass02SkillDescription10B=Tăng sát thương điện của Nạp điện.
+tagClass02SkillName11A=Vũ khí Hạng nặng (Heavy Ordnance)
+tagClass02SkillDescription11A=Tăng hỏa lực của Lựu đạn và Bom chùm.
+tagClass02SkillName14A=Tác động Mạnh (High Impact)
+tagClass02SkillDescription14A=Một đòn tấn công mạnh gây sát thương lớn hơn và hất ngã hầu hết mọi kẻ địch kích cỡ từ nhỏ tới vừa.
+
+
+
+#Class03
+
+tagClass03SkillName00=Occultist
+tagClass03SkillDescription00=Nghiên cứu chuyên sâu về sự thao túng và kiểm soát những thế lực huyền bí.
+
+tagClass03SkillName01A=Triệu hồi Quạ (Summon Familiar)
+tagClass03SkillDescription01A=Triệu hồi một con quạ bão tố trong thần thoại ra hỗ trợ bạn. Quạ bão tố là những sinh vật ma quái với trí thông minh phi thường cùng năng lực ma thuật khác hẳn giống quạ tầm thường. Nhiều người tin rằng chúng còn chẳng phải chim mà là một loại linh hồn cổ đại thích xuất hiện dưới hình dạng những con quạ mà thôi. {^n}^oChỉ có thể triệu hồi một con quạ trong cùng thời điểm. Sức mạnh của Quạ tỉ lệ với Điểm thưởng cho Đệ.
+tagClass03SkillName01B=Cầu sét (Storm Orb)
+tagClass03SkillDescription01B=Chiêu thức nội tại.
+tagClass03SkillName01C=Trị liệu (Mend Flesh)
+tagClass03SkillDescription01C=Con quạ dẫn truyền những năng lượng ma quái để chữa trị vết thương cho các đồng minh.
+tagClass03SkillName01D=Linh hồn Bão tố (Storm Spirit)
+tagClass03SkillDescription01D=Con quạ đặt linh hồn ma quái của nó vào những đồng minh được chọn, gia tăng sức mạnh của họ vượt xa người thường.
+tagClass03SkillName01E=Lôi kích (Lightning Strike)
+tagClass03SkillDescription01E=Con quạ Bão tố gọi ra một tia sét mạnh mẽ để giật những kẻ địch xung quanh.
+
+tagClass03SkillName02A=Triệu hồi Chó săn Địa ngục (Summon Hellhound)
+tagClass03SkillDescription02A=Gọi ra một con Chó săn Địa ngục từ những giới siêu nhiên để tấn công kẻ địch của Occultist. Con thú hoang dã này sẽ chiến đấu cạnh bạn cho tới khi sinh lực của nó bị dập tắt bằng một vụ nổ lớn. {^n}^oChỉ có thể triệu hồi một con Chó săn Địa ngục trong cùng thời điểm. Sức mạnh của Chó săn Địa ngục tỉ lệ với Điểm thưởng cho Đệ.
+tagClass03SkillName02B=Móng vuốt Rực cháy (Ember Claw)
+tagClass03SkillDescription02B=Những móng vuốt bằng lưu huỳnh vạch những vệt lửa hình vòng cung xuyên qua những kẻ địch đứng trong tầm với của Chó săn Địa ngục.
+tagClass03SkillName02C=Lửa Địa ngục (Hellfire)
+tagClass03SkillDescription02C=Một quầng lửa địa ngục bao quanh con Chó săn Địa ngục, trang bị cho nó sức mạnh từ quê nhà đồng thời thiêu đốt những kẻ địch chạm phải da thịt nó. Sức mạnh này mở rộng ra cho cả những đồng minh xung quanh.
+tagClass03SkillName02D=Hơi thở Địa ngục (Infernal Breath)
+tagClass03SkillDescription02D=Chó săn Địa ngục khạc một tia lửa địa ngục mãnh liệt về phía trước, thiêu đốt mọi kẻ địch.
+tagClass03SkillName02E=Tấn công bằng Nanh vuốt (Claw and Fang Attacks)
+tagClass03SkillDescription02E=Chiêu thức Nội tại.
+tagClass03SkillName02F=Cái chết Rực lửa (Blazing Death)
+tagClass03SkillDescription02F=Da thịt Chó săn Địa ngục bùng lên như nó đã về với chốn tự nhiên của mình, thiêu đốt kẻ địch xung quanh.
+
+tagClass03SkillName03A=Giao kèo của Bysmiel
+tagClass03SkillDescription03A=Thắt chặt mối dây kiểm soát với đám đệ của bạn khiến chúng chiến đấu với sự hăng hái và quyết tâm cao hơn.^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass03SkillName03B=Thao túng (Manipulation)
+tagClass03SkillDescription03B=Khéo léo thao túng mối dây kiểm soát đánh lừa đám đệ cảm nhận được sự trung thành tuyệt đối với bạn, làm chúng chiến đấu với sức mạnh và tốc độ điên cuồng.
+
+tagClass03SkillName04A=Máu của Dreeg
+tagClass03SkillDescription04A=Mối liên kết với vị thần bảo hộ vĩ đại cho bạn một phần khả năng hồi phục của Dreeg, trong khi đó những vết thương kẻ thù gây lên bạn sẽ phun ra máu độc y như gây lên chính Dreeg vậy. {^n}^oHiệu ứng này cũng áp dụng lên đồng đội ở xung quanh.
+tagClass03SkillName04B=Phương diện Thần bảo hộ (Aspect of the Guardian)
+tagClass03SkillDescription04B=Tăng cường mối liên hệ với Dreeg khiến những đòn tấn công của kẻ địch vào Occultist như là đang đập vào vảy cứng của vị thần bảo hộ vậy.
+tagClass03SkillName04C=Lông của Thần bảo hộ (Quills of the Guardian)
+tagClass03SkillDescription04C=Hi sinh toàn bộ khả năng hồi phục của bạn để nâng cao tiềm năng chất độc trong máu của Dreeg.
+
+tagClass03SkillName05A=Lửa ma của Solael
+tagClass03SkillDescription05A=Vận dụng sức mạnh ma quái của Solael, thiêu đốt kẻ địch với năng lượng nhiễu loạn trong mỗi đòn đánh. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass03SkillName05B=Nghi thức Thứ cấp (Second Rite)
+tagClass03SkillDescription05B=Tăng cường mối liên hệ giữa Occultist với cõi bí ẩn, gia cường sức mạnh cho ngọn lửa ma thuật tới mức kẻ địch chỉ chạm nhẹ đã bị thiêu đốt tới tận xương tủy.
+tagClass03SkillName05C=Tế Kiếm (Consecrated Blade)
+tagClass03SkillDescription05C=Ngọn lửa nuốt chửng vũ khí của bạn, biến nó thành một tiêu điểm dành cho những sức mạnh hỗn độn.
+
+tagClass03SkillName06A=Lời nguyền Bạc nhược
+tagClass03SkillDescription06A=Một từ ác nghiệt có sức mạnh giành lấy sự kiên cường của kẻ địch, làm chúng chậm chạp và yếu đuối.
+tagClass03SkillName06B=Dễ tổn thương (Vulnerability)
+tagClass03SkillDescription06B=Tăng cường sức mạnh cho lời nguyền khiến nó làm suy yếu cả thể chất của kẻ địch, khiến chúng dễ bị tổn thương bởi phù phép và độc dược hơn.
+
+tagClass03SkillName10A=Dấu ấn Tiêu phá (Sigil of Consumption)
+tagClass03SkillDescription10A=Tạo một dấu ấn kỳ bí trên mặt đất để rút sinh lực những kẻ địch nằm trong tầm ảnh hưởng, chuyển một phần sát thương gây ra thành máu về cho Occultist.
+tagClass03SkillName10B=Hủy diệt (Destruction)
+tagClass03SkillDescription10B=Truyền cho dấu ấn sức mạnh hủy diệt của hỗn nguyên.
+
+tagClass03SkillName11A=Mắt quỷ của Dreeg
+tagClass03SkillDescription11A=Gọi ra một trong vô số con mắt của Dreeg, thần bảo hộ vĩ đại của cõi bí ẩn. Con mắt nhanh chóng lao về phía mục tiêu rồi tự phát nổ.
+tagClass03SkillName11B=Huyết Bạo (Blood Burst)
+tagClass03SkillDescription11B=Con mắt thần bí phát nổ khi tiếp xúc, trút máu độc lên những kẻ địch xung quanh.
+tagClass03SkillName11C=Ánh nhìn Đáng sợ (Terrifying Gaze)
+tagClass03SkillDescription11C=Cái nhìn đáng sợ của ma thần bất tử Dreeg có thể khiến kẻ địch tê liệt vì sợ hãi hoặc hoảng loạn bỏ chạy trong vô vọng.
+tagClass03SkillName11D=Tà vật (Vile Eruption)
+tagClass03SkillDescription11D=Thịt thối rữa văng ra từ con mắt khi va chạm, gây thêm đau đớn cho những kẻ địch không may đến mức đứng gần chỗ nó nổ.
+tagClass03SkillName11E=Ánh nhìn Tập trung (Focused Gaze)
+tagClass03SkillDescription11E=Tập trung sức mạnh ô uế của Dreeg vào mỗi Con mắt, khiến nó nổ to và mạnh hơn, nhưng cũng cần phải chờ lâu hơn giữa mỗi lần thi triển.
+
+tagClass03SkillName12A=Chiếm hữu (Possession)
+tagClass03SkillDescription12A=Bạn cho phép thần phù thủy Solael nhập vào mình. Linh hồn của Solael lan tỏa khắp cơ thể bạn, củng cố bạn trước những đòn tấn công trong khi khuếch đại sức mạnh kỳ bí trong bạn. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass03SkillName13A=Mụn máu (Bloody Pox)
+tagClass03SkillDescription13A=Thậm chí nhiều Occultist cũng tránh xa thứ này do sự đau đớn dai dẳng nó gây ra, lời nguyền kinh tởm này gọi tới một dịch bệnh kịch độc lan truyền giữa những kẻ địch, hủy hoại sinh lực và khiến chúng thất khướu chảy máu.
+tagClass03SkillName13B=Hao mòn (Wasting)
+tagClass03SkillDescription13B=Khiến Mụn phá hủy sinh lực kẻ địch đồng thời biến những vết thương hở thành những cục máu. Chính những phép thuật quỷ quái này đã mang tiếng xấu tới cho những Occultist và dẫn nhiều người trong số họ lên giàn hỏa thiêu.
+tagClass03SkillName13C=Cái chết Đen (Black Death)
+tagClass03SkillDescription13C=Sốt cao và đau đớn do nội tạng bị tan chảy, kẻ nhiễm bệnh có thể trúng phải những cơn dại bất ngờ, lang thang khắp chiến trường đánh không khí hoặc thậm chí là đồng đội của chúng.
+tagClass03SkillName13D=Thịnh nộ Hoang dại (Fevered Rage)
+tagClass03SkillDescription13D=Sự chuyển hóa này của Mụn có thể gây nguy hiểm như nhau cho cả Occultist lẫn đối phương. Dịch bệnh sẽ tiến triển nhanh chóng, tăng hơn gấp đôi sát thương, nhưng trong khi những kẻ nhiễm bệnh sốt cao, chúng sẽ trở nên điên loạn, di chuyển với tốc độ phi thường trong khi tấn công bằng sự dữ tợn đến cuồng bạo làm chúng vừa nguy hiểm hơn vừa dễ tổn thương hơn.
+
+tagClass03SkillName14A=Mũi tên Diệt vong (Doom Bolt)
+tagClass03SkillDescription14A=Một mũi tên mang năng lượng hỗn độn xé toạc ranh giới thực tại để gây sát thương lớn lên mọi kẻ địch nó ngắm tới.
+
+
+tagClass03SkillName07A=Bùa Hóa giải (Hex of Nullification)
+tagClass03SkillDescription07A=Xóa bỏ mọi bùa yểm lên kẻ địch và gây sát thương đốt năng lượng dựa trên lượng năng lượng còn lại của mục tiêu.
+tagClass03SkillName08A=Mũi tên Hỗn nguyên (Chaos Bolt)
+tagClass03SkillDescription08A=Phóng ra một đám năng lượng hỗn độn khoét thẳng vào chính thứ vật chất cấu thành nên kẻ địch.
+tagClass03SkillName08B=Đốt Năng lượng (Energy Burn)
+tagClass03SkillDescription08B=Khuyeechs đại sát thương hỗn nguyên đồng thời đốt một phần năng lượng của mục tiêu, gây thêm sát thương đốt năng lượng.
+tagClass03SkillName09A=Vòng Bảo hộ (Circle of Protection)
+tagClass03SkillDescription09A=Tạo một vòng tròn ma thuật xung quanh mình để hồi máu và đẩy lui những kẻ có ý xấu.
+tagClass03SkillName15A=Thánh địa của Bysmiel
+tagClass03SkillDescription15A=Phong ấn mục tiêu bên trong một thánh địa nơi họ không thể di chuyển nhưng được bảo vệ trước mọi mối nguy hiểm.
+
+
+
+#Class04
+
+tagClass04SkillName00=Nightblade
+tagClass04SkillDescription00=Chuyên rèn luyện thuật gây ảo giác và sử dụng dao găm.
+
+tagClass04SkillName01A=Huyễn Ảnh Đao (Phantasmal Blades)
+tagClass04SkillDescription01A=Một kĩ thuật huyền thoại của các Nightblade. Phóng ra những lưỡi dao mang ma thuật bóng tối cắt thịt như cắt giấy.
+tagClass04SkillName01B=Xuyên tâm nhận (Heart Seeker)
+tagClass04SkillDescription01B=Với kĩ thuật tuyệt diệu, Huyễn ảnh đao được niệm sắc tới mức có thể xuyên qua nhiều mục tiêu trong khi những sợi tơ vô hình sẽ rút sinh khí của những nạn nhân trúng phải.
+tagClass04SkillName01C=U minh nhận (Nether Edge)
+tagClass04SkillDescription01C=Tăng sức mạnh cho Huyễn ảnh đao bằng ma thuật hắc ám, một kĩ thuật hạ lưu chỉ nên sử dụng trong những hoàn cảnh hiểm nghèo nhất.
+tagClass04SkillName01X=Phóng tập trung (Focused Throw)
+tagClass04SkillDescription01D=Một cú ném có kiểm soát và có lực hơn, dồn sức sát thương của Huyễn ảnh đao vào một đòn cực mạnh duy nhất.
+tagClass04SkillName01D=Phóng điên loạn (Frenetic Throw)
+tagClass04SkillDescription01X=Liên tục phóng ra những loạt Huyễn ảnh đao với tốc độ điên cuồng nhưng sức sát thương của mỗi thanh bị giảm đi.
+
+tagClass04SkillName02A=Nhát chém bóng tối (Shadow Strike)
+tagClass04SkillDescription02A=Một sự kết hợp khéo léo giữa ảo ảnh và thuật đánh lừa thị giác làm bạn dường như tan biến rồi tái xuất hiện sau lưng nạn nhân giống như một bóng ma trong cơn ác mộng. {^n}^oYêu cầu sử dụng vũ khí cận chiến.
+tagClass04SkillName02B=Phán quyết công bằng (Nidalla's Justifiable Ends)
+tagClass04SkillDescription02B=Là người chuyên dùng độc, vốn không được hầu hết các Nightblade ưa thích, Nidalla luôn cho rằng kết cục định đoạt phương pháp. Tẩm độc vào Nhát chém Bóng tối truyền thống sẽ đảm bảo kết cục của bất kỳ kẻ nào sống sót qua đòn tấn công đầu tiên.
+tagClass04SkillName02C=Bóng tối bao trùm (Nightfall)
+tagClass04SkillDescription02C=Khi bạn xuất hiện phía sau và tấn công mục tiêu chính, một tấm màn bóng tối sẽ bao trùm những kẻ địch xung quanh khiến chúng thấy như mình đang trong đêm tối nhất, lạnh nhất, làm máu chúng đông lại và xâm chiếm tâm trí chúng với một sự mệt mỏi không thể kiểm soát.
+
+tagClass04SkillName03A=Đao phong Hộ thuẫn (Blade Barrier)
+tagClass04SkillDescription03A=Dù là một Nightblade bậc thầy, người ta đồn Belgothian thiếu khả năng kiểm soát những thứ mình gọi ra; nhưng ông ta có được ý lực vô biên để triệu hồi nhiều lưỡi đao tới mức tạo thành một lá chắn bất khả xâm phạm xung quanh mình, cho ông ta khoảnh khắc nghỉ ngơi trước kẻ thù. {^n}^oKĩ năng làm bạn bất động trong thời gian hiệu lực của nó.
+
+tagClass04SkillName04A=Vòng Cương thiết (Ring of Steel)
+tagClass04SkillDescription04A=Trong chớp mắt, hàng trăm lưỡi huyễn ảnh đao xoay quanh người bạn với tốc độ chết người, chém gục những kẻ địch vây quanh.
+tagClass04SkillName04B=Vòng Tàn sát (Circle of Slaughter)
+tagClass04SkillDescription04B=Những lưỡi huyễn ảnh đao ác hiểm cắt sâu vào người kẻ thù đứng bên trong khuyên, làm chảy một lượng máu lớn.
+tagClass04SkillName04C=Vòng Hàn băng (Ring of Frost)
+tagClass04SkillDescription04C=Một kỹ thuật điều khiển khí mạnh mẽ làm vòng cương thiết hút năng lượng từ không khí xung quanh, gia tăng sát thương băng và làm đóng băng kẻ thù với cái giá là giảm sát thương xuyên phá.
+
+tagClass04SkillName05A=Song đao (Dual Blades)
+tagClass04SkillDescription05A= Một trong số những kỹ năng cơ bản nhất của Nightblade là sử dụng thuần thục song khí cận chiến, nhất là các loại dao nhọn xuyên giáp, và thuật vận dụng nguyên tố băng từ sắt thép. {^n}^oĐây là một điểm cộng cho song khí cận chiến. Cũng cho phép trang bị cùng lúc hai vũ khí cận chiến một tay.
+tagClass04SkillName05B=Cú chặt của Belgothian (Belgothian's Shears)
+tagClass04SkillDescription05B= Belgothian cơ bắp là một trường hợp cá biệt giữa những cao thủ Nightblade uyển chuyển, nhưng ông ta vượt trội hơn tất cả về sức mạnh. Tận dụng sức mạnh của mình bằng những đòn tấn công chết người trực diện như cú chặt, Belgothian thường có thể kết thúc kẻ thù chỉ trong một đòn duy nhất. {^n}^oĐây là một kỹ thuật của song khí cận chiến sẽ kích hoạt khi đánh thường bằng vũ khí tương ứng.
+tagClass04SkillName05C=Thuấn kích (Amarasta's Quick Cut)
+tagClass04SkillDescription05C=Đã trở thành huyền thoại về tốc độ, tương truyền lưỡi kiếm của Amarasta phát ra âm thanh như một chiếc roi quất trong không khí, chỉ để lại những vệt sáng quá nhanh để dõi theo. Người thành thục kỹ thuật này có thể chém ba nhát chỉ trong một đòn đánh thường. {^n}^oĐây là một kỹ thuật của song khí cận chiến sẽ kích hoạt khi đánh thường bằng vũ khí tương ứng.
+tagClass04SkillName05D=Vòng xoáy Tử thần (Whirling Death)
+tagClass04SkillDescription05D= Một kỹ thuật tàn phá dành cho chiến đấu đa mục tiêu. Những kẻ còn sống sót sẽ xuất huyết như là từ hàng nghìn vết chém. {^n}^oĐây là một kỹ thuật của song khí cận chiến sẽ kích hoạt khi đánh thường bằng vũ khí tương ứng.
+tagClass04SkillName05E=Ẩn thủ (Nidalla's Hidden Hand)
+tagClass04SkillDescription05E= Cao thủ Nightblade nhiều tai tiếng Nidalla đã chứng minh hiệu quả tàn khốc của độc dược vào Kỷ nguyên Phi lý khi kết hợp độc tố với các kỹ thuật khác của Nightblade, cho phép cô ta giành chiến thắng trong trận chiến chống lại kẻ thù với số lượng áp đảo. {^n}^oKỹ thuật này bổ trợ cho Cú chặt của Belgothian, Thuấn kích và Vòng xoáy Tử thần.
+tagClass04SkillName05F=Hành quyết (Execution)
+tagClass04SkillDescription05F= Một đòn tàn nhẫn, xuất ra khi chớp được thời cơ với mục đích nhanh chóng kết liễu kẻ địch. Những kẻ sống sót cũng chẳng còn sống được lâu nữa đâu.{^n}^oĐây là một kỹ thuật của song khí cận chiến sẽ kích hoạt khi đánh thường bằng vũ khí tương ứng.
+
+tagClass04SkillName06A=Bùng nổ Nguyên khí (Pneumatic Burst)
+tagClass04SkillDescription06A=Tuyệt kỹ bí truyền của Nightblades cho phép bạn hút hơi sự sống hay "nguyên khí" từ môi trường xung quanh để nhận được sự bùng nổ về sức mạnh và tốc độc trong thời gian ngắn. Sự tăng tốc chuyển hóa do hơi sự sống gây ra cũng hồi phục một lượng máu nhỏ.
+tagClass04SkillName06B=Vũ điệu Bóng tối (Shadow Dance)
+tagClass04SkillDescription06B=Luyện tập thiền định trong chiến đấu cho phép bạn tĩnh tâm ngay giữa trận chiến nơi bạn có thể tính toán hướng tấn công của kẻ địch rồi dịch chuyển tinh tế để giảm bớt tác động của vũ khí lên áo giáp của mình hoặc làm chệch hướng đạn.
+tagClass04SkillName06C=Nguyên tố Thức tỉnh (Elemental Awakening)
+tagClass04SkillDescription06C=Những Nightblade lão luyện có thể rút năng lượng từ không khí hoặc thậm chí từ kẻ thù vũ khí của họ chạm phải để giải phóng những đòn tấn công băng dữ dội.
+tagClass04SkillName06D=Hơi thở của Belgothian (Breath of Belgothian)
+tagClass04SkillDescription06D=Quá cơ bắp và có phần chậm chạp so với một Nightblade bình thường, một phần thành công của Belgothian đến từ khả năng hồi phục và sống dai đối thủ thông qua sự thành thạo một kỹ thuật vận khí cao siêu. {^n}^oĐây là một kỹ thuật song khí cận chiến. Cũng cho phép trang bị cùng lúc hai vũ khí cận chiến một tay.
+
+tagClass04SkillName07A=Bức màn Bóng tối (Veil of Shadow)
+tagClass04SkillDescription07A=Một tấm màn tâm linh sẽ che mờ tâm trí của kẻ địch xung quanh, làm chậm tốc độ di chuyển và giảm hiệu quả chiến đấu của chúng. {^n}^oKỹ năng này phải được bật để duy trì hiệu quả.
+tagClass04SkillName07B=Bóng đêm lạnh giá (Night's Chill)
+tagClass04SkillDescription07B=Làm những kẻ bị ảnh hưởng bởi Bức màn Bóng tối cảm thấy khí lạnh của màn đêm ập lên đầu, làm cạn kiệt sinh lực và giảm sức phòng thủ của chúng.
+
+tagClass04SkillName08A=Đao hồn (Blade Spirit)
+tagClass04SkillDescription08A=Tạo ra một đám mây cuộn xoáy từ những lưỡi đao sác lẻm càn quét khắp chiến trường, chém kẻ thù thành từng mảnh trước khi kết thúc bằng một cơn mưa những mảnh vỡ lởm chởm. {^n}^oĐao hồn tỉ lệ thuận với sát thương cộng thêm của người chơi.
+tagClass04SkillName08PetA=Hồi toàn chi nhận (Whirling Blades)
+tagClass04SkillName08PetB=Đao nhận Phát kích (Blade Eruption)
+tagClass04SkillDescription08PetB=Đao hồn bắn những lưỡi đao ra bốn phương tám hướng.
+
+tagClass04SkillName11A=Bẫy đao (Blade Trap)
+tagClass04SkillDescription11A=Sự thành thạo các kỹ thuật Nightblade cho phép bạn bẫy kẻ thù trong nhà tù kết thành từ những lưỡi Huyễn ảnh đao chết chóc.
+tagClass04SkillName11B=Lưỡi đao Hủy diệt (Devouring Blades)
+tagClass04SkillDescription11B=Huyễn ảnh đao hút tinh lực của những kẻ dính bẫy, chuyển sang cho bạn.
+
+tagClass04SkillName10A=Đao trận (Blade Swarm)
+tagClass04SkillDescription10A=Gọi một đàn huyễn ảnh đao bao vây kẻ thù của bạn, xé nát da thịt chúng và đẩy những kẻ yếu đuối vào cơn hoảng loạn.
+tagClass04SkillName10B=Dao hai lưỡi (Amarasta's Double Edge)
+tagClass04SkillDescription10B= Một kỹ thuật bậc thầy làm Đao trận biến vũ khí của kẻ thù chống lại chính bọn chúng, khiến chúng gây ra thêm sát thương với chính đồ chơi của mình.
+
+tagClass04SkillName13A=Huyễn ảnh Hộ giáp (Phantasmal Armor)
+tagClass04SkillDescription13A= Một lớp lá chắn siêu hình bao quanh bạn, chúng được hiện thực hóa từ sự tập trung của tâm trí và tinh thần. Lá chắn này phản lại sát thương vật lý và chuyển năng lượng từ các đòn tấn công phép vào thành khí dự trữ cho bạn.
+tagClass04SkillName13B=Giải phẫu (Anatomy of Murder)
+tagClass04SkillDescription13B=Tri thức được khai phá bởi những sát thủ hoàng gia, những nghiên cứu chuyên sâu về giải phẫu giúp bạn làm quen với các vị trí dễ bị tổn thương nhất để đưa lưỡi dao của mình tới đó.
+tagClass04SkillName13C=Vô tình chung chương (Merciless Repertoire)
+tagClass04SkillDescription13C=Dù thường bị hắt hủi, đôi khi những kiến ​​thức về chất độc và các sức mạnh nguyên tố có thể chính là thứ hiệu quả nhất để đạt được lợi thế trong chiến trận.
+
+
+tagClass04SkillName04X=Lưỡi đao Hủy diệt (Devouring Blades)
+tagClass04SkillDescription04X=Cắt đứt chính sinh lực của những kẻ địch xung quanh, bạn hấp thụ một phần sinh khí thoát ra thông qua Vòng Cương thiết.
+tagClass04SkillName07X=Bóng đêm xâm nhập (Deepening Darkness)
+tagClass04SkillDescription07X=Bóng tối tích tụ tiếp tục làm giảm khả năng quan sát của kẻ địch, giảm sức kháng cự của chúng trước các đòn tấn công vật lý.
+tagClass04SkillName07C=Lưỡi đao vô hình (Amarasta's Unseen Blade)
+tagClass04SkillDescription07C= Trong suốt cuộc chiến với Nightblade, những vết thương cứ xuất hiện trên người kẻ thù ở những chỗ không có vũ khí nào đụng tới cả.
+tagClass04SkillName09A=Đoạt mệnh (Life Taker)
+tagClass04SkillDescription09A=Chiêu thức này lấy sự sống từ đối phương về cho Nightblade đúng theo nghĩa đen, khiến họ trở nên mạnh mẽ hơn ngay trong lúc sự sống rời xa con mồi của mình.
+tagClass04SkillName12A=Bòn rút Nguyên khí (Pneuma Tap)
+tagClass04SkillDescription12A=Hút sinh khí của kẻ địch trong một khu vực, hấp thụ máu và năng lượng thoát ra khỏi cơ thể chúng.
+tagClass04SkillName13D=Vô tình chung chương (Merciless Repertoire)
+tagClass04SkillDescription13D=Việc sử dụng hiệu quả độc dược và chất chống đông máu đôi khi lại chính là thứ vũ khí chết người nhất.
+
+tagClass04SkillName14A=Đao nhận Đột kích (Amarasta's Blade Burst)
+tagClass04SkillDescription14A=Bậc thầy sát thủ Amarasta, một huyền thoại trong giới Nightblade với sự linh hoạt của mình, đã phát triển một kỹ thuật nhằm giải phóng cùng lúc vô số lưỡi huyễn ảnh đao từ vị trí tấn công ra tứ phía để đâm mọi kẻ địch xung quanh.
+tagClass04SkillName14B=Công kích Chí mạng (Lethal Assault)
+tagClass04SkillDescription14B=Dồn toàn lực cho tấn công, Amarasta sẽ tiếp tục tấn công không ngừng nghỉ tiếp sau một cú đột kích để kết liễu nhanh gọn những kẻ thù còn sót lại với vũ khí được yểm bùa của mình. ^oCông kích Chí mạng ảnh hưởng tới mọi đòn đánh khi được kích hoạt.
+
+xtagClass04SkillName14A=Sách lược Chí mạng (Lethal Gambit)
+xtagClass04SkillDescription14A=Một kỹ thuật liều lĩnh rất được bậc thầy sát thủ Amarasta ưa chuộng. Sách lược Chí mạng có tiềm năng triệt hạ đối phương khi ra tay một cách hoàn hảo, nhưng đi kèm đó là nguy cơ có thể bị trượt. {^n}^oCần một vũ khí cận chiến hoặc vũ khí hai tay tầm xa. Khi sử dụng với vũ khí cận chiến sẽ tấn công thêm kẻ địch xung quanh.
+xtagClass04SkillName14B=Lưỡi đao bùng nổ (Amarasta's Blade Burst)
+xtagClass04SkillDescription14B=Thuần thục kỹ thuật Sách lược Chí mạng tăng cường nó với hàng chục lưỡi huyễn ảnh đao bắn ra từ mục tiêu tấn công gây sát thương lên mọi kẻ địch lân cận.
+
+
+xtagClass04SkillName15A=Dịch cốt (Eviscerate)
+xtagClass04SkillDescription15A=Một nhát cắt nhanh gọn vào ruột sẽ làm nạn nhân xuất huyết theo thời gian, trong khi làm giảm khả năng di chuyển và tốc độ tấn công của chúng. {^n}^o Yêu cầu Kiếm hoặc Rìu.
+xtagClass04SkillName15B=Sách lược của Amarasta (Amarasta's Gambit)
+xtagClass04SkillDescription15B=Một kỹ thuật cao thủ tăng cường Dịch cốt với tiềm năng triệt hạ đối phương khi ra tay một cách hoàn hảo, nhưng đi kèm đó là nguy cơ có thể bị trượt và chẳng làm được gì cả.
+xtagClass04SkillName14C=Splintering Gambit
+xtagClass04SkillDescription14C=Một tay súng thất thế có thể nhanh chóng đảo ngược tình hình với một loạt đạn phân mảnh. Phương pháp này đã được chứng minh cũng gây chết người ở cự ly gần. ^oYêu cầu mang vũ khí tầm xa hai tay để bắn thêm phi đạn.
+
+
+
+#Class05
+
+tagClass05SkillName00=Arcanist
+tagClass05SkillDescription00=Rèn luyện thể chất của cơ thể và tâm trí để đương đầu với sức mạnh của ma thuật thuần túy.
+
+tagClass05SkillName01A=Phi đạn Nhân bản (Panetti's Replicating Missile)
+tagClass05SkillDescription01A=Arcanist vĩ đại nhất xứ Cortosia, Panetti cống hiến cả đời cho sự phát triển của phi đạn ma thuật cổ điển. Thành công của ông là một cải tiến dường như chống lại những định luật về bảo toàn năng lượng, khiến phi đạn tự nhân bản khi va chạm, tạo ra nhiều bản sao của chính nó.
+tagClass05SkillName01B=Bóp méo (Distortion)
+tagClass05SkillDescription01B=Phi đạn Nhân bản bóp méo sự tồn tại của kẻ địch, làm cho đường đạn đôi khi bay xuyên qua mục tiêu.
+tagClass05SkillName01C=Siêu tải (Supercharged)
+tagClass05SkillDescription01C=Không khí xung quanh Phi đạn Nhân bản trở nên quá tải với năng lượng tĩnh điện, sẽ giật bất cứ kẻ địch nào chẳng may tiếp xúc với đường đạn.
+tagClass05SkillName01D=Sinh sôi (Proliferation)
+tagClass05SkillDescription01D=Một kỹ thuật cao cấp hơn của Phi đạn Nhân bản được một học trò của Panetti hoàn thiện hút năng lượng của chính mục tiêu để tạo ra những mảnh vụn chứa năng lượng ma thuật thuần khiết.
+tagClass05SkillName01E=Phi đạn Chấn động (Concussive Missile)
+tagClass05SkillDescription01E=Cụ thể sức mạnh của Phi đạn Nhân bản vào thế giới Vật chất, khiến nó cùng lúc gây ra cả sát thương vật lý lẫn siêu hình.
+
+tagClass05SkillName02A=Hoán chuyển Nguyên tố (Iskandra's Elemental Exchange)
+tagClass05SkillDescription02A=Iskandra dạy những học trò của mình rằng cách hiệu quả nhất để giành chiến thắng là dùng chính năng lượng của đối phương chống lại chúng. Thế nên, Hoán chuyển Nguyên tố khiến vũ khí của đồng minh hấp thụ năng lượng ma thuật từ kẻ địch và trả chúng lại dưới dạng sát thương nguyên tố. {^n}^oKỹ năng này phải được bật để duy trì tác dụng. Việc chuyển đổi dạng sát thương chỉ có tác dụng với người dùng phép.
+tagClass05SkillName02B=Quá tải (Overload)
+tagClass05SkillDescription02B=Bùa chú trở nên quá tải với những lực lượng huyền bí, khiến vũ khí của bạn kêu răng rắc với sức mạnh của các nguyên tố.
+tagClass05SkillName02C=Cân bằng Nguyên tố (Elemental Balance)
+tagClass05SkillDescription02C=Thiết lập một sự cân bằng hoàn hảo ngay bên trong bùa chú, hòa hợp hai lực lượng đối lập băng và lửa với nguyên tố sét hoang dã.
+tagClass05SkillName02D=Cụ thể hóa (Manifestation)
+tagClass05SkillDescription02D=Những năng lượng huyền bí được cụ thể thành nhiều dạng. Những Arcanist nghiên cứu sâu về thuật triệu hồi thường chuyển một phần sức mạnh của họ thành những tay sai trung thành để chúng có thể phục vụ nhu cầu của chủ nhân tốt hơn. {^n}^oHiệu ứng này được mở rộng cho cả các đồng đội của bạn.
+
+tagClass05SkillName03A=Mảnh Thiên thạch (Trozan's Sky Shard)
+tagClass05SkillDescription03A=Tương truyền Trozan huyền thoại là một người có tài năng thiên bẩm; sống phóng túng và không chấp nhận tuân theo những quy tắc bó cuộc của Hội Arcanist. Khi Đế chế vây hãm được nơi trú ẩn trên đỉnh núi của ông, Trozan đã hạ nhục họ bằng cách sử dụng một tuyệt kỹ chưa từng thấy để mang cả bầu trời đổ xuống đầu họ. {^n}^oThả 3 mảnh xuống khu vực được chọn.
+tagClass05SkillName03B=Lõi Băng (Frozen Core)
+tagClass05SkillDescription03B=Băng bên trong Mảnh Thiên thạch được giải phóng ngay khi va chạm, bao trùm những kẻ đứng gần điểm rơi với cái lạnh thấu xương.
+tagClass05SkillName03C=Ngôi sao Vỡ (Shattered Star)
+tagClass05SkillDescription03C=Mảnh Thiên thạch trở nên cực kỳ không ổn định trong khi rơi, tích tụ một lượng charge nguy hiểm trong lúc lao qua bầu trời.
+
+tagClass05SkillName04A=Giông tố (Callidor's Tempest)
+tagClass05SkillDescription04A=Bậc thầy vang danh Callidor làm đến cấp tướng trong quân đội của Vua Samuel. Khi dẫn quân ra tiền tuyến, Callidor đã hoàn thiện một tuyệt kỹ, bằng cách tạo ra một vụ nổ tức thời với năng lượng aether, nó sẽ đốt cháy không khí xung quanh ông trong một cơn bão ma thuật.
+tagClass05SkillName04B=Ngục hỏa (Inferno)
+tagClass05SkillDescription04B=Cơn bão trở thành một quầng lửa rực cháy, thiêu đốt da thịt và nung chảy giáp trụ.
+tagClass05SkillName04C=Cơn thịnh nộ của Agrivix
+tagClass05SkillDescription04C=Agrivix nổi tiếng với việc truyền nhiều năng lượng vào cơn Giông tới mức vụ nổ xảy ra lập tức biến những kẻ ngu ngốc tới mức đi vào phạm vi của nó thành tro bụi. Tuy nhiên, kỹ thuật này yêu cầu tập trung cao độ và không thể thực hiện liên tục.
+
+tagClass05SkillName05A=Lĩnh vực Bảo hộ (Maiven's Sphere of Protection)
+tagClass05SkillDescription05A=Một kỹ thuật phòng ngự hiếm hoi trong ma pháp huyền bí được Arcanist đáng kính Maiven sáng tạo ra. Tạo một tấm khiên bảo hộ xung quanh người thi triển, nhưng phải đánh đổi bằng sự tập trung đáng kể. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass05SkillName05B=Chuyển hóa (Conversion)
+tagClass05SkillDescription05B=Tấm khiên hấp thụ những hiệu ứng có hại và chuyển chúng thành năng lượng dự trữ cho bạn.
+
+tagClass05SkillName06A=Tia Aether (Albrecht's Aether Ray)
+tagClass05SkillDescription06A=Một tuyệt kỹ ma thuật mạnh mẽ được hoàn thiện bởi Thầy Albrecht chỉ vài năm trước sự kiện Grim Dawn có thể dẫn truyền năng lượng ma thuật thô vào một tia tập trung với sức mạnh hủy diệt. {^n}^oYêu cầu mang Trang bị ở Tay chiêu.
+tagClass05SkillName06B=Phân rã (Disintegration)
+tagClass05SkillDescription06B=Dồn hết năng lượng vào Tia Aether, biến nó thành một sức mạnh thảm khốc sẽ làm tan ra bất cứ thứ gì chạm phải. {^n}^oNăng lượng tiêu tốn tăng thêm được tính theo chu kỳ sát thương.
+tagClass05SkillName06C=Quyền năng Vấy bẩn (Tainted Power)
+tagClass05SkillDescription06C=Tha hóa tia năng lượng bằng cách truyền vào nó những sức mạnh dữ dội của Hư không hỗn loạn.
+
+tagClass05SkillName07A=Hóa giải (Nullification)
+tagClass05SkillDescription07A=Tập trung lượng lớn năng lượng âm bản trong khu vực được chọn, loại bỏ trạng thái có lợi của mọi kẻ địch ở đó đồng thời loại bỏ những trạng thái bất lợi tác động lên đồng đội, bao gồm cả hiệu ứng sát thương theo thời gian.
+
+tagClass05SkillName08A=Hủy diệt (Devastation)
+tagClass05SkillDescription08A=Được cho là sức mạnh hủy diệt tối thượng của Arcanist, kỹ năng này rạch một vết vào thực tại để rồi từ đó phun ra những cục lửa hình thành từ năng lượng ma pháp thuần túy. Phép thuật nguy hiểm này cực kỳ tốn sức và không nên sử dụng tùy tiện. {^n}^oYêu cầu mang Trang bị ở Tay chiêu. Lửa liên tục phun ra trong suốt thời gian hiệu lực của phép. Chỉ có thể thi triển một chiêu Hủy diệt ở cùng một thời điểm.
+
+tagClass05SkillName09A=Tập trung Tinh thần (Inner Focus)
+tagClass05SkillDescription09A=Tập trung cả tinh thần và thể chất vào một tụ điểm của những nguồn năng lượng là một trong những kỹ thuật thiền định đầu tiên được dạy cho mỗi Arcanist.
+
+tagClass05SkillName10A=Ý chí Ma pháp (Arcane Will)
+tagClass05SkillDescription10A=Adrenaline là một động lực mạnh mẽ trong những tình huống hiểm nghèo có thể xoay chuyển cục diện trận đánh. Những Arcanist đã rèn luyện để sử dụng thứ này làm lợi thế khi chiến đấu.
+
+tagClass05SkillName11A=Tinh thần Hoạt bát (Mental Alacrity)
+tagClass05SkillDescription11A=Những Bậc thầy Arcanist rèn luyện để dẫn truyền sức mạnh của họ với tốc độ và sự tập trung cao, không còn phải để tâm tới những giới hạn tầm thường của bộ não.
+
+tagClass05SkillName12A=Kết cấu của Thực tại (Fabric of Reality)
+tagClass05SkillDescription12A=Làm rõ những bí mật về chính kết cấu của thực tại. Sức mạnh nguyên thủy của cả aether lẫn hư không đều trở thành thứ đồ chơi của bạn.
+
+tagClass05SkillName13A=Lá chắn Băng (Olexra's Barrier)
+tagClass05SkillDescription13A=Olexra ưa dùng băng trong các phép thuật của mình. Một trong những chiến thuật của bà là dựng lên một bức tường từ gai băng để kìm chân kẻ địch trong khi bà ta có thể an toàn tấn công từ phía bên kia.
+tagClass05SkillName13B=Hào quang Lạnh lẽo (Icy Aura)
+tagClass05SkillDescription13B=Lá chắn Băng làm kẻ địch xung quanh lạnh cóng.
+tagClass05SkillName13C=Kết cục Lạnh lẽo (Icy End)
+tagClass05SkillDescription13C=Lá chắn Băng sập trong một vụ nổ băng.
+
+tagClass05SkillName14A=Chiếc gương Ereoctes (Mirror of Ereoctes)
+tagClass05SkillDescription14A=Trong một khoảnh khắc, không khí xung quanh bạn trở nên cứng như đá, hấp thụ mọi đòn tấn công và dội lại vào những kẻ tấn công bạn; một tuyệt kỹ ưa thích của Thầy Ereoctes.
+
+tagClass05SkillName15A=Sức mạnh Bất cần (Reckless Power)
+tagClass05SkillDescription15A=Biến cơ thể của bạn thành một vật dẫn cho aether, cụ thể hóa năng lượng ma pháp đáng sợ thông qua thân xác phàm trần của bạn để đốt cháy không khí và phóng ra những đợt sóng xuyên qua thực tại. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass05SkillName15B=Star Pact
+tagClass05SkillDescription15B=Nhiều Arcanist phải hi sinh nhiều thứ trong hành trình truy cầu sức mạnh vô hạn. Có những người không màng tới lời cảnh báo từ xa xưa đã đụng tới những nguồn sức mạnh người khác cho là không an toàn, thậm chí còn không tự nhiên. Chính những Arcanist này đã gây nên nỗi sợ trong thâm tâm những kẻ phàm nhân yếu đuối. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+
+
+tagClass05SkillName16A=Đóng băng Tức thời (Olexra's Flash Freeze)
+tagClass05SkillDescription16A=Là một nạn nhân của mưu đồ chính trị, Olexra bị buộc phải phục vụ cho Quân đoàn Đen nơi cuộc đời học giả trước kia của cô biến thành cuộc vật lộn để sống sót trên tuyến đầu của một cuộc chiến khốc liệt. Olexra nhanh chóng mang những kiến thức được học vào thực tiễn, phát triển ra một tuyệt kỹ làm đóng băng tức thời những kẻ địch đã xông vào tầm tấn công. {^n}^oPhép thuật này đóng băng kẻ địch trong thời gian hiệu lực của nó. Kẻ địch với khả năng kháng hiệu ứng đóng băng sẽ được giảm thời gian hiệu lực.
+tagClass05SkillName16B=Độ không Tuyệt đối (Absolute Zero)
+tagClass05SkillDescription16B=Rút hoàn toàn nhiệt từ không khí xung quanh, làm mọi thứ trong phạm vi của Đóng băng Tức thời bị làm chậm và suy yếu ngay cả khi hiệu ứng ban đầu đã mất.
+
+
+#Class06
+tagClass06SkillName00=Shaman
+tagClass06SkillDescription00=Đồng điệu với tiếng gọi nơi hoang dã.
+
+tagClass06SkillName01A=Tàn bạo (Savagery)
+tagClass06SkillDescription01A=Sức nóng của trận chiến khơi dậy bản tính hoang dã trong bạn, nâng cao sự hung hãn đồng thời tăng sức mạnh cho bạn với sự cuồng nộ của thiên nhiên. Khi dùng như đòn tấn công thường, Tàn bạo tăng sức mạnh của bạn theo mỗi đòn đánh. {^n}^oTích tụ sạc tăng hiệu lực của điểm thưởng.
+tagClass06SkillName01B=Sự ngoan cường của Lợn rừng
+tagClass06SkillDescription01B=Tiếp nhận đặc tính của loài lợn rừng, trở thành một kẻ dữ tợn và không thể ngăn cản trong chiến trận.
+tagClass06SkillName01C=Ngón tay Bão tố (Storm Touched)
+tagClass06SkillDescription01C=Cất tiếng gọi thấu trời xanh, bạn truyền vào những đòn đánh của mình cơn thịnh nộ của một cơn bão sấm sét.
+tagClass06SkillName01D=Sức mạnh của Gấu
+tagClass06SkillDescription01D=Những Shaman chuyên về linh hồn của loài gấu tiếp nhận cách sử dụng vũ khí hai tay khi thủ thế chiến đấu. Cơn cuồng nộ khó kiềm chế của họ ở các bộ lạc phương bắc là không có đối thủ. {^n}^oKỹ năng này yêu cầu mang vũ khí hai tay cận chiến hoặc vũ khí hai tay tầm xa.
+
+tagClass06SkillName02A=Cú đánh Nguyên thủy (Primal Strike)
+tagClass06SkillDescription02A=Nghi thức đầu tiên một Shaman tập sự phải thực hiện là truyền cho món vũ khí ưa dùng của họ sức mạnh của sấm sét. Ai vượt qua được bước trọng yếu này sẽ trở thành một hậu duệ cho ý chí của Mogdrogen và người bảo hộ cho bộ lạc mình. {^n}^oYêu cầu mang vũ khí cận chiến hoặc tầm xa hai tay.
+tagClass06SkillName02B=Bão quét (Storm Surge)
+tagClass06SkillDescription02B=Sức mạnh thô của Cú đánh Nguyên thủy tràn qua đối tượng, làm vỡ mạch máu.
+tagClass06SkillName02C=Dòng chảy (Torrent)
+tagClass06SkillDescription02C=Dòng xung chấn tuôn ra từ vũ khí của bạn, gây sốc một mục tiêu rồi nhảy tiếp sang những kẻ địch ở xa hơn.
+tagClass06SkillName02D=Cú đánh Sấm sét (Thunderous Strike)
+tagClass06SkillDescription02D=Stormcaller, những thành viên của một nhánh shaman tôn thờ thiên đường, thường hô vang cái tên Ultos, thần cai quản bầu trời, mỗi khi đưa cơn thịnh nộ của thiên nhiên tới kẻ thù, cho phép họ gọi sấm sét với tần suất dày đặc hơn. {^n}^oThunderous Strike không phải kỹ năng bổ trợ cho đòn đánh thường và không thể kích hoạt những hiệu ứng như Feral Hunger.
+
+tagClass06SkillName03A=Vật tổ Wendigo
+tagClass06SkillDescription03A=Vật tổ Wendigo đại diện cho mặt tối trong những nghi lễ của Shaman, tiếp nhận sự hai mặt nghiệt ngã của tự nhiên: một kẻ phải chết để kẻ kia được ăn và sống tiếp. Khi được đặt, vật tổ sẽ hút máu từ kẻ địch xung quanh, cùng lúc tạo ra một hào quang êm dịu để hồi phục cho đồng đội. Dù vậy những vật tổ này là điều cấm kỵ ở hầu hết các bộ lạc bởi linh hồn đói khát được triệu tập để cung cấp sức mạnh cho vật tổ cực khó kiểm soát nên đã khiến nhiều shaman phát điên, mang cho họ một cơn đói vô tận là nguồn gốc của tục ăn thịt người. {^n}^oVật tổ Wendigo tỉ lệ với sát thương của người chơi.
+tagClass06SkillName03B=Giao kèo Máu (Blood Pact)
+tagClass06SkillDescription03B=Chấp nhận một giao kèo với linh hồn wendigo bên trong vật tổ. Chừng nào bạn còn đứng trong hào quang của nó, cơn khát máu của bạn sẽ không thể được thỏa mãn.
+tagClass06SkillName03C=Rút Sinh lực
+tagClass06SkillName03D=Trị thương
+
+tagClass06SkillName04A=Phong Quỷ (Wind Devil)
+tagClass06SkillDescription04A=Shaman thường được giao trách nhiệm cầu mưa trong những trận hạn hán lớn. Nghi thức này được những Stormcaller thông minh vận dụng để tạo ra một con quỷ gió lốc có thể nâng đất đá lên không, tấn công tới tấp kẻ địch và hủy diệt chúng với sức mạnh khắc nghiệt của những nguyên tố. {^n}^oPhong Quỷ tỉ lệ với sát thương thêm của người chơi.
+tagClass06SkillName04B=Cuồng phong Bạo vũ (Raging Tempest)
+tagClass06SkillDescription04B=Lốc xoáy mạnh hơn với sức mạnh hỗn loạn. Những cơn gió lạnh cóng vùi dập kẻ địch với cái lạnh tê liệt làm chúng dễ bị tổn thương hơn trước các nguyên tố.
+tagClass06SkillName04C=Maelstrom
+tagClass06SkillDescription04C=Giải phóng cơn thịnh nộ tối thượng của bầu trời, truyền cho Phong Quỷ năng lượng tĩnh điện để tấn công kẻ địch xung quanh bằng những tia sét.
+tagClass06SkillName04_Pet=Gió hú
+
+tagClass06SkillName05A=Giao ước của Mogdrogen
+tagClass06SkillDescription05A=Cầu nguyện thần thú, Mogdrogen, để ban phước lành của tự nhiên cho bạn và đồng đội xung quanh. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+tagClass06SkillName05B=Vỏ Gỗ sồi (Oak Skin)
+tagClass06SkillDescription05B=Dùng đặc tính của loài cây cổ đại, những gã khổng lồ uy nghi không tuổi đã sống qua biết bao nền văn minh, ban thêm sự bảo vệ cho những người được Mogdrogen ban phước.
+tagClass06SkillName05C=Trái tim Hoang dã (Heart of the Wild)
+tagClass06SkillDescription05C=Linh hồn hoang dã của tự nhiên tuôn chảy trong huyết quản của bạn, nhanh chóng chữa lành vết thương và thanh lọc độc chất.
+tagClass06SkillName05D=Trái tim của Đá (Heart of Stone)
+tagClass06SkillDescription05D=Tiếp nhận bản chất của mặt đất nơi bạn đứng, bạn không còn hồi máu khi chiến đấu, nhưng da thịt bạn sẽ trở nên cứng như đá. {^n}^oHiệu ứng này được mở rộng cho cả các đồng đội.
+
+tagClass06SkillName06A=Triệu hồi Gai thường xuân (Summon Briarthorn)
+tagClass06SkillDescription06A=Gai thường xuân là những quái vật gan lì, sinh ra từ sự kết hợp giữa cây gai và ma thuật. Một Shaman cao tay có thể gọi những sinh vật này tới trợ giúp mình chiến đấu. {^n}^oChỉ một Gai thường xuân được triệu hồi trong cùng thời điểm. Sức mạnh của Gai thường xuân tỉ lệ với Điểm thưởng cho Đệ.
+tagClass06SkillName06B=Vỏ đá (Stonebark)
+tagClass06SkillDescription06B=Da thịt của Gai thường xuân trở nên cứng cáp hơn đồng thời gai trên mình nó mọc dày hơn, khiến nó mang dáng vẻ đáng sợ không thể lờ đi giữa chiến trận.
+tagClass06SkillName06C=Giậm đất (Ground Slam)
+tagClass06SkillDescription06C=Gai thường xuân đập móng vuốt gai góc của nó xuống đất, giải phóng một đợt gai để xuyên thủng kẻ địch.
+tagClass06SkillName06D=Vóc dáng Khích lệ (Emboldening Presence)
+tagClass06SkillDescription06D=Vóc dáng oai nghiêm giữa chiến trường của Gai thường xuân mang khích lệ các đồng minh chiến đấu hung tợn hơn.
+tagClass06SkillName06E=Móng vuốt Gai góc
+tagClass06SkillDescription06E=Đòn đánh nội tại.
+
+tagClass06SkillName07A=Cơn đói Hoang dã (Feral Hunger)
+tagClass06SkillDescription07A=Khơi dậy phần nguyên thủy trong bạn, xé nhỏ kẻ địch và nuốt ngấu nghiến thứ máu chảy ra. {^n}^oYêu cầu mang vũ khí hai tay cận chiến hoặc vũ khí hai tay tầm xa. Khi dùng vũ khí cận chiến, đòn đánh sẽ có tác dụng lên nhiều mục tiêu lân cận. Kích hoạt khi tấn công thường.
+
+tagClass06SkillName08A=Giao kèo Sấm sét (Stormcaller's Pact)
+tagClass06SkillDescription08A=Hòa làm một với Ultos, thần cai quản bầu trời, biến thân xác của bạn trở thành vật dẫn cho sức mạnh hủy diệt của những cơn bão sấm sét. {^n}^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass06SkillName09A=Triệu gọi Linh hồn Nguyên thủy (Conjure Primal Spirit)
+tagClass06SkillDescription09A=Những truyền thuyết có kể về một dã thú vĩ đại, đầy tớ trung thành của Mogdrogen, thường xuyên săn lùng những vị khách không mời dám xâm phạm lãnh địa của vị thần thú. Là một tín đồ được Mogdrogen chiếu cố, bạn có thể gọi Linh hồn Nguyên thủy này tới trợ giúp mình chiến đấu. {^n}^oSức mạnh của Linh hồn Nguyên thủy tỉ lệ với Điểm thưởng cho Đệ.
+tagClass06SkillName09B_Pet=Quật đuôi
+tagClass06SkillDescription09B_Pet=Tấn công mục tiêu với đuôi có độc.
+tagClass06SkillName009C=Nanh vuốt
+tagClass06SkillDescription09C=Đòn đánh Nội tại.
+
+tagClass06SkillName10A=Sức lực Cục súc (Brute Force)
+tagClass06SkillDescription10A=Với nhiều Shaman, một món vũ khí hai tay là gạch nối giữa họ với sức mạnh của bão tố. Những người này ưa thích mối quan hệ gần gũi với tự nhiên thông qua bản năng thú vật hơn là những thứ mỏng manh như đũa hay sách phép, thứ họ cho là đồ chơi của những kẻ thà dành thời gian để đọc sách chứ không chịu tập luyện. ^oYêu cầu mang vũ khí cận chiến hai tay hoặc vũ khí tầm xa hai tay.
+tagClass06SkillName11A=Shamanism
+tagClass06SkillDescription11A=Rèn luyện khắc nghiệt trong thiên nhiên hoang dã mài dũa cả trí óc lẫn cơ thể của bạn trở thành một món vũ khí hoang dại.
+tagClass06SkillName12A=Cơn thịnh nộ của Thiên nhiên (Nature's Wrath)
+tagClass06SkillDescription12A=Hòa làm một với những lực lượng nguyên thủy của thiên nhiên, xé toạc kẻ thù với răng, móng vuốt và sấm sét.
+tagClass06SkillName13A=Ràng buộc Nguyên thủy (Primal Bond)
+tagClass06SkillDescription13A=Khơi dậy mặt hoang dã khi bạn chấp nhận ràng buộc mình với Mogdrogen. Những sinh vật từ lĩnh vực của vị thần thú sẵn sàng đáp lại lời bạn gọi. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagClass06SkillName14A=Dư chấn (Upheaval)
+tagClass06SkillDescription14A=Tấn công với sức mạnh của đất. Mỗi khi bạn ra đòn chí mạng, mặt đất rung chuyển với sức mạnh từ cú đánh, dội xung chấn ra khắp xung quanh. ^oyêu cầu mang vũ khí cận chiến hai tay hoặc vũ khí tầm xa hai tay và kích hoạt khi tấn công thường.
+
+tagClass06SkillName15A=Côn trùng Ăn thịt (Devouring Swarm)
+tagClass06SkillDescription15A=Ở nơi hoang dã, người ta phải làm mọi thứ để sống sót. Một vài Shaman học thuộc lòng bài này bằng cách gọi ra một đàn côn trùng phàm ăn sẵn sàng cắn vụn bất cứ thứ gì chúng gặp, gây vết thương sâu đồng thời phơi bày những điểm yếu.
+tagClass06SkillName15B=Côn trùng Gây tàn tật (Crippling Swarm)
+tagClass06SkillDescription15B=Đàn côn trùng tấn công những khu vực nhạy cảm, cào vào mắt, khớp và dây chằng, khiến kẻ địch của bạn tàn tật.
+tagClass06SkillName15C=Côn trùng Phàm ăn (Voracious Swarm)
+tagClass06SkillDescription15C=Đàn côn trùng trở nên phàm ăn, gây thiệt hại ghê gớm hơn khi chúng làm lộ những điểm yếu mới.
+tagClass06SkillName15D=Côn trùng Ăn thịt (Devouring Swarm)
+tagClass06SkillDescription15D=Ở nơi hoang dã, người ta phải làm mọi thứ để sống sót. Một vài Shaman học thuộc lòng bài này bằng cách gọi ra một đàn côn trùng phàm ăn sẵn sàng cắn vụn bất cứ thứ gì chúng gặp đồng thời chuyển sinh lực quý giá về cho bạn.
+
+tagClass06SkillName16A=Vật tổ Bão tố (Storm Totem)
+tagClass06SkillDescription16A=Dẫn truyền sức mạnh bão tố là một trong những nghi thức thiêng liêng nhất của những Stormcaller. Khi rèn luyện nhuần nhuyễn, một Shaman có thể đưa vào vật tổ sức mạnh hủy diệt của sét, khiến nó liên tục phóng điện vào kẻ địch xung quanh. ^oSức mạnh của Vật tổ Bão tố tỉ lệ với sát thương thêm của người chơi.
+tagClass06SkillName16B=Cơn bão Sa đọa (Corrupted Storm)
+tagClass06SkillDescription16B=Những shaman biến chất bị ám ảnh bởi sức mạnh của Wendigo có thể tha hóa một Vật tổ Bão tố để giải phóng những mũi tên khát máu có thể rút sinh khí từ kẻ địch.
+tagClass06SkillName16_Pet=Storm Strike
+
+tagClass06SkillName17A=Dây leo Trói chân (Grasping Vines)
+tagClass06SkillDescription17A=Theo chủ ý của bạn, dây leo gai mọc ra từ mặt đất dưới chân kẻ thù, ngăn chúng di chuyển.
+tagClass06SkillName17B=Dây leo Rối rắm (Entangling Vines)
+tagClass06SkillDescription17B=Dây leo trở nên độc hại, bẫy những kẻ địch bất lực trong một mớ gai chằng chịt.
+
+xtagClass06SkillName13A=Wrath of Mogdrogen
+xtagClass06SkillDescription13A=Mogdrogen is often depicted as a benevolent deity who bestows protective boons upon his followers, but the wrath of the beast god can be terrifying to behold when his sanctum is threatened.
+
+xtagClass06SkillName08A=Conjure Wind Devil
+xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
+xtagClass06SkillName08B_Pet=Howling Wind
+xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
+xtagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+xtagClass06SkillName03A=Feral Hunger
+xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
+xtagClass06SkillName03B=Taste for Blood
+xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
+xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
+xtagClass06SkillName04D=Maelstrom
+xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
+xxtagClass06SkillName03B=Storm Totem
+xxtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
+
+#Class07
+
+
+#Class08
+
+
+#Class09
+
+XXXtagClass01SkillName15A=Battle Fury
+XXXtagClass01SkillDescription15A=The heat of battle rouses savage animal impulses that heighten your strength and speed but diminish discipline lowering your defenses.
+XXXtagClass01SkillName15B=Rampage
+XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on, giving you almost super-human speed but also making you more wreckless, reducing defensive ability.
+
+
+XXXtagClass03SkillName09=Fulcrum Training
+XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners.  Channeling through a fulcrum can mitigate some of this damage.
+
+
+XXXtagClass04SkillName03A=Toxic Bomb
+XXXtagClass04SkillDescription03A=A combination of vicious toxins and explosive powders results in a deadly explosive charge that will leave enemies gasping for air.
+XXXtagClass04SkillName03B=Necrotic Miasma
+XXXtagClass04SkillDescription03B=The addition of an unstable agent to the Toxic Bomb causes weakened resolve and painful convulsions.
+
+XXXtagClass03SkillName06A=Elemental Orb
+XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat, cold, and electricity.
+
+
+
+XXXtagClass03SkillName08A=Gale Force
+XXXtagClass03SkillDescription08A=A burst of wind and elemental energy knocks enemies away from the caster and inflicts elemental damage.
+
+
+
+
+XXXtagClass03SkillName01C=Whirlwind
+XXXtagClass03SkillDescription01C=The great raven controls the winds, channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
+
+XXXtagClass03SkillName01D=Storm Vortex
+XXXtagClass03SkillDescription01D=Magnifies the power of Whirlwind and causes it to emit bolts of lightning.
+
+xxxtagClass05SkillName01A=Vile Brew
+xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
+
+xxxtagClass05SkillName02A=Envenom
+xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
+
+#ItemSkills
+
+tagItemSkillA001=Chớp Lạnh
+tagItemSkillDescA001=Một tia năng lượng âm bản đóng băng bất cứ thứ gì nó gặp trên đường đi.
+
+tagItemSkillA002=Vòng xoáy Ma quái
+tagItemSkillDescA002=Hút sinh khí của kẻ địch xung quanh.
+
+tagItemSkillA003=Tĩnh điện Đảo chiều
+tagItemSkillDescA003=Phóng một quả cầu điện vào những kẻ đánh trúng người chơi.
+
+tagItemSkillA004=Cầu lửa
+tagItemSkillDescA004=Phóng một quả Cầu lửa vào kẻ địch xung quanh.
+
+tagItemSkillA004B=Cầu lửa
+tagItemSkillDescA004B=Phóng nhiều quả Cầu lửa vào kẻ địch xung quanh.
+
+tagItemSkillA005A=Vòng tròn Lửa
+tagItemSkillDescA005A=Bao quanh người chơi một vòng tròn lửa thiêu đốt kẻ thù trong phạm vi của nó.
+
+tagItemSkillA006A=Vũ khí Độc
+tagItemSkillDescA006A=Tẩm vũ khí bằng một loại độc dược chết người.
+
+tagItemSkillC001Name=Phán quyết của Pháp quan
+tagItemSkillC001Description=Lưỡi của thanh gươm này từng là một tấm biển kim loại treo trong phòng của một Thẩm phán khét tiếng với trò "kiểm duyệt" những ai bị kết tội báng bổ bằng cách cắt lưỡi họ. Hằn sâu với những ký ức kinh hoàng đó, món vũ khí này cũng sẽ làm câm lặng kẻ địch của bạn giống như vậy.
+
+tagItemSkillA007Name=Tập trung
+tagItemSkillA007Desc=Tập trung vào thuật chiến đấu, tăng tốc mọi đòn đánh.
+
+tagItemSkillA008Name=Bản năng Sinh tồn
+tagItemSkillA008Desc=Tăng cường sản sinh chất adrenaline, tăng tốc độ chạy tức thời.
+
+tagItemSkillA009Name=Vụ nổ Sét
+tagItemSkillA009Desc=Giải phóng một luồng năng lượng sét, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagItemSkillA010=Sạc Điện
+tagItemSkillDescA010=Một luồng điện tuôn ra từ bạn, gây sát thương lên kẻ địch xung quanh.
+
+tagItemSkillA011=Ngọn Lửa Kilrian
+tagItemSkillDescA011=Một ngọn lửa bóng tối bao lấy da thịt bạn, thiêu cháy kẻ nào dám tới gần đồng thời rút sinh khí của chúng.
+
+tagItemSkillA012=Đóng Băng
+tagItemSkillDescA012=Đóng băng kẻ địch.
+
+tagItemSkillA013=Làm Choáng
+tagItemSkillDescA013=Gián đoạn kẻ địch.
+
+tagItemSkillA014=Hóa đá
+tagItemSkillDescA014=Biến kẻ địch thành đá.
+
+tagItemSkillB001Name=Sóng Nổ
+tagItemSkillB001Desc=Một đợt sóng lửa bùng ra từ đòn đánh của bạn.
+
+tagItemSkillB002Name=Sóng băng
+tagItemSkillB002Desc=Phản đòn bằng sự lạnh lẽo của cái chết, phóng phi đạn vào vào kẻ địch xung quanh, đóng băng chúng.
+
+tagItemSkillB003Name=Cát của Nox
+tagItemSkillB003Desc=Phản đòn bằng một bùa ru ngủ cực mạnh, đưa kẻ địch xung quanh vào giấc mộng.
+
+tagItemSkillB004Name=Sét chuỗi
+tagItemSkillB004Desc=Giật đối tượng bằng một tia sét có thể nhảy sang những mục tiêu lân cận.
+
+tagItemSkillA006Name=Vụ nổ Sét
+tagItemSkillA006Desc=Phản đòn bằng một luồng năng lượng sét, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagItemSkillB005Name=Vụ nổ Độc
+tagItemSkillB005Desc=Phản đòn bằng một luồng khói độc, đầu độc mọi kẻ địch xung quanh.
+
+tagItemSkillB006Name=Xuất huyết
+tagItemSkillB006Desc=Đả thương mục tiêu, gây xuất huyết đồng thời khiến mục tiêu chịu thêm sát thương xuất huyết.
+
+tagItemSkillB007Name=Tan Vỡ
+tagItemSkillB007Desc=Phóng hàng loạt mảnh băng theo hình nón về phía mục tiêu.
+
+tagItemSkillB008Name=Tiếng gầm Chiến trận
+tagItemSkillB008Desc=Kích động đồng đội xung quanh với một tiếng gầm dũng mãnh.
+
+tagItemSkillB009Name=Gai Băng
+tagItemSkillB009Desc=Phóng một gai băng cứng như đá để đâm xuyên qua kẻ địch.
+
+tagItemSkillB010Name=Xẻ Đất
+tagItemSkillB010Desc=Giải phóng một làn sóng địa chấn về phía kẻ địch.
+
+tagItemSkillB011Name=Trị liệu
+tagItemSkillB011Desc=Sức mạnh êm dịu giúp chữa lành vết thương.
+
+tagItemSkillB012Name=Vụ Nổ Địa Chấn
+tagItemSkillB012Desc=Lực địa chấn phát ra xung quanh bạn, gây sát thương và hất ngã kẻ địch.
+
+tagItemSkillB013Name=Vụ Nổ Ma thuật
+tagItemSkillB013Desc=Nguồn năng lượng bí ẩn phát ra xung quanh bạn, gây sát thương lên tất cả kẻ địch.
+
+tagItemSkillB014Name=Lá chắn Đất
+tagItemSkillB014Desc=Nhận lấy tinh hoa bảo hộ từ đất mẹ, tăng giáp và khả năng hồi phục.
+
+tagItemSkillB015Name=Điên tiết
+tagItemSkillB015Desc=Đưa bạn vào một cơn giận điên cuồng, khiến bạn tấn công nhanh và tàn bạo hơn, nhưng cũng dễ tổn thương hơn.
+
+tagItemSkillB016Name=Sáng Suốt
+tagItemSkillB016Desc=Tiến vào trạng thái nhập định tri thức, dẫn truyền những lực lượng huyền bí thông qua cơ thể.
+
+tagItemSkillB017Name=Rượu độc
+tagItemSkillB017Desc=Ném ra một hỗn hợp phát nổ chứa đầy chất lỏng ăn mòn.
+
+tagItemSkillB018Name=Truyền Năng Lượng
+tagItemSkillB018Desc=Một làn sương nhẹ bao bọc lấy bạn, giải phóng tâm trí bạn.
+
+tagItemSkillB019Name=Ngọn lửa Zarthuzellan
+tagItemSkillB019Desc=Giải phóng một luồng lửa lên những kẻ ngoại đạo.
+
+tagItemSkillB020Name=Ngón tay của Rolderathis
+tagItemSkillB020Desc=Ném một phi đạn lạnh lẽo vào mục tiêu, gây đóng băng bất động.
+
+tagItemSkillB021Name=Băng vệ
+tagItemSkillB021Desc=Phóng một tảng băng lớn vào kẻ nào tìm được điểm yếu trong phòng thủ của bạn, đóng băng chúng lại.
+
+tagItemSkillB022Name=Nộ Chiến
+tagItemSkillB022Desc=Nhập định sẵn sàng cho trận chiến.
+
+tagItemSkillB023Name=Dấu ấn Tử thần
+tagItemSkillB023Desc=Đánh dấu mục tiêu cho một cái chết đau đớn được báo trước.
+
+tagItemSkillB024Name=Tàn sát
+tagItemSkillB024Desc=Nghiền nát kẻ thù bằng một cú đập cực mạnh.
+
+tagItemSkillB025Name=Tia Chớp
+tagItemSkillB025Desc=Một tia chớp thuần khiết đánh xuống đầu mục tiêu của bạn.
+
+tagItemSkillB026NameA=Ma Ám kích
+tagItemSkillB026DescA=Biến mất vào cõi âm ti rồi lập tức tái xuất hiện cạnh mục tiêu định trước.
+tagItemSkillB026NameB=Sương hỏa
+tagItemSkillB026DescB=Một vòng lửa ma quái lan dần ra xung quanh bạn.
+
+tagItemSkillB027Name=Phong ấn Nguyên tố
+tagItemSkillB027Desc=Tạo ra một phong ấn huyền bí trên mặt đất chứa đầy sức mạnh hủy diệt.
+
+tagItemSkillB028Name=Dấu ấn Tiêu hủy
+tagItemSkillB028Desc=Tạo một dấu ấn huyền bí trên mặt đất nhằm tiêu hủy sinh lực kẻ địch đứng trong vùng ảnh hưởng của nó, hồi lại cho bạn lượng máu bằng một phần sát thương gây ra.
+
+tagItemSkillB029Name=Vòng tròn Sương hỏa
+tagItemSkillB029Desc=Bao quanh bạn một vòng băng làm lạnh cóng kẻ địch trong phạm vi của nó.
+
+tagItemSkillB030Name=Cầu Sét
+tagItemSkillB030Desc=Thả ra một quả cầu tích tụ năng lượng tĩnh điện có thể bay xuyên qua kẻ địch.
+
+tagItemSkillB031Name=Bão Ma thuật
+tagItemSkillB031Desc=Giải phóng một vụ nổ tập trung năng lượng huyền bí ra xung quanh bạn, lập tức đốt cháy không khí.
+
+tagItemSkillB032Name=Mãnh vỡ Bầu trời
+tagItemSkillB032Desc=Kéo cả bầu trời sập xuống đầu kẻ địch.
+
+tagItemSkillB033Name=Sóng Aether
+tagItemSkillB033Desc=Một luồng năng lượng Aether đẩy lùi những kẻ tấn công bạn.
+
+tagItemSkillB034Name=Địa chấn
+tagItemSkillB034Desc=Xuất một làn sóng địa chấn ra xung quanh quanh, gây sát thương lên kẻ địch.
+
+tagItemSkillB035Name=Đệ Điên cuồng
+tagItemSkillB035Desc=Khi thấy chủ bị thương, đám đệ của bạn sẽ chuyển sang trạng thái điên cuồng hoang dại.
+
+tagItemSkillB036Name=Sóng Lửa
+tagItemSkillB036Desc=Một đợt lửa trào ra từ bạn, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagItemSkillB037Name=Vụ nổ Méo mó
+tagItemSkillB037Desc=Một luồng năng lượng hỗn loạn trào ra từ bạn, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagItemSkillB038Name=Sét Chùm
+tagItemSkillB038Desc=Hàng loạt tia sét xuất ra từ bạn, gây sát thương lên mọi kẻ địch chúng chạm vào.
+
+tagItemSkillB039Name=Băng Chùm
+tagItemSkillB039Desc=Hàng loạt mảnh băng lạnh giá xuất ra từ bạn, đóng băng mọi kẻ địch chúng chạm vào.
+
+tagItemSkillB040Name=Đám mây Khí độc
+tagItemSkillB040Desc=Một đám mây khí độc phun ra từ bạn, khiến mọi kẻ địch đứng trong phạm vi bị ngạt thở.
+
+tagItemSkillB041Name=Sóng Sinh khí
+tagItemSkillB041Desc=Một luồng năng lượng lao về phía trước, hút cạn sinh khí của kẻ địch.
+
+tagItemSkillB042Name=Chùm tia Sinh khí
+tagItemSkillB042Desc=Hàng loạt tia hút máu xuất ra từ bạn, rút cạn sinh khí của mọi kẻ địch chúng chạm vào.
+
+tagItemSkillB043Name=Hồi xuân
+tagItemSkillB043Desc=Một sự thanh thản tràn qua cơ thể bạn, tăng cường khả năng hồi phục.
+
+tagItemSkillB044Name=Tên Độc
+tagItemSkillB044Desc=Phóng một mũi tên độc vào kẻ địch.
+
+tagItemSkillB045Name=Bão Lửa
+tagItemSkillB045Desc=Một loạt cầu lửa phóng ra từ bạn.
+
+tagItemSkillB046Name=Bão Gai độc
+tagItemSkillB046Desc=Một loạt gai độc phóng ra từ bạn.
+
+tagItemSkillC002Name=Cầu Sét
+tagItemSkillC002Desc=Phản kích với một quả cầu sét phóng về hướng kẻ tấn công, gây sát thương và làm choáng kẻ địch trên đường.
+
+tagItemSkillC003Name=Khiêu khích
+tagItemSkillC003Desc=Đưa mục tiêu vào trạng thái điên cuồng, khiến nó gây thêm sát thương, nhưng cũng dễ bị tổn thương hơn.
+
+tagItemSkillC004Name=Vệ binh Lực lưỡng
+tagItemSkillC004Desc=Gọi ra một vệ binh có sức phòng thủ cao và mối đe dọa lớn.
+tagItemSkillC004PetSkill01=Tiếng gầm Khiêu khích
+tagItemSkillC004PetSkill01Desc=Vệ binh gầm lên thách thức, khiêu khích kẻ địch xung quanh.
+tagItemSkillC004PetSkill02=Thuộc tính Nội tại
+
+tagItemSkillC005Name=Vệ binh Liều lĩnh
+tagItemSkillC005Desc=Gọi ra một vệ binh có sức tấn công cao.
+
+tagItemSkillC005PetSkill01=Tiếng gầm Mê loạn
+tagItemSkillC005PetSkill01Desc=Vệ binh gầm lên, khích động đồng đội xung quanh.
+
+tagItemSkillC006Name=Bệnh dịch Rỉ sét
+tagItemSkillC006Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng ăn mòn giáp trụ và lây lan nhanh chóng.
+
+tagItemSkillC007Name=Bệnh dịch Giòn xương
+tagItemSkillC007Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng ăn mòn xương và lây lan nhanh chóng.
+
+tagItemSkillC008Name=Bệnh dịch Tiêu hồn
+tagItemSkillC008Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng bào mòn linh hồn và lây lan nhanh chóng.
+
+tagItemSkillC009Name=Bệnh dịch Tiêu thụ
+tagItemSkillC009Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng bào mòn sinh lực và lây lan nhanh chóng.
+
+tagItemSkillC010Name=Bệnh dịch Khủng bố
+tagItemSkillC010Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng gây sợ hãi và lây lan nhanh chóng.
+
+tagItemSkillC011Name=Bệnh dịch Mệt mỏi
+tagItemSkillC011Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng gây kiệt sức và lây lan nhanh chóng.
+
+tagItemSkillC012Name=Bệnh dịch Thối rữa
+tagItemSkillC012Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng gây nhiễm độc và lây lan nhanh chóng.
+
+tagItemSkillC013Name=Bệnh dịch Tha hóa
+tagItemSkillC013Desc=Giải phóng một bệnh truyền nhiễm mạnh mẽ có khả năng gây hoang mang và lây lan nhanh chóng.
+
+tagItemSkillC014Name=Chi phối
+tagItemSkillC014Desc=Chế ngự trí não của mục tiêu, buộc nó chiến đấu cho bạn trong một khoảng thời gian.
+
+tagItemSkillC015Name=Xé ruột
+tagItemSkillC015Desc=Quăng một nắm mảnh bom lởm chởm vào những kẻ địch xung quanh.
+
+tagItemSkillC016Name=Núi lửa Phun trào
+tagItemSkillC016Desc=Giải phóng một vụ nổ dung nham vào kẻ địch xung quanh.
+
+tagItemSkillC017Name=Tĩnh điện Bạo phát
+tagItemSkillC017Desc=Giải phóng một loạt tia điện vào kẻ địch xung quanh.
+
+tagItemSkillC018Name=Lưới móc câu
+tagItemSkillC018Desc=Bắt giữ con mồi bằng một tấm lưới có thể trói và khống chế mục tiêu.
+
+tagItemSkillC019Name=Phun lửa
+tagItemSkillC019Desc=Giải phóng một luồng lửa chết chóc theo đường thẳng.
+
+tagItemSkillC020Name=Vụ nổ Băng giá
+tagItemSkillC020Desc=Quăng một gói thuốc nổ với năng lượng băng cực mạnh có khả năng làm đông cứng kẻ địch.
+
+tagItemSkillC021Name=Tia Chớp
+tagItemSkillC021Desc=Triệu hồi công lý thịnh nộ từ thiên đường.
+
+tagItemSkillC022Name=Liên xạ
+tagItemSkillC022Desc=Một tiểu xảo với cơ chế nạp đạn cho phép đôi khi hàng loạt đạn được bắn ra liền nhau.
+
+tagItemSkillC023Name=Vết cắn Dịch bệnh
+tagItemSkillC023Desc=Lưỡi kiếm cắm vào da thịt ngọt như một cú cắn của chó săn hư không.
+
+tagItemSkillC024Name=Gặt Liên hoàn
+tagItemSkillC024Desc=Rút sinh lực từ đối tượng, nhảy sang cả những kẻ địch xung quanh để nuốt chửng tất cả.
+
+tagItemSkillC025Name=Dậm đất
+tagItemSkillC025Desc=Đế của đôi giày đã được phù phép dậm mạnh xuống mặt đất, giải phóng một đợt xung chấn làm lảo đảo kẻ địch xung quanh.
+
+tagItemSkillC026Name=Báo thù
+tagItemSkillC026Desc=Một cú đâm nhanh bằng vũ khí của bạn. ^oYêu cầu mang vũ khí cận chiến.
+tagItemSkillC026DescB=Một cú đâm nhanh bằng kiếm của bạn.
+
+tagItemSkillC027Name=Khiên Năng lượng
+tagItemSkillC027Desc=Tạo một lớp khiên bảo hộ để hấp thụ những đòn tấn công vật lý.
+
+tagItemSkillC028Name=Khủng bố
+tagItemSkillC028Desc=Nhét vào tâm trí kẻ địch xung quanh hình ảnh về kết cục của chúng, khiến những tên yếu bóng vía bỏ chạy.
+
+tagItemSkillC029Name=Bắn tỉa
+tagItemSkillC029Desc=Bắn một viên đạn xuyên giáp với độ chính xác chết người.
+
+tagItemSkillC030Name=Ngón tay Tử thần
+tagItemSkillC030Desc=Bàn tay lạnh lẽo của cái chết xoa khắp người kẻ địch của bạn.
+
+tagItemSkillC031Name=Sợ hãi
+tagItemSkillC031Desc=Gây sợ hãi lên tâm trí kẻ địch.
+
+tagItemSkillC032Name=Thuốc Tự chế
+tagItemSkillC032Desc=Uống một ngụm lớn và cảm nhận.
+
+tagItemSkillC033Name=Rút súng nhanh
+tagItemSkillC033Desc=Với một cái búng tay, rút ra khẩu lục đáng tin cậy và rồi bắn với độ chính xác chết người.  ^oYêu cầu mang vũ khí tầm xa.
+
+tagItemSkillC034Name=Gián đoạn
+tagItemSkillC034Desc=Tốc độ đáng nể của đôi giày này yêu cầu sự tập trung hoàn hảo trong mỗi bước đi. Dù chỉ một chút sao lãng nhỏ nhất cũng có thể dẫn đến vấp ngã.
+
+tagItemSkillC035Name=Bẻ cong Thời gian
+tagItemSkillC035Desc=Bẻ cong thời gian ở vị trí kẻ tấn công bạn.
+
+tagItemSkillC036Name=Sát tâm
+tagItemSkillC036Desc=Bước vào một trạng thái tâm thần nguy hiểm không có chỗ cho sự ngờ vực và do dự.
+
+tagItemSkillC037Name=Bóng Nhầy
+tagItemSkillC037Desc=Quăng một quả đạn dính tạo từ vi khuẩn và chất nhầy, trói chân và làm chậm kẻ địch.
+
+tagItemSkillC038Name=Gió buốt
+tagItemSkillC038Desc=Giải phóng một luồng gió lạnh thấu xương xuyên qua giáp trụ và đóng băng da thịt.
+
+tagItemSkillC039Name=Bộc phá
+tagItemSkillC039Desc=Quăng một quả bom nổ có thể làm choáng mục tiêu.
+
+tagItemSkillC040Name=Phi tiêu Chống đông máu
+tagItemSkillC040Desc=Bắn ra một phi tiêu chứa chất chống đông máu để ngăn các vết thương hồi phục, đồng thời gây xuất huyết nặng.
+
+tagItemSkillC041Name=Làn sóng Ma
+tagItemSkillC041Desc=Giải phóng một đợt linh hồn giận dữ để hút cạn máu của kẻ địch.
+
+tagItemSkillC042Name=Thêm một Vạch
+tagItemSkillC042Desc=Khắc thêm một vạch nữa vào hàng nghìn vạch đã có, nhưng ai đếm chúng nhỉ? ^oKích hoạt khi đánh thường.
+
+tagItemSkillC043Name=Vòng tròn Lửa Vĩnh hằng
+tagItemSkillC043Desc=Đắm mình trong ngọn lửa thiêu đốt mọi thứ xung quanh thành tro bụi, nhưng không gây tổn hại gì đến bạn. ^oKỹ năng này phải được bật để duy trì tác dụng.
+tagItemSkillC043NameB=Vòng tròn Lửa Vĩnh hằng
+tagItemSkillC043DescB=Đắm mình trong ngọn lửa thiêu đốt mọi thứ xung quanh thành tro bụi, nhưng không gây tổn hại gì đến bạn.
+
+tagItemSkillC044Name=Lời nguyền của Quyết tâm bị Tiêu tan
+tagItemSkillC044Desc=Một thần chú làm mờ các giác quan của kẻ địch và cướp đi sức sống của chúng.
+
+tagItemSkillC045Name=Khiên Aether
+tagItemSkillC045Desc=Đi theo sức mạnh của aether vĩ đại, tăng kháng phép thuật và củng cố quyết tâm.
+
+tagItemSkillC046Name=Đánh cắp Linh hồn
+tagItemSkillC046Desc=Nuốt chửng tinh chất của mục tiêu để phục hồi cho bản thân. ^oKích hoạt khi đánh thường.
+
+tagItemSkillC047Name=Độc Thạch tâm
+tagItemSkillC047Desc=Xuất ra chất độc bên trong thanh kiếm, làm da thịt hóa đá.
+
+tagItemSkillC048Name=Làn gió Hồi phục
+tagItemSkillC048Desc=Triệu hồi làn gió của mùa xuân vĩnh hằng để chữa trị các vết thương.
+
+tagItemSkillC049Name=Vết đen Mặt trời
+tagItemSkillC049Desc=Thổi tung mục tiêu với một tia lửa bỏng cháy từ thiên đường.
+
+tagItemSkillC050Name=Lichguard
+tagItemSkillC050Desc=Những lúc nguy hiểm cận kề, Lichguard bảo vệ người mang nó khỏi tổn hại đến tính mạng.
+
+tagItemSkillC051Name=Triệu hồi Hồn ma của Og'Napesh
+tagItemSkillC051Desc=Niệm những văn tự hắc ám của Og'Napesh để triệu hồi hồn ma kinh tởm nhất của hắn về với thế giới người sống. ^oChỉ một hồn ma được triệu hồi trong cùng thời điểm. Hồn ma tỉ lệ với Điểm thưởng cho Đệ.
+tagItemSkillC051Pet01=Dựng khiên
+tagItemSkillC051Pet01Desc=Hồn ma bảo vệ những đồng đội xung quanh khỏi các hiệu ứng khống chế đồng thời tăng cường giáp và sát thương phản lại cho họ.
+
+tagItemSkillC052Name=Lời chúc phúc của Menhir
+tagItemSkillC052Desc=Phù hộ cho đồng đội xung quanh với một câu thần chú, ban cho họ Lời chúc phúc của Menhir.
+
+tagItemSkillC053Name=Thách thức Cái chết
+tagItemSkillC053Desc=Ngăn chặn bước tiến của cái chết trong lúc nó đang mạnh mẽ nhất.
+
+tagItemSkillC054Name=Tai họa của Nuram'Siin
+tagItemSkillC054Desc=Thần chú cổ có khả năng làm mục tiêu đông cức trong một nhà tù bằng băng.
+
+tagItemSkillC055Name=Sức mạnh của Sói
+tagItemSkillC055Desc=Hợp nhất với sức mạnh và sự cuồng nộ của sói trắng vĩ đại.
+
+tagItemSkillC056Name=Tiếng gọi Tổ tiên
+tagItemSkillC056Desc=Gọi ra một linh hồn của tổ tiên để hồi phục cho bạn.
+
+tagItemSkillC057Name=Thống khổ
+tagItemSkillC057Desc=Những xiềng xích bị nguyền rủa dày vò bạn với những hình ảnh về kết cục của chính mình.
+
+tagItemSkillC058Name=Thuốc Dã chiến
+tagItemSkillC058Desc=Dùng kỹ thuật y học đã được chứng minh để điều trị những vết trọng thương ngay giữa chiến trường.
+
+tagItemSkillC059Name=Giếng Linh hồn
+tagItemSkillC059Desc=Mở ra một khe nứt tới thế giới bên kia, giải phóng một cái giếng đầy những linh hồn chưa yên nghỉ sẽ xé xác mọi kẻ địch dám bước chân vào.
+
+tagItemSkillC060Name=Nổ Lửa
+tagItemSkillC060Desc=Tạo một vụ nổ lửa địa ngục xung quanh bạn, thiêu đốt mọi kẻ địch gần đó.
+
+tagItemSkillC061Name=Rắn vồ mồi
+tagItemSkillC061Desc=Lao vào kẻ địch như một con rắn độc, tiêm vào mục tiêu một thứ độc dược chết người. ^oYêu cầu mang vũ khí cận chiến.
+
+tagItemSkillC062Name=Nốc-ao
+tagItemSkillC062Desc=Loại đối phương khỏi vòng chiến đấu bằng một cú đánh nhanh và chuẩn xác. ^oKích hoạt khi đánh thường bằng vũ khí cận chiến.
+
+tagItemSkillC063Name=Khiên Tán sắc
+tagItemSkillC063Desc=Kích động những cổ ngữ khắc trên mảnh giáp này, tạo ra một tấm khiên bảo hộ xung quanh bạn.
+
+tagItemSkillC064Name=Quan sát Điểm yếu
+tagItemSkillC064Desc=Quan sát qua con mắt mới để phát hiện những lỗi nhỏ nhất từ kẻ địch rồi chuyển tới cho các dồng đội. ^oKĩ năng này cần được bật để duy trì tác dụng.
+
+tagItemSkillC065Name=Điên dại
+tagItemSkillC065Desc=Giải phóng linh hồn điên dại từ bên trong chiếc mặt nạ, hủy diệt tâm trí những kẻ địch xung quanh.
+
+tagItemSkillC066Name=Loại trừ Cái ác
+tagItemSkillC066Desc=Trục xuất cái ác với một đòn cận chiến mạnh mẽ từ sự trừng phạt của thánh thần. ^oYêu cầu mang vũ khí cận chiến.
+
+tagItemSkillC067Name=Sóng Thủy triều
+tagItemSkillC067Desc=Giải phóng một dòng nước cuốn vào kẻ địch, một kỹ thuật được sử dụng thành thục bởi bọn slith.
+
+tagItemSkillC068Name=Động đất
+tagItemSkillC068Desc=Tạo một khe nứt ở khu vực chỉ định, làm chậm và làm choáng những kẻ địch đứng trên đó.
+
+tagItemSkillC069Name=Cuồng tín
+tagItemSkillC069Desc=Bước vào trạng thái tử vì đạo, xé toạc quân địch bằng sự quyết tâm tàn nhẫn.
+
+tagItemSkillC070Name=Lời cầu khẩn tới Hỗn nguyên
+tagItemSkillC070Desc=Cầu xin những quyền năng bóng tối, đặt một tay chân của Ch'thon dưới sự chỉ huy của bạn.
+
+tagItemSkillC071Name=Ngoại giao
+tagItemSkillC071Desc=Lời của bạn mang theo ý chỉ của những vị vua. Không nhiều người chống cự được sức mạnh của nó.
+
+tagItemSkillC072Name=Empyrion's Touch
+tagItemSkillC072Desc=Ánh sáng của Empyrion làm dịu đi vết thương của những đồng đội xung quanh.
+
+tagItemSkillC073Name=Kiểm soát Tâm trí
+tagItemSkillC073Desc=Thôi miên đối tượng, khiến chúng bất phân bạn thù.
+
+tagItemSkillC074Name=Ý chí của Vệ binh
+tagItemSkillC074Desc=Ý chí được sống mãnh liệt có thể cứu bạn khỏi ngay cả những đòn chí tử. ^oYêu cầu mang khiên.
+
+tagItemSkillC075Name=Cơn cuồng nộ của Kẻ cướp
+tagItemSkillC075Desc=Bắn một loạt đạn thuộc tính lửa. ^oCho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagItemSkillC076Name=Công lý của Kẻ cướp
+tagItemSkillC076Desc=Bắn một loạt đạn thuộc tính băng. ^oCho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagItemSkillC077Name=Hoang mang
+tagItemSkillC077Desc=Áp đảo tâm trí kẻ địch với sự khủng bố tuyệt đối.
+
+tagItemSkillC078Name=Gió hú
+tagItemSkillC078Desc=Vây quanh bạn với một làn gió sắc lạnh khiến kẻ địch buốt tận xương cốt.
+
+tagItemSkillC079Name=Hai tay hai súng
+tagItemSkillC079Desc=Nguy hiểm chết người với một khẩu súng, hẳn là còn chết người hơn với hai khẩu. ^oĐây là điểm thưởng khi mang cùng lúc hai vũ khí tầm xa. Cũng cho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagItemSkillC080Name=Bão Hút sinh lực
+tagItemSkillC080Desc=Một đợt năng lượng chết chóc bộc phát rút sinh lực từ kẻ địch xung quanh để chuyển về cho bạn.
+
+tagItemSkillC081Name=Phi đạn Aether
+tagItemSkillC081Desc=Phóng ra một luồng năng lượng aether vào kẻ thù.
+
+tagItemSkillC082Name=Bão Lửa hư không
+tagItemSkillC082Desc=Một vụ nổ năng lượng âm bản khởi phát từ vị trí của bạn.
+
+tagItemSkillC083Name=Cùng khai hỏa
+tagItemSkillC083Desc=Khi lia hai khẩu súng, đôi lúc bạn giải phóng một loạt đạn thuộc tính ma pháp. ^oCho phép trang bị cùng lúc hai vũ khí tầm xa. Kích hoạt khi tấn công thường.
+
+tagItemSkillC084Name=Chướng khí
+tagItemSkillC084Desc=Tung ra một đám mây khí độc gây ngạt và làm kẻ địch bối rối.
+
+tagItemSkillC085Name=Triệu hồi Blighted Rift Scourge
+tagItemSkillC085Desc=Triệu hồi một Blighted Rift Scourge từ chốn sâu thẳm tới nghe theo những gì bạn sai khiến. ^oChỉ một rift scourge được triệu hồi trong cùng thời điểm. Rift Scourge tỉ lệ với Điểm thưởng cho Đệ.
+tagItemSkillC085PetSkillName01=Nhổ A-xít
+tagItemSkillC085PetSkillName02=Nổ Độc
+
+tagItemSkillC086Name=Dịch hạch
+tagItemSkillC086Desc=Lây lan bệnh dịch bất cứ nơi nào bạn đi qua.
+
+tagItemSkillC087Name=Báo thù
+tagItemSkillC087Desc=Khiêu khích kẻ địch xung quanh với một luồng sóng xung kích phát ra từ khiên của bạn. ^oYêu cầu mang khiên.
+
+tagItemSkillC088Name=Cuồng nộ Ma pháp
+tagItemSkillC088Desc=Không chấp nhận quy phục, bạn giải phóng ra tiềm lực không thể kiềm chế của tâm trí.
+
+tagItemSkillC089Name=Bão Lửa
+tagItemSkillC089Desc=Tạo một vòng lửa để thiêu đốt kẻ địch.
+
+tagItemSkillC090Name=Mụn máu
+tagItemSkillC090Desc=Một lời nguyền ghê tởm gọi tới một dịch bệnh chết người lây truyền giữa những kẻ thù của bạn.
+
+tagItemSkillC091Name=Phi đạn Nhân bản
+tagItemSkillC091Desc=Một phép thuật nhân bản tự sao chép lại chính nó khi đánh trúng một kẻ địch.
+
+tagItemSkillC092Name=Storm Surge
+tagItemSkillC092Desc=Bạn cầu tới thiên đường lúc cực kỳ cần kíp, nạp đầy bản thân với sức mạnh hủy diệt của điện.
+
+tagItemSkillC093Name=Mạng Nhện
+tagItemSkillC093Desc=Giữ chân kẻ thù trong một mạng lưới dính có thể kiềm chế khả năng di chuyển và biến chúng thành những miếng mồi ngon.  ^oPhép này trói chân kẻ địch trong thời gian hiệu lực. Kẻ địch có kháng hiệu ứng trói chân sẽ bị trói trong thời gian ngắn hơn.
+
+tagItemSkillC094Name=Đóng băng Cấp tốc
+tagItemSkillC094Desc=Một tia chớp băng thuần khiết làm đông cứng kẻ địch xung quanh. ^oPhép này làm đông cứng kẻ địch trong thời gian hiệu lực. Kẻ địch có kháng hiệu ứng đông cứng sẽ bị trói trong thời gian ngắn hơn.
+
+tagItemSkillC095Name=Con đường Địa ngục
+tagItemSkillC095Desc=Lửa bùng lên từ mặt đất quanh bạn, chẳng để lại gì phía sau ngoài đống tro tàn.
+
+tagItemSkillC096Name=Mặt trời xuống núi
+tagItemSkillC096Desc=Ánh sáng chói lòa phát ra từ bạn, làm kẻ thù sững sờ.
+
+tagItemSkillC097Name=Chớp Aether
+tagItemSkillC097Desc=Giật mục tiêu bằng tia sét nhiễm Aether. Ma thuật dữ dội này sẽ nhảy sang cả những kẻ địch lân cận.
+
+tagItemSkillC098Name=Lực lượng Nguyên tố
+tagItemSkillC098Desc=Truyền vào đòn đánh của bạn hai lực lượng đối nghịch băng và lửa.
+
+tagItemSkillC099Name=Mưa Lửa
+tagItemSkillC099Desc=Theo lệnh của bạn, cơn mưa lửa giáng từ trời cao xuống.
+
+tagItemSkillC100Name=Hủy diệt
+tagItemSkillC100Desc=Được tôn là thế lực tàn phá tối thượng của các Arcanist, kỹ năng này xé một khe nứt trong thực tại để từ đó phóng ra những viên nham thạch tạo ra từ năng lượng ma pháp thuần khiết.
+
+tagItemSkillC101Name=Hơi thở Chillmane
+tagItemSkillC101Desc=Làm lạnh tận gốc kẻ địch với hơi thở của một Người tuyết Chillmane.
+
+tagItemSkillC102Name=Vuốt lửa
+tagItemSkillC102Desc=Chẻ đôi kẻ địch của bạn với móng vuốt làm từ lửa địa ngục.
+
+tagItemSkillC103Name=Gọi Devourer
+tagItemSkillC103Desc=Kéo một con Chthonian Devourer từ trong hư không sâu thẳm tới bảo vệ bạn. ^oDevourer tỉ lệ với Điểm thưởng cho Đệ.
+
+tagItemSkillC104Name=Khiên Linh hồn
+tagItemSkillC104Desc=Bước một phần vào cõi tâm linh, bảo vệ bản thân trước những phép thuật hút sinh lực và tấn công vật lý.
+
+tagItemSkillC105Name=Vòng tròn Băng
+tagItemSkillC105Desc=Một luồng gió xoáy kéo theo những mảnh băng vây quanh bạn và làm lạnh kẻ địch xung quanh.
+
+tagItemSkillC106Name=Nhát cắn của Manticore
+tagItemSkillC106Desc=Lao tới kẻ địch, gây trọng thương.
+
+tagItemSkillC107Name=Ngôi sao Đen
+tagItemSkillC107Desc=Một điềm dữ rơi xuống đầu kẻ địch.
+
+tagItemSkillC108Name=Bàn tay Nữ thần
+tagItemSkillC108Desc=Làm dịu vết thương của những đồng đội xung quanh với sự chúc phúc của những nữ thần rừng.
+
+tagItemSkillC109Name=Nổ Băng
+tagItemSkillC109Desc=Bùng phát khí lạnh quanh bạn để đóng băng kẻ địch.
+
+tagItemSkillC110Name=Vụ nổ Nguyên tố
+tagItemSkillC110Desc=Một vụ nổ năng lượng nguyên tố bùng ra từ bạn, đẩy lùi mọi kẻ địch xung quanh.
+
+tagItemSkillC111Name=Lời nguyền Burrwitch
+tagItemSkillC111Desc=Kẻ thù của bạn bị đánh dấu với một lời nguyền suy yếu tái hiện lại sự đau đớn của Burrwitch.
+
+tagItemSkillC112Name=Thiêu đốt
+tagItemSkillC112Desc=Thiêu đốt kẻ thù với ngọn lửa mãnh liệt tới mức nung chảy cả giáp trụ.
+
+tagItemSkillC114Name=Cú đập Aether
+tagItemSkillC114Desc=Một làn sóng năng lượng aether phát ra từ bạn.
+
+tagItemSkillC115Name=Ác tâm
+tagItemSkillC115Desc=Một thế lực ác độc khởi phát từ bạn làm rung chuyển mặt đất.
+
+tagItemSkillC116Name=Xuất huyết
+tagItemSkillC116Desc=Cắt một động mạch chính, gây xuất huyết nghiêm trọng.
+
+tagItemSkillC117Name=Hỏa Ấn
+tagItemSkillC117Desc=Đánh dấu kẻ thù bằng lửa, khiến chúng dễ bị tổn thương trước cơn thịnh nộ bùng cháy của bạn.
+
+tagItemSkillC118Name=Thợ săn Quái thú
+tagItemSkillC118Desc=Chém qua kẻ địch xung quanh như thể chúng là những con quái thú kinh tởm.
+
+tagItemSkillC119Name=Mụn Độc
+tagItemSkillC119Desc=Một bệnh dịch lây lan nhanh chóng tới kẻ thù của bạn.
+
+tagItemSkillC120Name=Đất Bùng cháy
+tagItemSkillC120Desc=Khí nóng phát ra từ bạn, thiêu đốt mặt đất phía trước.
+
+tagItemSkillC121Name=Tắm máu
+tagItemSkillC121Desc=Chém kẻ địch xung quanh và tắm nơi này trong máu của chúng.
+
+tagItemSkillC122Name=Mắt Thủy tinh
+tagItemSkillC122Desc=Một con mắt điêu luyện, một phát bắn chết người. ^oĐây là điểm thưởng cho vũ khí tầm xa hai tay.
+tagItemSkillC122NameB=Thiện xạ
+tagItemSkillC122DescB=Thành thạo trong việc sử dụng súng trường và ống ngắm. ^oĐây là điểm thưởng cho vũ khí tầm xa hai tay.
+
+tagItemSkillC123Name=Vệt Lửa
+tagItemSkillC123Desc=Bạn đốt cháy mặt đất nơi mình bước qua.
+
+tagItemSkillC124Name=Nổ Gai
+tagItemSkillC124Desc=Một cụm gai phóng ra từ bạn, xuyên qua kẻ thù xung quanh.
+
+tagItemSkillC125Name=Sóng Hỗn nguyên
+tagItemSkillC125Desc=Một làn sóng năng lượng hỗn độn phát ra từ bạn.
+
+tagItemSkillC126Name=Bàn tay Dược sĩ
+tagItemSkillC126Desc=Được huấn luyện trong thuật dùng thuốc dã chiến cho phép bạn xoa dịu vết thương của đồng đội xung quanh.
+
+tagItemSkillC127Name=Sét Aether
+tagItemSkillC127Desc=Sét kèm với năng lượng aether thuần khiết phóng đi từ bạn và nhảy qua nhiều kẻ địch.
+
+tagItemSkillC128Name=Con mắt của Thaddeus
+tagItemSkillC128Desc=Con mắt của Thaddeus làm lộ ra những điểm yếu dễ khai thác của kẻ thù.
+
+tagItemSkillC129Name=Đạn thiêu đốt
+tagItemSkillC129Desc=Bắn một viên đạn thiêu đốt từ khẩu súng trường thiêu cháy mọi thứ và thường bay xuyên qua người kẻ địch của bạn. ^oKích hoạt khi tấn công thường.
+
+tagItemSkillC130Name=Giao ước Tội lỗi
+tagItemSkillC130Desc=Tạo một giao ước tội lỗi với đám đệ của bạn, tăng cường mối liên kết với lực lượng bóng tối của hư không. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagItemSkillC131Name=Gai Sét
+tagItemSkillC131Desc=Một ngọn gai hình thành từ năng lượng điện mọc lên về hướng kẻ địch của bạn.
+
+tagItemSkillC132Name=Lửa lan
+tagItemSkillC132Desc=Bắn một viên đạn nổ sẽ vỡ khi va chạm trong một vụ nổ lửa lớn. ^oKích hoạt khi tấn công thường.
+
+tagItemSkillC133Name=Cơn thịnh nộ của Callidor
+tagItemSkillC133Desc=Giải phóng một vụ nổ khổng lồ năng lượng ma pháp.
+
+tagItemSkillC134Name=Myrmidon Strike
+tagItemSkillC134Desc=Tấn công kẻ địch với khiên, gây nội thương nghiêm trọng. ^oYêu cầu mang vũ khí cận chiến.
+
+tagItemSkillC135Name=Sự thanh bình của Mogdrogen
+tagItemSkillC135Desc=Hòa quyện bạn và những đồng đội xung quanh với sự thanh bình của Mogdrogen, khích lệ họ cùng đệ của họ. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagItemSkillC136Name=Sét Aether
+tagItemSkillC136Desc=Giải phóng tia sét chứa aether thuần khiết bay qua những kẻ địch của bạn.
+
+tagItemSkillC137Name=Thế lực Nguyên tố
+tagItemSkillC137Desc=Giải phóng một thần lực ma thuật của lửa và băng xoáy ra từ vị trí của bạn.
+
+tagItemSkillC138Name=Phá vỡ Lời thề
+tagItemSkillC138Desc=Khẩu Oathbreaker bắn một viên đạn nổ chứa đầy sức mạnh bóng tối. ^oKích hoạt khi đánh thường.
+
+tagItemSkillC139Name=Ngón tay Tha hóa của Aldritch
+tagItemSkillC139Desc=Nguồn năng lượng tha hóa từ cây trượng của Aldritch bất ngờ phóng tới kẻ địch của bạn.
+
+tagItemSkillM005Name=Cáu tiết
+tagItemSkillM005Desc=Bước vào trạng thái tâm thần điên loạn, lao vào kẻ địch cùng sự tàn bạo được tăng cao với cái giá phải trả là khả năng sống sót.
+
+tagItemSkillM007Name=Bộc phá Băng
+tagItemSkillM007Desc=Quăng một trái bộc phá lạnh về phía mục tiêu, bao trùm nó với băng giá trói chân.
+
+tagItemSkillM008Name=Cường hóa
+tagItemSkillM008Desc=Tăng sức tấn công của bạn với cái giá là sinh lực quý giá.
+
+tagItemSkillM012Name=Cầu Nham thạch
+tagItemSkillM012Desc=Quăng một quả cầu làm từ lửa thuần khiết sẽ vỡ tan khi gặp va chạm dù là nhỏ nhất.
+
+tagItemSkillM013Name=Nổ Độc
+tagItemSkillM013Desc=Giải phóng một loại độc dược chết người vào không khí.
+
+tagItemSkillM014Name=Cứu tinh
+tagItemSkillM014Desc=Một hơi thở của sự sống tới trong tình huống hiểm nghèo.
+
+tagItemSkillM015Name=Cơn cuồng nộ Ma pháp
+tagItemSkillM015Desc=Sức mạnh của kim cương có thể sử dụng trong những tình huống hiểm nghèo, cho phép tiếp cận nguồn năng lượng ma pháp khổng lồ.
+
+tagItemSkillM016Name=Cơn cuồng nộ Nguyên thủy
+tagItemSkillM016Desc=Sức mạnh của kim cương có thể sử dụng trong những tình huống hiểm nghèo, cho phép tiếp cận sức tấn công vật lý không thể ngăn cản.
+
+tagItemSkillM017Name=Cơn cuồng nộ Tán sắc
+tagItemSkillM017Desc=Sức mạnh của kim cương có thể sử dụng trong những tình huống hiểm nghèo, cho phép tiếp cận tiềm năng thực sự của nó.
+
+tagItemSkillD018Name=Ném Phân
+tagItemSkillD018Desc=Thò tay vào đũng quần và lấy ra một thứ nhất định sẽ khiến kẻ địch hốt hoảng.
+
+tagItemSkillD019Name=Mưa đá
+tagItemSkillD019Desc=Tạo một trận mưa đá hủy diệt trút lên khu vực chỉ định.
+
+tagItemSkillD020Name=Triệu hồi Sứ giả
+tagItemSkillD020Desc=Gọi ra Sứ giả của Salazar từ sâu thẳm của hư không. ^oSức mạnh của Sứ giả tỉ lệ với Điểm thưởng cho Đệ.
+tagItemSkillD020PetSkillName=Chướng khí Ma quái
+tagItemSkillD020PetSkillName02=Hào quang Hỗn nguyên
+tagItemSkillD020PetSkillDesc02=Sứ giả mang sự phù hộ của Hỗn nguyên tới các đồng minh.
+
+tagItemSkillD021Name=Vụ nổ Aether
+tagItemSkillD021Desc=Một vụ nổ năng lượng Aether đẩy lùi những kẻ tấn công bạn.
+
+tagItemSkillD022Name=Lửa Aether
+tagItemSkillD022Desc=Một đám lửa từ ma pháp thuần túy bùng lên dưới chân kẻ địch của bạn. ^oYêu cầu mang Trang bị ở Tay chiêu.
+
+tagItemSkillD023Name=Dòng thác Aether
+tagItemSkillD023Desc=Năng lượng ma pháp thuần túy khởi phát từ bạn rồi tuôn về phía kẻ địch.
+
+tagItemSkillD024Name=Vật dẫn Aether
+tagItemSkillD024Desc=Bạn trở thành vật dẫn cho Aether, đánh bật kẻ địch xung quanh với năng lượng ma pháp thuần túy.
+
+tagItemSkillD025Name=Đau đớn
+tagItemSkillD025Desc=Nguyền rủa kẻ địch bằng sự đau đớn, gây ra nỗi đau tột cùng đồng thời khiến chúng dễ bị tổn thương hơn.
+
+tagItemSkillD026Name=Lòng tự cao của Aldanar
+tagItemSkillD026Desc=Aldanar không phải loại người để những thứ vặt vãnh như tiết kiệm năng lượng hay quy luật của thực tại ngăn cản ông ta thi triển phép thuật.
+
+tagItemSkillD027Name=Tận thế
+tagItemSkillD027Desc=Giải phóng cơn thịnh nộ của thánh thần khi bạn xé toạc hiện tại để bung ra một trận đại hồng thủy. ^oChỉ có thể thi triển một chiêu Tận thế ở cùng một thời điểm.
+
+tagItemSkillD028Name=Tập trung Pháp lực
+tagItemSkillD028Desc=Bước vào trạng thái xuất thần. Khi sử dụng như đòn đánh mặc định của vũ khí, Tập trung Pháp lực giúp khuếch đại sức mạnh ma pháp với mỗi đòn đánh. ^oTích tụ sạc tăng hiệu lực của điểm thưởng.
+
+tagItemSkillD029Name=Tổ tiên Thịnh nộ
+tagItemSkillD029Desc=Chứng kiến cơn giận của Tổ tiên là một điều kinh khủng. Chẳng mấy người chịu được sức mạnh tàn phá của nó.
+
+tagItemSkillD030Name=Hiện thân của Ulzuin
+tagItemSkillD030Desc=Bạn để lại ngọn lửa hoang dã của Ulzuin ở mọi nơi mình đi qua.
+
+tagItemSkillD031Name=Chiến lược của Azragor
+tagItemSkillD031Desc=Học tập chiến lược của Azragor, những kĩ thuật lén lút và gây tranh cãi, nhưng không ai ngờ vực hiệu quả của nó. Hiệu ứng này sẽ được mở rộng ra đồng đội xung quanh. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagItemSkillD032Name=Bắn cánh sẻ
+tagItemSkillD032Desc=Bắn một loạt đạn từ cặp súng của bạn, ghim cả đống lỗ lên người kẻ địch. ^oĐây là một kỹ thuật sử dụng hai vũ khí tầm xa được kích hoạt khi tấn công thường. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagItemSkillD033Name=Loạt đạn
+tagItemSkillD033Desc=Bắn một loạt đạn từ cặp súng của bạn, các phát bắn được ngắm kĩ lưỡng nhằm lấy mạng kẻ địch. ^oĐây là một kỹ thuật sử dụng hai vũ khí tầm xa được kích hoạt khi tấn công thường. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagItemSkillD034Name=Tiếng gầm Chiến trận
+tagItemSkillD034Desc=Những cú đánh nhận phải khiến bạn rơi vào trạng thái điên cuồng, đồng thời khích lệ tinh thần đồng đội.
+
+tagItemSkillD035Name=Tay Gấu
+tagItemSkillD035Desc=Chẻ đôi kẻ địch như một con gấu mạnh mẽ. ^oYêu cầu mang vũ khí cận chiến hai tay.
+
+tagItemSkillD036Name=Cơn giận Thú vật
+tagItemSkillD036Desc=Mỗi khi thấy bạn trúng đòn, đệ của bạn sẽ điên cuồng báo thù.
+
+tagItemSkillD037Name=Nổ kiếm
+tagItemSkillD037Desc=Kẻ địch dám tấn công bạn sẽ phải đối mặt với cơn thịnh nộ của Amarasta.
+
+tagItemSkillD038Name=Lưỡi kiếm Korvoran
+tagItemSkillD038Desc=Ném một lưỡi kiếm được giấu trong áo khoác.
+
+tagItemSkillD039Name=Huyết nộ
+tagItemSkillD039Desc=Bị thương khiến dòng máu ma pháp trong bạn sục sôi, tăng cường sức mạnh cho những phép thuật hắc ám.
+
+tagItemSkillD040Name=Nghi thức Máu
+tagItemSkillD040Desc=Dòng máu hắc ám của Ch'thon tha hóa mọi thứ nó chạm vào, ngay cả ma pháp.
+
+tagItemSkillD041Name=Bài ca Máu
+tagItemSkillD041Desc=Bạn vung kiếm theo một giai điệu hoàn hảo, chặt và gây những vết thương sâu hơn lên những kẻ địch xung quanh.
+
+tagItemSkillD042Name=Mụn máu
+tagItemSkillD042Desc=Lời nguyền ghê tởm tạo ra một loại bệnh dịch nguy hiểm lan truyền giữa những kẻ địch.
+
+tagItemSkillD043Name=Hung bạo
+tagItemSkillD043Desc=Nghiền nát kẻ địch bằng những cú đánh hoang dã làm chúng xuất huyết.
+
+tagItemSkillD044Name=Công lý Cháy bỏng
+tagItemSkillD044Desc=Trở thành biểu tượng chống lại bóng tối khi bạn thắp sáng ngọn lửa công lý.
+
+tagItemSkillD045Name=Bùng nổ Tốc độ
+tagItemSkillD045Desc=Hạ gục kẻ địch giúp bạn tiếp thêm sinh lực, tạo đà tấn công những kẻ địch kế tiếp.
+
+tagItemSkillD046Name=Tiếng gọi Quái thú
+tagItemSkillD046Desc=Hét một tiếng hoang dại, cổ vũ tinh thần cho đệ.
+
+tagItemSkillD047Name=Gọi Bão
+tagItemSkillD047Desc=Tạo một cơn bão từ năng lượng tĩnh điện quanh bạn.
+
+tagItemSkillD048Name=Bể ăn mòn
+tagItemSkillD048Desc=Tạo một bể a-xít ghê tởm để phân hủy kẻ địch.
+
+tagItemSkillD049Name=Hỗn nguyên Bộc phát
+tagItemSkillD049Desc=Giải phóng một vụ nổ năng lượng hỗn độn lên kẻ địch.
+
+tagItemSkillD050Name=Cái lạnh hiện hữu
+tagItemSkillD050Desc=Chỉ sự hiện diện của bạn cũng đủ làm kẻ thù lạnh đến xương tủy. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagItemSkillD051Name=Khai sáng
+tagItemSkillD051Desc=Thanh tẩy tâm trí nhằm chuẩn bị cho những phép thuật cao cấp.
+
+tagItemSkillD052Name=Sức mạnh kẻ Khổng lồ
+tagItemSkillD052Desc=Sự thành thạo kĩ năng chiến đấu với khiên đã tôi luyện bạn thành một thứ vũ khí chết chóc không thể ngăn cản. ^oĐây là nội tại đặc biệt của khiên.
+
+tagItemSkillD053Name=Gọi Black Scourge
+tagItemSkillD053Desc=Sự đồ sát vô độ của bạn vang vọng đến hư không.
+tagItemSkillD053_Pet01=Đỉnh điểm Hỗn loạn
+
+tagItemSkillD054Name=Mắt Vệ thần
+tagItemSkillD054Desc=Triệu hồi một trong vô số con mắt của Dreeg để bảo vệ bản thân với vòng khiên gai. ^oCon mắt tỉ lệ với lượng sát thương cộng thêm của người chơi.
+tagItemSkillD054_Pet01=Gai độc
+
+tagItemSkillD055Name=Ám nhãn Dreeg
+tagItemSkillD055Desc=Phóng thích một lúc ba con mắt ám ảnh của Dreeg để săn tìm kẻ địch trước khi phát nổ thành một bãi nhầy và độc. ^oÁm nhãn Dreeg tỉ lệ với lượng sát thương cộng thêm của người chơi.
+tagItemSkillD055_Pet01=Độc chất Phun trào
+
+tagItemSkillD056Name=Điềm báo Chết chóc
+tagItemSkillD056Desc=Cắm xuống một lá cờ đánh dấu cuộc viễn chinh. Đứng gần lá cờ sẽ truyển cảm hứng cho bạn và đồng minh.
+tagItemSkillD056_Pet01=Lá cờ hồi phục
+tagItemSkillD056_Pet01Desc=Chiến đấu gần lá cờ sẽ truyển cảm hứng cho bạn.
+
+tagItemSkillD057Name=Hỗn mang Quy hồi
+tagItemSkillD057Desc=Kêu gọi đến nơi hư không và triệu hồi đồng minh nham hiểm chiến đấu cho bạn cho đến khi nơi hư không kêu gọi trở về. ^oĐồng minh tỉ lệ với quái triệu hồi cộng thêm.
+tagItemSkillD057_Pet01=Lửa hỗn loạn
+
+tagItemSkillD058Name=Linh hồn Sống dậy
+tagItemSkillD058Desc=Sử dụng năng lượng từ kẻ địch vừa giết nhằm triệu hồi một linh hồn đày đọa để giúp đỡ bạn. ^oLinh hồn tỉ lệ với điểm cộng thêm cho Đệ.
+tagItemSkillD058_Pet01=Tiếp xúc ma quái
+
+tagItemSkillD059Name=Agrivix Nuốt chửng
+tagItemSkillD059Desc=Agrivix khét tiếng vì khả năng vượt qua cả giới hạn của Aether, cho đến khi người ta phát hiện ra hắn ta đã giở trò bằng sức mạnh của Hư không. Một trong những cấm thuật của hắn gồm bùng cháy không khí xung quanh bạn với hỏa năng.
+
+tagItemSkillD060Name=Lây Nhiễm
+tagItemSkillD060Desc=Kẻ địch tấn công bạn sẽ bị nhiễm với loại bệnh lây truyền chết người và tiếp tục lây lan bên trong chủ thể.
+
+tagItemSkillD061Name=Ác Mộng Đen
+tagItemSkillD061Desc=Nhồi nhét đầu óc của kẻ địch gần đó với những giấc mộng rợn người về cái chết sắp đến của chúng.
+
+tagItemSkillD062Name=Hắc Hỏa
+tagItemSkillD062Desc=Đánh dấu kẻ địch với ngọn lửa màu đen nhằm làm yếu đi ý chí kẻ địch.
+
+tagItemSkillD063Name=Hừng Đông
+tagItemSkillD063Desc=Làm mù kẻ địch với sự xuất hiện chói lòa của bạn.
+
+tagItemSkillD064Name=Đoạt mạng
+tagItemSkillD064Desc=Nhận sức mạnh từ những linh hồn bạn đoạt lấy.
+
+tagItemSkillD065Name=Rìu Xé xác
+tagItemSkillD065Desc=Tấn công với cây rìu bén, chặt xuyên qua lớp áo giáp và da thịt.
+
+tagItemSkillD066Name=Móng vuốt Khiếp đảm
+tagItemSkillD066Desc=Tấn công với móng vuốt khiếp đảm, cào xuyên qua những kẻ thù ở gần. 
+
+tagItemSkillD067Name=Bảo hộ của kẻ diệt quỷ
+tagItemSkillD067Desc=Cường hóa lớp phòng thủ trước sự hung hãn của Hư không
+
+tagItemSkillD068Name=Tuyệt vọng
+tagItemSkillD068Desc=Nhồi nhét kẻ thù với sự tuyệt vọng, để chúng vô dụng trước bạn.
+
+tagItemSkillD069Name=Lồng quỷ
+tagItemSkillD069Desc=Bẫy kẻ thù trong nhà tù bằng hắc diện thạch tinh khiết.
+
+tagItemSkillD070Name=Sự lan tỏa của quỷ
+tagItemSkillD070Desc=Bắn ba tia lửa địa ngục vào kẻ thù.
+
+tagItemSkillD071Name=Nuốt chửng
+tagItemSkillD071Desc=Khi đánh đòn chí mạng, nuốt chửng một phần sinh khí của kẻ địch.
+
+tagItemSkillD072Name=Sự tôn sùng Dreeg
+tagItemSkillD072Desc=Lan truyền lời nói của Dreeg đến với bất kì ai sẽ nghe, gia tăng sức mạnh độc tố của đồng minh. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD073Name=Móng vuốt Đại sói
+tagItemSkillD073Desc=Chém kẻ thù với kĩ thuật lưỡi cắt đầy nguy hiểm tái hiện lại cú quào của loài sói vĩ đại . ^oĐây là kĩ thuật cận chiến sử dụng hai tay được kích hoạt khi đánh thường. Ngoài ra cũng kích hoạt khả năng để sử dụng vũ khí cận chiến bằng hai tay.
+
+tagItemSkillD074Name=Hộ mệnh
+tagItemSkillD074Desc=Soi sáng đồng minh với ánh sáng thần thánh, bảo vệ họ khỏi bóng tối của Hư không. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD075Name=Thánh quang
+tagItemSkillD075Desc=Ánh sáng bừng lên bên trong bạn mỗi khi gặp nạn, giúp bạn tiếp tục chiến đấu khi mọi thứ gần như vô vọng.
+
+tagItemSkillD076Name=Uy quyền
+tagItemSkillD076Desc=Áp đặt sự uy quyền của bạn lên kẻ địch trong một phạm vi nhất định, làm tan vỡ tinh thần của kẻ yếu và buộc chúng phải chiến đấu cho bạn.
+
+tagItemSkillD077Name=Mệnh lệnh của Dreeg
+tagItemSkillD077Desc=Sự hiện diện chỉ huy của Dreeg lấp đầy bạn khi bị đe dọa, cho phép sử dụng pháp thuật liên tục.
+
+tagItemSkillD078Name=Song súng đấu sĩ
+tagItemSkillD078Desc=Sự thuần thục của chiến đấu song súng đã biến bạn thành một vũ khí chết người. Bạn có thể bắn hai súng cùng một lúc với hầu như không khó khăn gì, và đến mức nguy hiểm chết người.
+
+tagItemSkillD079Name=Nguyên tố Bùng nổ
+tagItemSkillD079Desc=Một vụ nổ nguyên tố phát ra từ bạn, đẩy lùi tất cả kẻ địch xung quanh.
+
+tagItemSkillD080Name=Nguyên tố Niêm phong
+tagItemSkillD080Desc=Tạo ra một phong ấn phép thuật trên mặt đất với sức mạnh hủy diệt.
+
+tagItemSkillD081Name=Bùng cháy
+tagItemSkillD081Desc=Tấn công kẻ địch với năng lượng lửa đốt cháy toàn bộ cơ thể của chúng.
+
+tagItemSkillD082Name=Đầu độc
+tagItemSkillD082Desc=Một đòn tấn công được tính toán trước sẽ giải phóng chất độc nằm trong những cái móng vuốt.
+
+tagItemSkillD083Name=Ám ảnh vĩnh cữu
+tagItemSkillD083Desc=Tạo ra một cơn hành hạ đầy ám ảnh lên kẻ địch mà có thể lan truyền đến những kẻ thù xung quanh.
+
+tagItemSkillD084Name=Loại bỏ
+tagItemSkillD084Desc=Kết thúc kẻ địch bằng một phát bắn được nhắm kĩ lưỡng.
+
+tagItemSkillD085Name=Phai mờ khỏi thực tại
+tagItemSkillD085Desc=Khi kẻ địch gây đòn tấn công chí mạng, bản chất bảo vệ của áo choàng sẽ làm bạn phai mờ dần khỏi thế giới vật chất để bạn có thể hồi phục. ^oYêu cầu Caster ở tay phụ.
+
+tagItemSkillD086Name=Trời sập
+tagItemSkillD086Desc=Bầu trời vỡ vụn với sức mạnh hủy diệt của một cơn mưa sao băng đổ sập xuống kẻ địch.
+
+tagItemSkillD087Name=Đại tiệc linh hồn
+tagItemSkillD087Desc=Thưởng thức linh hồn của kẻ địch cạnh bên, phục hồi linh hồn của bản thân.
+
+tagItemSkillD088Name=Da thịt của quỷ
+tagItemSkillD088Desc=Da thịt của quỷ bảo vệ bạn khỏi hiểm nguy.
+
+tagItemSkillD089Name=Chủ nhân của quỷ
+tagItemSkillD089Desc=Áp đặt ý nguyện của bản thân lên tất cả lính của bạn, và của đồng minh. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD090Name=Khát vọng của quỷ
+tagItemSkillD090Desc=Quyển đi thư quỷ lấp đầy bạn với khát vọng, cho phép bạn tiếp tục chiến đấu.
+
+tagItemSkillD091Name=Điểm dừng cuối cùng
+tagItemSkillD091Desc=Đâm thủng kẻ địch với gai trên chiếc khiên của bạn. ^oYêu cầu mang vũ khí cận chiến.
+
+tagItemSkillD092Name=Lửa và nham thạch
+tagItemSkillD092Desc=Được trao sức mạnh hủy diệt của lửa và nham thạch.
+
+tagItemSkillD093Name=Mưa lửa
+tagItemSkillD093Desc=Lửa mưa xuống từ thiên đàng, thiêu cháy kẻ địch.
+
+tagItemSkillD094Name=Sóng lửa
+tagItemSkillD094Desc=Tạo ra một làn sóng lửa xông về phía trước tàn phá mọi thứ trên đường đi.
+
+tagItemSkillD095Name=Hơi thở của lửa
+tagItemSkillD095Desc=Mặt nạ cho phép bạn thở lửa.
+
+tagItemSkillD096Name=Thiên thần Phán xét
+tagItemSkillD096Desc=Sấm sét liên tục tấn công vào kẻ địch cạnh bên, sốc điện chúng.
+
+tagItemSkillD097Name=Khói độc
+tagItemSkillD097Desc=Tạo ra một đám mây khí độc, gây ngạt thở tất cả những kẻ bên trong đám mây đó.
+
+tagItemSkillD098Name=Beronath Trừng mắt 
+tagItemSkillD098Desc=Cái trừng mắt đáng sợ của Beronath hóa kẻ địch thành đá.
+
+tagItemSkillD099Name=Cổ tự của Kelphat'Zoth
+tagItemSkillD099Desc=Cổ tự của Kelphat'Zoth trao cho bạn và lính của bạn sức mạnh của  một cơn bão.
+
+tagItemSkillD100Name=Sắt đá
+tagItemSkillD100Desc=Lớp da của bạn trở thành đá, gần như không thể xuyên thủng bởi các đòn tấn công vật lý.
+
+tagItemSkillD101Name=Sóng thần
+tagItemSkillD101Desc=Tạo một cơn sóng thần quét sạch kẻ địch, với mỗi phần của Leviathan sử dụng nước với mỗi đòn.
+
+tagItemSkillD102Name=Số phận khổ cực
+tagItemSkillD102Desc=Biến những mảnh xác của kẻ địch thành một vụ nổ kinh hoàng.
+
+tagItemSkillD103Name=Tan vỡ mặt đất
+tagItemSkillD103Desc=Đập vỡ mặt đất với đôi hài, tan vỡ mặt đất và làm cho kẻ địch bị choáng.
+
+tagItemSkillD104Name=Xuất huyết
+tagItemSkillD104Desc=Cái tên Xuất huyết được biết đến nhờ khả năng gây hiệu ứng chảy máu cho đối phương kể cả khi đòn đánh ban đầu không gây nguy hiểm.
+
+tagItemSkillD105Name=Kẻ Săn thưởng
+tagItemSkillD105Desc=Không gì có thể ngăn cản được Kẻ săn thưởng đạt được phần thưởng của hắn.
+
+tagItemSkillD106Name=Dấu ấn Săn thưởng
+tagItemSkillD106Desc=Đánh dấu kẻ địch với Dấu ấn săn thưởng, một phép thuật nguy hiểm lan đến những kẻ địch cạnh bên.
+
+tagItemSkillD107Name=Mục tiêu săn thưởng
+tagItemSkillD107Desc=Kẻ săn thưởng là một kẻ thuần thục kĩ năng chiến đấu tầm xa, nói đến việc sử dụng một cây nỏ để hạ gục kẻ địch ở tầm xa. ^oĐây là nội tại đặc biệt của vũ khí hai tay tầm xa.
+
+tagItemSkillD108Name=Hơi thở của Kẻ săn thưởng
+tagItemSkillD108Desc=Kẻ săn thưởng nổi tiếng nhờ khả năng kết hợp sức mạnh chết người của vũ khí tầm xa với phép thuật. ^oĐây là nội tại đặc biệt của vũ khí hai tay tầm xa.
+
+tagItemSkillD109Name=Tàn phá
+tagItemSkillD109Desc=Tàn phá kẻ địch bằng những làn mưa đạn.
+
+tagItemSkillD110Name=Gió Hồi phục
+tagItemSkillD110Desc=Triệu hồi những cơn gió từ suối nguồn vĩnh cữu để chữa lành vết thương.
+
+tagItemSkillD111Name=Trái tim của vua Băng
+tagItemSkillD111Desc=Vua Băng là một người man rợ, không chỉ là người lãnh đạo, là người đã dũng mãnh bảo vệ quê nhà kề bên với chú Sói trắng trung thành, sinh vật mà ông ấy gọi là Cha. Linh hồn của vị vua băng hà này vần còn ẩn sâu bên trong thanh gươm của ông ấy. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD112Name=Phép thuật quỷ dữ
+tagItemSkillD112Desc=Nhờ vào sự tiêu diệt kẻ địch gần nhất, Đệ của bạn được nhận phép thuật bóng tối.
+
+tagItemSkillD113Name=Bầy đàn đói khát
+tagItemSkillD113Desc=Thả một bầy côn trùng đói khát cấu xé kẻ địch thành nhiều mảnh.
+
+tagItemSkillD114Name=Ngôi sao băng hà
+tagItemSkillD114Desc=Giải thoát một luồng năng lượng lạnh giá lên kẻ địch xung quanh.
+
+tagItemSkillD115Name=Buốt giá
+tagItemSkillD115Desc=Với mức tập trung cao độ, bạn hấp thụ tất cả nhiệt xung quanh , làm lạnh và gây đóng băng kẻ địch.
+
+tagItemSkillD116Name=Gai băng
+tagItemSkillD116Desc=Phóng ra một loạt gai băng sắc nhọn.
+
+tagItemSkillD117Name=Cơn thịnh nộ của pháp sư
+tagItemSkillD117Desc=Đánh dấu kẻ địch với dấu ấn ma thuật khiến cho chúng tổn thương trước đòn tấn công ma thuật của bạn.
+
+tagItemSkillD118Name=Bí mật của pháp sư
+tagItemSkillD118Desc=Sự thuần thục pháp thuật của pháp sư đã hình thành nhiều chiêu thức quái lạ, bao gồm cả thủ thuật nhỏ giúp cho pháp sư ngăn cản kẻ địch lại gần . ^oYêu cầu Caster ở tay phụ.
+
+tagItemSkillD119Name=Sự phòng thủ của Iskandra
+tagItemSkillD119Desc=Iskandra là bậc thầy của sự linh hoạt, biến vũ khí cận chiến thành gậy pháp thuật. Sự hòa hợp lạ thường đối với chiến đấu cận chiến yêu cầu cần phải có sự phòng thủ chắc chắn.
+
+tagItemSkillD120Name=Sự thống nhất của Iskandra
+tagItemSkillD120Desc=Iskandra thuần thục tất cả các dạng ma thuật. Sự thuần thục này được lan truyền khắp đồng minh. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD121Name=Ma pháp Iskandra
+tagItemSkillD121Desc=Khi bắt đầu chiến đấu, Iskandra biến vũ khí của cô ấy thành gậy phép thuật. ^oYêu cầu vũ khí cận chiến.
+
+tagItemSkillD122Name=Hút sinh lực
+tagItemSkillD122Desc=Hút đi sinh lực của những kẻ địch cạnh bên bằng kĩ thuật cận chiến điệu nghệ. ^oYêu cầu vũ khí cận chiến.
+
+tagItemSkillD123Name=Sóng Linh hồn
+tagItemSkillD123Desc=Phóng ra làn sóng những linh hồn bị đày đọa làm yếu đi sinh lực của kẻ địch.
+
+tagItemSkillD124Name=Sấm Sét
+tagItemSkillD124Desc=Một chút thịnh nộ của Ultos xé toạc bầu trời làm sốc điện kẻ địch.
+
+tagItemSkillD125Name=Chuỗi Sét
+tagItemSkillD125Desc=Một lượng lớn năng lượng điện phát ra từ bạn, đổ sập lan xuống nhiều kẻ địch.
+
+tagItemSkillD126Name=Sét Tân tinh
+tagItemSkillD126Desc=Năng lượng sét lan truyền khắp cơ thể bạn trước khi bùng phát một vụ nổ cực đại.
+
+tagItemSkillD127Name=Sét nổ
+tagItemSkillD127Desc=Năng lượng tích tụ bên trong cơ thể trước khi bùng nổ thành những quả cầu điện.
+
+tagItemSkillD128Name=Dấu ấn Ch'thon
+tagItemSkillD128Desc=Nguyền rủa kẻ địch với dấu ấn sức mạnh chết chóc từ tất cả những ác mộng của Hư không.
+
+tagItemSkillD129Name=Tử ấn
+tagItemSkillD129Desc=Đánh dấu kẻ địch với một cái chết bất đắc kì tử.
+
+tagItemSkillD130Name=Dấu ấn lừa dối
+tagItemSkillD130Desc=Đánh dấu kẻ địch với lời nguyền gây suy nhược các giác quan.
+
+tagItemSkillD131Name=Dấu ấn người đã chết
+tagItemSkillD131Desc=Đánh dấu kẻ địch với sự đày đọa của người chết, làm yếu đi thể trạng của chúng ở thế giới vật chất.
+
+tagItemSkillD132Name=Phong ấn Mãng xà
+tagItemSkillD132Desc=Gia tăng sức mạnh của lính với quyền năng của loài Mãng xà huyền bí.
+
+tagItemSkillD133Name=Sự tỉnh táo của Markovian
+tagItemSkillD133Desc=Markovian luôn luôn cảnh giác với môi trường xung quanh, không bao giờ bị bắt gặp và luôn sẵn sáng để tấn công.
+
+tagItemSkillD134Name=Tường thành Markovian
+tagItemSkillD134Desc=Thế phòng thủ của Markovian được ví như một bức tường thành, một lá chắn không thể xuyên phá giúp hắn có thể trốn thoát an toàn.
+
+tagItemSkillD135Name=Uy quyền
+tagItemSkillD135Desc=Sự thuần thục kĩ năng chiến đấu đã cho bạn khả năng tìm kiếm điểm yếu của đối phương và tận dụng nó.
+
+tagItemSkillD136Name=Tường thịt
+tagItemSkillD136Desc=Gia tăng sức mạnh bởi năng lượng chết chóc được dùng bởi sự hình thành của cái khiên.
+
+tagItemSkillD137Name=Nhân từ
+tagItemSkillD137Desc=Vào thời khắc đen tối nhất, nhận được sự nhân từ từ các vị thần.
+
+tagItemSkillD138Name=Thiên thạch
+tagItemSkillD138Desc=Xé thủng ranh giới mỏng manh giữa địa ngục và trần gian khi bạn triệu hồi một cục đá lửa khổng lồ rơi xuống kẻ địch.
+
+tagItemSkillD139Name=Sức mạnh của Beronath
+tagItemSkillD139Desc=Tập trung sức mạnh của quái vật uy mãnh Beronath, chuyển cả sức mạnh ma thuật của bạn thành những cú đánh vật lý chết người.
+
+tagItemSkillD140Name=Bẻ cong thực tại
+tagItemSkillD140Desc=Bất thình lình bẻ cong thực tại, chuyển hóa một phần sức mạnh vật lý thành thành sức mạnh ma thuật tàn phá.
+
+tagItemSkillD141Name=Tỉnh ngộ
+tagItemSkillD141Desc=Bước vào trạng thái mê man của sự tỉnh ngộ và tâm trí của bạn được mở mang vô tận khả năng pháp thuật.
+
+tagItemSkillD142Name=Ánh trăng
+tagItemSkillD142Desc=Đánh dấu kẻ địch với ánh sáng của mặt trăng đỏ, làm lộ điểm yếu của chúng.
+
+tagItemSkillD143Name=Sợi chỉ sinh mệnh
+tagItemSkillD143Desc=Thu hoạch sợi chỉ sinh mệnh của kẻ địch, chuyển hóa sức sống của chúng thành của riêng bản thân.
+
+tagItemSkillD144Name=Cơn báo thù của Nidalla
+tagItemSkillD144Desc=Kẻ địch dám tấn công bạn sẽ bị nhiễm chất độc đậm chất Nidalla vào trong mạch máu của chúng.
+
+tagItemSkillD145Name=Hắc độc tố
+tagItemSkillD145Desc=Phóng thích chất độc ẩn sâu bên trong thanh gươm nhằm hóa da thịt thành đá.
+
+tagItemSkillD146Name=Tận diệt
+tagItemSkillD146Desc=Giải phóng chùm tia ma pháp hủy diệt mọi thứ nó chạm vào, xuyên thủng mọi kẻ địch và xóa sổ chúng khỏi thực tại.
+
+tagItemSkillD147Name=Cơn nứt hắc thạch
+tagItemSkillD147Desc=Làm tan vỡ ranh giới giữa Hư không và thế giới vật chất bằng những cái gai hắc thạch xuyên thủng mặt đất.
+
+tagItemSkillD148Name=Sự buốt giá của Olexra
+tagItemSkillD148Desc=Tập trung sức mạnh thành một vụ nổ năng lượng băng làm đóng băng kẻ địch.
+
+tagItemSkillD149Name=Đại dịch Hao mòn
+tagItemSkillD149Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm hút đi sinh lực và lan truyền nhanh chóng.
+
+tagItemSkillD150Name=Đại dịch Suy tàn
+tagItemSkillD150Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây bấn loạn và lan truyền nhanh chóng.
+
+tagItemSkillD151Name=Đại dịch của Dreeg
+tagItemSkillD151Desc=Giải phóng thành tựu vĩ đại của Đại bậc thầy phù thủy, đại dịch thứ chín, một dịch bệnh hiểm độc khiến cho kẻ địch sụp đổ hoàn toàn.
+
+tagItemSkillD152Name=Đại dịch Kiệt quệ
+tagItemSkillD152Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây gây kiệt quệ và lan truyền nhanh chóng.
+
+tagItemSkillD153Name=Đại dịch Thối rữa
+tagItemSkillD153Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây nhiễm độc tố và lan truyền nhanh chóng.
+
+tagItemSkillD154Name=Đại dịch Rỉ sét
+tagItemSkillD154Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây ăn mòn áo giáp và lan truyền nhanh chóng.
+
+tagItemSkillD155Name=Đại dịch Tan vỡ Linh hồn
+tagItemSkillD155Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây hao mòn linh hồn và lan truyền nhanh chóng.
+
+tagItemSkillD156Name=Đại dịch Kinh hãi
+tagItemSkillD156Desc=Giải phóng một trong bảy đại dịch của Dreeg, một căn bệnh truyền nhiễm gây kích thích nỗi sợ và lan truyền nhanh chóng.
+
+tagItemSkillD157Name=Rào chắn trụ cột
+tagItemSkillD157Desc=Rào chắn cổ ngữ hình thành xung quanh bạn, bảo vệ bạn khỏi mọi hiểm nguy.
+
+tagItemSkillD158Name=Bùng nổ
+tagItemSkillD158Desc=Phóng thích sự bùng nổ từ cây súng. ^oĐây là kĩ thuật cầm hai vũ khí tầm xa hoặc vũ khí cầm hai tay được kích hoạt từ đánh thường. Ngoài ra cũng kích hoạt cầm hai tay vũ khí tầm xa.
+
+tagItemSkillD159Name=Dấu ấn Tử thần
+tagItemSkillD159Desc=Đánh đấu đối phương với một cái chết nhanh chóng và đầy đau đớn.
+
+tagItemSkillD160Name=Dậm nát
+tagItemSkillD160Desc=Đè nát kẻ địch với đòn tấn công tương đương sức mạnh của người Khổng lồ.
+
+tagItemSkillD161Name=Sao chép
+tagItemSkillD161Desc=Tài năng sao chép ma thuật của Panetti trở năng mạnh mẽ hơn khi hắn ở những trong những tình huống khẩn cấp. ^oYêu cầu Caster ở tay phụ.
+
+tagItemSkillD162Name=Trừng phạt
+tagItemSkillD162Desc=Khiêu khích kẻ địch cạnh bên với luồng sóng điện phóng ra từ chiếc khiên. ^oYêu cầu có khiên.
+
+tagItemSkillD163Name=Vui sướng trong cái chết
+tagItemSkillD163Desc=Vui sướng trong cuộc thảm sát bạn gây ra, thưởng thức những vũng máu đã đổ xuống.
+
+tagItemSkillD164Name=Chân lí
+tagItemSkillD164Desc=Tôi rèn bản thân mỗi khi hạ gục kẻ địch, vì bạn không thể biết trước khi nào ma quỷ của Hư không sẽ tấn cong.
+
+tagItemSkillD165Name=Vòng lửa
+tagItemSkillD165Desc=Trở nên bao bọc với vòng lửa vô hại đối bản thân và không thể tiếp cận được bởi kẻ địch.
+
+tagItemSkillD166Name=Vòng thép
+tagItemSkillD166Desc=Trong chớp mắt, hàng trăm thanh gươm ma bay xung quanh bạn với tốc độ khủng khiếp, hạ gục kẻ địch cạnh bên.
+
+tagItemSkillD167Name=Sự cân băng thiêng liêng
+tagItemSkillD167Desc=Đánh vào sự cân bằng giữa ánh sáng và bóng tối trước khi giải phóng năng lượng của chúng vào kẻ địch kề bên.
+
+tagItemSkillD168Name=Tiếng than của Aether
+tagItemSkillD168Desc=Tiếng khóc của Aether phát ra từ bạn, gây sợ hãi kẻ địch kề bên.
+
+tagItemSkillD169Name=Niêm phong số phận
+tagItemSkillD169Desc=Niêm phong số phận của kẻ địch, chắc chắn về phán xét của bạn về chúng.
+
+tagItemSkillD170Name=Bí mật Vệ thần
+tagItemSkillD170Desc=Những bí mật của Dreeg được phơi bày cho bạn, đe dọa sự tỉnh táo của bạn nhưng cũng gia tăng sức mạnh ma thuật của bạn.
+
+tagItemSkillD171Name=Hắc sấm
+tagItemSkillD171Desc=Phóng ra tia sét bóng tối vào kẻ địch.
+
+tagItemSkillD172Name=Hắc hỏa
+tagItemSkillD172Desc=Cường hóa vũ khí với hắc hỏa phóng ra một loạt mưa đạn. ^oYêu cầu vũ khí hai tay tầm xa và được kích hoạt từ đòn đánh thường.
+
+tagItemSkillD173Name=Ánh sáng huy hoàng
+tagItemSkillD173Desc=Sự huy hoàng của phần giáp quần tuyệt quá sức chịu đựng.
+
+tagItemSkillD174Name=Phá vỡ vòng vây
+tagItemSkillD174Desc=Phá tan hàng ngũ kẻ địch khi mặt đất run rẩy và vỡ vụn ngay dưới chân chúng.
+
+tagItemSkillD175Name=Cổ ấn hao mòn
+tagItemSkillD175Desc=Tạo ra phong ấn cổ thuật trên mặt đất hút đi linh lực của kẻ thù nằm trong phạm vi hiệu ứng, chuyển hóa một phần sát thương gây ra thành máu cho bản thân.
+
+tagItemSkillD176Name=Trang bị thần thánh
+tagItemSkillD176Desc=Trang bị bản thân và đồng minh trước ma quỷ của Hư không. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD177Name=Lưỡi kiếm hủy diệt
+tagItemSkillD177Desc=Phóng ra một cặp lưỡi kiếm xoay vòng chặt đứt bọn ma quỷ.
+
+tagItemSkillD178Name=Giếng hồn
+tagItemSkillD178Desc=Mở ra cánh cổng đến nơi vô cùng, phóng thích bầy đàn oan hồn xé tan bất kì kẻ nào dám bước vào.
+
+tagItemSkillD179Name=Bậc tối cao
+tagItemSkillD179Desc=Áp đặt sự tối cao của bản thân lên đám lính, trao chúng sức mạnh không tưởng.
+
+tagItemSkillD180Name=Lóe sáng của Ultos
+tagItemSkillD180Desc=Một chút lóe sáng của Ultos tăng cường sức mạnh của bạn và lính của bạn với một phần sức mạnh chúa trời. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD181Name=Tách đôi mặt đất
+tagItemSkillD181Desc=Cắt đôi mặt thành hai, tạo ra vế nứt đầy chông gai.
+
+tagItemSkillD182Name=Bão tố
+tagItemSkillD182Desc=Trích lấy một phần sức mạnh của bão tố, giải phóng cơn bão sét xuống kẻ địch.
+
+tagItemSkillD183Name=Thần Bão tố
+tagItemSkillD183Desc=Trở nên tràn ngập với sức mạnh sấm sét, sốc điện bất kì ai đứng gần.
+
+tagItemSkillD184Name=Bản năng sinh tồn
+tagItemSkillD184Desc=Chạy là thượng sách. Với luồng năng lượng adrenaline, lập tức tạo khoảng cách đối với kẻ địch.
+
+tagItemSkillD185Name=Ngưng đọng
+tagItemSkillD185Desc=Bẻ cong thời gian, tạo ra khu vực mà kẻ địch không thể di chuyển.
+
+tagItemSkillD186Name=Giáp gai
+tagItemSkillD186Desc=Trở nên bất khả xâm phạm với một lớp lá chắn gai bao bọc xung quanh bản thân.
+
+tagItemSkillD187Name=Trí thông minh
+tagItemSkillD187Desc=Trí thông minh của bạn giúp bạn vượt qua hoàn cảnh khó khăn nhất.
+
+tagItemSkillD188Name=Sức mạnh Titan
+tagItemSkillD188Desc=Sử dụng vũ khí to lớn dễ dàng, sự thử thách cho sức cường tráng của bản thân. ^oĐây là nội tại đặc biệt của vũ khí cầm hai tay cận chiến.
+
+tagItemSkillD189Name=Thanh tẩy
+tagItemSkillD189Desc=Chữa lành nỗi đau và vết thương của đồng minh.
+
+tagItemSkillD190Name=Thu thập linh hồn
+tagItemSkillD190Desc=Thu thập linh hồn của kẻ địch đã bại để hồi phục sức mạnh.
+
+tagItemSkillD191Name=Ảo đạn
+tagItemSkillD191Desc=Với đường ngắm cẩn thận và một chút may mắn, thực hiện phát bắn không tưởng gây bất ngờ đối phương.
+
+tagItemSkillD192Name=Cơn thịnh nộ của Ultos
+tagItemSkillD192Desc=Giải phóng cơn thịnh nộ của Ultos lên chiến trường dưới dạng một cơn bão sấm.
+
+tagItemSkillD193Name=Ngọn lửa Ulzuin
+tagItemSkillD193Desc=Bao trùm kẻ địch với ngọn lửa hoang dại của Ulzuin, lan nhanh đến điên cuồng đến kẻ địch cạnh bên nhằm nhấn chìm cả thế giới trong biển lửa.
+
+tagItemSkillD194Name=Cơn cuồng nộ
+tagItemSkillD194Desc=Trở nên phẫn nộ, từ bỏ phòng thủ bù đắp với sức mạnh không ngăn cản.
+
+tagItemSkillD195Name=Đảo ngược
+tagItemSkillD195Desc=Phanh phui sự tồn tại của kẻ địch với ma thuật kiệt quệ.
+
+tagItemSkillD196Name=Bất khả xâm phạm
+tagItemSkillD196Desc=Chiếc khiên trở nên không thể đâm thủng.
+
+tagItemSkillD197Name=Khát máu
+tagItemSkillD197Desc=Cơn khát máu trở nên không thể ngừng được, nhưng cơn thèm khát này hút đi sinh lực của kẻ địch kèm theo cái giá rất đắt.
+
+tagItemSkillD198Name=Sự báo thù của Cairn
+tagItemSkillD198Desc=Trở thành hiện thân của sự báo thù của nhân loại, thúc giục đồng minh chiến đấu bằng mọi giá. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD199Name=Roi độc
+tagItemSkillD199Desc=Quất roi với tốc độ nhanh kinh khủng, như con rắn độc săn mồi. Đối phương sẽ không nhận ra rằng chất độc đang ngấm vào máu.
+
+tagItemSkillD200Name=Nọc độc của Matriarch Đen
+tagItemSkillD200Desc=Tiêm nọc độc chết người của Matriarch Đen vào kẻ địch.
+
+tagItemSkillD201Name=Gai độc
+tagItemSkillD201Desc=Gai độc hình thành khắp cơ thể, đâm thủng kẻ địch.
+
+tagItemSkillD202Name=Rỉ máu
+tagItemSkillD202Desc=Gây nhiễm dco659 máu kẻ địch, tạo vết thương hở chảy máu không ngừng. Sự mất máu đột ngột có thể gây kiệt quệ.
+
+tagItemSkillD203Name=Hút máu
+tagItemSkillD203Desc=Một luồng năng lượng chết chóc hút đi sinh lực từ kẻ thù cạnh bên và truyền về cho bạn.
+
+tagItemSkillD204Name=Lữ khách hư không
+tagItemSkillD204Desc=Trở nên kháng hiệu ứng đối với Hư không, hình thành chiếc khiên mỗi khi bị tấn công bởi ma quỷ sử dụng phép thuật.
+
+tagItemSkillD205Name=Sự bảo vệ của Gul'Amash
+tagItemSkillD205Desc=Sự bảo vệ của Gul'Amash che chắn bạn khỏi sát thương khi bị tấn công bởi đòn đánh vật lý.
+
+tagItemSkillD206Name=Sự bảo vệ ảo ảnh
+tagItemSkillD206Desc=Tạo ra vùng hiệu ứng ảo ảnh xung quanh bản thân và đồng minh gây xao nhãng kẻ địch. ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD207Name=Lửa kiệt quệ
+tagItemSkillD207Desc=Thiêu cháy kẻ địch với ngọn lửa thiên đàng, làm yếu chúng trước những đòn tấn công ma thuật.
+
+tagItemSkillD208Name=Cuồng dại
+tagItemSkillD208Desc=Di sản cuồng dại của bạn khiến bạn trở nên điên cuồng.
+
+tagItemSkillD209Name=Dây leo hoang dã
+tagItemSkillD209Desc=Dây leo mọc liên tục khắp kẻ địch, trói chân và gây những vết thương sâu.
+
+tagItemSkillD210Name=Ý chí sống còn
+tagItemSkillD210Desc=Ý chí sống còn khiến cho bạn khó bị giết hơn khi cận kề cái chết.
+
+tagItemSkillD211Name=Lả lướt
+tagItemSkillD211Desc=Trở nên như cơn gió, nhanh nhẹn và khó để xác định vị trí.
+
+tagItemSkillD212Name=Màng băng
+tagItemSkillD212Desc=Những quả cầu gai băng xoay quanh bản thân với gió lốc buốt giá.
+
+tagItemSkillD213Name=Hỏa pháp
+tagItemSkillD213Desc=Bộc phát từ cơ thể một ngọn lửa bùng cháy.
+
+tagItemSkillD214Name=Thời khắc ma thuật
+tagItemSkillD214Desc=Thời khắc ma thuật đã điểm, gia tăng sức mạnh cho lính và ma pháp vủa bản thân.
+
+tagItemSkillD215Name=Bước chân mờ ảo
+tagItemSkillD215Desc=Bước qua tấm màn để được thành như người chết, gần như không cảm nhận được thế giới vật cất xung quanh.
+
+tagItemSkillD216Name=Cơn cuồng nộ của người chết
+tagItemSkillD216Desc=Giải phóng cơn báo thù của kẻ bị giết gần nhất vào kẻ địch.
+
+tagItemSkillD217Name=Hơi thở Rồng băng
+tagItemSkillD217Desc=Phóng ra hơi thở của loài Rồng băng vĩ đại vào kẻ địch.
+
+tagItemSkillD218Name=Hơi thở Rồng lửa
+tagItemSkillD218Desc=Phóng ra hơi thở của loài Rồng lửa vĩ đại vào kẻ địch.
+
+tagItemSkillD219Name=Vảy rồng
+tagItemSkillD219Desc=Những chiếc vảy rồng bảo vệ bạn khỏi tổn thương.
+
+tagItemSkillD220Name=Cơn báo thù của Zolhan
+tagItemSkillD220Desc=Zolhan là bậc thầy trong việc khiến cho đối phương hụt hẫng. Ngay khi chúng nghĩ rằng đã có lợi thế, hắn sẽ phản công lại một đòn khủng khiếp từ chiếc khiên.
+
+tagItemSkillD221Name=Xà Huyết
+tagItemSkillD221Desc=Kẻ địch tấn công bạn sẽ bị nhiễm xà huyết, giống như cái lườm mắt của con quái vật ấy, có thể hóa sinh vật ấy thành đá.
+
+tagItemSkillD222Name=Ánh sáng hồi phục
+tagItemSkillD222Desc=Một luồng sáng rọi lên bạn, chữa các vết thương.
+
+tagItemSkillD223Name=Bẻ cong thời gian
+tagItemSkillD223Desc=Tạo ra vết nứt thời tại vị trí của kẻ địch.
+
+tagItemSkillD224Name=Cơn phẫn nộ của Grim Dawn
+tagItemSkillD224Desc=Phóng thích sự cam khổ và phá hủy đánh dấu thơi khắc Màn đêm u ám.
+
+tagItemSkillD225Name=Sức mạnh của vua Mùa đông
+tagItemSkillD225Desc=Đập vũ khí xuống đất với sức mạnh của vị vua Mùa đông, phóng ra hàng loạt gai băng. ^oYêu cầu vũ khí cầm hai tay cận chiến.
+
+tagItemSkillD226Name=Triệu Chillmane
+tagItemSkillD226Desc=Triệu hồi người tuyết Chillmane chiến đấu cho bạn. ^oChỉ được triệu hồi một Chillmane mỗi lượt. Người tuyết tỉ lệ với quái triệu hồi cộng thêm.
+
+tagItemSkillD227Name=Sự hiện diện buốt giá
+tagItemSkillD227Desc=Giải phóng cái giá lạnh nằm sau trong con tim băng giá của bạn, cường hóa vũ khí với cái lạnh lao lực. Hiệu ứng này lan sang đồng minh gần kề.  ^oChiêu thức này phải được kích hoạt để duy trì hiệu ứng.
+
+tagItemSkillD228Name=Triệt phá
+tagItemSkillD228Desc=Triệt phá hệ thống phòng thủ kẻ địch với sức mạnh vật lý dồn dập.
+
+tagItemSkillD229Name=Sao chổi
+tagItemSkillD229Desc=Sức mạnh của Trozan tiến hóa đến mức có thể kêu gọi mảnh vỡ từ trên trời, cho đến ngày hắn ta có thể lôi xuống cả thiên đàng.
+
+tagItemSkillD230Name=Đạn Phân mảnh
+tagItemSkillD230Desc=Nạp viên đạn đặc biệt có khả năng phân mảnh và xuyên thủng mục tiêu.
+
+tagItemSkillD231Name=Sự nguy hiểm của Valdun
+tagItemSkillD231Desc=Valdun có tiếng tăm về tài năng của hắn với súng trường. ^oĐây là nội tại đặc biệt của vũ khí cầm hai tay tầm xa.
+
+tagItemSkillD232Name=Sự gian xảo của Valdun
+tagItemSkillD232Desc=Ngoài tài năng với súng trường của Valdun, hắn ta còn được biết đến bởi khả năng trốn chạy. Hắn chưa bao giờ bị bắt. ^oĐây là nội tại đặc biệt của vũ khí cầm hai tay tầm xa.
+
+tagItemSkillD233Name=Băng đạn của Valdun
+tagItemSkillD233Desc=Bắn ra viên đạn đặc biệt mà vỡ ra khi va chạm. ^oĐược kích hoạt khi đánh thường.
+
+tagItemSkillD234Name=Sự gian trá của Valdun
+tagItemSkillD234Desc=Valdun không nổi tiếng vì chơi đẹp. Hắn từng kết thúc một trận giao đấu chân chính bằng đạn nổ. ^oYêu cầu vũ khí cầm hai tay tầm xa và được kích hoạt khi đánh thường.
+
+tagItemSkillD235Name=Sự tàn phá của Anasteria
+tagItemSkillD235Desc=Kĩ thuật này xé toạc một cánh cổng ở thực tại bên trong những cơn mưa than lửa năng lượng ma thuật . ^oYêu cầu Caster ở tay phụ. Than lửa tiếp tục rơi xuống trong suốt thời gian của pháp thuật.
+
+tagItemSkillD236Name=Sự bảo vệ của Justicar
+tagItemSkillD236Desc=Arbiter Vĩ đại đứng vững trước bất kì đòn tấn công. ^oĐây là điểm thưởng nội tại, yêu cầu mang vũ khí cận chiến hoặc khiên.
+
+tagItemSkillD237Name=Cơn báo thù của Justicar
+tagItemSkillD237Desc=Horvald rất ít khi lên tiếng, hắn ta chỉ để chiếc khiên nói thay cho hắn. ^oĐây là điểm thưởng nội tại, yêu cầu mang vũ khí cận chiến hoặc khiên.
+
+tagItemSkillD238Name=Sức mạnh của Gazer
+tagItemSkillD238Desc=Sức mạnh của Gazer tràn ngập trong cơ thể bạn.
+
+tagItemSkillD239Name=Lửa Đen
+tagItemSkillD239Desc=Một đám lửa ma quái bùng lên dưới chân kẻ thù của bạn.
+
+tagItemSkillD240Name=Cú cắn của Nữ hoàng Điên
+tagItemSkillD240Desc=Điên cuồng lao vào những kẻ địch xung quanh, đâm thật sâu vào chúng.
+
+tagItemSkillD241Name=Gai độc
+tagItemSkillD241Desc=Giải phóng một luồng gai chứa đầy chất độc.
+
+tagItemSkillD242Name=Venomwrath
+tagItemSkillD242Desc=Một thứ độc kinh tởm có thể hòa lẫn vào da thịt để làm lộ ra những diểm yếu được giấu kín.
+
+tagItemSkillD243Name=Vòng làm lễ
+tagItemSkillD243Desc=Tạo ra một vòng làm lễ để tăng sức mạnh cho phép thuật đồng thời bảo vệ bạn trước sát thương vật lý chừng nào bạn còn đứng trong đó.
+tagItemSkillD243NamePetSkill=Nghi lễ Cường hóa
+tagItemSkillD243DescPetSkill=Đứng trong Vòng tròn Nghi lễ tăng sức mạnh cho các phép thuật của bạn đồng thời bảo vệ bạn khỏi những tổn thương vật lý.
+
+tagItemSkillD244Name=Mảnh Bão
+tagItemSkillD244Desc=Tạo ra một viên tinh thể chứa đựng sấm sét ở vị trí chỉ định để giật những kẻ địch xung quanh. ^oMảnh Bão tỉ lệ với sát thương thêm của người chơi.
+
+tagItemSkillD245Name=Gọi ra Hỏa ngục
+tagItemSkillD245Desc=Lửa địa ngục bùng lên từ mặt đất dưới chân kẻ địch.
+
+tagItemSkillD246Name=Giao ước của Agrivix
+tagItemSkillD246Desc=Tạo một ngọn lửa ma trơi từ năng lượng ma pháp để tấn công kẻ địch. ^oMa trơi tỉ lệ với sát thương thêm của người chơi.
+tagItemSkillD246NamePetSkill=Sốc Ma pháp
+
+tagItemSkillD247Name=Warborn
+tagItemSkillD247Desc=Bạn sinh ra để chiến đấu và càng mạnh mẽ hơn ở nơi trận đánh khốc liệt nhất.
+
+tagItemSkillD248Name=Huyết nộ
+tagItemSkillD248Desc=Giết một kẻ địch đưa bạn vào trạng thái cuồng nộ thèm khát phải đổ máu nhiều hơn nữa.
+
+tagItemSkillD249Name=Ma pháp Hủy diệt
+tagItemSkillD249Desc=Xé một khe nứt nhỏ trong thực tại để từ đó rơi ra một viên nham thạch ma pháp.
+
+tagItemSkillD250Name=Đổ máu
+tagItemSkillD250Desc=Rạch xuyên qua những kẻ địch xung quanh theo cách máu me nhất.
+
+tagItemSkillD251Name=Hắc Ấn
+tagItemSkillD251Desc=Dấu ấn của Kẻ Nhợt nhạt mang đến cho kẻ thù của bạn sự đau đớn không thể chịu đựng nổi.
+
+tagItemSkillD252Name=Đột kích Kinh hoàng
+tagItemSkillD252Desc=Lẩn vào cõi chết rồi chợt xuất hiện ngay cạnh mục tiêu của bạn.
+
+tagItemSkillD253Name=Lửa kinh hoàng
+tagItemSkillD253Desc=Một vòng tròn lửa ma quá lan ra quanh bạn, làm tê liệt kẻ địch.
+
+tagItemSkillD254Name=Cơn thịnh nộ của Shar'Zul
+tagItemSkillD254Desc=Lửa bùng lên từ mặt đất xung quanh bạn, để lại phía sau chẳng gì ngoài tro tàn và bất hạnh.
+
+tagItemSkillD255Name=Băng Kinh hoàng
+tagItemSkillD255Desc=Giải phóng một loạt gai băng sắc lẻm.
+
+tagItemSkillFailName=Lỗi phù phép
+tagItemSkillFailDesc=Thất bại nặng hơn một chút.
+
+
+#Component Skills
+
+tagCompSkillA001Name=Tạt A-xít
+tagCompSkillA001Desc=Quất tới tấp đối phương bằng a-xít ăn mòn, làm tan chảy ngay cả những bộ giáp cứng nhất.
+
+tagCompSkillA002Name=Xúc tu Aether
+tagCompSkillA002Desc=Giải phóng một vụ nổ năng lượng aether thuần chất vào mục tiêu của bạn.
+
+tagCompSkillA003Name=Trục xuất
+tagCompSkillA003Desc=Tấn công bằng vũ khí của bạn, cực mạnh đối với sinh vật Aether.
+
+tagCompSkillA004Name=Vũ khí Nhọn
+tagCompSkillA004Desc=Tăng cường sức mạnh cho các chiêu thức của bạn có thể xuyên giáp địch. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA005Name=Đỡ Kiếm
+tagCompSkillA005Desc=Nâng cấp giáp của bạn trước những đòn tấn công xuyên giáp, đồng thời trả miếng lại kẻ tấn công bạn.
+
+tagCompSkillA006Name=Chặn Kiếm
+tagCompSkillA006Desc=Nâng cấp giáp của bạn trước những đòn tấn công xuyên giáp, đồng thời trả miếng lại kẻ tấn công bạn.
+
+tagCompSkillA007Name=Kẻ uống máu
+tagCompSkillA007Desc=Gia cường các chiêu thức của bạn với năng lực hút máu.
+
+tagCompSkillA008Name=Kẻ khát máu
+tagCompSkillA008Desc=Gia cường các chiêu thức của bạn với năng lực hút máu.
+
+tagCompSkillA009Name=Mũi tên Hỗn nguyên
+tagCompSkillA009Desc=Phóng một mũi tên chứa năng lượng hỗn độn vào mục tiêu.
+
+tagCompSkillA010Name=Vũ khí Lạnh lẽo
+tagCompSkillA010Desc=Tăng cường sức mạnh cho các chiêu thức với cái lạnh chết người. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA011Name=Chém đầu
+tagCompSkillA011Desc=Cố gắng chém đầu kẻ địch với một đòn chết người có khả năng gây ra xuất huyết nặng.
+
+tagCompSkillA012Name=Chặt đầu
+tagCompSkillA012Desc=Cố gắng chặt đầu kẻ địch với một đòn chết người có khả năng gây ra xuất huyết nặng.
+
+tagCompSkillA013Name=Vũ khí Bùng cháy
+tagCompSkillA013Desc=Tăng cường sức mạnh cho các chiêu thức của bạn với ngọn lửa rực cháy. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA014Name=Cầu lửa
+tagCompSkillA014Desc=Phóng một quả cầu rực cháy về phía mục tiêu.
+
+tagCompSkillA015Name=Cầu lửa lớn
+tagCompSkillA015Desc=Phóng một quả cầu rực cháy về phía mục tiêu.
+
+tagCompSkillA016Name=Gai băng
+tagCompSkillA016Desc=Phóng một cây Gai băng cứng như đá để xiên qua kẻ địch.
+
+tagCompSkillA017Name=Gai băng lớn
+tagCompSkillA017Desc=Phóng một cây Gai băng cứng như đá để xiên qua kẻ địch.
+
+tagCompSkillA018Name=Vũ khí Nhiễm điện
+tagCompSkillA018Desc=Tăng cường sức mạnh cho các chiêu thức của bạn với sức mạnh sấm sét. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA019Name=Lôi kích
+tagCompSkillA019Desc=Tấn công kẻ địch của bạn với sức mạnh của một tia chớp.
+
+tagCompSkillA020Name=Lôi kích Cao cấp
+tagCompSkillA020Desc=Tấn công kẻ địch của bạn với sức mạnh của một tia chớp.
+
+tagCompSkillA021Name=Vũ khí Nhiễm độc
+tagCompSkillA021Desc=Tăng cường sức mạnh cho các chiêu thức của bạn với một loại độc dược ghê tởm. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA022Name=Bom Độc
+tagCompSkillA022Desc=Quăng một quả bom bẩn sẽ phát nổ ở vị trí chỉ định, bao trùm kẻ địch với chất độc.
+
+tagCompSkillA023Name=Bom kịch Độc
+tagCompSkillA023Desc=Quăng một quả bom bẩn sẽ phát nổ ở vị trí chỉ định, bao trùm kẻ địch với chất độc.
+
+tagCompSkillA024Name=Khiên Rực rỡ
+tagCompSkillA024Desc=Làm cho khiên của bạn chống lại các nguyên tố.
+
+tagCompSkillA025Name=Thần kích
+tagCompSkillA025Desc=Tấn công kẻ địch bằng một đòn hủy diệt làm suy yếu sức chống chịu của chúng.
+
+tagCompSkillA026Name=Đập Khiên
+tagCompSkillA026Desc=Đập kẻ địch bằng khiên, vô hiệu hóa hoàn toàn những kẻ yếu hơn. ^oYêu cầu mang vũ khí cận chiến.
+
+tagCompSkillA027Name=Đâm Khiên
+tagCompSkillA027Desc=Đập kẻ địch bằng khiên, xiên chúng vào những cái gai trên đó. ^oYêu cầu mang vũ khí cận chiến.
+
+tagCompSkillA028Name=Lưỡi Bạc
+tagCompSkillA028Desc=Tấn công bằng vũ khí của bạn, cực mạnh đối với Âm binh.
+
+tagCompSkillA029Name=Đập
+tagCompSkillA029Desc=Đập kẻ địch một cú không thể cưỡng lại.
+
+tagCompSkillA030Name=Đập Tàn bạo
+tagCompSkillA030Desc=Đập kẻ địch một cú không thể cưỡng lại.
+
+tagCompSkillA031Name=Vũ khí Nhọn Cao cấp
+tagCompSkillA031Desc=Tăng cường sức mạnh cho các chiêu thức của bạn có thể xuyên giáp địch. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA032Name=Vũ khí Aether
+tagCompSkillA032Desc=Tăng cường sức mạnh cho các chiêu thức của bạn với chính sức mạnh của aether. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA033Name=Hỗn nguyên kích
+tagCompSkillA033Desc=Lướt qua hư không để tấn công kẻ địch với sức mạnh hủy diệt của hỗn nguyên. ^oYêu cầu mang vũ khí cận chiến.
+
+tagCompSkillA034Name=Đập khiên Tàn bạo
+tagCompSkillA034Desc=Đập kẻ địch bằng khiên có gai, vô hiệu hóa hoàn toàn những kẻ yếu hơn. ^oYêu cầu mang vũ khí cận chiến.
+
+tagCompSkillA035Name=Lá chắn Aether
+tagCompSkillA035Desc=Che chắn bản thân trước năng lực tha hóa của Aether. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA036Name=Lá chắn Hư không
+tagCompSkillA036Desc=Che chắn bản thân trước sự hỗn loạn của Hư không. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagCompSkillA037Name=Bão Sét
+tagCompSkillA037Desc=Giải phóng một vụ nổ năng lượng sấm sét, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagCompSkillA038Name=Bão Sét Cao cấp
+tagCompSkillA038Desc=Giải phóng một vụ nổ năng lượng sấm sét, gây sát thương lên mọi kẻ địch xung quanh.
+
+tagCompSkillB001Name=Hơi thở Quỷ dữ (Demon's Breath)
+tagCompSkillB001Desc=Phun một luồng lửa ngoại giới về phía kẻ địch.
+
+tagCompSkillB002Name=Cơn cuồng nộ của Beronath
+tagCompSkillB002Desc=Tấn công kẻ địch của bạn với cơn cuồng nộ của quái thú vĩ đại Beronath. Khi dùng như đòn tấn công thường, Cơn Cuồng nộ của Beronath gia tăng sức mạnh của bạn sau mỗi đòn đánh. ^oTích tụ sạc tăng hiệu lực của điểm thưởng.
+
+tagCompSkillB003Name=Rải Bạc (Silver Spread)
+tagCompSkillB003Desc=Phóng ra một loạt đạn bạc nhằm tiêu diệt những Âm binh.
+
+tagCompSkillB004Name=Ánh nhìn Vô tận (Dreeg's Infinite Gaze)
+tagCompSkillB004Desc=Giải phóng cái nhìn vô tận của Dreeg ra xung quanh bạn.
+
+tagCompSkillB005Name=Ngọn lửa Solael
+tagCompSkillB005Desc=Bao trùm mục tiêu của bạn với ngọn lửa đen của Solael.
+
+tagCompSkillB006Name=Sức mạnh của Oleron
+tagCompSkillB006Desc=Tấn công bằng vũ khí của bạn, gây thương tích trầm trọng đồng thời làm tê liệt mục tiêu.
+
+tagCompSkillB007Name=Ràng buộc của Bysmiel
+tagCompSkillB007Desc=Buộc đám đệ tuân theo ý chí của bạn. ^o(Nội tại)
+
+
+
+
+#Relic Skills
+
+tagRelicSkillB001Name=Tai ương
+tagRelicSkillB001Desc=Một đám đá lưu huỳnh rực lửa bắn ra quanh bạn.
+
+tagRelicSkillB002Name=Tấn công nhanh
+tagRelicSkillB002Desc=Bắt đầu tấn công cực nhanh với hi vọng sẽ có một vài đòn trúng đích.
+
+tagRelicSkillB003Name=Tĩnh lặng
+tagRelicSkillB003Desc=Áp đảo kẻ địch xung quanh bằng ý chí.
+
+tagRelicSkillB004Name=Sóng Băng
+tagRelicSkillB004Desc=Dẫn truyền năng lượng băng giá vào tận sâu bên trong, khiến những kẻ tấn công bạn đôi khi kích hoạt một làn sóng băng. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillB005Name=Bão Sấm sét
+tagRelicSkillB005Desc=Triệu hồi một đám mây tĩnh điện ở khu vực chỉ định, định kỳ giật điện mọi kẻ địch đứng bên dưới nó.
+
+tagRelicSkillB006Name=Núi lửa Thịnh nộ
+tagRelicSkillB006Desc=Lấp đầy cơ thể bạn với cơn thịnh nộ của lửa, khiến những chiêu thức của bạn thiêu đốt kẻ địch.
+
+tagRelicSkillB007Name=Tha hóa
+tagRelicSkillB007Desc=Vấy bẩn dòng máu của bạn, khiến nó lan truyền những dịch bệnh chết người tới kẻ nào dám tấn công bạn.
+
+tagRelicSkillB008Name=Bảo hộ
+tagRelicSkillB008Desc=Một lá chắn bảo vệ hình thành quanh người mỗi khi có kẻ địch thấy được chỗ bạn sơ hở.
+
+tagRelicSkillB009Name=Xảo trá
+tagRelicSkillB009Desc=Sự khôn ngoan của bạn truyền cảm hứng cho đồng đội khiến họ dự đoán được hành động của đối phương tốt hơn cũng như dễ dàng đánh ra những đòn hủy diệt. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillB010Name=Cuồng bạo
+tagRelicSkillB010Desc=Đi vào trạng thái điên tiết mỗi khi xuất ra một đòn chí mạng vào mục tiêu, để đảm bảo rằng sẽ còn thêm nhiều đòn như vậy nữa.
+
+tagRelicSkillB011Name=Cơn giận của Troll
+tagRelicSkillB011Desc=Xung trận như một con nửa người nửa troll tàn ác. Khi dùng như đòn tấn công thường, Con giận của Troll khiến bạn càng thêm phẫn nộ sau mỗi đòn đánh, nhưng phải đánh đổi bằng sự tập trung. ^oTích tụ sạc tăng hiệu lực của điểm thưởng.
+
+tagRelicSkillB012Name=Cắt xén
+tagRelicSkillB012Desc=Cắt mục tiêu bằng ba nhát chém liên tục, gây xuất huyết nặng. ^oĐây là một kỹ thuật sử dụng hai vũ khí cận chiến được kích hoạt khi tấn công thường. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí cận chiến.
+
+tagRelicSkillB013Name=Bắn theo loạt
+tagRelicSkillB013Desc=Giải phóng một loạt đạn được ngắm kỹ vào mục tiêu. ^oĐây là một kỹ thuật sử dụng hai vũ khí tầm xa được kích hoạt khi tấn công thường. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí tầm xa.
+
+tagRelicSkillC001Name=Cây búa Công lý
+tagRelicSkillC001Desc=Đưa phán quyết chính nghĩa tới những kẻ xấu. ^oYêu cầu mang vũ khí cận chiến hai tay hoặc vũ khí tầm xa hai tay.
+
+tagRelicSkillC002Name=Pháo đài Sống
+tagRelicSkillC002Desc=Với mình đồng da sắt, bạn gần như không thể chạm vào bởi cả vũ khí lẫn ma thuật. ^oYêu cầu mang Khiên.
+
+tagRelicSkillC003Name=Bể máu
+tagRelicSkillC003Desc=Một tuyệt kỹ tàn độc làm kẻ thù của bạn chảy máu xối xả, dẫn đến một cái chết chậm rãi và đau đớn.  ^oĐây là một kỹ thuật sử dụng hai vũ khí cận chiến. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí cận chiến.
+
+tagRelicSkillC004Name=Không thể Ngăn cản
+tagRelicSkillC004Desc=Bạn như một thế lực không thể ngăn cản, gạt đi những đòn đánh vốn đủ sức hạ gục những kẻ yếu đuối.
+
+tagRelicSkillC005Name=Khủng bố
+tagRelicSkillC005Desc=Truyền nỗi sợ tuyệt đối vào trái tim đối phương, ăn mòn chúng từ bên trong.
+
+tagRelicSkillC006Name=Thống khổ
+tagRelicSkillC006Desc=Yểm một lời nguyền kinh khủng lên bất kỳ kẻ nào dám tấn công bạn, gây suy yếu và những cơn đau nhức nhối.
+
+tagRelicSkillC007Name=Ám ảnh
+tagRelicSkillC007Desc=Triệu hồi những hồn ma thống khổ tới ám kẻ địch của bạn và làm chúng ớn lạnh.
+
+tagRelicSkillC008Name=Hỏa diệm
+tagRelicSkillC008Desc=Giải phóng một tia lửa thuần chất mạnh tới mức ngay cả những bộ giáp cứng cáp nhất cũng không chịu nổi. ^oĐây là một kỹ năng dẫn truyền và phải giữ phím tắt để duy trì.
+
+tagRelicSkillC009Name=Triệu hồi Chó săn Bão tố
+tagRelicSkillC009Desc=Gọi ra một con Chó săn Bão tố trung thành, một quái thú ma quái sinh ra từ thiên đường. ^oChỉ một con Chó săn Bão tố được triệu hồi trong cùng thời điểm. Sức mạnh của Chó săn Bão tố tỉ lệ với Điểm thưởng cho Đệ.
+
+tagRelicSkillC010Name=Hào quang Tử hàn
+tagRelicSkillC010Desc=Tăng cường sức mạnh cho các chiêu thức của bạn và những đồng đội xung quanh với sự lạnh lẽo ma quái của cái chết. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillC011Name=Hy sinh
+tagRelicSkillC011Desc=Khai thác sức mạnh từ dòng máu để tăng sức mạnh cho mỗi chiêu thức bằng chính sinh lực của bạn.
+
+tagRelicSkillC012Name=Nhiệt huyết
+tagRelicSkillC012Desc=Tận dụng lợi thế, giải phóng một loạt chiêu thức ngay sau khi đánh trúng một đòn chí mạng. ^oYêu cầu mang vũ khí cận chiến.
+
+tagRelicSkillC013Name=Hoang vu
+tagRelicSkillC013Desc=Tha hóa vùng đất ngay dưới chân bạn và biến nó thành một cánh đồng chết.
+tagRelicSkillC013Desc2=Phá hủy mặt đất dưới chân bạn bằng lực hủy diệt tĩnh.
+
+tagRelicSkillC014Name=Úa tàn
+tagRelicSkillC014Desc=Vây quanh bạn với một đám mây tai họa, bao gồm vô số dịch bệnh có khả năng lây nhiễm cho bất cứ thứ gì chúng tiếp xúc.
+
+tagRelicSkillC015Name=Giao kết với Tổ tiên
+tagRelicSkillC015Desc=Sự kiên kết với đám đệ của bạn mở ra những sức mạnh trước đây dường như bất khả bên trong chúng. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillD001Name=Thủ hộ
+tagRelicSkillD001Desc=Bao trùm bạn với ánh sáng của thánh thần, bảo vệ bạn trước mọi tổn hại bằng cách hấp thụ đi những cú đánh.
+
+tagRelicSkillD002Name=Trù yểm
+tagRelicSkillD002Desc=Bọc vũ khí của bạn với độc dược và bệnh dịch chết người, lây nhiễm cho kẻ địch với mỗi đòn tấn công. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillD003Name=Triệu hồi Nemesis
+tagRelicSkillD003Desc=Gọi ra Nemesis, á thần bóng tối và chúa tể của những cuộc săn đêm. ^oBạn chỉ có thể triệu hồi một Nemesis vào cùng thời điểm. Nemesis tỉ lệ với sát thương thêm của người chơi.
+
+tagRelicSkillD004Name=Thành quách
+tagRelicSkillD004Desc=Gia cường sức phòng thủ của bạn và đồng minh để trở thành một pháo đài di động. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillD005Name=Hào quang Kẻ gọi bão
+tagRelicSkillD005Desc=Gia tăng khả năng của bản thân và đồng đội với sức mạnh của một cơn bão sấm sét. ^oKỹ năng này phải được bật để duy trì tác dụng.
+
+tagRelicSkillD006Name=Toan tính
+tagRelicSkillD006Desc=Một tính toán ác độc khiến những kẻ tấn công bạn dễ bị phản công hơn.
+
+tagRelicSkillD007Name=Thiên tai
+tagRelicSkillD007Desc=Tấn công kẻ địch với một đòn lạnh lẽo cắt tới tận xương tủy chúng với sự ớn lạnh của cái chết, trả lại một phần sinh lực cho bạn. ^oYêu cầu mang vũ khí cận chiến.
+
+tagRelicSkillD008Name=Liệt hỏa
+tagRelicSkillD008Desc=Những ngọn lửa hoang dại khởi phát từ bạn rồi đi theo một con đường tàn phá.
+
+tagRelicSkillD009Name=Hoại tử
+tagRelicSkillD009Desc=Yểm một lời nguyền suy nhược lên kẻ địch, khiến da thịt chúng thối rữa và nhận thức của chúng chậm lại.
+
+tagRelicSkillD010Name=Ác tâm của Agrivix
+tagRelicSkillD010Desc=Khai thác cơn thịnh nộ của Agrivix, tạo ra những vùng xoáy năng lượng aether và hỗn nguyên xung quanh bạn.
+
+tagRelicSkillD011Name=Lãng quên
+tagRelicSkillD011Desc=Giải phóng sức mạnh hủy diệt thuần túy lên kẻ địch của bạn.
+
+tagRelicSkillD012Name=Tàn sát
+tagRelicSkillD012Desc=Bạn càng tàn sát và hủy diệt nhiều, càng dễ làm thế thêm một lần nữa. ^oĐây là một kỹ thuật sử dụng hai vũ khí cận chiến. Đồng thời cũng cho phép trang bị cùng lúc hai vũ khí cận chiến.
+
+tagRelicSkillD013Name=Thiên thạch
+tagRelicSkillD013Desc=Xé toạc ranh giới mỏng manh giữa hai cõi âm dương khi bạn gọi ra một tảng đá khổng lồ rực cháy rơi thẳng xuống đầu kẻ thù của bạn.
+
+tagRelicSkillD014Name=Báo thù
+tagRelicSkillD014Desc=Giải phóng năng lượng tổng hợp từ những đòn bạn phải chịu thành một luồng sóng xung kích dữ dội.
+
+tagRelicSkillD015Name=Đầu đàn
+tagRelicSkillD015Desc=Giai điệu từ cuộc xung đột không hồi kết gọi ra một đám Côn trùng để hỗ trợ bạn.
+
+tagRelicSkillD016Name=Thảm sát
+tagRelicSkillD016Desc=Giải phóng cơn cuồng nộ của Solael lên bất kỳ kẻ nào dám tấn công đầy tớ được ông ta lựa chọn.
+
+tagRelicSkillD017Name=Gai Ưu tư của Dreeg
+tagRelicSkillD017Desc=Giải phóng một vòng gai độc của Dreeg lên những kẻ không ngờ tới, lây nhiễm chúng bằng máu của vị thần vĩ đại.
+
+tagRelicSkillD018Name=Dâng hiến Điên cuồng
+tagRelicSkillD018Desc=Thấy chủ nhân bị thương khiến đám đệ của bạn trở nên điên cuồng hoang dại.
+
+tagRelicSkillD019Name=Cơn thịnh nộ của Oleron
+tagRelicSkillD019Desc=Mạnh mẽ hơn với sức mạnh từ máu của chiến thần, giải phóng cơ thịnh nộ của ngài lên những kẻ địch xung quanh.
+
+tagRelicSkillD020Name=Thành lũy của Menhir
+tagRelicSkillD020Desc=Mạnh mẽ hơn với linh hồn bảo hộ của Menhir, che chở cho bản thân và đồng đội.
+
+tagRelicSkillD021Name=Nguyên tố Bất công
+tagRelicSkillD021Desc=Cuộc tấn công điên cuồng bằng ma pháp đôi khi ảnh hưởng tới sự cân bằng giữa các nguyên tố bạn vẫn cố giữ gìn, giải phóng ra một luồng sức mạnh sẽ khiến kẻ địch phải hối hận vì đã tới gần bạn. ^oYêu cầu mang Trang bị ở tay chiêu.
+
+
+
+#ConsumableSkills
+
+tagConsumableSkill_RoyalJellyBalmName=Dầu thơm Thạch Ong chúa
+tagConsumableSkill_RoyalJellyBalmDesc=Cho bạn cảm giác ấm áp dễ chịu.
+tagConsumableSkill_A01=Thuốc mỡ Kháng lửa
+tagConsumableSkill_A01Desc=Củng cố da thịt trước cái nóng từ ngọn lửa.
+tagConsumableSkill_A02=Thuốc mỡ Kháng băng
+tagConsumableSkill_A02Desc=Củng cố da thịt trước sự khắc nghiệt của mùa đông.
+tagConsumableSkill_A03=Thuốc mỡ Kháng sét
+tagConsumableSkill_A03Desc=Củng cố da thịt trước cơn thịnh nộ của sấm sét.
+tagConsumableSkill_A04=Thuốc mỡ Kháng độc
+tagConsumableSkill_A04Desc=Củng cố da thịt trước độc dược.
+tagConsumableSkill_A05=Thuốc mỡ Huyết hệ
+tagConsumableSkill_A05Desc=Củng cố da thịt trước những quái vật từ hư không.
+tagConsumableSkill_A06=Thuốc mỡ Diệt linh hồn
+tagConsumableSkill_A06Desc=Củng cố da thịt trước những sinh vật Aether.
+tagConsumableSkill_A07=Thuốc mỡ Lời thì thầm của Cái chết
+tagConsumableSkill_A07Desc=Củng cố da thịt trước ma thuật chết chóc.
+tagConsumableSkill_A08=Thuốc mỡ Sương muối
+tagConsumableSkill_A08Desc=Một sự ấm áp bình yên tràn khắp cơ thể bạn.
+tagConsumableSkill_A09=Dầu Hút máu
+tagConsumableSkill_A09Desc=Tẩm vũ khí của bạn với chất Hút máu.
+tagConsumableSkill_A10=Dầu Nanh độc
+tagConsumableSkill_A10Desc=Tẩm vũ khí của bạn với chất Nanh độc.
+tagConsumableSkill_A11=Dầu Nanh máu
+tagConsumableSkill_A11Desc=Tẩm vũ khí của bạn với chất Nanh máu.
+tagConsumableSkill_A12=Dầu Bí truyền
+tagConsumableSkill_A12Desc=Tẩm vũ khí của bạn với một loại thần dược Bí truyền.
+tagConsumableSkill_A13=Thần dược của Tổ tiên
+tagConsumableSkill_A13Desc=Cho bạn sức mạnh của Tổ tiên.
+tagConsumableSkill_A14=Thần dược Hư không
+tagConsumableSkill_A14Desc=Cho bạn sức mạnh khó thuần của Hư không.
+tagConsumableSkill_A15=Thần dược Aether
+tagConsumableSkill_A15Desc=Cho bạn sức mạnh nguyên thủy của Aether.
+tagConsumableSkill_A16=Thần dược Thợ săn
+tagConsumableSkill_A16Desc=Cho bạn nguồn năng lượng vô tận.
+tagConsumableSkill_A17=Chiết xuất Thạch Ong chúa
+tagConsumableSkill_A17Desc=Làm tâm trí nhạy bén hơn.
+tagConsumableSkill_A18=Tinh chất Thạch Ong chúa
+tagConsumableSkill_A18Desc=Tái sinh và làm chắc xương.
+tagConsumableSkill_A19=Sáp Ong chúa
+tagConsumableSkill_A19Desc=Cho bạn một sự ấm áp dễ chịu.
+tagConsumableSkill_A20=Thuốc mỡ Thạch Ong chúa
+tagConsumableSkill_A20Desc=Cho bạn một sự ấm áp dễ chịu.
+tagConsumableSkill_A21=Ác mộng của Thiên thần
+tagConsumableSkill_A21Desc=Thấm đẫm da thịt bạn với một thứ ánh sáng thiêng liêng.
+tagConsumableSkill_A22=Cụm Aether
+tagConsumableSkill_A22Desc=Đập vỡ cụm tinh thể để giải phóng năng lượng của nó.
+tagConsumableSkill_A23=Bia Burrwitch
+tagConsumableSkill_A23Desc=Không dành cho những trái tim yếu đuối. Tác dụng phụ có thể xảy ra: chóng mặt, nôn mửa, quên nơi mình đã ở tối hôm trước.
+
+tagConsumableSkill_F01=Dầu Thạch tâm
+tagConsumableSkill_F01Desc=Tẩm khiên của bạn bằng hóa chất Thạch tâm.
+tagConsumableSkill_F02=Cồn Máu Slith
+tagConsumableSkill_F02Desc=Một đám sương độc bao quanh bạn.
+tagConsumableSkill_F03=Dầu của người Rhowar
+tagConsumableSkill_F03Desc=Tẩm vũ khí của bạn với chất độc của Arkovia.
+tagConsumableSkill_F04=Cồn Thú nộ
+tagConsumableSkill_F04Desc=Làm cho đám đệ của bạn phát cuồng.
+tagConsumableSkill_F05=Dầu Ong
+tagConsumableSkill_F05Desc=Tẩm vũ khí của bạn bằng chất độc của loại Dermaptera.
+tagConsumableSkill_F06=Cồn Can đảm
+tagConsumableSkill_F06Desc=Cho bạn và đồng đội ý chí để tiếp tục chiến đấu.
+tagConsumableSkill_F07=Dầu Truy tâm
+tagConsumableSkill_F07Desc=Tẩm vũ khí của bạn với chất độc Truy tâm.
+tagConsumableSkill_F08=Cồn Kiếm phòng hộ
+tagConsumableSkill_F08Desc=Bao quanh bạn với những lưỡi kiếm sẽ tấn công bất cứ thứ gì tấn công bạn.
+tagConsumableSkill_F09=Dầu Lãnh huyết
+tagConsumableSkill_F09Desc=Tẩm vũ khí của bạn với hợp chất Lãnh huyết.
+tagConsumableSkill_F10=Cồn Băng vệ
+tagConsumableSkill_F10Desc=Một làn gió lạnh thấu xương bao quanh bạn.
+tagConsumableSkill_F11=Dầu thiêng của Kymon
+tagConsumableSkill_F11Desc=Tẩm vũ khí của bạn bằng thứ dầu được Kymon đích thân ban phước.
+tagConsumableSkill_F12=Cồn Cuồng nộ của Kymon
+tagConsumableSkill_F12Desc=Một vụ nổ lớn bắt nguồn từ bạn.
+
+
+#SkillsQuest
+
+tagQuestSkill_A01=Lời ban phước của Kymon
+tagQuestSkill_A01Desc=Vũ khí của bạn được ban phước với ngọn lửa thiêng của Empyrion.
+tagQuestSkill_A02=Bùa Canh giữ Cái chết
+tagQuestSkill_A02Desc=Vũ khí của bạn được Hội yểm bùa.
+tagQuestSkill_A03=Dấu ấn của Anasteria
+tagQuestSkill_A03Desc=Bạn đã được Kẻ bị Ruồng bỏ đánh dấu.
+
+
+#SkillsGeneral
+
+MasteriesAvailable=Chọn từ {%d0} Thẻ nữa
+NoMasteriesAvailable=Không còn Thẻ nào nữa
+SkillPointsAvailable=Điểm hiện có: {%d0}
+SkillPointsAvailableSingular=Điểm hiện có: {%d0}
+NoSkillPointsAvailable=Điểm hiện có: 0
+DevotionPointsAvailable=Điểm hiện có: {%d0}
+DevotionPointsAvailableSingular=Điểm hiện có: {%d0}
+NoDevotionPointsAvailable=Điểm hiện có: 0
+DevotionPointsTotal=Số điểm Đã mở: {%d0} / {%d1}
+tagConfirmSkillChanges=Xác nhận thay đổi?
+
+#SkillDevotion
+tagDevotionInfo=Trong thời khắc tăm tối nhất, nhân loại lại hướng đến những vì sao. Hãy dâng hiến bản thân cho những biểu tượng và thần thánh cổ xưa. Nhận lấy sức mạnh từ thượng cổ của chúng.
+
+tagDevotionAffinity01=Tổ tiên
+tagDevotionAffinity01Info=Lượng Hành Tổ tiên bạn đã có.^n^nNhững người đời xưa đã vươn lên ngang hàng với thần thánh do người khác suy tôn hoặc thông qua những chiến công hiển hách.
+tagDevotionAffinity02=Hỗn nguyên
+tagDevotionAffinity02Info=Lượng Hành Hỗn nguyên bạn đã có.^n^nNhững thực thể hỗn nguyên thèm khát sự hỗn loạn và diệt vong hơn bất cứ thứ gì.
+tagDevotionAffinity03=Kỳ bí
+tagDevotionAffinity03Info=Lượng Hành Kỳ bí bạn đã có.^n^nNhững thực thể kỳ bí đại diện cho các thế lực ma thuật hoang dã cùng những giới siêu hình ở bên kia dòng chảy.
+tagDevotionAffinity04=Trật tự
+tagDevotionAffinity04Info=Lượng Hành Trật tự bạn đã có.^n^nNhững thực thể của Trật tự coi trọng sự hòa hợp và cân bằng của vạn vật.
+tagDevotionAffinity05=Nguyên thủy
+tagDevotionAffinity05Info=Lượng Hành Nguyên thủy bạn đã có.^n^nNhững thực thể Nguyên thủy mang sức mạnh của tạo hóa, sự sống, cái chết, và thực tại.
+
+tagDevotion_RequiresSword=^oYêu cầu mang kiếm.
+tagDevotion_RequiresAxe=^oYêu cầu mang rìu.
+tagDevotion_RequiresMace=^oYêu cầu mang chùy.
+tagDevotion_RequiresCaster=^oYêu cầu mang trượng hoặc dao găm.
+tagDevotion_RequiresFocus=^oYêu cầu mang trang bị ở tay chiêu.
+tagDevotion_Requires1hRange=^oYêu cầu mang vũ khí tầm xa một tay.
+tagDevotion_Requires2hRange=^oYêu cầu mang vũ khí tầm xa hai tay.
+tagDevotion_RequiresRange=^oYêu cầu mang vũ khí tầm xa.
+tagDevotion_Requires2h=^oYêu cầu mang vũ khí cận chiến hai tay hoặc vũ khí tầm xa.
+tagDevotion_RequiresShield=^oYêu cầu mang khiên.
+tagDevotion_RequiresMagic=^oYêu cầu mang trượng, dao găm hoặc trang bị ở tay chiêu.
+
+tagDevotion_A01=Dơi
+tagDevotion_A01Desc=Loài dơi hút máu dễ dàng tìm đường trong trời đêm, săn tìm những vệt sao sa để hút nốt chút ánh sáng còn lại của chúng.
+tagDevotion_A02=Bọ cạp của Akeron
+tagDevotion_A02Desc=Akeron bị bắt phải lê bước trên sa mạc đến hết đời, nhưng số phận đã can thiệp khi đưa một con bọ cạp dẫn người say nắng đó đến với nguồn nước. Akeron sống sót qua án tử của mình rồi quay trở lại báo thù những kẻ đã để anh phải chết với nọc độc của bọ cạp.
+tagDevotion_A03=Quạ
+tagDevotion_A03Desc=Quạ đại diện cho sự xảo trá. Chính vì lý do này mà những thần phù thủy rất ưa dùng chúng làm bạn cũng như để đưa tin.
+tagDevotion_A04=Búa
+tagDevotion_A04Desc=Cây búa đập xuống đe với sức mạnh thần thánh, rèn nên vũ khí cho những vị thần trong bàn tay rắn chắc của Targo.
+tagDevotion_A05=Đe
+tagDevotion_A05Desc=Chiếc đe hấp thụ những cú đập từ cây búa, một công cụ không thể thiếu trong lò rèn thiên đình của Targo.
+tagDevotion_A06=Gậy Chăn cừu
+tagDevotion_A06Desc=Người chăn cừu dẫn đàn cừu đi ngang qua bầu trời đêm.
+tagDevotion_A07=La bàn Thủy thủ
+tagDevotion_A07Desc=Chòm La bàn Thủy thủ là một điểm đánh dấu trên bầu trời cho những người bị lạc trên biển. Ánh sáng soi đường của nó đã cứu mạng không ít thủy thủ dám đương đầu với con nước hung tợn.
+tagDevotion_A08=Lưỡi đao Sát thủ
+tagDevotion_A08Desc=Dao găm, công cụ ưa thích của mọi sát thủ chính thống.
+tagDevotion_A09=Con mắt Bảo hộ
+tagDevotion_A09Desc=Dreeg, một thần phù thủy, đồn rằng đã nhìn qua thế giới bên kia và chứng kiến sự thật của vạn vật. Vì thế, những vị thần đã nguyền cho xác phàm của ông trở thành một thứ dị dạng với một ngàn con mắt không mi. Giờ đây ông ta mãi mãi đứng canh gác bức màn, cái nhìn độc nhất của ông vẫn luôn để mắt tới những kẻ dám theo bước mình.
+tagDevotion_A10=Chim ưng
+tagDevotion_A10Desc=Cái nhìn sắc sảo của chim ưng đảo khắp bầu trời tìm con mồi sơ hở.
+tagDevotion_A11=Lươn
+tagDevotion_A11Desc=Lươn lướt nhẹ nhàng trên bầu trời đêm, hình dạng trơn tuột của nó không thể nào nắm bắt được.
+tagDevotion_A12=Cú
+tagDevotion_A12Desc=Cú đại diện cho sự theo đuổi tri thức và học thuật. Việc niệm phép được tin là có hiệu quả hơn dưới sự dõi theo của loài cú.
+tagDevotion_A13=Rắn
+tagDevotion_A13Desc=Rắn đại diện cho dòng năng lượng luân chuyển giữa thế giới người sống và aether, thứ cung cấp sức mạnh cho mọi dạng ma thuật.
+tagDevotion_A14=Giá treo cổ
+tagDevotion_A14Desc=Giá treo cổ là một dấu hiệu của cả công lý được thực thi lẫn điềm báo sự chết chóc.
+tagDevotion_A15=Giao lộ
+tagDevotion_A15Desc=Giao lộ đánh dấu sự chuyển biến, là khởi đầu của những tiềm năng vô tận.
+tagDevotion_A16=Ngai vàng Trống
+tagDevotion_A16Desc=Từ khi Rhowan xứ Arkovia từ bỏ vương vị, chiếc ghế quyền lực vẫn để trống cho tới ngày cả đế quốc vĩ đại sụp đổ do những kẻ cầm đầu chém giết lẫn nhau để tranh giành quyền lực.
+tagDevotion_A17=Chuột
+tagDevotion_A17Desc=Chuột rón rén đi qua bầu trời đêm, cẩn thận né tránh cái nhìn của chim ưng và diều hâu.
+tagDevotion_A18=Sóng thần
+tagDevotion_A18Desc=Sóng thần đánh dấu quãng thời gian nguy hiểm nhất trong năm để ra biển, với những cơn bão dày đặc cùng sóng to gió lớn đã đánh chìm không biết bao nhiêu đoàn thuyền. Thuyền trưởng thông thái sẽ dự trù cho hải trình để tránh mùa bão.
+tagDevotion_A19=Tiểu yêu
+tagDevotion_A19Desc=Tiểu yêu là kẻ thích đùa, chòm sao của nó thoắt ẩn thoắt hiện trên bầu trời quanh năm.
+tagDevotion_A20=Quỷ
+tagDevotion_A20Desc=Loài quỷ ẩn nấp trong bóng tối hư không, chờ những ngôi sao ương ngạnh tắt lịm.
+tagDevotion_A21=Trâu
+tagDevotion_A21Desc=Trâu lao đi qua bầu trời với quyết tâm cùng sức mạnh.
+tagDevotion_A22=Hồn ma
+tagDevotion_A22Desc=Hồn ma muôn đời lang thang khắp bầu trời, bản án cuối cùng của nó chẳng bao giờ được Ulcama đưa ra.
+tagDevotion_A23=Người chim
+tagDevotion_A23Desc=Người chim đại diện cho điềm gở. Được sinh ra dưới chòm sao này bị cho là một sự tủi nhục, khiến nhiều gia đình quyết định bỏ rơi những đứa trẻ đó luôn.
+tagDevotion_A24=Cáo
+tagDevotion_A24Desc=Con cáo xảo trá nhảy nhót vui vẻ trên bầu trời đêm.
+tagDevotion_A25=Xác sống
+tagDevotion_A25Desc=Xác sống thể hiện sự tha hóa và mục rữa, ngược với nó là nữ thần rừng.
+tagDevotion_A26=Thần rừng
+tagDevotion_A26Desc=Thần rừng thể hiện linh hồn của thiên nhiên và sự thuần khiết, ngược với cô là xác sống.
+tagDevotion_A27=Diều hâu
+tagDevotion_A27Desc=Diều hâu vươn cánh tới tận thiên đường, tìm kiếm bữa ăn tiếp theo.
+tagDevotion_A28=Chồn
+tagDevotion_A28Desc=Chồn đại diện cho sự hoang dã chưa thuần.
+tagDevotion_A29=Rùa
+tagDevotion_A29Desc=Rùa đại diện cho sự kiên cường và cống hiến quên mình.
+tagDevotion_A30=Báo
+tagDevotion_A30Desc=Báo đại diện cho sức mạnh tinh thần và sự khéo léo.
+tagDevotion_A31=Sếu
+tagDevotion_A31Desc=Sếu đại diện cho sự hòa hợp thái bình, đối lập với nó là kền kền.
+tagDevotion_A32=Kền kền
+tagDevotion_A32Desc=Kền kền đại diện cho sự hỗn loạn vô phép, đối lập với nó là sếu.
+tagDevotion_A33=Chó săn
+tagDevotion_A33Desc=Chó săn trung thành đang đợi chủ nhân gọi, luôn sẵn lòng theo chân nữ thợ săn vào một cuộc hành trình mới.
+tagDevotion_A34=Nhện
+tagDevotion_A34Desc=Nhện dệt mạng trên bầu trời đêm, bẫy những ngôi sao đi lạc cho những vị thần thêu lên tấm thảm của họ.
+tagDevotion_A35=Thằn lằn
+tagDevotion_A35Desc=Thằn lằn là một trong những sinh vật đầu tiên sinh ra từ Cây Sự sống, tổ tiên của mọi loài bò sát.
+tagDevotion_A36=Ngọn đèn Học giả
+tagDevotion_A36Desc=Ngọn đèn của học giả bừng sáng khi những học giả thiếu ngủ đang cần mẫn làm việc dưới ánh nến mờ ảo.
+tagDevotion_A37=Sư tử
+tagDevotion_A37Desc=Sư tử đại diện cho sự dũng cảm, can trường, khởi nguồn của những vị vua.
+tagDevotion_A38=Linh cẩu
+tagDevotion_A38Desc=Linh cẩu lẩn lút khắp bầu trời, tìm kiếm con mồi dễ xơi.
+
+tagDevotion_B01=Vương miện của Rhowan
+tagDevotion_B01Desc=Nghe nói khi Rhowan xứ Arkovia từ bỏ vương vị, vương miện và quyền trượng của ông ta lập tức biến mất, rồi chợt xuất hiện trên bầu trời đêm ngày hôm sau.
+tagDevotion_B02=Chiếc cân Ulcama
+tagDevotion_B02Desc=Ulcama, quan tòa, cai quản thiên đường và phán xét sinh mạng của mọi sinh vật. Nghe nói mỗi hành vi của một người sẽ được đặt lên chiếc cân vàng của ông, và nếu những việc xấu trong đời nặng hơn việc tốt, linh hồn của họ sẽ bị đẩy vào cõi hư không bất tận.
+tagDevotion_B03=Wendigo
+tagDevotion_B03Desc=Wendigo là một con ma đói nguyên thủy. Nhiều shaman đi ngược lại những lời răn của mình và cố giao kèo với wendigo hi vọng đưa được linh hồn độc ác này ra chống lại kẻ thù; nhưng bọn wendigo vốn cực kỳ khó kiểm soát đã khiến nhiều shaman phát điên, mang cho họ một cơn đói vô tận là nguồn gốc của tục ăn thịt người.
+tagDevotion_B04=Thợ săn
+tagDevotion_B04Desc=Thợ săn đi khắp bầu trời, dõi theo con mồi của cô. Nghe nói cuộc đi săn vĩnh hằng này sẽ kết thúc khi cô giết được con giao long bất tử.
+tagDevotion_B05=Gấu dữ
+tagDevotion_B05Desc=Gấu là biểu tượng của sự kiêu hãnh và sức mạnh. Những người sinh dưới chòm sao này được cho là hậu duệ của những vị vua cổ xưa.
+tagDevotion_B06=Sát thủ
+tagDevotion_B06Desc=Sát thủ, đao phủ của thiên đình chẳng mấy khi xuất hiện trên bầu trời đêm. Nó thường xuất hiện ẩn sau những đám mây dày, chỉ ló ra trong khoảnh khắc rồi lại biến mất sau tấm màn sâu thẳm.
+tagDevotion_B07=Pháp sư
+tagDevotion_B07Desc=Pháp sư là thần bảo trợ cho mọi người sử dụng phép thuật. Những người sinh dưới chòm sao này được cho là có phước, hoặc bị nguyền tùy theo quan điểm, với quyền năng vô song trước các thế lực huyền bí.
+tagDevotion_B08=Lợn lòi
+tagDevotion_B08Desc=Lợn lòi xuất hiện trên bầu trời đánh dấu khởi đầu lễ hội mùa thù và mùa thay lá. Sự kiện này bắt đầu với một cuộc đi săn lớn và kết thúc bằng một bữa tiệc chỉ kết thúc khi rượu bia đã cạn sạch.
+tagDevotion_B09=Góa phụ
+tagDevotion_B09Desc=Góa phụ khóc thương cho những người đã khuất. Khi một vệt sáng lóe lên trên bầu trời, họ bảo đó là nước mắt của góa phụ.
+tagDevotion_B10=Bóng ma
+tagDevotion_B10Desc=Bóng ma đại diện cho cái chết và sự bất hạnh. Nghe nói không ai có thể thoát được cái nhìn chết chóc của nó, kể cả những vị thần.
+tagDevotion_B11=Pháp kiếm của Solael
+tagDevotion_B11Desc=Solael được cho là tàn nhẫn nhất trong ba thần phù thủy, đã mổ bụng vô số nạn nhân bằng lưỡi dao hiến sinh trong cuộc truy cầu sự bất tử điên khùng của mình.
+tagDevotion_B12=Xiềng xích của Bysmiel
+tagDevotion_B12Desc=Tương truyền rằng Bysmiel, một thần phù thủy, đang lên giá treo cổ khi cô ta từ bỏ xác phàm để lên thiên đường, đoạn xích bị đứt là dấu hiệu duy nhất của cuộc đào thoát này.
+tagDevotion_B13=Cơn bão
+tagDevotion_B13Desc=Cơn bão được cho là sẽ rực rỡ nhất khi có một cơn bão lớn tích tụ ở phía chân trời. Những đứa trẻ sinh ra trong cơn bão được tin là ngày sau sẽ làm những việc vĩ đại.
+tagDevotion_B14=Thợ xây Targo
+tagDevotion_B14Desc=Targo là thần bảo trợ cho những người thợ và kiến trúc sư, người ta tin rằng chính vị thần này đã tạo ra tấm màn trời nơi các vì sao nằm trên đó.
+tagDevotion_B15=Linh hồn Mùa đông Amatok
+tagDevotion_B15Desc=Trong những tháng mùa đông chòm sao này hiện ra ở đường chân trời phương bắc. Truyền rằng những lữ khách trong cơn tuyệt vọng nếu đi theo ánh sao soi đường của Amatok có thể đến được nhà của ông. Ai vào nhà sẽ được phép ngồi bên lò sưởi ấm cùng và cùng ăn một bữa thịnh soạn nhưng với những kẻ ngu ngốc, Amatok sẽ lột da và nấu làm bữa ăn tối hôm sau. 
+tagDevotion_B16=Tai ách
+tagDevotion_B16Desc=Sự xuất hiện của chòm tai ách trên bầu trời, ngay sau lễ hội lớn của Lợn lòi, đánh dấu sự khởi đầu những tháng lạnh lẽo, khi dịch bệnh và sa sút biến Cairn thành một hình ảnh tương phản rõ rệt với những ngày mùa sung túc trước đó.
+tagDevotion_B17=Cua
+tagDevotion_B17Desc=Cua đánh dấu sự khởi đầu của vụ đánh cá thuận lợi nhất trong năm, nhưng cũng là mùa nguy hiểm nhất khi những sinh vật biển to lớn cũng theo đàn cá tôm tới gần bờ hơn.
+tagDevotion_B18=Manticore
+tagDevotion_B18Desc=Manticore là loài thú săn mồi dữ tợn bay khắp bầu trời đêm để tìm thức ăn. Cả răng lẫn đuôi nó đều đầy nọc độc.
+tagDevotion_B19=Người canh gác Nghiêm nghị
+tagDevotion_B19Desc=Symon, người canh gác, vẫn đứng ở Vọng gác của Symon đến tận ngày cuối đời, bảo vệ đế chế trước những mối họa siêu nhiên. Phiên gác vĩnh hằng của Symon được nối tiếp trên bầu trời, canh giữ cho Cairn như ông đã làm khi còn sống.
+tagDevotion_B20=Sứ giả Chiến tranh
+tagDevotion_B20Desc=Sứ giả chiến tranh là một biểu tượng của nỗi sợ và sự bạo ngược. Sứ giả phi ngựa giữa khoảng không, báo trước một kỷ nguyên mới của mâu thuẫn và xung đột.
+tagDevotion_B21=Kraken
+tagDevotion_B21Desc=Những thuyền trưởng thường từ chối khởi hành nếu chòm Kraken sáng rõ trên bầu trời mà không có ánh sáng của chòm La bàn bảo vệ cho họ.
+tagDevotion_B22=Hydra
+tagDevotion_B22Desc=Quái thú trong thần thoại lang thang khắp trời đêm, bất diệt và hùng vĩ. Nghe đồn những cái đầu của nó có thể tự mọc lại ngay tức khắc.
+tagDevotion_B23=Kiếm của Nadaan
+tagDevotion_B23Desc=Nadaan là thần bảo hộ của đạo tặc và sát thủ. Những thanh kiếm của ông xuất hiện trên bầu trời thường được hiểu là một điềm chẳng lành; rằng một tội ác, nhưng cần thiết, sắp được thực thi.
+tagDevotion_B24=Quyền trượng của Rhowan
+tagDevotion_B24Desc=Nghe nói khi Rhowan xứ Arkovia từ bỏ vương vị, vương miện và quyền trượng của ông ta lập tức biến mất, rồi chợt xuất hiện trên bầu trời đêm ngày hôm sau.
+tagDevotion_B25=Cuồng chiến sĩ
+tagDevotion_B25Desc=Cuồng chiến sĩ là người bảo trợ hoang dã của chiến tranh. Cô ta đại diện cho sức mạnh và sự tàn bạo.
+tagDevotion_B26=Đèn lồng của Oklaine
+tagDevotion_B26Desc=Oklaine, là thần bảo hộ của pháp sư và phù thủy. Nghe đồn ánh sáng của ông có tác dụng như một ngọn hải đăng dẫn đường khi họ di chuyển trong lằn ranh giữa thực tại và aether.
+tagDevotion_B27=Thiếu nữ mang khiên
+tagDevotion_B27Desc=Thiếu nữ mang khiên đứng gác giữa các vì sao, để không kẻ nào rời khỏi vị trí đã sắp đặt sẵn khi chưa có mệnh lệnh của những vị thần.
+tagDevotion_B28=Người khổng lồ
+tagDevotion_B28Desc=Người khổng lồ phục vụ các vị thần, cả đời di chuyển và điều chỉnh vị trí vô số các vì sao trên bầu trời theo lệnh của họ.
+tagDevotion_B29=Cỗ xe Tử thần
+tagDevotion_B29Desc=Cỗ xe Tử thần thu thập những linh hồn và mang chúng tới nơi phán xét cuối cùng ở thế giới bên kia.
+tagDevotion_B30=Người giữ Nước Ulo
+tagDevotion_B30Desc=Ulo đại diện cho vòng tuần hoàn vô tận và không thể ngăn cản của nước, làm mới mọi dòng sông trên khắp thế giới và theo đó là biển và hồ.
+tagDevotion_B31=Liềm
+tagDevotion_B31Desc=Liềm đại diện cho phần thưởng và mùa thu hoạch. Nó sáng rõ nhất vào những tháng nóng nhất, trước khi thoái lui nhường chỗ cho chòm Lợn lòi.
+
+tagDevotion_C01=Đồng hồ cát của Aeon
+tagDevotion_C01Desc=Aeon được biết tới như thần quản lý thời gian, chủ nhân của sợi tơ định mệnh. Phán quyết của ông định đoạt việc sinh tử của những kẻ phàm trần. Biểu tượng của ông là chiếc đồng hồ cát.
+tagDevotion_C02=Kẻ biến dị
+tagDevotion_C02Desc=Golgoran, kẻ biến dị, đại diện cho bản năng thấp kém nhất của loài người, nỗi sợ cái chết và bóng tối, sự thèm khát thứ mình không có. Kẻ biến dị tiêu biểu cho mọi thứ biến con người trở nên xấu xa.
+tagDevotion_C03=Ánh sáng của Empyrion
+tagDevotion_C03Desc=Empyrion, vị thần vĩ đại nhất trong các vị thần, là ánh sáng bao trùm khắp thế giới và bảo hộ cho vạn vật ở xứ Cairn. Chính nhờ ơn của ngài mà mỗi ngày mới nhân loại còn được đón mặt trời.
+tagDevotion_C04=Oleron
+tagDevotion_C04Desc=Bi kịch là chuyện đời của Oleron, người đã trở thành vị thần chiến tranh. Khi đối mặt với sự diệt vong của tổ quốc mình, Oleron chọn cách vùng lên để bảo vệ đồng bào mình, nhưng chiến thắng đó đã lấy đi của anh người vợ và đứa con độc nhất. Sự mất mát đè nặng lên vai người hùng, và truyền thuyết kể rằng từ ngày đó anh thường bất chấp tất cả để lao vào trận chiến, tìm kiếm cái chết từ mũi kiếm kẻ thù để có thể được đoàn tụ cùng gia đình mình. Nhưng sự giải thoát đó chẳng bao giờ tới. Ngày nay, khi những người lính xung trận, họ vẫn hô vang tên của Oleron để lấy thêm sức mạnh và sĩ khí.
+tagDevotion_C05=Bia đá của Menhir
+tagDevotion_C05Desc=Menhir, thần đất, là một thần bảo hộ vững vàng của xứ Cairn. Ông được cả những người muốn bảo vệ tổ quốc và nông dân mong vụ mùa bội thu tôn thờ như nhau. Những bia đá cổ đánh dấu vùng đất thiêng của Menhir vẫn còn cho tới ngày nay.
+tagDevotion_C06=Ngọn giáo Thiên đường
+tagDevotion_C06Desc=Ngọn giáo Thiên đường là biểu tượng của quyền lực. Truyền rằng Ngọn giáo này từng được chính Empyrion mang khi ngài trừng phạt Thần Hấp hối và đập tan gã ác thần ra hàng nghìn nghìn mảnh.
+tagDevotion_C07=Ngọn đuốc Ulzuin
+tagDevotion_C07Desc=Ulzuin kẻ Phản bội từng là một vị thần phụ trách trị bệnh và các nghi lễ, nhưng hàng thiên niên kỷ đau đớn sau sự phản bội kinh khủng của người ông yêu đã làm méo mó vị thần một thời hiền hòa trở thành kẻ ác nghiệt chủ hứng thú với thù hận và hủy diệt.
+tagDevotion_C08=Thần hấp hối
+tagDevotion_C08Desc=Trong một kỷ nguyên trước khi những hành tinh của người phàm hình thành, một cựu thần đã bị các con mình phản bội; cơ thể ông bị phân làm nhiều mảnh và hút cạn máu để chúng có thể dùng sức mạnh đó thổi sự sống vào những tác phẩm của chúng. Thi thể ông ta bị ném vào hư không nhưng, do không thể chết, vị thần vẫn lay lắt trong bóng tối, mãi mãi phải chịu sự đau đớn và điên loạn; phải cảm nhận sự đau đớn và chết chóc của mọi sinh vật nhận được sự sống từ máu của mình. Tên ông dần bị quên lãng theo thời gian, vị thần hấp hối chỉ còn được biết đến với tên gọi Ch'thon; kẻ sống bên dưới tạo hóa.
+tagDevotion_C09=Cây sự sống
+tagDevotion_C09Desc=Truyền thuyết kể rằng khi thế giới sinh ra từ trong bóng tối hư không, một cái cây đã được trồng để rồi nó sinh ra mọi loài động thực vật trên khắp thế giới.
+tagDevotion_C10=Sói già Mogdrogen
+tagDevotion_C10Desc=Một titan sinh ra trong cuộc chiến giữa các vị thần, Mogdrogen đã trở thành thần thú và được cho là vẫn đi khắp những vùng hoang dã ở xứ Cairn. Truyền thuyết cho rằng Mogdrogen có thể biến hình, thường xuất hiện dưới dạng một con sói khổng lồ nhưng đôi khi cũng dùng những hình dạng khác, kể cả con người. Mogdrogen lang thang ở những miền xa xôi, bảo vệ những động vật hoang dã trước sự xâm lấn của con người.
+tagDevotion_C11=Hiền triết Mù
+tagDevotion_C11Desc=Nhiều người đi cả ngàn dặm để truy tầm sự thông thái của nhà hiền triết mù vĩ đại, nhưng hầu hết trong số họ ra về mà không được thỏa mãn, linh hồn của họ không xứng đáng với nguồn tri thức không tuổi của bà.
+tagDevotion_C12=Leviathan
+tagDevotion_C12Desc=Con rắn vĩ đại trên bầu trời, kẻ nuốt những ngôi sao và mang tới cái lạnh lẽo của màn đêm.
+tagDevotion_C13=Người lính Vô danh
+tagDevotion_C13Desc=Nhiều truyền thuyết kể về những con người vô danh bỏ mạng trong chiến trận, lòng can đảm và chiến công của họ chẳng ai biết tới. Để vinh danh sự hi sinh của họ, tự những vì sao đã sắp xếp lại để tạo nên chòm Người lính Vô danh.
+
+tagDevotionEffectA01=Nanh đôi
+tagDevotionEffectA01Desc=Nanh hút máu tấn công kẻ địch và hút cạn sinh lực của chúng.
+tagDevotionEffectA02=Nọc Bọ cạp
+tagDevotionEffectA02Desc=Gai nhọn tẩm đầy độc dược chết người phóng ra xung quanh bạn.
+tagDevotionEffectA05=Búa của Targo
+tagDevotionEffectA05Desc=Cây búa trời của Targo bay vòng quanh bạn, tấn công kẻ địch gần đó.
+tagDevotionEffectA06=Tiếng gọi Người chăn cừu
+tagDevotionEffectA06Desc=Gọi đám đệ lên chiến đấu cùng bạn.
+tagDevotionEffectA08=Dấu ấn Sát thủ
+tagDevotionEffectA08Desc=Đánh dấu mục tiêu cho một cái chết nhanh và đau đớn.
+tagDevotionEffectA09=Cái nhìn của Người bảo hộ
+tagDevotionEffectA09Desc=Một con mắt của Người bảo hộ Vĩ đại bay vòng quanh bạn.
+tagDevotionEffectA10=Ưng kích
+tagDevotionEffectA10Desc=Một đàn chim ưng sà xuống tấn công kẻ địch của bạn.
+tagDevotionEffectA18=Sóng thần
+tagDevotionEffectA18Desc=Một dòng nước đổ xuống bất cứ kẻ địch nào chẳng may đứng trước mặt bạn.
+tagDevotionEffectA19=Lửa Aether
+tagDevotionEffectA19Desc=Một đám lửa aether nhỏ bùng lên dưới chân mục tiêu của bạn.
+tagDevotionEffectA20=Dòng Lửa
+tagDevotionEffectA20Desc=Ngọn lửa ma quái xoáy xung quanh bạn, thiêu đốt mọi kẻ địch chúng chạm phải.
+tagDevotionEffectA21=Trâu húc
+tagDevotionEffectA21Desc=Tấn công kẻ địch xung quanh bằng một lực vật lý đột ngột, như bị trâu húc.
+tagDevotionEffectA25=Ma đói
+tagDevotionEffectA25Desc=Khi bị dồn vào chân tường, bạn rơi vào một trạng thái điên cuồng, thèm kinh khủng một miếng thịt tươi.
+tagDevotionEffectA26=Thần rừng ban phước
+tagDevotionEffectA26Desc=Thần rừng xóa đi những vết thương và che chắn cho bạn trước các loại độc dược.
+tagDevotionEffectA29=Mai rùa
+tagDevotionEffectA29Desc=Khi bị đe dọa, một lá chắn bảo hộ sẽ xuất hiện quanh bạn, vô hiệu những mối nguy hại.
+
+tagDevotionEffectB01=Bão Nguyên tố
+tagDevotionEffectB01Desc=Một cơn cuồng phong của băng và lửa hiện ra theo lệnh của bạn.
+tagDevotionEffectB02=Nghiên cán cân
+tagDevotionEffectB02Desc=Nghiêng cán cân theo hướng có lợi, rút sinh lực của những kẻ tấn công và chuyển về cho bạn.
+tagDevotionEffectB03=Dấu ấn của Wendigo
+tagDevotionEffectB03Desc=Bạn đánh dấu kẻ địch với ký hiệu của wendigo, hút chút sinh lực còn sót lại của chúng rồi chuyển về cho bạn.
+tagDevotionEffectB04=Xé
+tagDevotionEffectB04Desc=Cắt vụn kẻ địch, để lộ ra động mạch đồng thời gây xuất huyết nghiêm trọng.
+tagDevotionEffectB05=Nện
+tagDevotionEffectB05Desc=Nện kẻ địch đứng xung quanh với sức mạnh của gấu. {^n}^oYêu cầu mang vũ khí cận chiến.
+tagDevotionEffectB06=Lưỡi đao Bóng ma
+tagDevotionEffectB06Desc=Giành lợi thế bằng việc phóng ra một loạt huyễn ảnh đao dễ dàng đâm xuyên qua kẻ địch.
+tagDevotionEffectB07=Rãnh nứt
+tagDevotionEffectB07Desc=Một rãnh nứt mở ra trên mặt đất, bắn dung nham và đá lưu huỳnh vào những kẻ địch xung quanh.
+tagDevotionEffectB07_Pet01=Magma
+tagDevotionEffectB08=Giày xéo
+tagDevotionEffectB08Desc=Giải phóng một làn sóng xung lực từ khiên của bạn phá vỡ mặt đất đồng thời làm kẻ địch chạy tán loạn.
+tagDevotionEffectB09=Bom Huyền bí
+tagDevotionEffectB09Desc=Đánh dấu mặt đất với một dấu ấn huyền bí sẽ phát nổ khi tiếp xúc với một kẻ địch. {^n}^oBom Huyền bí cần 1 giây để đặt.
+tagDevotionEffectB09_Pet01=Dấu ấn Huyền bí
+tagDevotionEffectB09_Pet01Desc=Được đánh dấu bởi một quả Bom Huyền bí.
+tagDevotionEffectB10=Triệu hồi Thây ma
+tagDevotionEffectB10Desc=Triệu hồi đám thây ma lên chiến đấu cùng bạn. Tuy nhiên nguồn năng lượng gọi hồn cần để thực hiện nghi thức này rất không ổn định, nên đám đệ undead đó sẽ chỉ tồn tại được trong một khoảng thời gian thôi. {^n}^oThây ma tỉ lệ với Sát thương của Người chơi.
+tagDevotionEffectB10_Pet01=Tấn công Cận chiến
+tagDevotionEffectB11=Lửa Ma
+tagDevotionEffectB11Desc=Ngọn lửa ma bùng lên từ những cú đánh của bạn và nhanh chóng lan ra những kẻ địch xung quanh.
+tagDevotionEffectB12=Mệnh lệnh của Bysmiel
+tagDevotionEffectB12Desc=Gọi ra một con chó săn ma quái để cắn xé kẻ địch. Sự hiện diện của chó săn ở giới vật chất vốn không ổn định nên nó chỉ có thể ở bên bạn trong một khoảng thời gian ngắn. {^n}^oChó săn tỉ lệ với Điểm thưởng cho Đệ.
+tagDevotionEffectB12_Pet01=Nanh Vuốt
+tagDevotionEffectB12_Pet02=Hơi thở Dịch bệnh
+tagDevotionEffectB13=Bão điện
+tagDevotionEffectB13Desc=Năng lượng tĩnh diện căng tràn trong bạn, giải phóng lên kẻ địch xung quanh dưới dạng những tia chớp hủy diệt.
+tagDevotionEffectB14=Bức tường Khiên
+tagDevotionEffectB14Desc=Một lá chắn siêu hình bao quanh bạn.
+tagDevotionEffectB15=Mưa Băng
+tagDevotionEffectB15Desc=Những mảnh băng sắc nhọn lao từ trên trời xuống đầu kẻ địch.
+tagDevotionEffectB16=Bể Hôi thối
+tagDevotionEffectB16Desc=Một cái hố thối rữa xuất hiện dưới chân kẻ địch, tha hóa mặt đất.
+tagDevotionEffectB17=Lá chắn Ma pháp
+tagDevotionEffectB17Desc=Một lá chắn chống lại sức mạnh ma thuật bao quanh bạn.
+tagDevotionEffectB18=Phun A-xít
+tagDevotionEffectB18Desc=Ngòi của manticore đâm xuyên qua mục tiêu, tạo ra một đám bụi a-xít ăn mòn phía sau chúng.
+tagDevotionEffectB20=Sứ giả Chiến tranh
+tagDevotionEffectB20Desc=Mang theo thông điệp về sự chinh phục, làm nhụt chí bất cứ kẻ địch nào liều lĩnh tới mức cố ngăn bạn.
+tagDevotionEffectB28=Dòng máu Khổng lồ
+tagDevotionEffectB28Desc=Dòng máu người khổng lồ chảy trong huyết quản của bạn, cải thiện khả năng hồi máu và trị thương.
+tagDevotionEffectB29=Linh hồn Ương ngạnh
+tagDevotionEffectB29Desc=Hi sinh một linh hồn ương ngạnh để bảo vệ bản thân trước bóng ma tử thần.
+tagDevotionEffectB30=Nước Thanh tẩy
+tagDevotionEffectB30Desc=Nước thanh tẩy của Ulo đẩy lui mọi ma thuật ám muội trong khu vực, loại trừ những hào quang và phép thuật có lợi của kẻ địch đồng thời mọi đồng minh được giải phóng khỏi những trạng thái bất lợi, bao gồm cả hiệu ứng sát thương theo thời gian.
+
+tagDevotionEffectC01=Co giãn Thời gian
+tagDevotionEffectC01Desc=Cát trong chiếc đồng hồ xoáy thành một cơn lốc cuồng loạn. Những định luật về thời gian không còn ảnh hưởng tới bạn nữa.
+tagDevotionEffectC02=Vụ nổ Bẩn
+tagDevotionEffectC02Desc=Sự tha hoa dồn nén trong bạn tuôn trào ra trong một vụ nổ khí độc khổng lồ.
+tagDevotionEffectC03=Sức mạnh Kinh tởm
+tagDevotionEffectC03Desc=Những quyền năng hỗn độn của Hư không tuôn trào trong bạn, biến vũ khí của bạn thành một vật dẫn cho nguồn sức mạnh ác quỷ.
+tagDevotionEffectC04=Ánh sáng của Empyrion
+tagDevotionEffectC04Desc=Ánh sáng thần thánh của Empyrion đẩy lùi bóng tối và thiêu đốt kẻ địch.
+tagDevotionEffectC05=Thịnh nộ Mù quáng
+tagDevotionEffectC05Desc=Bị kích động bởi lượng máu đã đổ, bạn điên cuồng tấn công mọi kẻ địch xung quanh với hàng loạt cú đánh hiểm độc.
+tagDevotionEffectC06=Hóa Đá
+tagDevotionEffectC06Desc=Da thịt bạn trở nên cứng như đá, gần như miễn nhiễm với mọi thứ trừ những cú đánh mạnh nhất.
+tagDevotionEffectC07=Ngọn giáo Thiên đường
+tagDevotionEffectC07Desc=Một ngọn giáo trừng phạt những kẻ địch dám tấn công bạn.
+tagDevotionEffectC08=Mưa Sao băng
+tagDevotionEffectC08Desc=Theo lệnh của bạn, bầu trời tách ra để ném xuống hàng loạt thiên thạch rực lửa. {^n}^oChỉ một trận Mưa Sao băng được diễn ra vào cùng một thời điểm.
+tagDevotionEffectC09=Cơn đói Hư không
+tagDevotionEffectC09Desc=Cơn đói hư không tăng sức mạnh cho bạn, đồng đội và đệ của bạn, nhưng sức mạnh nhận được đi kèm với cái giá không nhỏ cho cơ thể.
+tagDevotionEffectC09_Pet01=Xơi tái
+tagDevotionEffectC09_Pet02=Nanh vuốt
+tagDevotionEffectC10=Mưa Trị liệu
+tagDevotionEffectC10Desc=Một làn sương dễ chịu phát ra từ bạn, chữa lành vết thường và loại bỏ những trạng thái bất lợi.
+tagDevotionEffectC11=Tiếng hú của Mogdrogen
+tagDevotionEffectC11Desc=Bị thôi thúc bởi sự xúc động sau khi giết địch, bạn và đám đệ bước vào trạng thái cuồng nộ sôi sục.
+tagDevotionEffectC12=Nguyên tố Truy sát
+tagDevotionEffectC12Desc=Tạo ra một sinh vật ma quái từ năng lượng thuần khiết để tìm và thiêu đốt những kẻ địch xung quanh nó trước khi quay trở lại Aether trong một vụ nổ lớn. {^n}^oNguyên tố Truy sát tỉ lệ với sát thương thêm của người chơi.
+tagDevotionEffectC12_Pet01=Thiêu đốt
+tagDevotionEffectC12_Pet02=Kích nổ
+tagDevotionEffectC13=Xoáy nước
+tagDevotionEffectC13Desc=Biển sâu dữ dội được giải phóng dưới dạng một xoáy nước xuất hiện để tàn sát kẻ thù của bạn.
+tagDevotionEffectC14=Hình bóng Sống
+tagDevotionEffectC14Desc=Hiện thân của một anh hùng vô danh xuất hiện để chiến đấu bên cạnh bạn đồng thời hồi phục sinh lực cho bạn với mỗi đòn đánh. {^n}^oHình bóng Sống tỉ lệ với sát thương thêm của người chơi.
+tagDevotionEffectC14_Pet01=Nhát chém Bóng tối
+tagDevotionEffectC14_Pet02=Lưỡi kiếm Bóng tối
+
+#SkillsReallocator
+
+tagReallocateError01=Bạn cần loại bỏ hết điểm từ kỹ năng bổ trợ trước khi tẩy điểm cuối cùng của kỹ năng này.
+tagReallocateError02=Bạn không có đủ sát để tẩy thêm điểm nào nữa.
+tagReallocateError03=Bạn không thể tẩy điểm Mastery.
+tagDecreaseMasteryError=Không thể nhận lại điểm từ mastery.
+tagReclaimPoint=Nhấp chuột để Nhận lại Điểm Kỹ năng (Tốn {^s}{%t0}{^-} Sắt)
+tagReclaimDevotionPoint=Nhấp chuột để Nhận lại Điểm Tín ngưỡng (Tốn {^s}{%t0}{^-} Sắt, {^g}{%t1}{^-} Tinh thể Aether)
+tagRemovePoint=Nhấp Chuột trái để tẩy Điểm Cống hiến
+tagReclaimBase=Hãy tẩy điểm Bổ trợ trước khi Nhận lại Điểm Cuối cùng
+tagReclaimDevotion=Loại bỏ Hiệu ứng Tín ngưỡng đã gán
+tagRemoveBase=Điểm Tín ngưỡng không tẩy được
+tagReclaimNoPoints=Không còn Điểm nào để Nhận lại
+tagRemoveNoPoints=Không còn Điểm nào để Tẩy
+tagReclaimTotalGold=Tổng lượng Sắt:
+tagReclaimCost=Tốn Sắt:
+tagReclaimNoGold=Không đủ Sắt (Tốn {^s}{%t0}{^r})
+tagReclaimNoAether=Không đủ Tinh thể Aether (Tốn {^g}{%t0}{^r})
+tagReallocateTitle=Cộng lại Điểm Kỹ năng
+tagReallocationDescription=Nhấp chuột vào biểu tượng một kỹ năng sẽ tẩy một điểm.  Chi phí để tẩy điểm tăng lên với mỗi điểm được tẩy.
+tagReclaimTotalAether=Tổng số Tinh thể Aether:
+
+tagTemplateName=Rename Me
+tagTemplateDescription=Describe Me
+
+
+
+#EnemySkills
+
+tagEnemySkill01=Lời nguyền Suy nhược
+tagEnemySkill01Desc=Làm suy yếu khả năng kháng cự tự nhiên của linh hồn trước hư không.
+
+tagEnemySkillA01=Hào quang Tuyệt vọng
+tagEnemySkillA01_Desc=Sự hiện diện của Sứ giả Aether khiến bạn sợ hãi, làm giảm tốc độ của bạn và gây sát thương Aether.
+
+tagEnemySkillA02=Kẻ uống Linh hồn
+tagEnemySkillA02_Desc=Sự hiện diện của Kẻ uống Linh hồn hút sức mạnh của bạn đồng thời gây sát thương Sinh khí.
+
+tagEnemySkillA03=Chướng khí Ma quái
+tagEnemySkillA03_Desc=Lời nguyền Âm binh bào mòn mọi khả năng phòng thủ của bạn.
+
+tagEnemySkillA04=Dấu ấn Đau đớn
+tagEnemySkillA04_Desc=Dấu ấn của Con quỷ bào mòn sức mạnh của bạn, làm giảm Sát thương, Tốc độ và hạ thấp triệt để Tốc độ Hồi máu.
+
+tagEnemySkillA05=Cơn thịnh nộ Thiên nhiên
+tagEnemySkillA05_Desc=Lời nguyền của loài Troll làm cả cơ thể lẫn trí óc của bạn chậm lại, đồng thời khiến bạn dễ tổn thương bởi các nguyên tố.
+
+tagEnemySkillA06=Hút Máu
+tagEnemySkillA06_Desc=Lời nguyền loài Trog hút sinh khí của bạn và chuyển nó sang cho kẻ thi triển.
+
+tagEnemySkillA07=Bệnh dịch Máu
+tagEnemySkillA07_Desc=Lời nguyền của bọn Ghoul làm bạn sôi máu đồng thời giảm Khả năng Phòng thủ của bạn.
+
+tagEnemySkillA08=Thống khổ
+tagEnemySkillA08_Desc=Lời nguyền undead gây sự đau đớn tột độ lên xương cốt của bạn, làm chậm đồng thời làm suy yếu đòn tấn công vật lý của bạn.
+
+tagEnemySkillA09=Linh hồn Giận dữ
+tagEnemySkillA09_Desc=Một linh hồn giận dữ ám theo bạn, gây sát thương sinh khí trước khi lan ra những nạn nhân xung quanh.
+
+tagEnemySkillA10=Bẫy Xương
+tagEnemySkillA10_Desc=Người khổng lồ Xương đã nhốt được bạn vào một cái lồng xương, bào mòn sinh khí của bạn.
+
+tagEnemySkillA11=Bẫy đá Hắc diện
+tagEnemySkillA11_Desc=The Obsidian Defiler đã nhốt được bạn vào một cái lồng đá hắc diện, bào mòn sinh khí của bạn.
+
+tagEnemySkillA12=Bẫy đá Hắc diện
+tagEnemySkillA12_Desc=Benn'Jahr đã nhốt được bạn vào một cái lồng đá hắc diện, nghiền nát bạn bằng sức mạnh hỗn nguyên.
+
+tagEnemySkillA13=Dấu ấn Lửa Aether
+tagEnemySkillA13_Desc=Lửa Aether thiêu đốt linh hồn bạn, phơi bày bạn trước các nguyên tố cũng như chính Aether.
+
+tagEnemySkillD01=Hư không Hỗn loạn
+tagEnemySkillD01_Desc=Hư không từ từ xé nát bạn với nguồn năng lượng hỗn độn.
+
+tagEnemySkillD02=Quỷ lửa
+tagEnemySkillD02_Desc=Ngọn lửa xoáy đốt cháy bạn.
+
+tagEnemySkillD03=Siphoning Spirit
+tagEnemySkillD03_Desc=Một linh hồn độc ác ám theo bạn và hút đi sinh khí của bạn.
+
+tagEnemySkillD04=Hào quang Ma quái
+tagEnemySkillD04_Desc=Năng lượng ma quái thuần chất bao quanh viên tinh thể này, gia tăng sức mạnh cho các thực thể ma quái và làm hại sinh vật sống.
+
+tagEnemySkillD05=Quyền trượng của Aldritch
+tagEnemySkillD05_Desc=Quyền trượng của Aldritch phát ra những luồng năng lượng làm chấn động kẻ địch xung quanh.
+
+tagEnemySkillD06=Lời nguyền Huyết thệ
+tagEnemySkillD06_Desc=Lời nguyền của Hội Huyết thệ rút cạn ý chí chiến đấu với sức mạnh tha hóa của Hư không từ bạn, giảm kháng, hồi phục và Khả năng Tấn công.
+

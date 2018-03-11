@@ -1,0 +1,1298 @@
+#CreatureAllSurvivors
+
+tagSurvivorGuardGenericRangedA01=Người sống sót ~ Trinh sát
+tagSurvivorGuardGenericRangedB01=Người sống sót ~ Du kích
+tagSurvivorGuardGenericMeleeA01=Người sống sót ~ Phòng ngự
+tagSurvivorGuardGenericMeleeB01=Người sống sót ~ Thủ vệ
+
+tagHumanRover_GuardGeneric_MeleeA01=Người bảo hộ Du dân
+
+tagBlackLegion_GuardMeleeA01=Quân đoàn Đen ~ Bộ binh
+tagBlackLegion_GuardRangedA01=Quân đoàn Đen ~ Xạ thủ
+
+tagBlackLegion_MeleeA01=Quân đoàn Đen ~ Đánh thuê
+tagBlackLegion_MeleeB01=Quân đoàn Đen ~ Tiên phong
+tagBlackLegion_RangedA01=Quân đoàn Đen ~ Tử Ấn
+tagBlackLegion_CasterB01=Quân đoàn Đen ~ Pháp sư
+tagBlackLegion_CasterB02=Quân đoàn Đen ~ Quân Y
+tagBlackLegion_ChampionC01=Quân đoàn Đen ~ Đội trưởng
+
+tagNecromancer_CasterA01=Hội Canh giữ Cái chết ~ Tập sự
+tagNecromancer_MeleeA01=Hội Canh giữ Cái chết ~ Tập sự
+tagNecromancer_CasterB01=Hội Canh giữ Cái chết ~ Thầy dòng
+tagNecromancer_ChampionC01=Hội Canh giữ Cái chết ~ Chúa tể Khủng bố
+tagNecromancerH01=Urokoraa, Người phát ngôn của Cái chết
+tagNecromancerH02=Nokultaak, Tử thần
+tagNecromancerH03=Naakala ~ Phục sinh
+tagNecromancerH04=Misonaak ~ Lá chắn
+tagNecromancer_Boss01=Thầy Ravok, Lời thì thầm của Cái chết
+tagNecromancer_Boss02=Malkadarr, Đại tướng của Hội
+
+tagZealot_MeleeA01=Tinh binh của Kymon ~ Cuồng chiến sỹ
+tagZealot_RangedA01=Tinh binh của Kymon ~ Cuồng chiến sỹ
+tagZealot_CasterB01=Tinh binh của Kymon ~ Người gọi Sét
+tagZealot_ChampionC01=Tinh binh của Kymon ~ Nữ Kiếm thủ
+tagZealotH01=Giáo hữu Oseltia, Thiếu nữ Bão tố
+tagZealotH02=Giáo hữu Baldris, Con chiên của Empyrion
+tagZealotH03=Giáo hữu Thandria ~ Phòng ngự
+tagZealotH04=Giáo hữu Handrick ~ Thiêu đốt
+tagZealot_Boss01=Giáo hữu Bravna, Phá thiên giả
+tagZealot_Boss02=Sharanatu, Sứ giả Hư không
+tagZealot_AncestralSpirit=Quan chấp chính Barthollem
+
+#CreatureAetherial
+
+tagAetherCrystalA01=Tinh thể Aether
+tagAetherCrystalA02=Cụm Tinh thể Aether
+tagAetherCrystalA03=Đám Tinh thể Aether
+tagAnomalyB01=Nguyên tố Méo mó
+tagWindDevil_PoisonA01=Ác quỷ Gió độc
+tagAetherObeliskA01=Aetherial Obelisk
+tagAetherObeliskB01=Aetherial Terraformer
+
+tagBossAetherObelisk01=Sứ giả của Lửa
+tagBossAetherObelisk02=Sứ giả Hủy diệt
+tagBossAetherObelisk03=Sứ giả Tinh tú
+
+tagEnemyAetherialA01=Aetherial Watcher
+tagEnemyAetherialB01=Aetherial Wraith
+tagEnemyAetherialC01=Aetherial Spectre
+
+tagAetherialHeroH01=Azar, kẻ Cuồng nộ
+tagAetherialHeroH02=Mondrak, Ngọn đuốc Vĩnh hằng
+tagAetherialHeroH03=Intesius
+
+tagEnemyAetherialAbominationB01=Aetherial Abomination
+tagEnemyAetherialAbominationC01=Fused Terror
+
+tagAetherialAbominationBoss01=The Amalgamation
+tagAetherialCommanderBoss01=Chỉ huy Lucius
+
+#CreatureBoar
+
+tagEnemyBoarA01=Stonetusk
+tagEnemyBoarA02=Gargantuan Stonetusk
+tagEnemyBoarB01=Ironhide Stonetusk
+
+tagEnemyBoarFrost_A01=Chilltusk
+tagEnemyBoarFrost_A02=Gargantuan Chilltusk
+tagEnemyBoarFrost_B01=Frosthide Chilltusk
+
+tagBoarHeroH01=Dreadtusk, kẻ Săn thợ săn
+tagBoarHeroH02=Ragesnout ~ Nhanh nhẹn
+tagBoarHeroH03=Hellmane ~ Bùng cháy
+tagBoarHeroH04=Rotmane ~ Bệnh dịch
+tagBoarHeroH05=Aetherean ~ Tha hóa
+tagBoarHeroH06=Riftsnout ~ Nhiễm Hư không
+tagBoarFrostHeroH01=Mutallor ~ Hồi phục
+tagBoarFrostHeroH02=Stonemane ~ Phòng thủ
+
+
+#CreatureBoneRat
+
+tagEnemyBoneRatMeleeA01=Boneback Gnasher
+tagEnemyBoneRatRangedA01=Boneback
+
+tagEnemyBoneRatMeleeB01=Rabid Boneback
+tagEnemyBoneRatMeleeB02=Boneback Plaguebearer
+
+tagEnemyBoneratWitchGodA01=Frenzied Plaguebeast
+tagEnemyBoneratWitchGodA02=Rotting Plaguebeast
+
+tagEnemyBoneRatMeleeB02_Summon=Chuột của Halion
+
+tagBoneRatHeroH01=Maledictus
+tagBoneRatHeroH02=Razorback
+tagBoneRatHeroH03=Rotbite ~ Bệnh dịch
+tagBoneRatHeroH04=Bilewart ~ Nhanh nhẹn
+tagBoneRatHeroH05=Rimeclaw ~ Đóng băng
+tagBoneRatHeroH06=Wrathclaw ~ Tha hóa
+
+tagBoneRatMiniBoss01=Grundleplith the Hoarder
+tagBoneRatMiniBoss02=Pusquill the Hoarder
+
+#CreatureChthonian
+
+tagEnemyChthonianAbomination=Chthonian Unraveler
+
+tagEnemyChthonianMinionA01=Chthonian Harbinger
+tagEnemyChthonianMinionB01=Chthonian Bloodletter
+tagEnemyChthonianMinionC01=Chthonian Blightbringer
+
+tagChthonianMinionHeroH01=Charn'Daroth
+tagChthonianMinionHeroH02=Elnar'Daroth
+tagChthonianMinionHeroH03=Fos'Daroth
+tagChthonianMinionHeroH04=Ordran'Daroth
+tagChthonianMinionHeroH05=Pulv'Daroth
+tagChthonianMinionHeroH06=Maga'Lugal ~ Phòng thủ
+tagChthonianMinionHeroH07=Shar'Luthor ~ Lá chắn
+
+tagEnemyChthonianDreadguardA01=Chthonian Vanguard
+tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardB01Logghorrean=Loghorrean's Dreadguard
+tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+tagEnemyChthonianDreadguardC01Logghorrean=Loghorrean's Tyrant
+tagEnemyChthonianDreadguardD01=Loghorrean's Vanguard
+
+tagChthonianDreadguardHeroH01=Shar'Oruuth
+tagChthonianDreadguardHeroH02=Wen'Kazul, Lưỡi kiếm Khát máu
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~ Nhiễm điện
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ Phản kích
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Đóng băng
+
+tagEnemyChthonianLeechA01=Void Parasite
+tagEnemyChthonianLeechB01=Void Leech
+tagEnemyChthonianLeechB02=Void Souldrinker
+
+tagChthonianLeechHeroH01=Vom'Anatu
+tagChthonianLeechHeroH02=Gawtok'Anatu
+tagChthonianLeechHeroH03=Ekket'Anatu
+tagChthonianLeechHeroH04=Orudin'Anatu ~ Truyền nhiễm
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ Không thể ngăn cản
+
+tagChthonianBoss01=Lagoth'Ak, Sứ giả Máu
+tagChthonianBoss02=Shar'Zul, Sứ giả Hỗn nguyên
+tagChthonianBoss03=Bane'Galgalor, Vệ binh Canh cổng
+tagChthonianBoss04=Balok'Anatu, Kẻ nghiện Máu
+tagChthonianBoss05=Galar'Bargok, Quỷ sứ Hắc ám
+tagChthonianBoss06=Harak'Bargoth, Vệ binh Thành Hỗn nguyên
+tagChthonianBoss07=Zal'Naroth, Vệ binh Thành Hỗn nguyên
+
+#CreatureChthonianFiend
+
+tagEnemyVoidFiendA01=Voidfiend
+tagEnemyVoidFiendA02=Voidfiend Incinerator
+tagEnemyVoidFiendC01=Voidfiend Hellion
+
+tagVoidFiendHeroH01=Innugaru, Nỗi sự Hư không
+tagVoidFiendHeroH02=Hiln'Raz, Điềm dữ
+tagVoidFiendHeroH03=Sen'Thel Voidbringer
+tagVoidFiendHeroH04=Nii'Thel ~ Đấu sĩ
+tagVoidFiendHeroH05=Gurgoth'Siin ~ Thiêu đốt
+
+tagVoidFiendBoss01=Ballog'Nath, Lửa Địa ngục
+
+
+#CreatureChthonianDevourer
+
+tagEnemyChthonianDevourerA00=Chthonian Swarmer
+tagEnemyChthonianDevourerA01=Chthonian Hungerer
+tagEnemyChthonianDevourerB01=Chthonian Devourer
+tagEnemyChthonianDevourerB02=Chthonian Gorger
+
+tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
+tagChthonianDevourerHeroH02=Sargo'Din, the Hungering Maw
+tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
+tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
+tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
+
+tagChthonianDevourerBossB01=Rag'Nadar, Hàm Lớn
+
+
+#CreatureDranghoul
+
+tagEnemyDrangoulWarriorA01=Dranghoul Enforcer
+tagEnemyDrangoulWarriorB01=Dranghoul Tyrant
+
+tagDranghoulMiniBoss01=Gutworm, kẻ Ăn người
+tagDranghoulMiniBoss02=Bloodfeast Tàn nhẫn
+
+tagDranghoulHeroH01=Ralture, kẻ Không thể Chạm
+tagDranghoulHeroH02=Rugaru, kẻ Điều khiển Chó
+tagDranghoulHeroH03=Ooglar ~ Không thể ngăn cản
+tagDranghoulHeroH04=Reeve ~ Bùng cháy
+tagDranghoulHeroH05=Wovaar ~ Đóng băng
+tagDranghoulHeroH06=Ravadaar ~ Tha hóa
+tagDranghoulHeroH07=Vinaldaar ~ Nhiễm Hư không
+
+#CreatureFleshHulk
+
+tagEnemyFleshHulkA01=Flesh Hulk
+tagEnemyFleshHulkB01=Ironside Hulk
+tagEnemyFleshHulkC01=Rage Hulk
+
+tagFleshHulkHeroH01=Bonebreaker
+tagFleshHulkHeroH02=Faldonir Aetherborn
+tagFleshHulkHeroH03=Malnotris ~ Không thể ngăn cản
+tagFleshHulkHeroH04=Festerlis ~ Đấu sĩ
+
+tagEnemyFleshHulkBoss01=Venarius, kẻ Bẻ Xương sống
+
+#CreatureGazer
+
+tagEnemyGazerA01=Corruption
+tagEnemyGazerB01=Overseer
+tagEnemyGazerC01=Overmind
+tagEnemyGazerD01=Mindrager
+
+tagGazerHeroH01=Mesmer
+tagGazerHeroH02=Bane'Zal, Sinh ra từ Địa ngục
+tagGazerHeroH03=Darlax, kẻ Ăn Giấc mơ
+tagGazerHeroH04=Beholdan ~ Phản kích
+tagGazerHeroH05=Garminix ~ Hồi phục
+tagGazerHeroH06=Illumin ~ Nhiễm điện
+
+#CreatureGhost
+
+tagEnemyGhostA01=Apparition
+tagEnemyGhostB01=Haunted Noble
+tagEnemyGhostB02=Haunted Champion
+
+tagHeroGhostH01=Valavan, Linh hồn Lang thang
+tagHeroGhostH02=Ballan Voros ~ Phản kích
+tagHeroGhostH03=Rosena Malgos ~ Hồi phục
+tagHeroGhostH04=Stormshriek ~ Nhiễm điện
+tagHeroGhostH05=Oldrakan Pald ~ Nhanh nhẹn
+tagHeroGhostH06=Aetherwraith ~ Tha hóa
+
+tagGhostBoss01=Nam tước Wradlith, Chúa tể của những Hồn ma Lạc lối
+tagGhostBoss02=Nomos Dred
+tagGhostBoss03=Laudos Vagra
+tagGhostBoss04=Rhovena Kur
+tagGhostBoss05=Alkamos, Kẻ Hành quyết
+tagGhostBoss06=Bóng ma Bất hạnh
+
+#Ghoul
+
+tagEnemyGhoulA01=Ghoul
+tagEnemyGhoulB01=Ghoul Corpse-eater
+tagEnemyGhoulB02=Ghoul Blood-drinker
+tagEnemyGhoulC01=Ghoul Necrolyte
+
+tagEnemyGhoulH01=Necrolask
+tagEnemyGhoulH02=Rot-Eye
+tagEnemyGhoulH03=Corpselick
+tagEnemyGhoulH04=Corpran ~ Tha hóa
+tagEnemyGhoulH05=Vilnius ~ Nhiễm Hư không
+tagEnemyGhoulH06=Hungral ~ Nhiễm điện
+tagEnemyGhoulH07=Leperus ~ Bùng cháy
+
+tagGhoulBoss01=Nacrathan, kẻ Vô tận
+tagGhoulBoss02=Plagius, kẻ Hư nát
+tagGhoulBoss03=Harvoul, kẻ Dậm đất
+
+
+#CreatureGolem
+
+tagEnemyGolemRockA01=Earthen Shambler
+tagEnemyGolemRockB01=Mossy Shambler
+tagEnemyGolemRockC01=Stonewrought  Shambler
+tagEnemyGolemRockMiniBoss01=Ancient Shambler
+
+tagGolemRockHeroH01=Hammerton
+tagGolemRockHeroH02=Haldras Flamespitter
+tagGolemRockHeroH03=Stoneheart ~ Phản kích
+tagGolemRockHeroH04=Stonegrinder ~ Đột kích
+tagGolemRockHeroH05=Rimestone ~ Đóng băng
+tagGolemRockHeroH06=Voidstone ~ Nhiễm Hư không
+
+#CreatureGrobles
+
+tagEnemySnakeClanScavengerA01=Groble ~ Snake Clan Scavenger
+tagEnemySnakeClanRangedA01=Groble ~ Snake Clan Tracker
+tagEnemySnakeClanWarriorA01=Groble ~ Snake Clan Warrior
+tagEnemySnakeClanWarriorB01=Groble ~ Snake Clan Champion
+
+tagEnemySnakeClanShamanA01=Groble ~ Snake Clan Witchdoctor
+tagEnemySnakeClanShamanB01=Groble ~ Snake Clan Venomancer
+
+tagEnemySkyClanScavengerA01=Groble ~ Sky Clan Scavenger
+tagEnemySkyClanRangedA01=Groble ~ Sky Clan Tracker
+tagEnemySkyClanWarriorA01=Groble ~ Sky Clan Warrior
+tagEnemySkyClanWarriorB01=Groble ~ Sky Clan Champion
+
+tagEnemySkyClanShamanA01=Groble ~ Sky Clan Witchdoctor
+tagEnemySkyClanShamanB01=Groble ~ Sky Clan Stormcaller
+
+tagEnemyStoneClanScavengerA01=Groble ~ Stone Clan Scavenger
+tagEnemyStoneClanRangedA01=Groble ~ Stone Clan Tracker
+tagEnemyStoneClanWarriorA01=Groble ~ Stone Clan Warrior
+tagEnemyStoneClanWarriorB01=Groble ~ Stone Clan Champion
+
+tagEnemyStoneClanShamanA01=Groble ~ Stone Clan Witchdoctor
+tagEnemyStoneClanShamanB01=Groble ~ Stone Clan Geomancer
+
+tagEnemyEmberClanScavengerA01=Groble ~ Ember Clan Scavenger
+tagEnemyEmberClanRangedA01=Groble ~ Ember Clan Tracker
+tagEnemyEmberClanRangedB01=Groble ~ Ember Clan Huntmaster
+tagEnemyEmberClanWarriorA01=Groble ~ Ember Clan Warrior
+tagEnemyEmberClanWarriorB01=Groble ~ Ember Clan Champion
+
+tagEnemyEmberClanShamanA01=Groble ~ Ember Clan Witchdoctor
+tagEnemyEmberClanShamanB01=Groble ~ Ember Clan Pyromancer
+
+tagEnemyDeathClanScavengerA01=Groble ~ Death Clan Scavenger
+tagEnemyDeathClanRangedA01=Groble ~ Death Clan Tracker
+tagEnemyDeathClanWarriorA01=Groble ~ Death Clan Warrior
+tagEnemyDeathClanWarriorB01=Groble ~ Death Clan Champion
+
+tagEnemyDeathClanShamanA01=Groble ~ Death Clan Witchdoctor
+tagEnemyDeathClanShamanB01=Groble ~ Death Clan Bonecaster
+
+tagGrobleShamanHeroH01=Deshigu Chillbane
+tagGrobleShamanHeroH02=Nabinok
+tagGrobleShamanHeroH03=Nirlamnack ~ Phản kích
+tagGrobleHeroH01=Torgru, Bó đuốc sống
+tagGrobleHeroH02=Arbagol, Cán dao
+tagGrobleHeroH03=Uldagu Ăn Lửa
+tagGrobleHeroH04=Molbagdal Gọi Bão
+tagGrobleHeroH05=Holborack ~ Phòng thủ
+tagGrobleHeroH06=Pukesnot kẻ Ở bẩn
+
+tagGrobleBoss01=Narbalgal, kẻ Truy tầm Bão tố
+
+#Harpy
+
+tagEnemyHarpyA01=Harpy Flesh Ripper
+tagEnemyHarpyB01=Harpy Death Wind
+tagEnemyHarpyC01=Harpy Accursed Oracle
+
+tagHarpyHeroH01=Malexna, kẻ Dệt Bão
+tagHarpyHeroH02=Blazewing
+tagHarpyHeroH03=Tyrronax, Người quan sát Vĩ đại
+tagHarpyHeroH04=Scyliss, Ngón tay Bão tố ~ Nhiễm điện
+tagHarpyHeroH05=Holdrexna, kẻ Lướt gió ~ Nhanh nhẹn
+tagHarpyHeroH06=Wrathwing ~ Tha hóa
+
+tagHarpyBossB01=Lutra Bị bỏ rơi
+
+#CreatureHarvestman
+
+tagEnemyHarvestmanA01=Bù nhìn Ma ám
+tagEnemyHarvestmanB01=Thợ gặt Ma ám
+
+tagHarvestmanHeroH01=Nemedian, Tử thần
+tagHarvestmanHeroH02=Effigus, kẻ Nhiễm bệnh
+tagHarvestmanHeroH03=Asper ~ Nhanh nhẹn
+tagHarvestmanHeroH04=Crowfiend ~ Đấu sĩ
+
+
+#Hellhound
+
+tagEnemyHellhoundA01=Chó săn Địa ngục
+
+tagEnemyHellHoundWitchGodA01=Eldritch Mongrel
+tagEnemyHellHoundWitchGodA02=Eldritch Stormchaser
+
+
+
+#CreatureHuman
+
+tagEnemyBloodswornA01=Bloodsworn Adulant
+tagEnemyBloodswornB01=Bloodsworn Zealot
+tagEnemyBloodswornB02=Bloodsworn Summoner
+tagEnemyBloodswornB03=Bloodsworn Void-Caller
+tagEnemyBloodswornC01=Bloodsworn Priest
+tagEnemyBloodswornC02=Bloodsworn Doomsayer
+
+
+tagHumanCultistHeroH01=Julius Crowley, kẻ Thôi miên
+tagHumanCultistHeroH02=Lucius Sôi máu
+tagHumanCultistHeroH03=Nathalian, kẻ Gọi chó
+tagHumanCultistHeroH04=Ignacius ~ Bùng cháy
+tagHumanCultistHeroH05=Balvadar Khát máu ~ Hồi phục
+tagEnemyBloodswornMiniBoss01=Salazar, Lưỡi kiếm Âm binh
+tagEnemyBloodswornMiniBoss02=Bolvar, kẻ Rút máu
+tagEnemyBloodswornMiniBoss03=Zaria, kẻ Xẻ thịt
+tagBloodswornBoss01=Chúa tể Máu Thalonis
+tagBloodswornBoss02=Karroz, Dấu ấn Âm binh
+
+tagEnemyHumanOutlaw_Wightmire_MeleeA01=Tù nhân ~ Lackey
+tagEnemyHumanOutlaw_Wightmire_MeleeB01=Tù nhân ~ Thug
+tagEnemyHumanOutlaw_Wightmire_MeleeB02=Tù nhân ~ Brute
+tagEnemyHumanOutlaw_Wightmire_MeleeB03=Tù nhân ~ Sadist
+tagEnemyHumanOutlaw_Wightmire_RangedA01=Tù nhân ~ Gunman
+tagEnemyHumanOutlaw_Wightmire_RangedB01=Tù nhân ~ Skirmisher
+
+tagEnemyHumanOutlaw_MeleeA01=Băng Cronley ~ Lackey
+tagEnemyHumanOutlaw_MeleeB01=Băng Cronley ~ Thug
+tagEnemyHumanOutlaw_MeleeB02=Băng Cronley ~ Brute
+tagEnemyHumanOutlaw_MeleeB03=Băng Cronley ~ Sadist
+tagEnemyHumanOutlaw_RangedA01=Băng Cronley ~ Gunman
+tagEnemyHumanOutlaw_RangedB01=Băng Cronley ~ Skirmisher
+tagEnemyHumanOutlaw_ArsonistC01=Băng Cronley ~ Arsonist
+tagEnemyHumanOutlaw_MurdererC01=Băng Cronley ~ Murderer
+tagEnemyHumanOutlaw_HereticC01=Băng Cronley ~ Heretic
+
+tagEnemyHumanOutlaw_AetherA01=Băng Cronley ~ Chosen
+tagEnemyHumanOutlaw_AetherA02=Băng Cronley ~ Chosen
+tagEnemyHumanOutlaw_AetherB01=Băng Cronley ~ Destined
+tagEnemyHumanOutlaw_AetherB02=Băng Cronley ~ Champion
+tagEnemyHumanOutlaw_AetherC01=Băng Cronley ~ Ascended
+
+tagHumanOutlawLeader01=Darius Cronley
+tagHumanOutlawMiniBoss01=Edmund "Cán dao" Doyle
+tagHumanOutlawMiniBoss02=Silas "Kẻ Lột da"
+tagHumanOutlawMiniBoss03=Dravko "Ngọn đuốc"
+tagHumanOutlawMiniBoss04=Wilcox "Khùng"
+tagHumanOutlawMiniBoss05=Sleyvak "Kẻ Đập phá"
+tagHumanOutlawMiniBoss06=Slocum "Nổ"
+tagHumanOutlawMiniBoss07=Ashe "Bức tường" Farrell
+tagHumanOutlawMiniBoss08=Nicholas Balthazar
+
+tagHumanOutlawHeroH01=Leander "Nước thải" Greene
+tagHumanHeroH01=Bloody Jack
+tagHumanHeroH02=Delnar Mắt Đen
+tagHumanHeroH03=Hudson Fury
+tagHumanHeroH04=Nadra, Bóng tối
+tagHumanHeroH05=Serul Shadesong
+tagHumanHeroH06=Wiley, Chặt chém ~ Nhanh nhẹn
+tagHumanHeroH07=Everett, Huyết giao ~ Bùng cháy
+tagHumanHeroH08=Dred Độc nhãn
+tagHumanHeroH09=Meric Aether-Touched ~ Đột kích
+tagHumanHeroH10=Eldon "Da rắn" ~ Hồi phục
+
+tagHumanBoss01="Túi tiền" Martin
+tagHumanBoss02=Halion "Chuột"
+tagHumanBoss03=Nicholas Balthazar
+tagHumanBoss04=Boris, Chủ Hầm ngục
+
+tagHumanRoverA_A01=Du dân
+tagHumanRoverA_B01=Trinh sát Du dân
+tagHumanRoverA_C01=Thủ vệ Du dân
+
+#CreatureHumanPossessed
+
+tagHumanPossessedA01=Học trò Bị nhập
+tagHumanPossessedA02=Arcanist Bị nhập
+tagHumanPossessedB01=Elementalist Bị nhập
+tagHumanPossessedC01=Đại pháp sư Bị nhập
+
+tagHumanPossessedHeroH01=Allara Starfire
+tagHumanPossessedHeroH02=Aetherblaze
+tagHumanPossessedHeroH03=Kamladris, Tim Sương
+tagHumanPossessedHeroH04=Corpusia ~ Phản kích
+tagHumanPossessedHeroH05=Espiria ~ Hỗ trợ
+
+tagHumanPossessedHeroH06=Loxmere Nightmage
+tagHumanPossessedBoss01=Noveria Stormfire
+tagHumanPossessedBoss02=Gã Thủ thư Thelon
+tagHumanPossessedBoss03=Usterius Avelone
+
+#CreatureInsectDermapteran
+
+tagEnemyDermapteranA01=Dermapteran Weavil
+tagEnemyDermapteranB01=Dermapteran Sentinel
+tagEnemyDermapteranB02=Dermapteran Reaver
+tagEnemyDermapteranC01=Dermapteran Vizier
+tagEnemyDermapteranC02=Dermapteran Progenitor
+
+tagEnemySummonWeavilA01=Infestor
+
+tagDermapteranHeroH01=Harpallax, kẻ Ăn mặt trời
+tagDermapteranHeroH02=Corrosinax
+tagDermapteranHeroH03=Wasparex ~ Nhanh nhẹn
+tagDermapteranHeroH04=Olmarix ~ Nhiễm điện
+tagDermapteranHeroH05=Vildrix ~ Nhiễm Hư không
+
+tagDermapteranBoss01=Cận thần Lozakal
+tagDermapteranBoss02=Cận thần Inixil
+tagDermapteranBoss03=Ong chúa Ravna
+tagDermapteranBoss04=Cận vệ Tổ Anoxis, kẻ Bị vấy bẩn
+tagDermapteranBoss05=Rashalga, Nữ chúa Điên
+
+#CreatureInsectMosquito
+tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
+tagEnemyInsectMosquitoB01=Mireborn Bloodfiend
+tagEnemyInsectMosquitoC01=Mireborn Matriarch
+tagEnemyInsectMosquitoA02=Festerborn Bloodgorger
+tagEnemyInsectMosquitoB02=Festerborn Bloodfiend
+tagEnemyInsectMosquitoC02=Festerborn Matriarch
+
+tagInsectMosquitoHeroH01=Vladox, kẻ Phun máu
+tagInsectMosquitoHeroH02=Sarlap ~ Nhiễm điện
+tagInsectMosquitoHeroH03=Jornax, kẻ Phàm ăn ~ Nhanh nhẹn
+tagInsectMosquitoHeroH04=Narlax ~ Tha hóa
+tagInsectMosquitoHeroH05=Oorlax ~ Nhiễm Hư không
+
+#CreatureInsectWasp
+
+tagEnemyInsectWaspA01=Venomwing Drone
+tagEnemyInsectWaspB01=Venomwing Stinger
+tagEnemyInsectWaspC01=Venomwing Queen
+
+tagInsectWaspHeroH01=Scarprax, kẻ Điên dại
+tagInsectWaspHeroH02=Caraprax ~ Phòng thủ
+tagInsectWaspHeroH03=Harprax, Ý chí của Nữ hoàng ~ Hỗ trợ
+tagInsectWaspHeroH04=Ralkara ~ Hồi phục
+tagInsectWaspHeroH05=Folcrax ~ Đóng băng
+tagInsectWaspHeroH06=Walacrax ~ Tha hóa
+tagInsectWaspHeroH07=Ooldacrax ~ Nhiễm Hư không
+
+tagInsectWaspBoss01=Ulraprax, Ong chúa
+tagInsectWaspBoss02=Ronaprax, Nữ chúa Tối cao
+
+#CreatureInsectSwarm
+
+tagEnemyInsectSwarmA01=Devouring Swarm
+tagEnemyInsectSwarmB01=Pestilent Swarm
+
+tagEnemyInsectSwarm_PossessedA01=Possessed Swarm
+
+tagInsectSwarmHeroH01=Issk, Đầu não của Đàn
+tagInsectSwarmHeroH02=Avarix ~ Nhiễm điện
+tagInsectSwarmHeroH03=Omnol, kẻ Mang dịch ~ Bệnh dịch
+
+#CreatureManticores
+
+tagEnemyManticoreA01=Manticore Whitemane
+tagEnemyManticoreA02=Manticore Blackmane
+tagEnemyManticoreB01=Manticore Wastestalker
+tagEnemyManticoreB02=Manticore Nightstalker
+tagEnemyManticoreC01=Manticore Alpha
+
+tagEnemyManticoreAetherA01=Fleshwarped Manticore
+tagEnemyManticoreAetherB01=Fleshwarped Wastestalker
+tagEnemyManticoreAetherC01=Fleshwarped Aethermane
+
+tagManticoreHeroH01=Raxa, Thợ săn Ngọc bích
+tagManticoreHeroH02=Neleron, Con mắt Tử thần
+tagManticoreHeroH03=Ar'kall, Hắc Tâm
+tagManticoreHeroH04=Uroxis Swiftclaw ~ Nhanh nhẹn
+tagManticoreHeroH05=Waroxis Crimsonclaw ~ Đấu sĩ
+tagManticoreHeroH06=Blazara Firemane
+
+tagManticoreBoss01=Mogara, Nữ vương
+
+#CreatureObsidianDefiler
+
+tagEnemyObsidianDefilerA01=Obsidian Shaleborn
+tagEnemyObsidianDefilerB01=Obsidian Defiler
+tagEnemyObsidianDefilerC01=Obsidian Ravager
+tagEnemyObsidianDefilerC02=Obsidian Annihilator
+
+tagObsidianDefilerHeroH01=Obsidius, the Titan
+tagObsidianDefilerHeroH02=Ch'thallis, the Usurper
+tagObsidianDefilerHeroH03=Kelphat'Idoth ~ Nhiễm điện
+tagObsidianDefilerHeroH04=Orudin'Idoth ~ Đóng băng
+tagObsidianDefilerHeroH05=Drygol'Ukog ~ Đột kích
+
+tagObsidianDefilerBoss01=Bane'Gargoth
+
+#CreaturePrawns
+
+tagEnemyPrawnA01=Scrapheap Rift Scourge
+tagEnemyPrawnA02=Acidbile Rift Scourge
+tagEnemyPrawnB01=Stormscale Rift Scourge
+tagEnemyPrawnB02=Bladespine Rift Scourge
+tagEnemyPrawnC01=Infested Rift Scourge
+tagEnemyPrawnSummonA01=Swarmborn Rift Scourge
+
+tagEnemyCavePrawnA01=Pale Cavern Crawler
+tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
+tagEnemyCavePrawnB01=Albino Cavern Crawler
+tagEnemyCavePrawnC01=Bursting Cavern Crawler
+tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
+
+tagEnemyPrawnWitchGodA01=Eldritch Swarmer
+tagEnemyPrawnWitchGodA02=Nightmare Crawler
+
+tagPrawnHeroH01=Ravacrix, the Ravenous
+tagPrawnHeroH02=Palacrix, the Ancient
+tagPrawnHeroH03=Velacrix, the Plagueswarm
+tagPrawnHeroH04=Elcrix ~ Nhiễm điện
+tagPrawnHeroH05=Flocrix ~ Bùng cháy
+
+tagCavePrawnHeroH01=Terrocrix
+tagCavePrawnHeroH02=Chiricrix ~ Đóng băng
+tagCavePrawnHeroH03=Blucrix ~ Phòng thủ
+
+tagCavePrawnBoss01=Ikrix, kẻ Phàm ăn
+
+#CreatureRaptor
+
+tagEnemyRaptorA_JuvenileA01=Carrion Raptor ~ Hatchling
+tagEnemyRaptorA_MeleeA01=Carrion Raptor ~ Hunter
+tagEnemyRaptorA_RangedA01=Carrion Raptor ~ Screecher
+tagEnemyRaptorA_ChampionA01=Carrion Raptor ~ Viper Lord
+
+tagEnemyRaptorB_JuvenileA01=Wind Raptor ~ Juvenile
+tagEnemyRaptorB_MeleeA01=Wind Raptor ~ Stalker
+tagEnemyRaptorB_RangedA01=Wind Raptor ~ Assassin
+tagEnemyRaptorB_ChampionA01=Wind Raptor ~ Sky Lord
+
+tagEnemyRaptorWitchGodA01=Winged Horror
+tagEnemyRaptorWitchGodA02=Eldritch Lifedrinker
+
+tagRaptorHeroH01=Soulrend
+tagRaptorHeroH02=Aragonax, kẻ Ăn Linh hồn
+tagRaptorHeroH03=Baldim, kẻ Mang Hỗn loạn
+tagRaptorHeroH04=Bonesnarl ~ Không thể ngăn cản
+tagRaptorHeroH05=Idran, kẻ Dị thường ~ Hồi phục
+tagRaptorHeroH06=Balra ~ Nhiễm Hư không
+
+#CreatureRiftHound
+
+tagEnemyRiftHoundA01=Rifthound
+tagEnemyRiftHoundB01=Rifthound ~ Howler
+tagEnemyRiftHoundC01=Rifthound ~ Azure Matriarch
+tagEnemyRiftHoundA02=Plaguehound
+tagEnemyRiftHoundB02=Plaguehound ~ Roteater
+tagEnemyRiftHoundC02=Plaguehound ~ Alpha
+
+tagEnemyPlanesHoundA01=Planeshound
+tagEnemyPlanesHoundB01=Planeshound ~ Pack Leader
+
+tagEnemyVoidHoundA01=Voidhound
+tagEnemyVoidHoundB01=Voidhound ~ Pack Leader
+
+tagEnemyRiftHoundWitchGodA01=Eldritch Hound
+tagEnemyRiftHoundWitchGodA02=Eldritch Alpha
+
+tagRiftHoundHeroH01=Charrus
+tagRiftHoundHeroH02=Plaguelord
+tagRiftHoundHeroH03=Voidrage
+tagRiftHoundHeroH04=Wolvin, Hỏa ngục
+tagRiftHoundHeroH05=Jarlax, Cơn thịnh nộ của Đầm lầy ~ Đột kích
+tagRiftHoundHeroH06=Garn, Thợ săn của đàn ~ Phòng thủ
+
+tagBossRifthoundB01=Thợ săn Xương Kalis Ka
+
+#CreatureScavenger
+
+tagEnemyScavengerA01=Scavenger
+tagEnemyScavengerB01=Frenzied Scavenger
+tagEnemyScavengerC01=Scavenger Alpha
+
+tagScavengerHeroH01=Scarsnout, kẻ Ăn đồng loại
+tagScavengerHeroH02=Bloodclaw
+tagScavengerHeroH03=Whitemane Sét đánh
+tagScavengerHeroH04=Ernol Carrioneater ~ Bệnh dịch
+tagScavengerHeroH05=Crimsontail ~ Hỗ trợ
+tagScavengerHeroH06=Rav ~ Nhiễm Hư không
+
+#CreatureShadowman
+
+tagEnemyShadowmanA01=Shadowman
+tagEnemyShadowmanB01=Shadowman Deceiver
+tagEnemyShadowmanC01=Shadowman Eidolon
+
+#CreatureSkeletal Golem
+
+tagEnemySkeletalGolemB01=Skeletal Gargantuan
+tagEnemySkeletalGolemC01=Skeletal Monstrosity
+
+tagSkeletalGolemHeroH01=Grulgor, the Tormented ~ Bệnh dịch
+tagSkeletalGolemHeroH02=Falgarr, the Ice Watcher ~ Đóng băng
+tagSkeletalGolemHeroH03=Bralgarr, the Flame Watcher ~ Bùng cháy
+tagSkeletalGolemHeroH04=Wralgarr, the Aethertouched ~ Tha hóa
+tagSkeletalGolemHeroH05=Olagarr, the Chaosbringer ~ Nhiễm Hư không
+
+
+tagSkeletalGolemBossB01=Ilgorr, kẻ Vĩnh hằng
+tagSkeletalGolemBossB02=Cận vệ của Uroboruuk
+
+#CreatureSkeleton
+
+tagEnemySkeletonA01=Skeletal Warrior
+tagEnemySkeletonA02=Skeletal Archer
+tagEnemySkeletonB01=Skeletal Deathbolt Archer
+tagEnemySkeletonB02=Skeletal Knight
+tagEnemySkeletonB03=Skeletal Priest
+tagEnemySkeletonB04=Skeletal Warlock
+tagEnemySkeletonC01=Flame Revenant
+tagEnemySkeletonC02=Frost Revenant
+tagEnemySkeletonC03=Storm Revenant
+tagEnemySkeletonC04=Death Revenant
+
+tagSkeletonHeroH01=Tenebris, kẻ Uống máu
+tagSkeletonHeroH02=Balrazar, Đầy tớ Vĩnh cửu của Dreeg
+tagSkeletonHeroH03=Harros Dred, kẻ bị Đọa đày
+tagSkeletonHeroH04=Hellwraith ~ Bùng cháy
+tagSkeletonHeroH05=Allos Sadarin ~ Phản kích
+tagSkeletonHeroH06=Chillheart ~ Đóng băng
+
+tagSkeletonBoss01=Kilrian, Linh hồn Vấy bẩn
+tagSkeletonBoss02=Đại Tư tế Zarthuzellan
+tagSkeletonBoss03=Bóng ma của Elnadrin
+tagSkeletonBoss04=Giám mục Rolderathis
+
+tagGravestone_Skeleton01=Robert
+tagGravestone_Skeleton02=Rockford
+tagGravestone_Skeleton03=Ryan
+
+#CreatureSlith
+
+tagEnemyDeepMire_SlithWarriorA01=Deepmire Warrior
+tagEnemyDeepMire_SlithWarriorB01=Deepmire Vanguard
+tagEnemyDeepMire_SlithWarriorC01=Deepmire Champion
+tagEnemyDeepMire_SlithWarriorC02=Deepmire Tidehunter
+tagEnemyDeepMire_SlithShamanB01=Deepmire Shaman
+tagEnemyDeepMire_SlithShamanB02=Deepmire Scourge-Tamer
+tagEnemyDeepMire_SlithShamanC01=Deepmire Evocator
+tagEnemyDeepMire_SlithShamanC02=Deepmire Pureblood
+
+tagEnemyVenomtongue_SlithWarriorA01=Venomtongue Warrior
+tagEnemyVenomtongue_SlithWarriorB01=Venomtongue Vanguard
+tagEnemyVenomtongue_SlithWarriorC01=Venomtongue Champion
+tagEnemyVenomtongue_SlithShamanB01=Venomtongue Shaman
+tagEnemyVenomtongue_SlithShamanC01=Venomtongue Evocator
+
+tagEnemyBloodscale_SlithWarriorA01=Bloodscale Warrior
+tagEnemyBloodscale_SlithWarriorB01=Bloodscale Vanguard
+tagEnemyBloodscale_SlithWarriorC01=Bloodscale Champion
+tagEnemyBloodscale_SlithShamanB01=Bloodscale Shaman
+tagEnemyBloodscale_SlithShamanC01=Bloodscale Evocator
+
+tagSlithHeroH01=Igrixx, Trái tim Sương giá
+tagSlithHeroH02=Jaron, Chúa tể Bão tố
+tagSlithHeroH03=Lorkhan, Chúa tể Vực sâu
+tagSlithHeroH04=Farnlan, kẻ Kinh tởm ~ Không thể ngăn cản
+tagSlithHeroH05=Eidonax ~ Nhanh nhẹn
+tagSlithHeroH06=Avaladran ~ Tha hóa
+
+tagSlithBossB01=Viloth, Nữ chúa Suy tàn
+tagSlithBossB02=Primordian, Kẻ bị Lãng quên
+tagSlitbBossB03=Ellena, Con Slith Đầu tiên
+
+tagEnemyMurkTide_SlithWarriorA01=Murktide Warrior
+tagEnemyMurkTide_SlithWarriorB01=Murktide Vanguard
+tagEnemyMurkTide_SlithWarriorC01=Murktide Champion
+tagEnemyMurkTide_SlithShamanB01=Murktide Shaman
+tagEnemyMurkTide_SlithShamanC01=Murktide Evocator
+
+#CreatureSpider
+
+tagEnemySpiderA01=Dreadweave Arachnid
+tagEnemySpiderA02=Dreadweave Spitter
+tagEnemySpiderB01=Dreadweave Leaper
+tagEnemySpiderB02=Dreadweave Widow
+tagEnemySpiderC01=Dreadweave Matriarch
+tagEnemySpiderSummon=Nhện con
+
+tagEnemySpiderWitchGodA01=Eldritch Arachnid
+tagEnemySpiderWitchGodA02=Eldritch Weaver
+tagEnemySpiderWitchGodA03=Eldritch Matriarch
+tagEnemySpiderWitchGodSummon=Eldritch Crawler
+
+tagSpiderHeroH01=Oldelon, Nhện lửa
+tagSpiderHeroH02=Raglis, Nhện nhảy
+tagSpiderHeroH03=Herna, Góa phụ Kinh hoàng
+tagSpiderHeroH04=Triinix, Thợ dệt
+tagSpiderHeroH05=Larna, Thợ dệt Số mệnh ~ Lá chắn
+tagSpiderHeroH06=Uldina, Nhện chúa ~ Phòng thủ
+
+#CreatureThornedHorror
+
+tagEnemyThornedHorrorA01=Gai thường xuân
+tagEnemyThornedHorrorB01=Gai thường xuân Khổng lồ
+tagEnemyThornedHorrorC01=Gai thường xuân Biến dị
+
+
+tagThornedHorrorHeroH01=Terrolean, the Pandemonium
+tagThornedHorrorHeroH02=Korplax, Quá khổ
+tagThornedHorrorHeroH03=Blackthorn ~ Phản kích
+tagThornedHorrorHeroH04=Rotthorn ~ Bệnh dịch
+tagThornedHorrorHeroH05=Everbark ~ Hồi phục
+tagThornedHorrorHeroH06=Rimebark ~ Đóng băng
+
+tagThornedHorrorBoss01=Ol' Bloodbriar
+
+tagEnemyAetherHorrorA01=Aetherthorn Horror
+
+tagAetherHorrorHeroH01=Aetheros
+
+
+#CreatureTraps
+
+tagEnemyTrapA01=Bẫy Lửa
+tagEnemyTrapA02=Bẫy Phóng
+tagEnemyTrapA03=Mảnh đá Hắc diện
+tagEnemyTrapA04=Phóng xạ Hắc diện
+tagEnemyTrapA05=Bẫy Chông
+
+#CreatureTrolls
+
+tagEnemyTrollHalfA01=Mistborn Brute
+tagEnemyTrollHalfA02=Mistborn Herder
+tagEnemyTrollHalfB01=Mistborn Hunter
+tagEnemyTrollHalfB02=Mistborn Warrior
+tagEnemyTrollHalfB03=Mistborn Shaman
+tagEnemyTrollHalfC01=Mistborn Elder
+
+tagEnemyTrollHalfSwampA01=Eastmire Brute
+tagEnemyTrollHalfSwampA02=Eastmire Herder
+tagEnemyTrollHalfSwampB01=Eastmire Hunter
+tagEnemyTrollHalfSwampB02=Eastmire Warrior
+tagEnemyTrollHalfSwampB03=Eastmire Shaman
+tagEnemyTrollHalfSwampC01=Eastmire Elder
+
+tagTrollHalfHeroH01=Balarr, kẻ Ăn đá
+tagTrollHalfHeroH02=Paldrak, kẻ Hiếu chiến
+tagTrollHalfHeroH03=Stonetooth ~ Phòng thủ
+tagTrollHalfHeroH04=Elloras, kẻ Ăn mặt trời ~ Bùng cháy
+
+tagTrollHalfSwampHeroH01=Ragarr Stonecrusher
+tagTrollHalfSwampHeroH02=Toglokk kẻ Phàm ăn
+tagTrollHalfSwampHeroH03=Maglak ~ Lá chắn
+tagTrollHalfSwampHeroH04=Wallak ~ Hỗ trợ
+
+tagEnemyTrollA01=Stonewart Troll
+tagEnemyTrollB01=Stonewart Rager
+tagEnemyTrollC01=Stonewart Behemoth
+
+tagEnemyTrollSwampA01=Plaguewart Troll
+tagEnemyTrollSwampB01=Plaguewart Rager
+tagEnemyTrollSwampC01=Plaguewart Behemoth
+
+tagTrollHeroH01=Uglak, kẻ Bất tử
+tagTrollHeroH02=Surrlak, kẻ Dời non
+tagTrollHeroH03=Troglak ~ Không thể ngăn cản
+tagTrollHeroH04=Oldak, Chướng khí ~ Bệnh dịch
+tagTrollHeroH05=Wontlak ~ Đóng băng
+
+tagTrollSwampHeroH01=Balglak, Vệ binh Đầm lầy
+tagTrollSwampHeroH02=Rovos ~ Phản kích
+tagTrollSwampHeroH03=Malgalok ~ Nhiễm Hư không
+tagTrollSwampHeroH04=Avalgal ~ Tha hóa
+
+tagBossTrollB01=Gulgoth, kẻ Phá hoại
+tagBossTrollB02=Voldrak, kẻ Hủy diệt
+tagBossTrollB03=Balegor, Vua Đầm lầy
+
+tagEnemyTrollCorruptedA01=Fleshwarped Troll
+tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
+tagEnemyTrollCorruptedB02=Fleshwarped Deadeye
+tagEnemyTrollCorruptedB03=Fleshwarped Flameeye
+tagEnemyTrollCorruptedC01=Fleshwarped Commander
+
+tagTrollCorruptedD01=Hoarfrost Dreadguard
+
+tagTrollCorruptedHeroH01=Sulkarr, Ngón tay Bão tố
+tagTrollCorruptedHeroH02=Horcris, sự Kinh hoàng
+tagTrollCorruptedHeroH03=Corruptis
+tagTrollCorruptedHeroH04=Caladrak ~ Không thể ngăn cản
+tagTrollCorruptedHeroH05=Faldrak ~ Phản kích
+
+tagTrollCorruptedBoss01=Harrath kẻ Tàn sát
+
+#CreatureUnderdwellers
+
+tagEnemyCaveTrollHalfA01=Trog Blood Drinker
+tagEnemyCaveTrollHalfB01=Trog Flesh Ripper
+tagEnemyCaveTrollHalfB02=Trog Blood Mage
+tagEnemyCaveGrobleA01=Underdweller Runt
+tagEnemyCaveGrobleB01=Underdweller Ritualist
+tagEnemyCaveTrollB01=Underdweller Troll
+tagEnemyCaveTrollC01=Underdweller Behemoth
+tagEnemyCaveSpiderA01=Terrorweave Spiderling
+tagEnemyCaveSpiderB01=Terrorweave Arachnid
+tagEnemyCaveSpiderB02=Terrorweave Widow
+tagEnemyCaveSpiderC01=Terrorweave Matriarch
+
+tagCaveTrollHalfHeroH01=Glavrok, kẻ Sống trong Bóng tối
+tagCaveTrollHalfHeroH02=Algrok, kẻ Cuồng nộ Mù quáng
+tagCaveTrollHalfHeroH03=Savarok ~ Lá chắn
+tagCaveGrobleHeroH01=Akala ~ Nhanh nhẹn
+tagCaveGrobleHeroH02=Ulbalak ~ Hỗ trợ
+tagCaveSpiderHeroH01=Shelleb, Bóng tối
+tagCaveSpiderHeroH02=Vilaxna ~ Hồi phục
+tagCaveSpiderHeroH03=Ravnix ~ Nhanh nhẹn
+
+tagCaveSpiderBoss01=Ungoliax, Chức nữ U sầu
+tagCaveTrollHalfBoss01=Gollus, kẻ Sống dưới Vực sâu
+
+#CreatureVultures
+
+tagEnemyVultureSummon=Arkovian Rocktalon
+tagEnemyVultureA01=Arkovian Rocktalon
+tagEnemyVultureB01=Arkovian Plaguebeak
+
+tagHeroVultureH01=Volaxna, the Bloodgorger
+tagHeroVultureH02=Plaguewing ~ Bệnh dịch
+tagHeroVultureH03=Harrowbeak ~ Không thể ngăn cản
+tagHeroVultureH04=Wrathtalon ~ Tha hóa
+tagHeroVultureH05=Voidtalon ~ Nhiễm Hư không
+
+#CreatureWorm
+
+tagEnemyWormA01=Earthbreaker Burrower
+tagEnemyWormB01=Earthbreaker Rotworm
+
+tagEnemyWormDeepDwellerA01=Deepdweller Grub
+
+tagWormHeroH01=Gravner, kẻ Uống mật
+tagWormHeroH02=Groundsplitter ~ Nhiễm điện
+tagWormHeroH03=Stonespitter ~ Lá chắn
+tagWormHeroH04=Wrathworm ~ Tha hóa
+tagWormHeroH05=Riftworm ~ Nhiễm Hư không
+
+#CreatureYeti
+
+tagEnemyYetiA01=Chillmane Brute
+tagEnemyYetiB01=Chillmane Rager
+tagEnemyYetiB02=Chillmane Icesplitter
+tagEnemyYetiC01=Chillmane Alpha
+
+tagYetiHeroH01=Bonechill
+tagYetiHeroH02=Icesnap
+tagYetiHeroH03=Chillblood ~ Hồi phục
+tagYetiHeroH04=Mallus ~ Tha hóa
+
+tagYetiBoss01=Ragrathar Máu điên
+
+
+#CreatureZombie
+
+tagEnemyZombieA01=Walking Dead
+tagEnemyZombieB01=Wretcher
+tagEnemyZombieC01=Fury
+tagEnemyZombieD01=Cold One
+tagEnemyZombieE01=Night Terror
+tagEnemyZombieF01=Burning Dead
+tagEnemyZombieG01=Plague Walker
+tagEnemyZombieSoldierA01=Rotting Soldier
+tagEnemyZombieSoldierB01=Rotting Emberguard
+tagEnemyZombieSoldierC01=Fury Soldier
+tagEnemyZombieBerserkerA01=Corpsefiend
+
+tagEnemyZombieVoidA01=Chthonic Soulless
+
+tagEnemyZombieMutatedA01=Fleshwarped Butcher
+tagEnemyZombieMutatedB01=Fleshwarped Thrasher
+
+tagZombieMutatedBoss01=Barrog, kẻ Đổ máu
+
+tagZombieHeroH01=Abner, Kẻ Bị lãng quên
+tagZombieHeroH02=Crimson Bane
+tagZombieHeroH03=Gastris Hôi thối
+tagZombieHeroH04=Gilisten, kẻ Hồi sinh
+tagZombieHeroH05=Bolvaris, Sinh ra từ Băng
+tagZombieHeroH06=Aldanar, kẻ Bất tử
+tagZombieHeroH07=Gutripper ~ Không thể ngăn cản
+tagZombieHeroH08=Teselon ~ Nhiễm điện
+tagZombieHeroH09=Blightfeast ~ Đột kích
+tagZombieHeroH10=Alrick Magefire
+
+tagZombieMiniBoss01=Farros, kẻ Mục nát
+tagZombieMiniBoss02=Jillius, kẻ Thối rữa
+tagZombieMiniBoss03=Neegan, kẻ Tàn lụi
+tagZombieMiniBoss04=Balros, kẻ Dị hình
+tagZombieMiniBoss05=Hagra, kẻ Dày vò
+
+
+#CreatureZombieHound
+
+tagEnemyZombieHoundA01=Tainted Hound
+tagEnemyZombieHoundB01=Tainted Pack Leader
+
+tagZombieHoundHeroH01=Gornax, Cơn ác mộng
+tagZombieHoundHeroH02=Sharn, Lời nguyền
+tagZombieHoundHeroH03=Furz Venomdrinker ~ Hỗ trợ
+tagZombieHoundHeroH04=Bloodhowl ~ Hồi phục
+
+#CreatureReanimator
+
+tagEnemyReanimatorB01=Reanimator
+tagEnemyReanimatorC01=Dominator
+
+tagReanimatorHeroH01=Aethoran, kẻ mang Bệnh ~ Bệnh dịch
+tagReanimatorHeroH02=Gollorg, the Undiminished ~ Không thể ngăn cản
+tagReanimatorHeroH03=Corpsefire ~ Phản kích
+tagReanimatorHeroH04=Azgalogg, kẻ Tha hóa ~ Phòng thủ
+
+tagReanimatorBossH01=Gethrand, kẻ Bị phản bội
+tagReanimatorBossH02=Zanbrandt, kẻ Thăng thiên
+tagReanimatorBossH03=Chilldread
+tagReanimatorBossH04=Nazagrad, kẻ Sa ngã
+
+
+#Pets
+
+tagPetRavenA01=Quạ lớn
+tagPetHellhoundA01=Chó săn Địa ngục
+tagPetWhirlwindA01=Cuồng phong
+tagPetThornedHorrorA01=Gai thường xuân
+tagPetManticoreA01=Linh hồn Nguyên thủy
+tagPetWindDevilA01=Phong quỷ
+tagPetTotemA01=Vật tổ Wendigo
+tagPetTotemA02=Vật tổ Bão tố
+tagPetTotemA02B=Vật tổ Tha hóa
+tagPetBlackScourge=Tai họa Đen
+tagPetGazeOfDreeg=Ánh nhìn của Dreeg
+tagPetEyeOfGuardian=Con mắt của Vệ thần
+tagPetHeraldOfDoom=Lá cờ Diệt vong
+tagPetSpirit=Linh hồn Trói buộc
+tagPetRitualCircle=Vòng Nghi lễ
+tagPetStormShard=Mảnh Bão tố
+tagPetArcaneWisp=Ma trơi
+
+
+tagDevotionPet_Skeleton=Xương khô
+tagDevotionPet_ArcaneBomb=Bom Ma pháp
+tagDevotionPet_Hound=Chó săn Ma
+tagDevotionPet_Hungerling=Sinh vật Đói khát
+tagDevotionPet_ElementalSeeker=Truy tầm Nguyên tố
+tagDevotionPet_LivingShadow=Cái bóng Sống
+tagDevotionPet_Volcano=Vụ phun trào
+
+tagPetIceWallA01=Lá chắn Băng
+
+tagPetBladeSwarmA01=Hồn Đao
+
+tagPetThermiteMineA01=Mìn Lửa
+tagPetMortarTrapA01=Bẫy Pháo
+
+tagItemFleshHulkA01=Flesh Hulk
+tagItemGuardianA01=Stalwart Guardian
+tagItemGuardianA02=Reckless Guardian
+tagItemAncestorA01=Ancestral Spirit
+tagItemRevenantA01=Revenant of Og'Napesh
+tagItemPrawnA01=Blighted Rift Scourge
+tagItemYetiA01=Chillmane Rocksplitter
+tagRelicStormhound=Stormhound
+tagRelicNemesis=Nemesis
+tagRelicSwarm=Swarmling
+
+
+tagDLCWisp=Will'O'Wisp
+
+#EnemySummons
+
+tagEnemySummonHellspawn=Quái Địa ngục
+tagEnemySummonChthonianMinion=Sứ giả của Salazar
+tagEnemySummonDariusAetherCrystal=Cụm Aether Bất ổn
+tagEnemySummonRifthound=Chó săn Địa ngục màu Xanh ngọc
+tagEnemySummonObsidianCluster=Cụm Đá Hắc diện
+tagEnemySummonRaven=Quạ đen
+tagEnemySummonAetherTrap=Bẫy Aether
+tagEnemySummonIceCrystal=Tinh thể Băng
+tagEnemySummonTentacle=Xúc tu Quằn quại
+tagEnemySummonVoid=Năng lượng Hư không
+tagEnemySummonWitchGodCrystal=Sentinel's Beacon
+
+tagEnemyMogdrogenBoar=Mogdrogen's Chilltusk
+tagEnemyMogdrogenRat=Mogdrogen's Boneback
+tagEnemyMogdrogenHorror=Mogdrogen's Briarthorn
+
+#Boss&Quest
+
+tagQuestEnemyReanimator=Kyzogg kẻ Tái Sinh
+tagQuestEnemyMiltonHart=Milton Hart
+tagQuestEnemyBanditForge=Lò rèn của Tội phạm
+tagQuestChthonianMonstrosity=Thall'Nosh, kẻ Tháo nút
+tagQuestBloodWagon=Xe chở Máu
+
+tagBossTheWarden01=Cai ngục Krieg
+tagBossLoghorrean01=Loghorrean, Tiếng nói Âm ti
+tagBossLoghorreanTentacle01=Xúc tu của Loghorrean
+tagBossLoghorreanTentacle02=Xúc tu của Loghorrean
+tagBossLoghorreanTentacleCluster=Cụm Xúc tu
+
+tagAetherialRoguelikeBoss01=Jarren the Plaguewarped
+tagAetherialRoguelikeBoss02=Overlord Van Aldritch
+tagAetherialRoguelikeBoss03=Councilman Hallos
+tagAetherialRoguelikeBoss04=Councilman Garl
+tagAetherialRoguelikeBoss05=Watcher Ygraad
+tagAetherialRoguelikeBoss06=Watcher Ordas
+tagAetherialRoguelikeBoss07=Watcher Brandis
+
+tagMiscTargetDummy=Bù nhìn Tập luyện
+
+tagQuestWitchGod01=Cận vệ của Dreeg
+tagQuestWitchGod01_Summon=Con mắt của Dreeg
+tagQuestWitchGod02=Cận vệ của Solael
+tagQuestWitchGod03=Cận vệ của Bysmiel
+tagQuestWitchGod04=Vệ binh
+
+#Nemesis
+tagNemesis_Aetherial01=Valdaran, Tai họa Bão tố
+tagNemesis_Aetherial02=Obligious Foul
+tagNemesis_Aetherial03=Kẻ Hạ đẳng
+tagNemesis_Chthonian01=Jac'Aran, Hòn đá Vĩnh hằng
+tagNemesis_Chthonian02=Benn'Jahr, kẻ Khổng lồ
+tagNemesis_Chthonian03=Balgoth'Zul, Cơn đói Vô tận
+tagNemesis_Kymon01=Chúa tể Infernus
+tagNemesis_Kymon02=Trinh nữ Thép
+tagNemesis_OrderDeathsVigil01=Zantarin, kẻ Bất tử
+tagNemesis_OrderDeathsVigil02=Cabala Rotweaver
+tagNemesis_Outlaw01=Fabius "Vô hình" Gonzar
+tagNemesis_Outlaw02=Thallion Vos
+tagNemesis_Outlaw03=Dead-Eye
+tagNemesis_Undead01=Allminoxius, Nhân tạo
+tagNemesis_Undead02=Moosilauke, Gió buốt
+tagNemesis_Undead03=Toxemus
+
+tagNemesis_Clone01=Bản sao của John Bourbon
+tagNemesis_Clone02=Bản sao Bùng cháy của John Bourbon
+tagNemesis_Clone03=Bản sao Băng giá của John Bourbon
+tagNemesis_Clone04=Bản sao Sấm sét của John Bourbon
+tagNemesis_Clone05=Bản sao Vấy bẩn của John Bourbon
+tagNemesis_Clone06=Bản sao Chết chóc của John Bourbon
+tagNemesis_Clone07=Bản sao Biến chất của John Bourbon
+tagNemesis_Clone08=Hình dạng Cuối cùng của Bản sao của John Bourbon
+tagNemesis_Clone09=Hình dạng Cuối cùng Thật sự của Bản sao của John Bourbon
+
+
+#Devotion
+tagDevotion_AetherialH01=Athraz, Người Quan sát
+tagDevotion_AetherialH02=Naladrak, Tinh hoa Ngọn lửa
+tagDevotion_AetherialH03=Idalazius, kẻ Tha hóa
+
+tagDevotion_ChthonianDevourerH01=Gal'Barok
+tagDevotion_ChthonianDevourerH02=Har'Nadiin
+tagDevotion_ChthonianDevourerH03=Ellon'Siin
+tagDevotion_ChthonianDevourerH04=Udal'Nadal
+tagDevotion_ChthonianDevourerH05=Balok'Grot
+tagDevotion_ChthonianDevourerH06=Orudin'Ak
+
+tagDevotion_ChthonianDreadguardH01=Serethal'Siin
+tagDevotion_ChthonianDreadguardH02=Wallan'Siin
+tagDevotion_ChthonianDreadguardH03=Zagal'Udal ~ Nhiễm điện
+tagDevotion_ChthonianDreadguardH04=Rigak'Doth ~ Phản kích
+tagDevotion_ChthonianDreadguardH05=Palloth'Dar ~ Đóng băng
+
+tagDevotion_VoidFiendH01=Innal'Gargoth
+tagDevotion_VoidFiendH02=Udal'Thel
+tagDevotion_VoidFiendH03=Walloth'Dar
+tagDevotion_VoidFiendH04=Eldon'Siin ~ Nhiễm điện
+tagDevotion_VoidFiendH05=Sen'Udal ~ Bùng cháy
+tagDevotion_VoidFiendH06=Halloth'Siin
+
+tagDevotion_ChthonianMinionH01=Carath'Lud
+tagDevotion_ChthonianMinionH02=Elegor'Dar
+tagDevotion_ChthonianMinionH03=Fallim'Gargoth
+tagDevotion_ChthonianMinionH04=Ossius'Dar
+tagDevotion_ChthonianMinionH05=Blagal'Doth
+tagDevotion_ChthonianMinionH06=Mal'Thallon ~ Đóng băng
+tagDevotion_ChthonianMinionH07=Shogal'Gargoth ~ Lá chắn
+
+tagDevotion_ChthonianMonstrosityH01=Chthonian Unraveler
+
+tagDevotion_FleshHulkH01=Brognathar
+tagDevotion_FleshHulkH02=Aethollin
+tagDevotion_FleshHulkH03=Kollus ~ Bùng cháy
+tagDevotion_FleshHulkH04=Feseron ~ Nhiễm điện
+
+tagDevotion_GhostH01=Odellia Lanos
+tagDevotion_GhostH02=Marden Thal ~ Bùng cháy
+tagDevotion_GhostH03=Agalla Varos ~ Hồi phục
+tagDevotion_GhostH04=Stormbane ~ Nhiễm điện
+tagDevotion_GhostH05=Baullos Gar ~ Nhiễm Hư không
+tagDevotion_GhostH06=Senal Thandris ~ Tha hóa
+tagDevotion_GhostH07=Develos Ondal
+tagDevotion_GhostH08=Barrosa Namos
+tagDevotion_GhostH09=Aneria Thandris
+
+tagDevotion_CavePrawnH01=Direcrix
+tagDevotion_CavePrawnH02=Malocrix ~ Nhiễm Hư không
+tagDevotion_CavePrawnH03=Idricrix ~ Nhiễm điện
+tagDevotion_CaveSpiderH01=Shalloth
+tagDevotion_CaveSpiderH02=Troaxna ~ Hồi phục
+tagDevotion_CaveSpiderH03=Waviix ~ Nhanh nhẹn
+
+tagDevotion_SkeletalGolemH01=Grubwrath ~ Bệnh dịch
+tagDevotion_SkeletalGolemH02=Icesharn ~ Đóng băng
+tagDevotion_SkeletalGolemH03=Flamegore ~ Bùng cháy
+tagDevotion_SkeletalGolemH04=Aethergore ~ Tha hóa
+tagDevotion_SkeletalGolemH05=Voidreach ~ Nhiễm Hư không
+
+tagDevotion_SkeletonH01=Elledar Bloodthirster
+tagDevotion_SkeletonH02=Priest Dagoll
+tagDevotion_SkeletonH03=Damnoth
+tagDevotion_SkeletonH04=Everon ~ Bùng cháy
+tagDevotion_SkeletonH05=Vengar Thù hận ~ Phản kích
+tagDevotion_SkeletonH06=Rimelord ~ Đóng băng
+tagDevotion_SkeletonH07=Tenethon
+tagDevotion_SkeletonH08=Alladon kẻ Canh Lửa
+tagDevotion_SkeletonH09=Elagorian Darkmarrow
+tagDevotion_SkeletonH10=Ollegon kẻ Canh Băng
+
+tagDevotion_SlithH01=Rexna
+tagDevotion_SlithH02=Balladra Stormscion
+tagDevotion_SlithH03=Sharath
+tagDevotion_SlithH04=Traglodan ~ Nhiễm Hư không
+tagDevotion_SlithH05=Wrallan ~ Nhiễm điện
+tagDevotion_SlithH06=Calladra ~ Tha hóa
+tagDevotion_SlithH07=Bliegna
+tagDevotion_SlithH08=Lunorius
+
+tagDevotion_ZombieH01=Grubnar
+tagDevotion_ZombieH02=Follistad
+tagDevotion_ZombieH03=Flamewretch ~ Bùng cháy
+tagDevotion_ZombieH04=Palleod ~ Nhiễm điện
+tagDevotion_ZombieH05=Occullon
+tagDevotion_ZombieH06=Bloodwretch ~ Nhanh nhẹn
+tagDevotion_ZombieH07=Icerot
+tagDevotion_ZombieH08=Vampireon
+tagDevotion_ZombieH09=Swiftrot ~ Nhanh nhẹn
+
+#Truy nã
+tagBountyBL08=Gluttrius'Maw
+tagBountyBL09=Sicrix, kẻ Nhử mồi
+tagBountyBL10=Emberjaw
+tagBountyBL17=Harrath, kẻ Đội mồ
+tagBountyBL18=Padmanestia
+tagBountyBL19=Corprus
+tagBountyBL20=Luthus'Balok
+tagBountyDC06="Đấu sĩ" Romanov
+tagBountyDC07=Bolla "Quạ đen"
+tagBountyDC08=Slathra, kẻ Gieo bệnh
+tagBountyDC09=Ballior ~ Bùng cháy
+tagBountyDC10=Igor "Kẻ Đánh lộn"
+tagBountyDC11=Caspis, kẻ Uống máu
+tagBountyDC15=Rostov, Ngọn lửa Aether
+tagBountyDC17=Nalloth Băng giá
+tagBounyExile12=Nucus'Dal
+tagBounyExile13=Innu'Garbal
+tagBounyExile14=Conastaria
+tagBounyExile15=Ludia Starfire
+tagBountyHS09=Bogloth kẻ Hút tủy
+tagBountyHS10=The Locust
+tagBountyHS11=Vizier Haxin
+tagBountyHS12=Glukrog Lifedrinker
+tagBountyHS13=Phabius
+tagBountyKC07=Holvuur Bonespeaker
+tagBountyKC08=Igniaa Venomtongue
+tagBountyKC09=Vom'Zul
+tagBountyKC10=Thullon, Tinh binh của Ch'thon
+tagBountyKC11=Abathis, Xác khô
+tagBountyKC19=Ludia Bloodwhisper
+tagBountyODV06=Halvastra Wrathfire
+tagBountyODV07=Horvald Shieldbreaker
+tagBountyODV08=Olga Flamebearer
+tagBountyODV09=Narroth, kẻ Khổng lồ
+tagBountyODV10=Barrostrandt, kẻ Thăng thiên
+tagBountyODV11=Gravvis, Xác thối
+tagBountyODV12=Narl'Sarroth
+tagBountyRO10=Oligeane Dar
+tagBountyRO11=Rixna Plaguefeather
+tagBountyRO12=Mortallis
+tagBountyRO19=Grum
+
+#Races
+
+tagRace001=Undead
+tagRace002=Á nhân
+tagRace003=Sinh vật Aether
+tagRace004=Âm binh
+tagRace005=Bị Aether tha hóa
+tagRace006=Hội Huyết thệ
+tagRace007=Ma quái
+tagRace008=Côn trùng
+tagRace009=Con người
+tagRace010=Tạo tác
+tagRace011=Sinh vật Khe nứt
+tagRace012=Quái thú
+tagRace013=Ma thuật
+tagRace014=Thiên thần
+tagRace015=Nhện
+tagRace016=Thực vật
+tagRace001P=Undead
+tagRace002P=Á nhân
+tagRace003P=Sinh vật Aether
+tagRace004P=Âm binh
+tagRace005P=Bị Aether tha hóa
+tagRace006P=Hội Huyết thệ
+tagRace007P=Ma quái
+tagRace008P=Côn trùng
+tagRace009P=Con người
+tagRace010P=Tạo tác
+tagRace011P=Sinh vật Khe nứt
+tagRace012P=Quái thú
+tagRace013P=Ma thuật
+tagRace014P=Thiên thần
+tagRace015P=Nhện
+tagRace016P=Thực vật
+
+

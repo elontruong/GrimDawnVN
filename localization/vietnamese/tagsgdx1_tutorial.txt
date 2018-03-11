@@ -1,0 +1,17 @@
+#Loading Tips
+
+
+#Tutorial Pages
+
+tagGDX1TutorialTip65Title=Ảo ảnh Sư
+tagGDX1TutorialTip65TextA=Ảo ảnh sư có khả năng biến đổi hình dáng trang bị của bạn, thay thế chúng với vẻ ngoài của những trang bị tương tự bạn đã nhặt được từ trước. Danh mục những ảo ảnh này được lưu trữ chung cho các nhân vật (có phân biệt chế độ Thường và Hardcore).
+tagGDX1TutorialTip65SubtitleA=Thay đổi Hình dáng
+tagGDX1TutorialTip65TextB=Để thay đổi vẻ ngoài của một trang bị, chọn vị trí món đồ ở bên phải, rồi chọn ảo ảnh mong muốn trong danh mục ở bên trái. Khi đã hài lòng với những thay đổi, bấm nút Áp dụng Ảo ảnh để trả tiền phí và nhận vẻ ngoài mới!
+tagGDX1TutorialTip65SubtitleB=Đặt lại Hình dáng
+tagGDX1TutorialTip65TextC=Nếu bạn quyết định khôi phục lại hình dáng ban đầu của một vật phẩm, chỉ cần nhấp chuột phải vào món đồ mong muốn để chuyển đổi qua lại giữa hình dáng hiện tại và hình dáng mặc định. Để xác nhận thay đổi, hãy bấm nút Áp dụng Ảo ảnh.
+tagGDX1TutorialTip65TextD=Thiết lập lại hình dáng mặc định của một vật phẩm sẽ không tốn phí.
+
+
+#Quick Tips
+
+tagGDX1QuickTip65={^z}Ảo ảnh sư{^-}{^n}{^n}Ảo ảnh sư cho phép bạn thay đổi vẻ ngoài của các trang bị với những vật phẩm cùng loại bạn từng có.

@@ -1,0 +1,167 @@
+#Survival Mode Tags
+
+
+#Defenses
+tagDefense_Turret01=Trụ Liệt hỏa
+tagDefense_Turret02=Trụ Tử hàn
+tagDefense_Turret03=Trụ Lạc lôi
+tagDefense_Banner01=Cờ Thạch bích
+tagDefense_Banner01_Skill01=Hào quang Thạch bích
+tagDefense_Banner01_Skill01Desc=Lá cờ tôi luyện bạn cho chiến trận, tăng % Khả năng Phòng thủ, % Máu và Hồi máu
+tagDefense_Banner01_Skill02=Sương mù Trị liệu
+tagDefense_Banner01_Skill02Desc=Lá cờ làm mới bạn cho cuộc chiến dai dẳng, hồi lại lượng máu đã mất.
+tagDefense_Banner02=Cờ Tiên phong
+tagDefense_Banner02_Skill01=Hào quang Tiên phong
+tagDefense_Banner02_Skill01Desc=Lá cờ mang tới cho bạn sự cuồng bạo, tăng % Khả năng Tấn công, % Sát thương Chí mạng và % Tổng Sát thương
+tagDefense_Banner02_Skill02=Điên cuồng
+tagDefense_Banner02_Skill02Desc=Lá cờ mang tới cho bạn sự cuồng bạo, tăng Tốc độ Tổng.
+tagDefense_Wall01=Chướng ngại
+
+tagBeacon01=Trụ Thiên thần
+tagBeacon_Aura01_Skill=Hào quang Thiên thần
+tagBeacon_Aura01_Desc=Ánh sáng Thiên thần từ trụ này che chở bạn khỏi bóng tối.
+
+#Traps
+tagTrap_A01=Cột Băng
+tagTrap_A02=Cột Lửa
+tagTrap_A03=Cột Tử
+tagTrap_A04=Cột Độc
+
+tagTrap_SkillA01=Lạnh lẽo
+tagTrap_SkillA01_Desc=Cây cột gần bên đang hút hơi ấm từ bạn, làm giảm tốc độ.
+tagTrap_SkillA02=Thiêu đốt
+tagTrap_SkillA02_Desc=Cây cột gần bên đang thiêu sống bạn, giảm giáp.
+tagTrap_SkillA03=Hoại tử
+tagTrap_SkillA03_Desc=Cây cột gần bên đang rút sinh khí của bạn, giảm máu và hồi máu.
+tagTrap_SkillA04=Trúng độc
+tagTrap_SkillA04_Desc=Cây cột gần bên đang làm bạn ngạt thở với khí độc, giảm sát thương.
+
+#PowerUps
+tagSkillPowerup01=Lời ban phước của Ulo
+tagSkillPowerup01Desc=Bạn được Ulo ban phước, cho bạn sức kháng cự trước sát thương theo thời gian và các hiệu ứng khống chế.
+
+tagSkillPowerup02=Sự dìu dắt của Empyrion
+tagSkillPowerup02Desc=Bạn được ban phước bởi ánh sáng của Empyrion, cho bạn sự kiên cường không gì sánh nổi.
+
+tagSkillPowerup03=Sự dũng mãnh của Amatok
+tagSkillPowerup03Desc=Bạn được đánh dấu bởi linh hồn của Amatok, cho bạn sức mạnh không thể tin được.
+
+tagSkillPowerup04=Giao ước với Ulzuin
+tagSkillPowerup04Desc=Bạn được đánh dấu bởi Ulzuin, cho bạn cơn cuồng nộ không ngừng nghỉ.
+
+
+#Rewards
+tagItem_ChestA01=Journeyman's Chest
+tagItem_ChestB01=Champion's Chest
+tagItem_ChestC01=Triumphant Chest
+tagItem_ChestD01=Ornate Chest
+tagItem_ChestE01=Heroic Chest
+tagItem_ChestF01=Valorous Chest
+tagItem_ChestG01=Grand Chest
+tagItem_ChestH01=Supreme Chest
+tagItem_ChestI01=Magnificent Chest
+tagItem_ChestJ01=Glorious Chest
+tagItem_ChestK01=Transcendent Chest
+tagItem_ChestL01=Nemesis Trove
+tagItem_ChestM01=Conqueror's Trove
+tagItem_ChestN01=Celestial Trove
+
+tagItem_ChestStart=Bại binh
+
+#NPCs
+tagNPC_Event_01=Lokarr, Chủ Luyện ngục
+tagNPC_DefenseSite_01=Điểm Phòng thủ
+
+tagNPC_MerchantS01=Kandral
+tagStoreTitle_MerchantS01=Người bán rong Bất tử
+
+tagNPC_SmugglerS01=Ignotius
+tagStoreTitle_SmugglerS01=Kẻ buôn lậu Bất tử
+
+tagNPC_ReallocatorS01=Kracius
+tagStoreTitle_ReallocatorS01=Kẻ Dẫn dắt Linh hồn
+
+tagNPC_InventorS01=Yvalla
+tagStoreTitle_InventorS01=Nhà phát minh Cổ đại
+
+tagNPC_PowerupsS01=Torralia, Đại pháp sư Bất tử
+
+tagNPC_SmithS01=Garrius
+tagStoreTitle_SmithS01=Thợ rèn Bị nguyền rủa
+tagStoreDesc_SmithS01_1={}Món quà của sự-không-sống
+tagStoreDesc_SmithS01_2=Garrius được trao cho món quà là nhiều thế kỷ kiến thức về rèn vũ khí, tăng cường thêm bởi...tình trạng tồn tại khá độc đáo của ông.
+tagStoreDesc_SmithS01_3= 
+tagStoreDesc_SmithS01_4=Vũ khí, Giáp và Trang sức chế tác được sẽ mang một trong những thuộc tính sau:
+
+
+#Notifications
+tagNotification_Start=Nói chuyện với Chủ Luyện ngục để bắt đầu
+tagNotification_Active=Tiêu diệt hết Kẻ địch
+tagNotification_Continue=Nói chuyện với Chủ Luyện ngục để tiếp tục
+tagNotification_Failure=Bạn thất bại rồi, thù lao của bạn đang chờ trong Buồng Kho báu
+tagNotification_Reward=Phần thưởng của bạn đang chờ trong Buồng Kho báu
+tagNotification_Reset=(Phụ) Nói chuyện với Chủ Luyện ngục để Tái lập lại Luyện ngục cho một lần thử thách nữa
+
+tagNotification_Checkpoint05=Giờ bạn có thể tiếp tục từ Đợt thứ 50 ở Luyện ngục này.
+tagNotification_Checkpoint10=Giờ bạn có thể tiếp tục từ Đợt thứ 100 ở Luyện ngục này.
+
+
+#Mutators
+Mutator_Monster_01=Aetherwarped
+Mutator_Monster_01Desc=Quái vật được tăng kháng Aether, nhưng dễ bị tổn thương hơn bởi Hỗn nguyên.
+Mutator_Monster_02=Thiết giáp
+Mutator_Monster_02Desc=Quái vật gần như không bị ảnh hưởng bởi Sát thương Vật lý và Xuyên giáp, nhưng dễ bị tổn thương hơn từ các Nguyên tố.
+Mutator_Monster_03=Cuồng bạo
+Mutator_Monster_03Desc=Quái vật trở nên cuồng bạo, Tấn công nhanh hơn nhưng cũng dễ bị tổn thương hơn.
+Mutator_Monster_04=Tàn bạo
+Mutator_Monster_04Desc=Quái vật thường xuyên ra đòn Chí mạng hơn, nhưng bị Giảm Sát thương.
+Mutator_Monster_05=Tha hóa
+Mutator_Monster_05Desc=Quái vật được tăng kháng Hỗn nguyên, nhưng dễ bị tổn thương hơn bởi Aether.
+Mutator_Monster_06=Tàn tật
+Mutator_Monster_06Desc=Đòn tấn công của quái vật làm Chậm đối phương, nhưng chúng tấn công chậm hơn.
+Mutator_Monster_07=Ác nghiệt
+Mutator_Monster_07Desc=Đòn Chí mạng của Quái vật nguy hiểm hơn nhiều, nhưng cũng trượt nhiều hơn.
+Mutator_Monster_08=Bùng cháy
+Mutator_Monster_08Desc=Quái vật được bao trùm bởi Lửa, gây thêm Sát thương Lửa và Phản đòn Lửa, nhưng dễ bị tổn thương hơn từ Băng.
+Mutator_Monster_09=Bẻ cong Thời gian
+Mutator_Monster_09Desc=Quái vật được giảm đáng kể Thời gian Hồi phép và tăng Tốc độ Thi triển, nhưng bị Giảm Sát thương Vật lý.
+Mutator_Monster_10=Hút máu
+Mutator_Monster_10Desc=Quái vật hồi máu với mỗi đòn đánh, nhưng bị Giảm Máu tối đa.
+Mutator_Monster_11=Độc hại
+Mutator_Monster_11Desc=Quái vật được bao trùm bởi độc dược, gây thêm Sát thương Độc và Phản đòn Độc, nhưng dễ bị tổn thương hơn từ đòn Rút Sinh khí.
+Mutator_Monster_12=Hồi phục
+Mutator_Monster_12Desc=Quái vật được tăng cường đáng kể khả năng hồi máu và năng lượng, nhưng dễ bị tổn thương hơn từ A-xít, Độc và Xuất huyết.
+Mutator_Monster_13=Kháng
+Mutator_Monster_13Desc=Quái vật gần như không bị ảnh hưởng bởi đòn Ma thuật, nhưng dễ bị tổn thương hơn từ đòn Vật lý.
+Mutator_Monster_14=Cứng cáp
+Mutator_Monster_14Desc=Quái vật được tăng đáng kể Máu tối đa, nhưng bị Giảm Hồi máu.
+Mutator_Monster_15=Không thể Ngăn cản
+Mutator_Monster_15Desc=Quái vật có sức kháng cự cao với các hiệu ứng khống chế, nhưng phải Di chuyển Chậm.
+Mutator_Monster_16=Căm thù
+Mutator_Monster_16Desc=Quái vật được tăng cường mạnh các hiệu ứng Phản đòn, nhưng bị Giảm Giáp.
+Mutator_Monster_17=Nhanh nhẹn
+Mutator_Monster_17Desc=Quái vật được tăng đáng kể Tốc độ Di chuyển, nhưng bị ảnh hưởng nặng hơn từ các Hiệu ứng Khống chế.
+
+Mutator_Player_01=Bị Aether đánh dấu
+Mutator_Player_01Desc=Người chơi tấn công chậm hơn, nhưng có thêm sức Kháng cự với Aether.
+Mutator_Player_02=Bị Hư không đánh dấu
+Mutator_Player_02Desc=Người chơi thi triển kỹ năng chậm hơn nhưng có thêm sức Kháng cự với Hỗn nguyên.
+Mutator_Player_03=Bị đánh dấu
+Mutator_Player_03Desc=Người chơi bị giảm Khả năng Phòng thủ, nhưng Sát thương được Khuếch đại.
+Mutator_Player_04=Cạn kiệt
+Mutator_Player_04Desc=Người chơi bị giảm Hồi máu, nhưng có thêm sức Kháng cự với Độc và Xuất huyết.
+Mutator_Player_05=Tan vỡ
+Mutator_Player_05Desc=Người chơi bị giảm Sát thương và các Hiệu ứng Phản đòn, nhưng Giáp được Tăng lên.
+Mutator_Player_06=Ưu tư
+Mutator_Player_06Desc=Người chơi bị giảm Máu, nhưng có thêm sức Kháng cự với Rút Sinh khí.
+Mutator_Player_07=Chập chạp
+Mutator_Player_07Desc=Tốc độ Di chuyển của người chơi bị giảm đáng kể, nhưng các Hiệu ứng Khống chế không tồn tại lâu như trước nữa.
+Mutator_Player_08=Vấy bẩn
+Mutator_Player_08Desc=Người chơi bị Làm chậm, nhưng Sát thương Chí mạng được tăng thêm.
+Mutator_Player_09=Sơ hở
+Mutator_Player_09Desc=Người chơi bị giảm Giáp, nhưng Thời gian Hồi chiêu được Giảm đi.
+Mutator_Player_10=Suy yếu
+Mutator_Player_10Desc=Đòn Chí mạng của Người chơi bị suy yếu, nhưng những đòn đánh sẽ trúng mục tiêu thường xuyên hơn.
+
+
+

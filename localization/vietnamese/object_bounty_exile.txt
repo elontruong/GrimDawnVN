@@ -1,0 +1,196 @@
+Nhiệm vụ của Kẻ bị Ruồng bỏ
+Anasteria không giao nhiệm vụ cho những kẻ muốn cô ta chết.
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã chiến thắng trở về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đang làm một nhiệm vụ truy nã khác cho Anasteria.
+Rời khỏi Bảng Truy nã.
+Anasteria thấy bạn có tiềm năng.{^n}{^n}Cô ấy tin bạn có thể giải quyết một số nhiệm vụ nhạy cảm hơn giúp mình.
+Xem qua Bảng Truy nã.
+Hiện tại không có nhiệm vụ nào.
+Rời khỏi Bảng Truy nã.
+Xem qua Bảng Truy nã.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rời khỏi Bảng Truy nã.
+Những kẻ bị sinh vật Aether nhập thường xuất hiện những tác dụng phụ khá thú vị, thường là đột biến về thể chất, nhưng điều gì xảy ra trong bộ não... đó là vấn đề đáng để nghiên cứu sâu hơn.{^n}{^n}Tôi muốn tìm hiểu chúng. Hãy mang về cho tôi một Bộ não Vấy bẩn và tôi sẽ trả thù lao bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Máu của một vị thần đã chết, bọn Âm binh thu thập nó, dám dị giáo tôn thờ nó, nhưng để làm gì?{^n}{^n}Tôi cần phải biết! Hãy mang về cho tôi một bình Máu của Ch'thon và tôi sẽ trả thù lao bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Các sinh vật xứ Cairn thật thú vị. Sức mạnh chúng nắm giữ không đến từ Aether, mà từ những cấu trúc sinh học bất thường.{^n}{^n}Tôi muốn nghiên cứu chúng. Hãy mang về cho tôi một Trái tim Cổ xưa và tôi sẽ trả thù lao bằng Sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Tôi cần thêm mẫu vật cho các nghiên cứu của mình. [[ms]Anh[fs]Cô] sẽ là người cung cấp chúng và đừng hỏi gì cả.{^n}{^n}Hãy mang cho tôi ba Bộ não Vấy bẩn và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Tôi cần thêm mẫu vật cho các nghiên cứu của mình. [[ms]Anh[fs]Cô] sẽ là người cung cấp chúng và đừng hỏi gì cả.{^n}{^n}Hãy mang cho tôi ba bình Máu của Ch'thon và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Tôi cần thêm mẫu vật cho các nghiên cứu của mình. [[ms]Anh[fs]Cô] sẽ là người cung cấp chúng và đừng hỏi gì cả.{^n}{^n}Hãy mang cho tôi ba Trái tim Cổ xưa và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Người xưa từng tạo ra những thánh vật với sức mạnh đáng kinh ngạc. Đáng tiếc, đa phần những kiến thức này giờ đã thất truyền.{^n}{^n}Tôi cần một thánh vật Băng hà để tiếp tục nghiên cứu. Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Lõi băng lạnh giá của nó sẽ giúp ổn định các thí nghiệm của tôi.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Người xưa từng tạo ra những thánh vật với sức mạnh đáng kinh ngạc. Đáng tiếc, đa phần những kiến thức này giờ đã thất truyền.{^n}{^n}Tôi cần một thánh vật Bạo phong để tiếp tục nghiên cứu. Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Đặc tính hỗn loạn trong lõi của nó sẽ là chất xúc tác cho các nghiên cứu của tôi.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Để nghiên cứu sâu hơn, tôi cần một Thánh vật cổ có khả năng lấp đầy người sử dụng với sự thịnh nộ của núi lửa, Hỏa ngục. Đáng tiếc, kiến thức để tạo ra nó đã thất truyền từ lâu.{^n}{^n}Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Lõi nóng chảy của nó sẽ là nguồn nhiệt năng tôi cần cho những nghiên cứu.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Người xưa từng tạo ra những thánh vật với sức mạnh đáng kinh ngạc. Đáng tiếc, đa phần những kiến thức này giờ đã thất truyền.{^n}{^n}Tôi cần một thánh vật Tha hóa để tiếp tục nghiên cứu. Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Đặc tính lây lan của nó sẽ giúp tôi nghiên cứu các tác nhân đột biến của những sinh vật Aether.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Để nghiên cứu sâu hơn, tôi cần một Thánh vật cổ có khả năng bảo vệ người mang khỏi nguy hiểm, Bảo hộ. Đáng tiếc, kiến thức để tạo ra nó đã thất truyền từ lâu.{^n}{^n}Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Những đặc tính của nó sẽ bảo vệ các thí nghiệm của tôi khỏi ô nhiễm từ bên ngoài.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Tôi cảm nhận được sự hiện diện của một kẻ cựu thù, một sứ giả có tên Nucus'Dal. Tôi cứ nghĩ hắn tiêu rồi, nhưng tôi đã nhầm.{^n}{^n}Tên sứ giả đang ẩn náu bên trong Necropolis, mong ngày về của chủ nhân. [[ms]Anh[fs]Cô] sẽ giúp hắn không phải chờ nữa.{^n}{^n}Hãy tiêu diệt Nucus'Dal và tôi sẽ trả công [[ms]anh[fs]cô] bằng thứ gì đó trong bộ sưu tập của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Hư không luôn hỗn loạn, nhiều thế lực thảm khốc đe dọa đánh sập nó bất cứ lúc nào, vậy mà nó vẫn tồn tại. Nhưng gần đây năng lượng bên trong nó còn trở nên bất ổn hơn nữa.{^n}{^n}Chỉ có một khả năng thôi, một Âm binh hùng mạnh đang khuấy đảo bên trong Hư không. Hãy tìm ra kẻ bất thường này ở Ngai vàng Hắc diện và tiêu diệt nó.{^n}{^n}Làm xong việc này và tôi sẽ trả công [[ms]anh[fs]cô] bằng thứ gì đó trong bộ sưu tập của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Một phù thủy Aether có tên Conastaria đã bị phát hiện ở Ruộng gặt Kinh hoàng.{^n}{^n}Trước đây cô ta là bạn, nhưng giờ đây mỗi người mỗi hướng rồi. Tôi muốn cô ta phải chết, bị tiêu diệt, tan thành tro bụi.{^n}{^n}Làm xong việc này và tôi sẽ trả công [[ms]anh[fs]cô] bằng thứ gì đó trong bộ sưu tập của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Ludia Starfire từng là một arcanist tài năng và một đồng sự. Hết rồi.{^n}{^n}Giờ cô ta đang phát tán sự tha hóa khắp Chiến hỏa Bình nguyên. [[ms]Anh[fs]Cô] sẽ chấm dứt sự phục dịch của cô ta cho bọn Aetherial.{^n}{^n}Làm xong việc này và tôi sẽ trả công [[ms]anh[fs]cô] bằng thứ gì đó trong bộ sưu tập của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Người xưa từng tạo ra những thánh vật với sức mạnh đáng kinh ngạc. Đáng tiếc, đa phần những kiến thức này giờ đã thất truyền.{^n}{^n}Tôi cần một thánh vật Xảo trá để tiếp tục nghiên cứu. Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Nó sẽ là chất xúc tác cho các nghiên cứu của tôi.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Để nghiên cứu sâu hơn, tôi cần một Thánh vật cổ có khả năng gây ra những cơn thịnh nộ không thể kiểm soát cho người mang nó, Cuồng bạo. Đáng tiếc, kiến thức để tạo ra nó đã biến mất từ lâu.{^n}{^n}Nếu [[ms]anh[fs]cô] tìm lại được cách chế tạo nó, hãy đem đến cho một thợ rèn đáng tin cậy.{^n}{^n}Bảo họ chế ra Thánh vật, rồi đem nó tới chỗ tôi. Nó có thể hết sức bất định, nhưng đấy đúng là thứ tôi cần.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nghe thì có vẻ lạ, nhưng lũ troll Mistborn không đần độn như vẻ ngoài của chúng đâu. Thực tế, chúng có nguồn gốc sâu xa từ các shaman nên có sự liên kết sâu sắc với thiên nhiên.{^n}{^n}Tôi định sẽ khám phá sức mạnh này trong nghiên cứu tiếp theo. Hãy tìm ra cách chế tạo một cái Bùa Mistborn từ lũ troll, con to nhất nhiều khả năng sẽ biết nhất.{^n}{^n}Sau đó hãy đem đến cho một thợ rèn đáng tin cậy và bảo họ chế ra lá Bùa, rồi đem nó tới chỗ tôi. Tôi làm việc này chỉ để chứng minh rằng nguồn sức mạnh lớn hoàn toàn có thể đến từ nơi ít ngờ nhất thôi.{^n}{^n}Làm việc này và tôi sẽ tặng [[ms]anh[fs]cô] một ít đồ có giá trị của mình.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Sứ giả Hỗn nguyên, Shar'Zul đang ở đây, ngay tại xứ Cairn. Tôi có thể cảm nhận thấy hắn. Thành Hỗn nguyên, cánh cổng dịch chuyển khổng lồ mở toang gần Necropolis, là lãnh địa của hắn.{^n}{^n}Hãy nhớ, tôi sẽ không yêu cầu [[ms]anh[fs]cô] làm việc này nếu nghĩ [[ms]anh[fs]cô] không đủ khả năng, nhưng tôi không thể không nhấn mạnh đến những nguy hiểm của thử thách trước mắt. Chỉ sự hiện diện của hắn thôi đã là mối họa với tất cả chúng ta rồi. Hắn phải bị tiêu diệt để xứ Cairn được tồn tại, hoặc sẽ chẳng còn gì.{^n}{^n}Hãy đi vào trong Thành Hỗn nguyên và hạ bệ tên bạo chúa này. Sống sót qua trận chiến và tôi thậm chí sẽ tặng cho [[ms]anh[fs]cô] một trong những món đồ quý giá nhất trong bộ sưu tập của mình.{^n}{^n}Nhiệm vụ này cần một chiếc Chìa khóa Xương.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Arkovia là bằng chứng của sức mạnh thiếu kiểm soát, cũng như sự ngông cuồng, của con người. Cả một chủng tộc bị đọa đày vĩnh cửu chỉ vì lòng thù hận của một người. Nhưng nói thế đủ rồi.{^n}{^n}Sâu bên trong phế tích gọi là Bậc thang Thống khổ, có một linh hồn tên Alkamos. Hắn đóng vai trò trung tâm trong số phận của Arkovia, và giờ đang phải trả cái giá vĩnh hằng ở giữa nhà tù hắn từng quản lý.{^n}{^n}Trải qua hàng thế kỷ, sự căm ghét với Uroboruuk đã khiến tâm trí hắn trở nên điên loạn. Giờ hắn là một món vũ khí không thể kiểm soát, đã lên nòng và sẵn sàng khai hỏa. Đừng để chuyện đó xảy ra.{^n}{^n}Hãy vào trong Bậc thang Thống khổ và tiêu diệt Kẻ Hành quyết. Sống sót qua trận chiến và tôi thậm chí sẽ tặng cho [[ms]anh[fs]cô] một trong những món đồ quý giá nhất trong bộ sưu tập của mình.{^n}{^n}Nhiệm vụ này cần một chiếc Chìa khóa Xương.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Anasteria thấy bạn có tiềm năng.{^n}{^n}Cô ấy tin bạn có thể giải quyết một số nhiệm vụ nhạy cảm hơn giúp mình.
+
+Rời khỏi Bảng Truy nã.
+Anasteria vẫn chưa đủ tin tưởng để giao phó cho bạn những nhiệm vụ quan trọng hơn.{^n}{^n}Danh tiếng cần ở mức Tôn Trọng thì mới có thể xem Bảng Truy nã.
+Rời khỏi Bảng Truy nã.

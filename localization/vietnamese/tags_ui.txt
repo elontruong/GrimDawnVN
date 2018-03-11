@@ -1,0 +1,2260 @@
+﻿#General
+
+tagGameDifficultySetting01=Độ khó Bình thường
+tagGameDifficultySetting02=Độ khó Cao cấp
+tagGameDifficultySetting03=Độ khó Tối thượng
+tagDifficultyUnlocked=Độ khó đã mở khóa
+tagDifficultyLevelUnlocked=Giờ bạn có thể chơi {^g}{%s0}{^w}!
+
+tagAutosort=Tự sắp xếp lại Hành trang
+
+tagPromptButtonYes=Có
+tagPromptButtonNo=Không
+tagPromptButtonOkay=Đồng ý
+tagPromptButtonClose=Đóng
+
+tagGraveName=Mộ của ~ {%t0}
+tagGraveSlainBy=Bị {%t0} giết
+tagGraveXPRecovered=Thu lại được {%d0} kinh nghiệm
+tagHeroXP={%d0} KN từ Anh hùng Địch
+tagBossXP={%d0} KN từ Tướng địch
+tagHeroKilled=Đã giết Anh hùng Địch
+tagBossKilled=Đã giết Tướng Địch
+tagXPAwarded=Thưởng {%d0} XP
+tagReputationBonus=Thưởng Danh tiếng
+tagRepAwarded=+{%d0} Danh tiếng với {^g}{%s1}
+tagLoreBonus=Thưởng Tri thức
+
+tagLevelUp=Lên cấp
+tagLevelReached=Bạn đã đạt tới {^y}Cấp {%d0}
+
+#Devotion
+
+tagDevotionPointAwarded=Được thưởng {%d0} điểm Tín ngưỡng
+tagDevotionPointsAwarded=Được thưởng {%d0} điểm Tín ngưỡng
+tagDevotionShrine=Đã thanh tẩy Điện thờ
+tagDevotionShrineGuardian=Vệ binh Điện thờ
+tagDevotionUpdate=Cấp Tín ngưỡng
+tagDevotionSkillLevelUp={^g}{%s0} {^w}đã đạt cấp {%d1}!
+tagDevotionSkillMaxLevel={^g}{%s0} {^w}đã đạt cấp tối đa!
+tagDevotionAffinityBonus=Thưởng khi hoàn thành Chòm sao:
+tagDevotionAffinity=Hành:
+tagDevotionSelected= (Đã chọn)
+tagDevotionInUse= (Đang sử dụng)
+tagDevotionConfirm=Thay đổi Quyền năng Thiên phú?
+tagDevotionExperienceFormat=Kinh nghiệm : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=Cấp Hiện tại : {%d0} / {%d1}
+
+tagUndo=Hoàn tác
+Chat=Chat:
+
+tagGamePaused=Trò chơi tạm ngưng
+
+tagSkillNotReady={^r}Kỹ năng chưa sẵn sàng
+
+tagTransferStashError={^r}Vật phẩm không thể đặt ở đó
+
+#Riftgate
+
+tagRiftgatePersonal=Cổng dịch chuyển Cá nhân
+tagRiftgateDestination=Điểm đến
+tagRiftgateError01=Bạn không thể dùng cổng dịch chuyển này.  Nó được tạo ra bởi một người chơi không ở trong nhóm của bạn.
+tagRiftgateError02=Bạn không thể dịch chuyển đến cùng Cổng dịch chuyển này.
+tagRiftgateError03=Bạn không thể dịch chuyển đến Cổng dịch chuyển này từ đây.
+tagRiftgateDialog01=Mở một cổng dịch chuyển mới sẽ đóng cái hiện tại lại.  Bạn có muốn tiến hành không?
+tagRiftGateMapA01=Cairn
+
+#Quest
+
+tagQuests=Nhiệm vụ Đang làm
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=Không có Nhiệm vụ nào
+tagQuestJournalNoComplete=Chưa hoàn thành Nhiệm vụ nào
+tagQuestIncentives=Động cơ:
+tagQuestObjectives=Mục tiêu:
+tagQuestRewards=Phần thưởng:
+tagCodexJournalNoNotes=Không có mục nào
+tagCodexJournalSubHeadingEnemy=Hiểu biết về Kẻ địch
+tagCodexJournalSubHeadingFaction=Phe phái
+tagCodexJournalSubHeadingCreed=Thanh tra Creed
+tagCodexJournalSubHeadingArkovia=Lịch sử - Arkovia
+tagCodexJournalSubHeadingNecropolis=Lịch sử - Necropolis
+tagCodexJournalSubHeadingSurvivorBlackLegion=Người sống sót - Quân đoàn Đen
+tagCodexJournalSubHeadingSurvivorBurrwitch=Người sống sót - Burrwitch
+tagCodexJournalSubHeadingSurvivorsHomestead=Người sống sót - Homestead
+tagCodexJournalSubHeadingSurvivorsDarkvale=Người sống sót - Darkvale
+tagCodexJournalSubHeadingSurvivorsValbury=Người sống sót - Cảng Valbury
+tagCodexJournalSubHeadingHistoryGods=Lịch sử - Thần thánh xứ Cairn
+tagCodexJournalSubHeadingDefault=Khác
+tagDevotionJournalTitle={%d0}/{%d1} Điện thờ
+tagAccept=Đồng ý
+tagDecline=Từ chối
+tagContinue=Tiếp tục
+tagEndConversation=Kết thúc đối thoại
+tagQuestPrimary=(chính)
+tagQuestSecondary=(phụ)
+tagQuestElite=(cao cấp)
+tagQuestAccepted=Nhận Nhiệm vụ: {^n}"{%t0}"
+tagQuestCompleted=Hoàn thành Nhiệm vụ: {^n}"{%t0}"
+tagQuestUpdate=Tiến độ Nhiệm vụ
+tagQuestUpdated=Cập nhật Nhiệm vụ: {^n}"{%t0}"
+tagQuestFailed=Nhiệm vụ Thất bại: {^n}"{%t0}"
+tagActionGiveMoney={%d0} Sắt
+tagActionGiveTribute={%d0} Cống hiến
+tagActionGiveTributes={%d0} Cống hiến
+tagActionGiveExperience={%d0} Kinh nghiệm
+tagActionGiveFaction={%d0} Phe {%t1}
+tagActionGiveLevel={%d0} Cấp
+tagActionGiveLevels={%d0} Cấp
+tagActionGiveSkillPoint={%d0} Điểm Kỹ năng
+tagActionGiveSkillPoints={%d0} Điểm Kỹ năng
+tagActionGiveAttributePoint={%d0} Điểm Tiềm năng
+tagActionGiveAttributePoints={%d0} Điểm Tiềm năng
+tagActionGiveDevotionPoint={%d0} Điểm Tín ngưỡng
+tagActionGiveDevotionPoints={%d0} Điểm Tín ngưỡng
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=Nhiệm vụ Hoàn thành
+tagQuestRewardWindowInterim=Tiến độ Nhiệm vụ
+tagQuestRewardTitle=Phần thưởng:
+tagQuestRewardMoney={%d0} Sắt
+tagQuestRewardXP=XP: {%d0}
+tagQuestRewardReputationPositive=+{%d0} Danh tiếng với {%s1}
+tagQuestRewardReputationNegative=-{%d0} Danh tiếng với {%s1}
+tagQuestRewardAcceptButton=Đóng
+tagQuestBlockedDescription=Nhiệm vụ bị khóa trong phòng chơi này dựa theo tiến trình của chủ phòng.
+
+tagObjectives=Mục tiêu
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=Vị thế: {^s}{%t0}
+tagFactionQuestReq=Nhiệm vụ thêm: {^s}{%+d0}
+tagFactionAlone=Cô độc
+tagFactionInvisible=Vô hình
+tagFactionGenericMonster=Quái vật
+tagFactionPlayer=Người chơi
+tagFactionSurvivors=Ngã tư Ác quỷ
+tagFactionSurvivorsInfo=Trụ sở: Ngã tư Ác quỷ {^n}{^n} Những người sống sót...đó là từ thường được dùng nhất để miêu tả những cư dân kiên cường tại Ngã tư Ác quỷ. Những người đã vượt qua được Grim Dawn để lập nên một cộng đồng nhỏ trong phế tích của một nhà tù bỏ hoang. Họ đã thấy quá nhiều bạn bè và người thân ra đi dưới tay những kẻ "Bị nhập", con người bị Sinh vật Aether khống chế.{^n}{^n} Giành được sự tin tưởng của họ sẽ không dễ dàng, nhưng khi đồ dự trữ đang cạn dần và mối hiểm họa từ các sinh vật Aether đang hiển hiện phía chân trời, có lẽ họ sẽ sẵn lòng chấp nhận một cơ hội.
+tagFactionSurvivorsRewards1=N/A
+tagFactionSurvivorsRewards2=N/A
+tagFactionSurvivorsRewards3=N/A
+tagFactionSurvivorsRewards4=Không có
+tagFactionSurvivorsRewards5=Nhiệm vụ mới {^n}Được dùng Cửa hàng của Phe
+tagFactionSurvivorsRewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionSurvivorsRewards7=Nhiệm vụ/Hầm ngục mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionSurvivorsRewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionAetherials=Sinh vật Aether
+tagFactionAetherialsInfo= Những Arcanist xứ Cairn với sự dại dột và tham lam đã dấn thân vào dòng chảy ma thuật gọi là Aether, chẳng may may nghi ngờ về những thứ ở phía bên kia. {^n}{^n} Những sinh vật Aether giáng xuống Cairn trong sự kiện ngày nay được biết dưới cái tên Grim Dawn, khống chế vô số người và tàn sát hết phần còn lại. Đáng ghê tởm nhất là, chúng bắt đầu dựng những kẻ đã chết trở thành xác sống đột biến, những con tốt không có suy nghĩ phục vụ cho cuộc xâm lăng của chúng. Chỉ sự hiện diện của chúng ở Cairn cũng đã đủ làm biến đổi các sinh vật hoang dã, biến những sinh vật vốn được thuần hóa trở thành đám quái vật dữ tợn. {^n}{^n} Nhưng điều kì lạ nhất ở chúng là sự căm ghét lộ rõ với bọn Âm binh, chúng sẵn sàng quyết chiến với sự khủng bố từ Hư không này bất cứ khi nào có thể.
+tagFactionAetherialsRewards1=Xuất hiện Nemesis
+tagFactionAetherialsRewards2=Xuất hiện quái Anh hùng
+tagFactionAetherialsRewards3=Thêm Kẻ địch
+tagFactionAetherialsRewards4=Trống
+tagFactionAetherialsRewards5=N/A
+tagFactionAetherialsRewards6=N/A
+tagFactionAetherialsRewards7=N/A
+tagFactionAetherialsRewards8=N/A
+tagFactionCthonians=Âm binh
+tagFactionCthoniansInfo= Âm binh, sự khủng bố từ Hư không, là những thứ bước ra từ mỗi cơn ác mộng. Trước Grim Dawn, người ta chỉ thấy Âm binh ở Cairn khi có một nghi thức ma pháp thất bại hoặc dưới sự triệu gọi của một phù thủy cao tay. {^n}{^n} Bất chấp những nỗ lực để ngăn cản, vẫn có một giáo phái được thành lập xoay quanh những nghi lễ đẫm máu cùng sự tôn thờ những thực thể từ Âm ti. Thành viên của giáo phái được cho là thường tụng niệm một cái tên: Ch'thon. Với thế giới trở nên hỗn loạn, giáo phái ngày càng lớn mạnh, thu thập thêm nhiều tín đồ mới tuyệt vọng tìm kiếm câu trả lời trong một thế giới đã không còn như xưa. {^n}{^n} Bọn Âm binh, và những giáo đồ trung thành của chúng, dường như không hợp với đám sinh vật Aether, sẵn sàng thu hoạch máu từ những con người yếu đuối để những kẻ đến từ Aether không thể sử dụng những thân xác đó nữa.
+tagFactionCthoniansRewards1=Xuất hiện Nemesis
+tagFactionCthoniansRewards2=Xuất hiện quái Anh hùng
+tagFactionCthoniansRewards3=Thêm Kẻ địch
+tagFactionCthoniansRewards4=Trống
+tagFactionCthoniansRewards5=N/A
+tagFactionCthoniansRewards6=N/A
+tagFactionCthoniansRewards7=N/A
+tagFactionCthoniansRewards8=N/A
+tagFactionOutlaws=Băng Cronley
+tagFactionOutlawsInfo= Không giống hầu hết những băng nhóm trộm cướp khác, Băng Cronley có vẻ được tổ chức hết sức chặt chẽ và có vũ trang đầy đủ, chỉ nghe theo lệnh lãnh tụ tự xưng của chúng, Darius Cronley. {^n}{^n} Trốn thoát khỏi Nhà tù Ngã tư Ác quỷ nhờ sự hỗn loạn xảy ra sau sự kiện Grim Dawn, giờ đây đám tội phạm này dự định chiếm lại nới đã từng cướp đi tự do của chúng. Thành viên Băng Cronley rất tàn ác, hung bạo và chẳng ngần ngại thực hiện những hành vi chống lại loài người, càng chứng minh rằng có lẽ mối hiểm họa lớn nhất của nhân loại không gì khác chính là nhân loại mà thôi.
+tagFactionOutlawsRewards1=Xuất hiện Nemesis
+tagFactionOutlawsRewards2=Xuất hiện quái Anh hùng
+tagFactionOutlawsRewards3=Thêm Kẻ địch
+tagFactionOutlawsRewards4=Trống
+tagFactionOutlawsRewards5=N/A
+tagFactionOutlawsRewards6=N/A
+tagFactionOutlawsRewards7=N/A
+tagFactionOutlawsRewards8=N/A
+tagFactionBeasts=Quái thú
+tagFactionBeastsInfo=Quái thú là quái thú.
+tagFactionUser0=Du dân
+tagFactionUser0Info=Trụ sở: Cựu Arkovia {^n}{^n} Người Rhowar, thường được gọi là Du dân, là một nhóm người không có nơi ở cố định. Với họ, đường cái là ngôi nhà duy nhất họ cần, họ đi khắp thế giới Cairn trong một cuộc hành hương dài cả đời người để tự thanh tẩy mình khỏi những cám dỗ thế tục và sự tha hóa của đời sống văn minh. Hầu hết lịch sử của họ đã mai một theo thời gian, và đa số những nền văn hóa khác đều coi họ chẳng hơn gì mấy kẻ lang thang hay trộm cắp vặt. {^n}{^n} Du dân căm ghét bạo lực, và sẽ tìm cách né tránh chúng bằng mọi giá, điều này làm họ thường bị những kẻ bạo lực hơn lợi dụng.
+tagFactionUser0Rewards1=N/A
+tagFactionUser0Rewards2=N/A
+tagFactionUser0Rewards3=N/A
+tagFactionUser0Rewards4=Trống
+tagFactionUser0Rewards5=Nhiệm vụ mới {^n}Được dùng Cửa hàng của Phe
+tagFactionUser0Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser0Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser0Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser1=Trung lập
+tagFactionUser1Info=N/A
+tagFactionUser2=Homestead
+tagFactionUser2Info=Trụ sở: Homestead {^n}{^n} Mỗi khi có vấn để xảy ra ở vùng trang trại phương bắc, những nông dân cùng gia đình của họ lại tập trung tại Homestead. Mối liên kết cộng đồng này càng tỏ ra quan trọng hơn bao giờ hết khi nhân loại ở bên bờ diệt vong. {^n}{^n} Với sự trợ giúp từ Quân đoàn Đen, Homestead đã biến thành một pháo đài thực sự, một nơi tương đối an toàn trong một thế giới bị cày xới bởi cái chết; nhưng với nhiều kẻ địch hùng mạnh đang bủa vây khắp bốn phương tám hướng, đã có người bắt đầu thắc mắc liệu cố thủ tại một địa điểm cố định có phải là lựa chọn sáng suốt. {^n}{^n} Trong khi Quân đoàn Đen ám ảnh với những Sinh vật Aether và đám Âm binh, người dân Homestead phải tập trung vào một vấn đề gần với mình hơn nhiều: bầy côn trùng phàm ăn Dermaptera, chúng phát triển tràn lan và giờ đang xâm thực vào những cánh đồng bỏ hoang của họ.
+tagFactionUser2Rewards1=N/A
+tagFactionUser2Rewards2=N/A
+tagFactionUser2Rewards3=N/A
+tagFactionUser2Rewards4=Trống
+tagFactionUser2Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser2Rewards6=Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser2Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser2Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser3=Những người tự do vùng Mỏ Corrigan
+tagFactionUser3Info=Trụ sở: Mỏ Corrigan {^n}{^n} WORDS
+tagFactionUser3Rewards1=N/A
+tagFactionUser3Rewards2=N/A
+tagFactionUser3Rewards3=N/A
+tagFactionUser3Rewards4=Trống
+tagFactionUser3Rewards5=N/A
+tagFactionUser3Rewards6=N/A
+tagFactionUser3Rewards7=N/A
+tagFactionUser3Rewards8=N/A
+tagFactionUser4=Kẻ bị ruồng bỏ
+tagFactionUser4Info=Trụ sở: Pháo đài Ikon {^n}{^n} Không có nhiều thông tin về người phụ nữ bí ẩn Anasteria hay tại sao cô ta lại biết nhiều về những sinh vật Aether và âm mưu của chúng đến vậy. Dường như cô ta xuất hiện từ hư vô, cung cấp cho Quân đoàn Đen thông tin về nhất cử nhất động của quân thù và cứu được không ít sinh mạng. {^n}{^n} Nhiều người trong Quân đoàn Đen quy cho cô ta là một phù thủy, và sẵn lòng đưa cô lên giàn hỏa thiêu bất chấp sự cương quyết của Thanh tra Creed rằng cô ta phải được bảo vệ. 
+tagFactionUser4Rewards1=Sự báo thù của Kẻ bị ruồng bỏ
+tagFactionUser4Rewards2=Cơn thịnh nộ của Kẻ bị ruồng bỏ
+tagFactionUser4Rewards3=Tay chân của Kẻ bị ruồng bỏ
+tagFactionUser4Rewards4=Trống
+tagFactionUser4Rewards5=Nhiệm vụ mới
+tagFactionUser4Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã
+tagFactionUser4Rewards7=Nhiệm vụ mới {^n}Được dùng Cửa hàng của Phe
+tagFactionUser4Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser5=Hội Canh giữ Cái chết
+tagFactionUser5Info=Trụ sở: Tòa thành Bi thương {^n}{^n} Hội Canh giữ Cái chết đại diện cho mối liên hệ cuối cùng với thuật gọi hồn đã sắp thất truyền, những tri thức quý báu được truyền xuống cho các thành viên từ đại giáo chủ, Uroboruuk. {^n}{^n} Thành viên của Hội không sợ cái chết. Thay vào đó họ chấp nhận mọi bài học khắc nghiệt của nó, tin rằng qua việc làm chủ cái chết họ có thể trở nên đồng điệu hơn với thế giới. {^n}{^n} Phải đối mặt với sự ngược đãi dưới tay đế chế qua hàng thế kỷ, Hội chẳng lạ gì với những thành kiến và mâu thuẫn, nhưng họ chưa từng gặp phải đối thủ nào lỳ như Đoàn Tinh binh của Kymon. Những Tinh binh, chỉ quan tâm duy nhất tới việc thanh tẩy mọi sự tha hóa khỏi xứ Cairn, xem Hội như một sự bôi bác phải bị xóa sổ.
+tagFactionUser5Rewards1=Xuất hiện Nemesis
+tagFactionUser5Rewards2=Xuất hiện quái Anh hùng
+tagFactionUser5Rewards3=Thêm Kẻ địch
+tagFactionUser5Rewards4=Trống
+tagFactionUser5Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser5Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser5Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser5Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser6=Undead
+tagFactionUser6Info=Có nhiều câu chuyện tang thương về đám undead lang thang vô định trên khắp phế tích Arkovia. Nhiều người tin rằng đó là những linh hồn bị mắc kẹt trong giới của người sống, không thể siêu thoát tới kiếp sau. Người khác cho đó là tác phẩm của thuật gọi hồn, một quân đoàn undead bị nguyền phải phục tùng một chủ nhân tàn ác. Có lẽ sự thật nằm ở đâu đó giữa hai nhóm này. {^n}{^n} Thứ duy nhất mọi người có thể đồng tình là đám undead này cực kỳ nguy hiểm đối với người sống. Do đó, tìm kiếm chiến lợi phẩm từ những phế tích bị lãng quên của chúng được cho là một hành động dại dột.
+tagFactionUser6Rewards1=Xuất hiện Nemesis
+tagFactionUser6Rewards2=Xuất hiện quái Anh hùng
+tagFactionUser6Rewards3=Thêm Kẻ địch
+tagFactionUser6Rewards4=Trống
+tagFactionUser6Rewards5=N/A
+tagFactionUser6Rewards6=N/A
+tagFactionUser6Rewards7=N/A
+tagFactionUser6Rewards8=N/A
+tagFactionUser7=Quân đoàn Đen
+tagFactionUser7Info=Trụ sở: Pháo đài Ikon {^n}{^n} Quân đoàn Đen là lính tinh nhuệ của đế chế, những người giương ngọn cờ của Cái chết được cử đi thực hiện ý chỉ của hoàng đế. Truyền thuyết về sự can trường của họ thường trộn lẫn với những câu chuyện dân gian về sự tàn nhẫn và hung bạo. {^n}{^n} Bất chấp việc họ được tôn trọng hay bị người khác kinh sợ, Quân đoàn Đen là đơn vị duy nhất của đế chế thoát khỏi sự sụp đổ của kinh thành trong sự kiện Grim Dawn và có lẽ giờ đây là đại diện cho hi vọng duy nhất để phản công của nhân loại.
+tagFactionUser7Rewards1=N/A
+tagFactionUser7Rewards2=N/A
+tagFactionUser7Rewards3=N/A
+tagFactionUser7Rewards4=Trống
+tagFactionUser7Rewards5=Được dùng Bảng truy nã {^n}Được dùng Cửa hàng của Phe
+tagFactionUser7Rewards6=Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser7Rewards7=Hầm ngục/Nhiệm vụ mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser7Rewards8=Nâng cấp hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser8=Tinh binh của Kymon
+tagFactionUser8Info=Trụ sở: Tòa thành Bi thương {^n}{^n} Tinh binh của Kymon là những tín đồ nhiệt thành của Empyrion, vị Thần mang tới Ánh sáng, được tin là sẽ trở lại xứ Cairn trong ánh hào quang rực rỡ và dìu dắt những Tinh binh tới một chân trời mới của trật tự và thịnh vượng. {^n}{^n} Dưới sự lãnh đạo của một nhà thuyết giáo có khả năng thu hút quần chúng xưng là Cha Kymon và được đức tin che chở, Đoàn Tinh binh sẵn lòng đánh bật mọi sự tha hóa khỏi xứ Cairn, dù chúng có là bọn Âm binh ghê tởm hay đám pháp sư gọi hồn chuyên thao túng xác chết đi nữa. Để đạt mục đích này, họ coi việc diệt tận gốc Hội Canh giữ Cái chết là ưu tiên cao nhất.
+tagFactionUser8Rewards1=Xuất hiện Nemesis
+tagFactionUser8Rewards2=Xuất hiện quái Anh hùng
+tagFactionUser8Rewards3=Thêm Kẻ địch
+tagFactionUser8Rewards4=Trống
+tagFactionUser8Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser8Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser8Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe  {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser8Rewards8=Nâng cấp hiếm {^n}Giấy Ủy nhiệm {^n}Vũ khí Cao cấp {^n}Giáp Cao cấp
+tagFactionUser9=User9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=Nemesis Spawns
+tagFactionUser9Rewards2=Additional Hero Spawns
+tagFactionUser9Rewards3=Extra Spawns
+tagFactionUser9Rewards4=Empty
+tagFactionUser9Rewards5=Rewards
+tagFactionUser9Rewards6=Rewards
+tagFactionUser9Rewards7=Rewards
+tagFactionUser9Rewards8=Rewards
+tagFactionUser10=User10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=Nemesis Spawns
+tagFactionUser10Rewards2=Additional Hero Spawns
+tagFactionUser10Rewards3=Extra Spawns
+tagFactionUser10Rewards4=Empty
+tagFactionUser10Rewards5=Rewards
+tagFactionUser10Rewards6=Rewards
+tagFactionUser10Rewards7=Rewards
+tagFactionUser10Rewards8=Rewards
+tagFactionUser11=User11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=Nemesis Spawns
+tagFactionUser11Rewards2=Additional Hero Spawns
+tagFactionUser11Rewards3=Extra Spawns
+tagFactionUser11Rewards4=Empty
+tagFactionUser11Rewards5=Rewards
+tagFactionUser11Rewards6=Rewards
+tagFactionUser11Rewards7=Rewards
+tagFactionUser11Rewards8=Rewards
+tagFactionUser12=User12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=Nemesis Spawns
+tagFactionUser12Rewards2=Additional Hero Spawns
+tagFactionUser12Rewards3=Extra Spawns
+tagFactionUser12Rewards4=Empty
+tagFactionUser12Rewards5=Rewards
+tagFactionUser12Rewards6=Rewards
+tagFactionUser12Rewards7=Rewards
+tagFactionUser12Rewards8=Rewards
+tagFactionUser13=User13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=Nemesis Spawns
+tagFactionUser13Rewards2=Additional Hero Spawns
+tagFactionUser13Rewards3=Extra Spawns
+tagFactionUser13Rewards4=Empty
+tagFactionUser13Rewards5=Rewards
+tagFactionUser13Rewards6=Rewards
+tagFactionUser13Rewards7=Rewards
+tagFactionUser13Rewards8=Rewards
+tagFactionUser14=User14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=Nemesis Spawns
+tagFactionUser14Rewards2=Additional Hero Spawns
+tagFactionUser14Rewards3=Extra Spawns
+tagFactionUser14Rewards4=Empty
+tagFactionUser14Rewards5=Rewards
+tagFactionUser14Rewards6=Rewards
+tagFactionUser14Rewards7=Rewards
+tagFactionUser14Rewards8=Rewards
+tagFactionUser15=User15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=Nemesis Spawns
+tagFactionUser15Rewards2=Additional Hero Spawns
+tagFactionUser15Rewards3=Extra Spawns
+tagFactionUser15Rewards4=Empty
+tagFactionUser15Rewards5=Rewards
+tagFactionUser15Rewards6=Rewards
+tagFactionUser15Rewards7=Rewards
+tagFactionUser15Rewards8=Rewards
+tagFactionUnknown=Không rõ ràng
+tagFactionStateEnemy5=Kình địch
+tagFactionStateEnemy4=Căm thù
+tagFactionStateEnemy3=Ghê tởm
+tagFactionStateEnemy2=Khinh miệt
+tagFactionStateEnemy1=Đối địch
+tagFactionStateNeutral=Không thoải mái
+tagFactionStateFriend1=Thân mật
+tagFactionStateFriend2=Tôn trọng
+tagFactionStateFriend3=Tin tưởng
+tagFactionStateFriend4=Tôn kính
+tagFactionStateFriend5=Kính phục
+tagFactionStateNemesis=Kình địch
+tagFactionStateHated=Căm thù
+tagFactionStateReviled=Bị lên án
+tagFactionStateHostile=Đối địch
+tagFactionStateUnfriendly=Không thân thiện
+tagFactionStateSuspicious=Ngờ vực
+tagFactionStateFriendly=Thân mật
+tagFactionStateTrusted=Tin tưởng
+tagFactionStateHonored=Tôn kính
+tagFactionStateRevered=Kính phục
+
+#Faction Window
+
+tagFactionUpdated=Cập nhật Danh tiếng
+tagFactionStatusChange={^w}Bạn đã đạt tới tình trạng {%s0} {^w}với {^b}{%s1}
+tagFactionNegativeStatusChange={^w}Bạn đã đạt tình trạng {%s0} {^w}với {^b}{%s1}
+tagFactionDoorLocked={^r}Địa vị của bạn với {^b}{%s0} {^r}không cho phép bạn vào đây
+tagFactionWindowName=Phe phái
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=Danh tiếng nhận được từ: {^n}
+tagFactionReputationKilling=Giết {%s0}{^n}
+tagFactionReputationBounties=Nhiệm vụ Săn tiền thưởng{^n}
+tagFactionReputationQuests=Nhiệm vụ{^n}
+tagFactionDiscountPositive=Chiết khấu của Phe: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=Chiết khấu của Phe: {^g}- {%.0f0}%
+tagFactionDiscountZero=Chiết khấu của Phe: {^s}{%.0f0}%
+tagFactionProgress=Yêu cầu để đạt tới {%s0}{^w}: {^b}{%d1}
+tagFactionKillingGain=Danh tiếng nhận được từ giết chóc:
+tagFactionKillingLoss=Sự căm ghét nhận được từ giết chóc:
+tagFactionRewardsTier=Mở khóa ở mức {%s0}{^w}:
+tagFactionKillCommon=Quái Thông thường
+tagFactionKillChampion=Tướng
+tagFactionKillHero=Anh hùng
+tagFactionKillBoss=Trùm
+tagFactionBonusRep=Danh tiếng thưởng thêm: {%d0}%
+tagFactionBonusInfamy=Tai tiếng thưởng thêm: {%d0}%
+
+#Achievements
+
+tagAchievements=Thành tựu
+tagAchievementUnlocked=Đã mở khóa Thành tựu!
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=Nút Menu
+tagHUDAttacks=Đòn đánh Hiện tại
+tagHUDSkills=Ô phím tắt
+tagHUD_PotionHealth=Thuốc Hồi Máu
+tagHUD_PotionEnergy=Thuốc Hồi Năng lượng
+
+tagPortraitKick=Đá khỏi Máy chủ
+tagPortraitTrade=Giao dịch
+tagPortraitRemove=Loại khỏi Nhóm
+tagPortraitChat=Chat
+tagPortraitDisband=Giải tán Pet
+
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=Kinh nghiệm
+tagHUDXP_Next=Cấp tiếp theo
+tagMaxLevel=Đã đạt tới cấp tối đa
+tagSkillRefreshTime=-{%.1f0} {%z1} Thời gian Hồi
+tagSkillRefreshTimeInfinate=Giảm 100% {^E}Thời gian Hồi
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} Thời gian Hồi Kỹ năng Cơ bản
+
+tagSkillUnusableLowMana=Năng lượng quá thấp
+tagSkillUnusableCooldown=Kỹ năng đang hồi
+tagSkillUnusableConfiguration=Kỹ năng có yêu cầu Trang bị
+tagSkillUnusableNotLearned=Chưa học Kỹ năng này
+
+tagHUD_Riftgate=Mở một cánh cổng ra khỏi thực tại và đi tới một cổng đã biết khác.
+tagHUD_EmptySlot_R=Ô trống
+tagHUD_EmptySlot_R1=Nhấp chuột phải để gán một kỹ năng.
+tagHUD_LeftMouse_R=Gán cho nút Chuột trái
+tagHUD_LeftMouse_R1=Đây là đòn tấn công chính của bạn.  Nhấp chuột phải để gán một kỹ năng khác.
+tagHUD_RightMouse_R=Gán cho nút Chuột Phải
+tagHUD_RightMouse_R1=Đây là đòn tấn công phụ của bạn.  Nhấp chuột phải để gán một kỹ năng khác.
+tagHUD_CompassToggleName=Thay đổi Bản đồ nhỏ
+tagHUD_CompassToggleDescription=Nhấp chuột để thay đổi kích thước hoặc đóng hẳn bản đồ nhỏ.
+tagHUD_LootModeToggleOff=Tự hiện Chiến lợi phẩm ^D(Tắt)
+tagHUD_LootModeToggleCommon=Tự hiện Chiến lợi phẩm (Đồ Thường+)
+tagHUD_LootModeToggleMagic=Tự hiện Chiến lợi phẩm ^Y(Đồ Tốt+)
+tagHUD_LootModeToggleRare=Tự hiện Chiến lợi phẩm ^G(Đồ Hiếm+)
+tagHUD_LootModeToggleEpic=Tự hiện Chiến lợi phẩm ^B(Đồ Khủng+)
+tagHUD_LootModeToggleLegendary=Tự hiện Chiến lợi phẩm ^P(Đồ Huyền thoại+)
+
+tagHUD_LootModeToggleDescription=Nhấp chuột để đổi loại đồ được tự động hiện tên.
+
+tagHUD_LeftMouse=L
+tagHUD_RightMouse=R
+
+tagHUDPortraitLevelUP=Lên cấp
+tagHUDWeaponSwap=Đổi vũ khí
+tagHUDWeaponSwapRoll=Đổi qua lại giữa những bộ vũ khí đã trang bị.  Bạn phải trang bị một bộ vũ khí phụ trước.
+tagHUDWeaponSwapHelpRoll=Trước khi sử dụng đổi vũ khí, bạn phải trang bị một bộ vũ khí thứ hai trong ô vũ khí phụ ở cửa sổ nhân vật.
+
+tagHUDRiftgateButton=Mở Cổng dịch chuyển
+tagHUDRiftgateButtonRoll=Mở một cánh cổng nhỏ thông tới bất cứ Cổng dịch chuyển nào đã được phát hiện trước đó hoặc được tạo ra bởi một người chơi khác trong nhóm.
+
+tagHUDQuickslot=Ô dùng nhanh chưa được gán
+tagHUDQuickslotRoll=Nhấp chuột phải để gán một kỹ năng.
+tagHUDQuickslotLM=Gán cho nút Chuột trái
+tagHUDQuickslotLMRoll=Đòn đánh chính.  Nhấp chuột phải để gán kỹ năng.
+tagHUDQuickslotRM=Gán cho nút Chuột phải
+tagHUDQuickslotRMRoll=Đòn đánh phụ.  Nhấp chuột phải để gán kỹ năng.
+tagHUDQuickslotBarSwap=Đổi qua thanh dùng nhanh khác.
+
+tagHUDButtonCharacter=Nhân vật
+tagHUDButtonSkills=Kỹ năng
+tagHUDButtonGroup=Đội nhóm
+tagHUDButtonQuest=Sổ tay
+tagHUDButtonMap=Bản đồ
+tagHUDButtonChat=Tán gẫu
+tagHUDButtonFaction=Phe phái
+tagHUDButtonAchievements=Thành tựu
+tagHUDButtonOptions=Tùy chọn
+
+tagHUDButtonRollCharacter=Thuộc tính nhân vật, hành trang, và quản lý trang bị.
+tagHUDButtonRollSkills=Chọn lớp kỹ năng, cộng điểm kỹ năng và điểm Tín ngưỡng.
+tagHUDButtonRollGroup=Mời người chơi và quản lý đội nhóm.
+tagHUDButtonRollQuest=Nhật ký nhiệm vụ, truyền thuyết, danh sách các điện thờ và trợ giúp trong trò chơi.
+tagHUDButtonRollMap=Bản đồ chi tiết khu vực và thế giới.
+tagHUDButtonRollChat=Gửi tin nhắc đến những người chơi khác trong phòng.
+tagHUDButtonRollFaction=Chi tiết về các Phe phái cư ngụ tại Cairn.
+tagHUDButtonRollAchievements=Những Thành tựu đã đạt được.
+tagHUDButtonRollOptions=Lưu, thoát và thiết lập các tùy chọn của trò chơi.
+
+#SkillUI
+
+tagSkillUndoClass=Hủy việc chọn Lớp
+tagSkillUndoPoints=Hủy cộng điểm
+tagSkillUndoGeneric=Hoàn tác
+tagSkillClassSelect=Chọn Lớp nhân vật
+tagCurrentLevel=Cấp hiện tại : {%d0}
+tagNextLevel=Cấp tiếp theo : {%d0}
+tagSkillClassSelectInfo=Chọn một Lớp nhân vật để rèn luyện{^n}{^n} Sau khi bạn đưa ra lựa chọn và thoát khỏi cửa sổ kỹ năng, lựa chọn của bạn sẽ không thể thay đổi được.
+tagSkillReq01=Cần thêm {%d0} điểm vào bảng {%t1}.
+tagSkillReq01Singular=Cần thêm {%d0} điểm vào bảng {%t1}.
+tagSkillReq02=Cần thêm {%d0} điểm vào bảng {%t1} và kỹ năng {%s2}.
+tagSkillReq02Singular=Cần thêm {%d0} điểm vào {%t1} và kỹ năng {%s2}.
+tagSkillReq03=Cần kỹ năng {%s1}.
+tagSkillPointsRemain=Còn {%d0} Điểm
+tagSkillPointsRemainSingular=Còn {%d0} Điểm
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=Túi đồ
+tagInventoryBagDescription=Mở rộng kích cỡ hành trang của bạn
+
+tagStatsResistanceTitle=Kháng
+tagStatsResistance01=Lửa
+tagStatsResistance01Desc=Kháng lại đòn tấn công gây cháy và các phép thuật gây sát thương Lửa hoặc Thiêu đốt.
+tagStatsResistance02=Sét
+tagStatsResistance02Desc=Kháng lại điện và sốc điện từ các đòn tấn công và phép thuật gây sát thương Sét hoặc Điện giật.
+tagStatsResistance03=Băng
+tagStatsResistance03Desc=Kháng lại cái lạnh từ những đòn tấn công và phép thuật gây sát thương Băng hoặc Bỏng băng.
+tagStatsResistance04=Độc & Axít
+tagStatsResistance04Desc=Kháng lại các loại độc dược và axít mạng gây sát thương Độc hoặc Axít.
+tagStatsResistance05=Xuyên phá
+tagStatsResistance05Desc=Kháng lại các loại đạn xuyên giáp và đao kiếm gây sát thương Xuyên phá.
+tagStatsResistance06=Xuất huyết
+tagStatsResistance06Desc=Kháng lại sự xuất huyết từ những vết thương và phép thuật gây sát thương Xuất huyết.
+tagStatsResistance07=Sinh khí
+tagStatsResistance07Desc=Kháng lại những bùa phép gây sát thương Sinh khí hoặc Rút Sinh khí.
+tagStatsResistance08=Aether
+tagStatsResistance08Desc=Kháng lại những đòn tấn công hệ Aether và những phép gây sát thương Aether.
+tagStatsResistance09=Choáng
+tagStatsResistance09Desc=Giảm thời gian bị làm choáng bởi các đòn đánh và phép thuật.
+tagStatsResistance10=Hỗn nguyên
+tagStatsResistance10Desc=Kháng lại sát thương Hỗn nguyên gây ra bở những nguồn năng lượng không ổn định của vũ trụ, thường được những thực thể Chthonian sử dụng.
+tagStatsResistance11=Hất ngã
+tagStatsResistance11Desc=Kháng lại bị hất ngã.
+tagStatsResistance12=Gián đoạn
+tagStatsResistance12Desc=Kháng lại những hiệu ứng làm gián đoạn việc dùng phép và kỹ năng.
+
+tagCharStatsTab1Name=Chính
+tagCharStatsTab2Name=Phụ
+tagCharAttributeTitle=Thuộc tính
+tagCharAttributeName01=Khéo léo
+tagCharAttributeName02=Thể chất
+tagCharAttributeName03=Tinh thần
+tagCharAttributeName04=Máu
+tagCharAttributeName05=Năng lượng
+
+tagCharAttributeDescription01=Sự khéo léo cải thiện khả năng chiến đấu của bạn, tăng các loại sát thương vật lý, xuyên phá, xuất huyết và nội thương. Khéo léo cũng tăng tỉ lệ chính xác với các đòn tấn công cận chiến và tầm xa, cũng như khả năng gây sát thương chí mạng lên kẻ địch.
+
+tagCharAttributeDescription02=Thể chất cho bạn sức mạnh để chiến đấu trong những bộ giáp nặng hơn cùng sự nhanh nhẹn để né đòn của kẻ địch. Thể chất cũng nâng cao sức chịu đựng, khả năng hồi phục và khả năng tránh bị trúng đòn chí mạng.
+
+tagCharAttributeDescription03=Một tinh thần mạnh mẽ tăng cường sự luân chuyển năng lượng trong người và cho phép bạn chịu được gánh nặng tinh thần khi sử dụng nhiều món trang bị phép thuật mạnh mẽ hơn. Tinh thần cũng khuếch đại sát thương từ các đòn tấn công ma thuật.
+
+tagCharAttributeDescription04=Máu là thước đo của sự đau đớn và sát thương bạn có thể chịu đựng được trước khi gục ngã hoặc chết.
+
+tagCharAttributeDescription05=Năng lượng là thước đo khả năng dự trữ những năng lượng phép thuật của bạn.  Sức chứa này càng lớn, bạn càng có thể sử dụng nhiều năng lực lập tức trước khi phải đợi hồi phục.
+
+tagCharBonusHealth=Máu cộng thêm:
+tagCharBonusHealthRegen=Hồi máu cộng thêm:
+tagCharBonusEnergy=Năng lượng cộng thêm:
+tagCharBonusEnergyRegen=Hồi Năng lượng cộng thêm:
+
+tagCharBonusPhysicalDmg=Sát thương Vật lý cộng thêm:
+tagCharBonusPierceDmg=Sát thương Xuyên phá cộng thêm:
+tagCharBonusMagicalDmg=Sát thương Phép cộng thêm:
+tagCharBonusDurDmg=Sát thương Duy trì cộng thêm:
+
+tagCharAttributeIncrement01=Mỗi điểm tăng Khéo léo thêm 10.
+tagCharAttributeIncrement02=Mỗi điểm tăng Thể chất thêm 10.
+tagCharAttributeIncrement03=Mỗi điểm tăng Tinh thần thêm 10.
+tagCharAttributeIncrement04=Mỗi điểm tăng Máu thêm 50.
+tagCharAttributeIncrement05=Mỗi điểm tăng Năng lượng thêm 50.
+
+tagCharStatsOAAlert=Khả năng Tấn công {^b}(?)
+tagCharStatsOA=Khả năng Tấn công
+tagCharStatsOALast=Đòn đánh gần nhất: 
+tagCharStatsOAHit=Tỉ lệ đánh trúng:
+tagCharStatsOACrit=Tỉ lệ Chí mạng:
+tagCharStatsOADescription=Khả năng tấn công (OA) cao sẽ tăng cơ hội trúng đích với các đòn đánh và phép thuật, cơ hội ra đòn chí mạng, và sát thương của các đòn chí mạng. Khả năng Tấn công thấp hơn Khả năng Phòng thủ của đối phương sẽ làm tăng đáng kể khả năng đánh trượt của bạn.  Khả năng Tấn công bị ảnh hưởng bởi kỹ năng, trang bị, và điểm Khéo léo.
+
+tagCharStatsDAAlert=Khả năng Phòng thủ {^b}(?) 
+tagCharStatsDA=Khả năng Phòng thủ
+tagCharStatsDALast=Bị Tấn công lần cuối bởi: 
+tagCharStatsDAHit=Tỉ lệ bị đánh trúng:
+tagCharStatsDACrit=Tỉ lệ bị Chí mạng:
+tagCharStatsDADescription=Khả năng Phòng thủ (DA) cao cho phép bạn né đòn của đối phương thường xuyên hơn, giảm cơ hộ bị trúng đòn chí mạng và hạ thấp sát thương nhận phải nếu trúng đòn chí mạng. Khả năng Phòng thủ bị ảnh hưởng bởi kỹ năng, trang bị, và điểm Thể chất.
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Vượt mức Tối đa) 
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable=Hiện có {^y}{%d0}{^w} Điểm
+tagCharPointsAvailable=Hiện có {^y}{%d0}{^w} Điểm
+tagCharLevel=Cấp {%d0}
+tagCharXP=KN : {%t0}
+tagCharLevelAndClass={%t1} Cấp {%d0}
+
+tagCharRollLeftHand=Tay chiêu:
+tagCharRollRightHand=Tay thuận:
+
+tagInfoPage=Trang Thông tin:
+
+tagTimePlayedName=Thời gian chơi
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=Kháng
+tagCharHeaderDefense=Chỉ số Phòng thủ
+tagCharHeaderOffense=Chỉ số Tấn công
+tagCharHeaderCombat=Chỉ số Chiến đấu
+tagCharHeaderDPS=Sát thương mỗi đòn đánh
+tagCharHeaderCharacter=Nhân vật
+tagCharHeaderPhysical=Vật lý
+tagCharHeaderMagical=Phép thuật
+tagCharHeaderPets=Cộng thêm cho Đệ
+tagCharHeaderDefenseSection=Phòng thủ
+tagCharHeaderRetaliation=Phản công
+tagCharHeaderStats=Chỉ số
+tagCharHeaderMisc=Khác
+
+tagCharStatsDPSTitle=Sát thương mỗi giây
+tagCharStatsDPS=Sát thương mỗi giây {^b}(?)
+tagCharStatsDPSWeapon=Tấn công bằng Vũ khí
+tagCharStatsDPSDescription=Lượng sát thương trung bình mỗi giây của kỹ năng được gán vào nút Chuột Trái và Chuột Phải của bạn lên một mục tiêu đơn lẻ, được điều chỉnh bởi thời gian hồi và mọi chỉ số từ trang bị và kỹ năng. Không tính tới chỉ số phòng thủ của kẻ địch.
+tagCharStatsDPSRightDescription=Sát thương của kỹ năng được gán vào nút Chuột Phải của bạn lên một mục tiêu đơn lẻ, được điều chỉnh bởi thời gian hồi và mọi chỉ số từ trang bị và kỹ năng. Không tính tới chỉ số phòng thủ của kẻ địch.
+tagCharStatsDPSLeftDescription=Sát thương của kỹ năng được gán vào nút Chuột Trái của bạn lên một mục tiêu đơn lẻ, được điều chỉnh bởi thời gian hồi và mọi chỉ số từ trang bị và kỹ năng. Không tính tới chỉ số phòng thủ của kẻ địch.
+
+tagCharStatsArmorTotalAlert=Trị số Giáp {^b}(?)
+tagCharStatsArmorTotal=Trị số Giáp
+tagCharStatsAbsorption=Sát thương Hấp thụ
+tagCharStatsArmorTotalDescription=Trị số Giáp càng cao, bạn càng nhận ít sát thương từ các đòn đánh vật lý. Điểm thưởng từ kỹ năng và những món đồ không-phải-giáp sẽ được cộng vào mọi món giáp trên người.
+tagCharStatsHitArmor=Tỉ lệ trúng đòn từng bộ phận
+tagCharStatsArmorUnprotected=Không được bảo vệ
+tagCharStatsArmorNA=N/A
+tagCharStatsArmorBonus=Thêm:
+tagCharStatsArmorHead=Đầu:
+tagCharStatsArmorChest=Ngực:
+tagCharStatsArmorArms=Tay:
+tagCharStatsArmorLegs=Chân:
+tagCharStatsArmorJewelry=Trang sức:
+tagCharStatsArmorFeet=Bàn chân:
+tagCharStatsArmorWaist=Eo:
+tagCharStatsArmorShoulders=Vai:
+
+tagFormulaLearned=Đã học Công thức
+tagFormulaLearn01=Bạn đã học được cách chế tạo {%t0}
+tagFormulaLearn02={^r}Bạn đã học công thức này rồi
+tagFormulaLearn03={^r}[Đã học]
+
+tagItemCompareEquipped=Đang trang bị
+tagItemCompareVendor=Đồ được bán
+tagItemCompareInventory=Đồ trong Hành trang
+tagItemCompareGround=Đồ rớt dưới đất
+tagItemInsufficientStatus={^r}Không đủ Vị thế với Phe
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=Tốc độ Tối đa
+
+#Character
+tagCharStatsAttacksPerSecond=Số đòn đánh mỗi Giây
+tagCharStatsAttacksPerSecondInfoo=Số đòn đánh mỗi giây với vũ khí của bạn, đã bao gồm điểm thưởng.
+tagCharStatsRunSpeed=Tốc độ Chạy
+tagCharStatsRunSpeedInfo=Tốc độ nhân vật của bạn có thể chạy so với tốc độ chuẩn (Bao gồm cả Tốc độ Tổng).
+tagCharStatsCritDmg=Sát thương Chí mạng
+tagCharStatsCritDmgInfo=Tỉ lệ phần trăm thêm vào sát thương của Đòn đánh Chí mạng. Tỉ lệ xuất hiện đòn chí mạng bị ảnh hưởng bởi tương quan giữa Khả năng Tấn công của bạn và Khả năng Phòng thủ của mục tiêu.
+tagCharStatsLifeRegen=Hồi máu
+tagCharStatsLifeRegenInfo=Tốc độ máu của bạn khôi phục lại khi đang chiến đấu. Tỉ lệ phần trăm cộng thêm chỉ ảnh hưởng tới hồi phục từ trang bị và kỹ năng; chỉ số hồi phục cơ bản chỉ phụ thuộc vào thể chất.
+tagCharStatsEnergyRegen=Hồi Năng lượng
+tagCharStatsEnergyRegenInfo=Tốc độ năng lượng của bạn khôi phục. Tỉ lệ phần trăm cộng thêm chỉ ảnh hưởng tới hồi phục từ trang bị và kỹ năng; chỉ số hồi phục cơ bản chỉ phụ thuộc vào tinh thần.
+tagCharStatsEnergyAbsorption=Hấp thụ Năng lượng
+tagCharStatsEnergyAbsorptionInfo=Tỉ lệ phần trăm năng lượng được sử dụng vào những đòn đánh và phép thuật tấn công lên bạn sẽ khôi phục lại năng lượng cho bạn.
+tagCharStatsConstitution=Thể lực cộng thêm
+tagCharStatsConstitutionInfo=Tỉ lệ cộng thêm vào Thể lực tối đa của bạn.
+tagCharStatsExpGainedBonus=Kinh nghiệm nhận được
+tagCharStatsExpGainedBonusInfo=Tỉ lệ cộng thêm vào kinh nghiệm nhận được khi giết quái.
+tagCharStatsLightRadiusBonus=Phạm vi Ánh sáng
+tagCharStatsLightRadiusBonusInfo=Tỉ lệ cộng thêm vào bán kính vùng ánh sáng xung quanh nhân vật.
+tagCharStatsAllSkillsBonus=Tất cả Kỹ năng
+tagCharStatsAllSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong các bảng mastery của bạn.
+tagCharStatsSoldierSkillsBonus=Kỹ năng Soldier
+tagCharStatsSoldierSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Soldier.
+tagCharStatsDemoSkillsBonus=Kỹ năng Demolitionist
+tagCharStatsDemoSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Demolitionist.
+tagCharStatsOccuSkillsBonus=Kỹ năng Occultist
+tagCharStatsOccuSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Occultist.
+tagCharStatsNightbladeSkillsBonus=Kỹ năng Nightblade
+tagCharStatsNightbladeSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Nightblade.
+tagCharStatsArcanistSkillsBonus=Kỹ năng Arcanist
+tagCharStatsArcanistSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Arcanist.
+tagCharStatsShamanSkillsBonus=Kỹ năng Shaman
+tagCharStatsShamanSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Shaman.
+
+#Physical
+tagCharStatsAttackSpeed=Tốc độ đánh
+tagCharStatsAttackSpeedDescription=Tốc độ đánh của vũ khí bạn mang so với tốc độ chuẩn (Bao gồm Tốc độ Tổng). Vũ khí ra đòn chậm được hưởng lợi ít hơn từ thưởng % Tốc độ đánh.
+tagCharStatsAvgDmg=Sát thương Vũ khí
+tagCharStatsAvgDmgDescription=Sát thương gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+
+tagCharStatsPhysicalAbsDmg=Vật lý
+tagCharStatsPhysicalAbsDmgInfo=Sát thương Vật lý gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsPhysicalPercentDmg=Vật lý thêm
+tagCharStatsPhysicalPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Vật lý gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Khéo léo. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsPierceAbsDmg=Xuyên phá
+tagCharStatsPierceAbsDmgInfo=Sát thương Xuyên phá gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsPiercePercentDmg=Xuyên phá thêm
+tagCharStatsPiercePercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Xuyên phá gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Khéo léo. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsBleedAbsDmg=Xuất huyết
+tagCharStatsBleedAbsDmgInfo=Sát thương Xuyết huyết gây ra mỗi giây trong 3 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsBleedPercentDmg=Xuất huyết thêm
+tagCharStatsBleedPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Xuất huyết gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Khéo léo. Đã bao gồm % Tổng Sát thương
+tagCharStatsBleedDuration=Thời gian Xuất huyết
+tagCharStatsBleedDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Sát thương Xuất huyết. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsInternalTraumaAbsDmg=Nội thương
+tagCharStatsInternalTraumaAbsDmgInfo=Nội thương gây ra mỗi giây trong 5 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsInternalTraumaPercentDmg=Nội thương thêm
+tagCharStatsInternalTraumaPercentDmgInfo=hần trăm cộng thêm vào mọi Nội thương gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Khéo léo. Đã bao gồm % Tổng Sát thương
+tagCharStatsInternalTraumaDuration=Thời gian Nội thương
+tagCharStatsInternalTraumaDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Nội thương. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsDamageToHealth=Hút máu
+tagCharStatsDamageToHealthInfo=Tỉ lệ phần trăm sát thương từ vũ khí do bạn gây ra sẽ hồi lại máu cho bạn.
+
+#Magical
+tagCharStatsCastSpeed=Tốc độ thi triển
+tagCharStatsCastSpeedInfo=Tốc độ nhân vật của bạn thi triển phép thuật so với chuẩn (Bao gồm Tốc độ Tổng).
+
+tagCharStatsCooldownReduction=Giảm thời gian hồi chiêu
+tagCharStatsCooldownReductionInfo=Phần trăm thời gian hồi các kỹ năng của bạn được giảm đi. Những kỹ năng nhận được từ vật phẩm không được hưởng lợi từ Giảm thời gian Hồi chiêu.
+
+tagCharStatsManaCostReduction=Năng lượng tiêu hao
+tagCharStatsManaCostReductionInfo=Phần trăm năng lượng tiêu hao cho các kỹ năng của bạn được giảm đi.
+
+tagCharStatsPercentHealthDamage=Sát thương theo Máu
+tagCharStatsPercentHealthDamageInfo=Phần trăm Máu Hiện tại của mục tiêu sẽ được chuyển thành sát thương trên mỗi đòn đánh từ vũ khí của bạn.
+
+tagCharStatsFireAbsDmg=Lửa
+tagCharStatsFireAbsDmgInfo=Sát thương Lửa gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsFirePercentDmg=Lửa thêm
+tagCharStatsFirePercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Lửa gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsColdAbsDmg=Băng
+tagCharStatsColdAbsDmgInfo=Sát thương Băng gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsColdPercentDmg=Băng thêm
+tagCharStatsColdPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Băng gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsLightningAbsDmg=Sét
+tagCharStatsLightningAbsDmgInfo=Sát thương Sét gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsLightningPercentDmg=Sét thêm
+tagCharStatsLightningPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Sét gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsAcidAbsDmg=A-xít
+tagCharStatsAcidAbsDmgInfo=Sát thương A-xít gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsAcidPercentDmg=A-xít thêm
+tagCharStatsAcidPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương A-xít gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsVitalityAbsDmg=Sinh khí
+tagCharStatsVitalityAbsDmgInfo=Sát thương Sinh khí gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsVitalityPercentDmg=Sinh khí thêm
+tagCharStatsVitalityPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Vitality gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsAetherAbsDmg=Aether
+tagCharStatsAetherAbsDmgInfo=Sát thương Aether gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsAetherPercentDmg=Aether thêm
+tagCharStatsAetherPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Aether gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsChaosAbsDmg=Hỗn nguyên
+tagCharStatsChaosAbsDmgInfo=Sát thương Hỗn nguyên gây ra trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsChaosPercentDmg=Hỗn nguyên thêm
+tagCharStatsChaosPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Hỗn nguyên gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+
+tagCharStatsBurnAbsDmg=Thiêu đốt
+tagCharStatsBurnAbsDmgInfo=Sát thương Thiêu đốt gây ra mỗi giây trong 3 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsBurnPercentDmg=Thiêu đốt thêm
+tagCharStatsBurnPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Thiêu đốt gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+tagCharStatsBurnDuration=Thời gian Thiêu đốt
+tagCharStatsBurnDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Thiêu đốt. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsColdburnAbsDmg=Bỏng băng
+tagCharStatsColdburnAbsDmgInfo=Sát thương Bỏng băng gây ra mỗi giây trong 3 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsColdburnPercentDmg=Bỏng băng thêm
+tagCharStatsColdburnPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Bỏng băng gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+tagCharStatsColdburnDuration=Thời gian Bỏng băng
+tagCharStatsColdburnDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Bỏng băng. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsElectrocuteAbsDmg=Điện giật
+tagCharStatsElectrocuteAbsDmgInfo=Sát thương Điện giật gây ra mỗi giây trong 3 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsElectrocutePercentDmg=Điện giật thêm
+tagCharStatsElectrocutePercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Điện giật gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+tagCharStatsElectrocuteDuration=Thời gian Điện giật
+tagCharStatsElectrocuteDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Điện giật. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsPoisonAbsDmg=Độc
+tagCharStatsPoisonAbsDmgInfo=Sát thương Độc gây ra mỗi giây trong 5 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsPoisonPercentDmg=Độc thêm
+tagCharStatsPoisonPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Độc gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+tagCharStatsPoisonDuration=Thời gian trúng Độc
+tagCharStatsPoisonDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Độc. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsVitalityDecayAbsDmg=Rút Sinh khí
+tagCharStatsVitalityDecayAbsDmgInfo=Sát thương Rút Sinh khí gây ra mỗi giây trong 3 giây trên mỗi đòn đánh với vũ khí bạn đang cầm, bao gồm cả các loại điểm cộng thêm.
+tagCharStatsVitalityDecayPercentDmg=Rút Sinh khí thêm
+tagCharStatsVitalityDecayPercentDmgInfo=Phần trăm cộng thêm vào mọi Sát thương Rút Sinh khí gây ra bởi các đòn đánh và phép, chưa tính phần cộng thêm từ Tinh thần. Đã bao gồm % Tổng Sát thương
+tagCharStatsVitalityDecayDuration=Thời gian Rút Sinh khí
+tagCharStatsVitalityDecayDurationInfo=Phần trăm cộng thêm vào thời gian hiệu lực của Rút Sinh khí. Sát thương mỗi giây không tăng thêm.
+
+tagCharStatsPhysical=Vật lý
+tagCharStatsPierce=Xuyên phá
+tagCharStatsCold=Băng
+tagCharStatsFire=Lửa
+tagCharStatsAcid=A-xít
+tagCharStatsLightning=Sét
+tagCharStatsVitality=Sinh khí
+tagCharStatsChaos=Hỗn nguyên
+tagCharStatsAether=Aether
+tagCharStatsLifeLeech=Hút máu
+tagCharStatsManaLeech=Hút Năng lượng
+tagCharStatsDurInternalTrauma=Nội thương
+tagCharStatsDurFrostburn=Bỏng Băng
+tagCharStatsDurBurn=Thiêu đốt
+tagCharStatsDurPoison=Độc
+tagCharStatsDurElectrocute=Điện giật
+tagCharStatsDurVitalityDecay=Rút Sinh khí
+tagCharStatsDurBleeding=Xuất huyết
+tagCharStatsDurLifeLeech=Hút Máu
+tagCharStatsDurManaLeech=Hút Năng lượng
+
+#Pets
+tagCharStatsPetHealth=Máu
+tagCharStatsPetHealthInfo=Phần trăm Máu cộng thêm cho đệ của bạn.
+
+tagCharStatsPetDamage=Sát thương
+tagCharStatsPetDamageInfo=Phần trăm Sát thương cộng thêm cho đệ của bạn. Không ảnh hưởng tới Sát thương Phản lại của Đệ
+
+tagCharStatsPetAttackSpeed=Tốc độ đánh
+tagCharStatsPetAttackSpeedInfo=Phần trăm Tốc độ đánh cộng thêm cho đệ của bạn.
+
+tagCharStatsPetCastSpeed=Tốc độ Thi triển
+tagCharStatsPetCastSpeednfo=Phần trăm Tốc độ Thi triển cộng thêm cho đệ của bạn.
+
+tagCharStatsPetRunSpeed=Tốc độ Chạy
+tagCharStatsPetRunSpeednfo=Phần trăm Tốc độ chạy cộng thêm cho đệ của bạn.
+
+tagCharStatsPetOA=Khả năng Tấn công
+tagCharStatsPetOAInfo=Phần trăm Khả năng Tấn công cộng thêm cho đệ của bạn.
+
+tagCharStatsPetDA=Khả năng Phòng thủ
+tagCharStatsPetDAInfo=Phần trăm Khả năng Phòng thủ cộng thêm cho đệ của bạn.
+
+tagCharStatsPetFireResist=Kháng Lửa
+tagCharStatsPetFireResistInfo=Phần trăm công thêm vào Kháng Lửa cho đệ của bạn.
+
+tagCharStatsPetColdResist=Kháng Băng
+tagCharStatsPetColdResistInfo=Phần trăm công thêm vào Kháng Băng cho đệ của bạn.
+
+tagCharStatsPetLightningResist=Kháng Sét
+tagCharStatsPetLightningResistInfo=Phần trăm công thêm vào Kháng Sét cho đệ của bạn.
+
+tagCharStatsPetPoisonResist=Kháng Độc/A-xít
+tagCharStatsPetPoisonResistInfo=Phần trăm công thêm vào Kháng Độc/A-xít cho đệ của bạn.
+
+tagCharStatsPetPierceResist=Kháng Xuyên phá
+tagCharStatsPetPierceResistInfo=Phần trăm công thêm vào Kháng Xuyên phá cho đệ của bạn.
+
+tagCharStatsPetBleedResist=Kháng Xuất huyết
+tagCharStatsPetBleedResistInfo=Phần trăm công thêm vào Kháng Xuất huyết cho đệ của bạn.
+
+tagCharStatsPetVitalityResist=Kháng Sinh khí
+tagCharStatsPetVitalityResistInfo=Phần trăm công thêm vào Kháng Sinh khí cho đệ của bạn.
+
+tagCharStatsPetAetherResist=Kháng Aether
+tagCharStatsPetAetherResistInfo=Phần trăm công thêm vào Kháng Aether cho đệ của bạn.
+
+tagCharStatsPetChaosResist=Kháng Hỗn nguyên
+tagCharStatsPetChaosResistInfo=Phần trăm công thêm vào Kháng Hỗn nguyên cho đệ của bạn.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=Tỉ lệ Đỡ
+tagCharStatsBlockChanceDescription=Phần trăm cơ hội đỡ một đòn tấn công.
+
+tagCharStatsBlockAmount=Sát thương đỡ được
+tagCharStatsBlockAmountDescription=Lượng sát thương bị trừ đi bởi một lần đỡ thành công.
+
+tagCharStatsBlockRecovery=Thời gian hồi Đỡ
+tagCharStatsBlockRecoveryInfo=Phần trăm thời gian hồi Đỡ được giảm.
+
+tagCharStatsDodgeChance=Tỉ lệ Né
+tagCharStatsDodgeChanceInfo=Phần trăm cơ hội né một đòn tấn công cận chiến, bỏ qua toàn bộ sát thương.
+
+tagCharStatsProjDeflectChance=Tỉ lệ Đập văng
+tagCharStatsProjDeflectChanceInfo=Phần trăm cơ hội đập văng một đòn tấn công tầm xa, bỏ qua toàn bộ sát thương.
+
+tagCharStatsPhysicalResist=Kháng Vật lý
+tagCharStatsPhysicalResistInfo=Sức kháng cự trước phép thuật và đòn đánh gây Sát thương Vật lý và Nội thương.
+
+tagCharStatsDisruptionResist=Kháng Gián đoạn
+tagCharStatsDisruptionResistInfo=Sức kháng cự trước phép thuật và đòn đánh làm gián đoạn khả năng thi triển kỹ năng của bạn.
+
+tagCharStatsLifeLeechResist=Kháng Hút máu
+tagCharStatsLifeLeechResistInfo=Sức kháng cự trước những đòn đánh hút máu.
+
+tagCharStatsEnergyLeechResist=Kháng Hút năng lượng
+tagCharStatsEnergyLeechResistInfo=Sức kháng cự trước những đòn đánh hút năng lượng.
+
+tagCharStatsTrapResist=Kháng Bẫy
+tagCharStatsTrapResistInfo=Sức kháng cự trước những hiệu ứng bẫy khiến bạn không thể di chuyển.
+
+tagCharStatsPetrifyResist=Kháng Tê liệt
+tagCharStatsPetrifyResistInfo=Sức kháng cự trước những phép thuật làm tê liệt cơ bắp, khiến bạn không thể phản ứng.
+
+tagCharStatsFreezeResist=Kháng Đóng băng
+tagCharStatsFreezeResistInfo=Sức kháng cự trước những phép thuật làm bạn đông cứng, khiến bạn không thể phản ứng.
+
+tagCharStatsSleepResist=Kháng Ru ngủ
+tagCharStatsSleepResistInfo=Sức kháng cự trước những phép thuật đưa bạn vào tình trạng như đang ngủ say, khiến bạn không thể phản ứng cho tới khi bị tấn công.
+
+tagCharStatsSlowResist=Kháng Làm chậm
+tagCharStatsSlowResistInfo=Sức kháng cự trước những hiệu ứng làm giảm khả năng tấn công, thi triển phép và chạy của bạn.
+
+#Retaliation
+tagCharStatsDamageReflect=Phản sát thương
+tagCharStatsDamageReflectInfo=Phần trăm sát thương gây lên bạn sẽ phản lại kẻ tấn công.
+
+tagCharStatsCurrentLifeReflect=Phản đòn vào Máu
+tagCharStatsCurrentLifeReflectInfo=Phần trăm Máu Hiện tại của kẻ tấn công bị mất mỗi khi bạn trúng đòn.
+
+tagCharStatsPhysicalRet=Vật lý
+tagCharStatsPhysicalRetInfo=Sát thương Vật lý gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsPhysicalPercentRet=Vật lý thêm
+tagCharStatsPhysicalPercentRetInfo=Phần trăm cộng thêm vào Sát thương Vật lý phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsPierceRet=Xuyên phá
+tagCharStatsPierceRetInfo=Sát thương Xuyên phá gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsPiercePercentRet=Xuyên phá thêm
+tagCharStatsPiercePercentRetInfo=Phần trăm cộng thêm vào Sát thương Xuyên phá phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsBleedRet=Xuất huyết
+tagCharStatsBleedRetInfo=Sát thương Xuất huyết mỗi giây trong 3 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsBleedPercentRet=Xuất huyết thêm
+tagCharStatsBleedPercentRetInfo=Phần trăm cộng thêm vào Sát thương Xuất huyết phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsInternalTraumaRet=Nội thương
+tagCharStatsInternalTraumaRetInfo=Nội thương mỗi giây trong 5 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsInternalTraumaPercentRet=Nội thương thêm
+tagCharStatsInternalTraumaPercentRetInfo=Phần trăm cộng thêm vào Nội thương phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsFireRet=Lửa
+tagCharStatsFireRetInfo=Sát thương Lửa gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsFirePercentRet=Lửa thêm
+tagCharStatsFirePercentRetInfo=Phần trăm cộng thêm vào Sát thương Lửa phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsColdRet=Băng
+tagCharStatsColdRetInfo=Sát thương Băng gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsColdPercentRet=Băng thêm
+tagCharStatsColdPercentRetInfo=Phần trăm cộng thêm vào Sát thương Băng phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsLightningRet=Sét
+tagCharStatsLightningRetInfo=Sát thương Sét gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsLightningPercentRet=Sét thêm
+tagCharStatsLightningPercentRetInfo=Phần trăm cộng thêm vào Sát thương Sét phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsAcidRet=A-xít
+tagCharStatsAcidRetInfo=Sát thương A-xít gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsAcidPercentRet=A-xít thêm
+tagCharStatsAcidPercentRetInfo=Phần trăm cộng thêm vào Sát thương A-xít phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsVitalityRet=Sinh khí
+tagCharStatsVitalityRetInfo=Sát thương Sinh khí gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsVitalityPercentRet=Sinh khí thêm
+tagCharStatsVitalityPercentRetInfo=Phần trăm cộng thêm vào Sát thương Sinh khí phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsAetherRet=Aether
+tagCharStatsAetherRetInfo=Sát thương Aether gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsAetherPercentRet=Aether thêm
+tagCharStatsAetherPercentRetInfo=Phần trăm cộng thêm vào Sát thương Aether phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsChaosRet=Hỗn nguyên
+tagCharStatsChaosRetInfo=Sát thương Hỗn nguyên gây lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsChaosPercentRet=Hỗn nguyên thêm
+tagCharStatsChaosPercentRetInfo=Phần trăm cộng thêm vào Sát thương Hỗn nguyên phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsBurnRet=Thiêu đốt
+tagCharStatsBurnRetInfo=Sát thương Thiêu đốt mỗi giây trong 3 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsBurnPercentRet=Thiêu đốt thêm
+tagCharStatsBurnPercentRetInfo=Phần trăm cộng thêm vào Sát thương Thiêu đốt phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsColdburnRet=Bỏng băng
+tagCharStatsColdburnRetInfo=Sát thương Bỏng băng mỗi giây trong 3 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsColdburnPercentRet=Bỏng băng thêm
+tagCharStatsColdburnPercentRetInfo=Phần trăm cộng thêm vào Sát thương Bỏng băng phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsElectrocuteRet=Điện giật
+tagCharStatsElectrocuteRetInfo=Sát thương Điện giật mỗi giây trong 3 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsElectrocutePercentRet=Điện giật thêm
+tagCharStatsElectrocutePercentRetInfo=Phần trăm cộng thêm vào Sát thương Điện giật phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsPoisonRet=Độc
+tagCharStatsPoisonRetInfo=Sát thương Độc mỗi giây trong 5 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsPoisonPercentRet=Độc thêm
+tagCharStatsPoisonPercentRetInfo=Phần trăm cộng thêm vào Sát thương Độc phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+tagCharStatsVitalityDecayRet=Rút Sinh khí
+tagCharStatsVitalityDecayRetInfo=Sát thương Rút Sinh khí mỗi giây trong 3 giây được áp lên kẻ tấn công mỗi khi bạn trúng đòn.
+tagCharStatsVitalityDecayPercentRet=Rút Sinh khí thêm
+tagCharStatsVitalityDecayPercentRetInfo=Phần trăm cộng thêm vào Sát thương Rút Sinh khí phản lại. % Tổng Sát thương không ảnh hưởng tới Sát thương Phản lại.
+
+#Stats
+tagCharStatsItemLevel=Cấp Trang bị Trung bình
+tagCharStatsItemLevelInfo=Cấp độ trung bình của mọi trang bị bạn đang mặc.
+
+tagRecordTime=Thời gian chơi
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=Tổng thời gian chơi theo ngày, giờ và phút.
+
+tagRecordMonsterKills=Quái đã giết
+tagRecordMonsterKillsInfo=Tổng số quái vật nhân vật của bạn đã giết.
+
+tagRecordChampionKills=Tướng và Anh hùng đã giết
+tagRecordChampionKillsInfo=Tổng số Tướng và Anh hùng nhân vật của bạn đã giết.
+
+tagRecordHighestMonster=Quái vật mạnh nhất đã giết
+tagRecordHighestMonsterInfo=Quái vật mạnh nhất nhân vật của bạn đã giết.
+
+tagRecordHighestDamage=Sát thương gây ra
+tagRecordHighestDamageInfo=Sát thương lớn nhất nhân vật của bạn gây ra được vào một thời điểm.
+
+tagRecordHighestDamageTaken=Sát thương nhận vào
+tagRecordHighestDamageTakenInfo=Sát thương lớn nhất nhân vật của bạn nhận vào một thời điểm.
+
+tagRecordDeath=Tổng số lần Chết
+tagRecordDeathInfo=Số lần nhân vật của bạn Chết.
+
+tagCharStatsSecondaryResist=Kháng phụ:
+
+tagCharacterStats=Chỉ số Nhân vật
+tagCharStatsFactionTitle=Phe phái
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=Cổ vật
+tagVendorTabArtifactB=PLACEHOLDER
+tagVendorTab01A=Vũ khí Cận chiến
+tagVendorTab01B=Một đống vũ khí được thu thập từ những căm nhà bỏ hoang, những người đã bỏ mạng từ lâu, và cả những người sắp nữa.
+tagVendorTab02A=Vũ khí Tầm xa
+tagVendorTab02B=Mọi thứ từ súng lục được chắp vá từ các bộ phận lạc điệu cho tới những cây nỏ cũ được tân trang với cơ chế bắn tự động xoay vòng.
+tagVendorTab03A=Giáp trụ
+tagVendorTab03B=Một bộ sưu tầm áo giáp được tập hợp từ quần áo rách và sắt vụn. Một vài trong số chúng thậm chí còn được ghép lại từ những bộ giáp thật lượm trên chiến trường thời cổ xưa.
+tagVendorTab04A=Trang sức và Đồ tiêu hao
+tagVendorTab04B=Một mớ những di vật cổ và thuốc tự chế.
+tagVendorTab05A=Mua lại
+tagVendorTab05B=Đổi ý à? Bạn có thể mua lại vật phẩm mình đã bán mà không mất thêm đồng phí nào nếu vẫn còn trong cửa hàng. Tuy nhiên ngay khi bạn rời đi, vụ giao dịch sẽ hoàn tất.
+
+tagFactionVendorTab01A=Thân mật
+tagFactionVendorTab01B=Phần thưởng của Phe mở khóa ở tình trạng Thân mật.
+tagFactionVendorTab02A=Tôn trọng
+tagFactionVendorTab02B=Phần thưởng của Phe mở khóa ở tình trạng Tôn trọng.
+tagFactionVendorTab03A=Tin tưởng
+tagFactionVendorTab03B=Phần thưởng của Phe mở khóa ở tình trạng Tin tưởng.
+tagFactionVendorTab04A=Tôn kính
+tagFactionVendorTab04B=Phần thưởng của Phe mở khóa ở tình trạng Tôn kính.
+
+tagVendorRolloverName=Thương gia Phế liệu
+tagVendorRolloverDescription=Những thương gia kiếm lời từ sự bất hạnh của nhân loại bằng việc bán những đồ thu lượm hoặc ăn cắp được cho những kẻ dám dấn thân ra khỏi thành lũy của con người. Tốt nhất là không nên hỏi xuất xứ của món đồ.
+
+MarketCostAffordable={^g}Giá  {%d0}
+MarketCostTooExpensive={^r}Giá  {%d0} ~ Không đủ Sắt
+MarketCostReputationTooLow={^r}Giá  {%d0} ~ Không đủ Danh tiếng
+MarketCostPreviousTransaction={^g}Giá  {%d0} ~ Giá bán Gốc
+MarketCostPreviousTransactionTooExpensive={^r}Giá  {%d0} ~ Không đủ Sắt
+MarketValue={^g}Giá bán  {%d0}
+MarketValuePreviousTransaction={^g}Giá Bán lại  {%d0} ~ Giá mua Gốc
+MarketSalePending=Đang chờ Bán
+MarketPurchasePending=Đang chờ Mua
+
+tagMarketError01=Bạn không có đủ sắt.
+tagMarketError02=Không đủ chỗ trong hành trang của bạn.
+tagMarketError03=Món đồ đó đã được bán rồi.
+tagMarketError04=Món đồ này không thể bán.
+tagMarketError05=Vị thế của bạn với phe chưa đủ cao.
+CanNotBeSoldHere=Cửa hàng sẽ không chấp nhận vật phẩm này.
+Sold=Đã bán
+
+
+#Crafting
+
+tagCrafting=Chế đồ
+tagInventorNamePlate=Nhà sáng chế
+tagCraftingComponentCount=Số lượng nguyên liệu này trong hành trang.
+tagCraftingComponentMissing=Nguyên liệu này hiện không nằm trong túi của bạn.
+tagCraftingWindowTitle=Nhà sáng chế
+tagCraftingPanelA=Cải tiến Trang bị
+tagCraftingPanelB=Phân giải Trang bị
+tagCraftingCost=Giá:
+tagCraftingBlueprint=Bản thiết kế
+tagCraftingComponent=Phụ kiện
+tagCraftingComponentRequired=Nguyên liệu:
+tagCraftingCombine=Kết hợp
+tagCraftingDisplayBoxHelp=Để bắt đầu chế tạo trang bị, hãy đặt một bản thiết kế lên bàn.
+tagCraftingBlueprintInfo=Thợ rèn có thể dùng bản thiết kế để chế tạo những vật phẩm cao cấp từ nhiều loại vật liệu thu thập được.
+tagCraftingDeviceCost=Giá :  {%t0}
+tagCraftingCreate=Chế tạo:
+tagCraftingLearn=[Nhấp chuột phải để Học]
+tagCraftingRandom={^E}+Chỉ số Ngẫu nhiên
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ Thiết bị
+tagCraftingItemType01= ~ Phụ kiện đã Hoàn thành
+tagCraftingItemType02= ~ Completed Supplies
+tagCraftingItemType03= ~ Cuộn giấy
+tagCraftingItemType04= ~ Trang bị
+
+tagCraftingButtonInfo=Kết hợp những vật phẩm đặt trong Cửa sổ Chế tạo. Nút này sẽ sáng khi mọi nguyên liệu cần thiết đã được đưa vào.
+tagCraftingConfirmation=Bạn chắc mình muốn hoàn thành tổ hợp này chứ?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=Thành phẩm sẽ xuất hiện ở đây khi mọi thành phần cần thiết được đặt vào vị trí.
+tagCraftingProductBoxCompletion=Lấy vật phẩm vừa chế thành công của bạn khỏi bàn làm việc.
+
+tagCraftingInsterComponent=Bỏ những thành phần được nêu trong một công thức vào những ô này.
+
+#Subheadings
+
+tagCraftingAxes=RÌU
+tagCraftingBlunt=VŨ KHÍ CÙN
+tagCraftingSwords=KIẾM
+tagCraftingImplements=IMPLEMENTS
+tagCraftingTwoHandedMelee=CẬN CHIẾN HAI TAY
+tagCraftingSpears=GIÁO
+tagCraftingStaves=GẬY PHÉP
+
+tagCraftingOneHanded=TẦM XA MỘT TAY
+tagCraftingTwoHanded=TẦM XA HAI TAY
+
+tagCraftingBelts=THẮT LƯNG
+tagCraftingHelms=MŨ
+tagCraftingTorso=ÁO
+tagCraftingShoulders=VAI
+tagCraftingLegs=QUẦN
+tagCraftingHands=TAY
+tagCraftingFeet=GIÀY
+tagCraftingOffhands=TAY CHIÊU
+tagCraftingShields=KHIÊN
+
+tagCraftingComponents=PHỤ KIỆN
+tagCraftingAccessories=TRANG SỨC
+tagCraftingConsumables=ĐỒ TIÊU THỤ
+tagCraftingMaterials=VẬT LIỆU
+
+tagCraftingRelicsTier01=THÁNH VẬT CƯỜNG HÓA
+tagCraftingRelicsTier02=THÁNH VẬT SIÊU VIỆT
+tagCraftingRelicsTier03=THÁNH VẬT THẦN THOẠI
+
+tagDividerTab01=Phân tách
+tagDividerRoll01=Buồng phân tách được dùng để tách các Phụ kiện và Nâng cấp ra khỏi vật phẩm.  Thật không may, quá trình này chưa được hoàn thiện và kết cục luôn là một trong hai thứ, vật phẩm hoặc phụ kiện, bị phá hủy nhưng bạn có quyền lựa chọn sẽ giữ lại thứ gì.{^n}{^n}Nếu bạn tách một vật phẩm, mọi Nâng cấp đi kèm sẽ bị loại bỏ. Nếu một Nâng cấp Đã khóa bị loại bỏ theo cách này, và món đồ vốn không bị Khóa, thì trạng thái Đã Khóa cũng sẽ bị loại bỏ.
+
+tagDividerTab02=Tháo dỡ
+tagDividerRoll02=Buồng tháo dỡ được dùng để đập những món đồ ma thuật mạnh mẽ thành các bộ phận cơ bản. Nhà sáng chế vẫn chưa học kỹ năng này.
+tagDividerRoll02B=Buồng tháo dỡ được dùng để đập những món đồ ma thuật mạnh mẽ thành các bộ phận cơ bản. Quy trình này cần nguồn năng lượng rất lớn nên nhà sáng chế thông minh này đã sử dụng tới mìn để đáp ứng chức năng này.
+
+tagDividingButtonKeepItem=Giữ Trang bị
+tagDividingBoxInfo=Hãy đặt một món trang bị có gắn Phụ kiện hoặc có Nâng cấp vào buồng.
+tagDividingButtonKeepComponent=Giữ Phụ kiện
+tagDividingButtonRemoveAugment=Loại bỏ Nâng cấp
+tagDividingKeepItemWarning=Chọn giữ lại trang bị sẽ phá hủy Phụ kiện được gắn vào và loại bỏ mọi Nâng cấp nếu có.
+tagDividingKeepComponentWarning=Chọn giữ lại Phụ kiện sẽ phá hủy món đồ và bất cứ Nâng cấp nào kèm theo.
+tagDividingRemoveAugmentWarning=Loại bỏ một Nâng cấp sẽ phá hủy nó, nhưng mọi thuộc tính Khóa đi kèm với Nâng cấp cũng sẽ bị loại bỏ theo.
+tagDividingCost=Giá Phân tách:
+
+tagDismantleDynamiteTotal=Tổng số Mìn:
+tagDismantleCost=Giá Tháo dỡ:
+tagDismantleButton=Chọn Tháo dỡ sẽ phá hủy vật phẩm.
+tagDismantleDestroyItemWarning=Chọn Tháo dỡ sẽ phá hủy vật phẩm này. Tiếp tục?
+tagDismantleDestroyItemComponentWarning=Chọn Tháo dỡ sẽ phá hủy vật phẩm này và giữ lại các phụ kiện. Tiếp tục?
+tagDismantleBoxInfo=Hãy đặt một món đồ có phẩm chất cao hơn mức Thường vào ô.
+
+#Shrine
+
+tagShrineDesecrated=Điện thờ Mất thiêng
+tagShrineRuined=Điện thờ Hư hại
+tagShrineRestored=Điện thờ đã được khôi phục
+tagShrineButton01=Cống nạp
+tagShrineButton02=Bắt đầu
+tagShrineButton03=Hủy
+tagShrineButtonInfo=Đặt những đồ tiến cống này gần điện thờ
+tagShrineWarning=Điện thờ này đã hư hại và cần khôi phục lại. Bạn có chắc muốn cống nạp những thứ này không?
+tagShrineConfirmProxy=Điện thờ này đã bị vấy bẩn và cần được thanh tẩy. Triệu hồi những kẻ bị nhốt bên trong chứ?
+tagShrineActivated=Điện thờ đó đã được khôi phục rồi.
+tagShrineHostActivated=Điện thờ đó đã được khôi phục bởi chủ phòng rồi.
+tagShrineHostNotActivated=Bạn đã khôi phục điện thờ này trong một lần chơi trước rồi.
+tagShrineBusy=Điện thờ đó đang được người chơi khác sử dụng.
+tagShrineLocked=Điện thờ nằm im lìm.
+
+#Smuggler
+
+tagStorageRefund=Hoàn tiền Mở rộng Rương
+tagCaravanTitle=Buôn lậu
+tagCaravanCost=Giá: {%d0}
+tagCaravanRefund=Hoàn tiền: {%d0}
+tagCaravanExpand=Mở rộng Rương
+tagCaravanItemStorage=Rương đồ
+tagStorageInfo01=Dùng rương đồ như một phần mở rộng cho hành trang của bạn. Nhấp chuột phải hoặc kéo thả vật phẩm vào hoặc ra khỏi Rương. Vật phẩm lưu trữ theo cách này có thể tiếp cận được từ bất cứ Gã buôn lậu nào trong trò chơi.
+tagTransferCost=Phí Chuyển đồ: {%d0}
+tagTransferAdd=Bạn chắc mình muốn thêm món đồ này vào Hòm đồ Chung?
+tagTransferInfo01=Dùng Kẻ buôn lậu để chuyển đồ qua lại giữa các nhân vật. Chỉ cần bỏ một món đồ vào đây là bất kỳ nhân vật nào của bạn cũng có thể lấy ra được.
+tagCaravanItemTransfer=Chuyển đồ
+tagTransferInfo02=Đặt các vật phẩm vào khu vực chuyển đồ để Kẻ buôn lậu làm chúng khả dụng với mọi nhân vật của bạn.
+tagCaravanError01=Bạn không có đủ mảnh sắt để chuyển món đồ này.
+tagStorageError01=Bạn không có đủ mảnh sắt để mở rộng hòm đồ.
+tagTransferError01=Bạn cần {%d0} mảnh sắt để mở rộng rương đồ.
+tagTransferPurchase01=Sử dụng {%d0} mảnh sắt để mở rộng rương đồ?
+tagTransferTab01=Thẻ 1
+tagTransferTab02=Thẻ 2
+tagTransferTab03=Thẻ 3
+tagTransferTab04=Thẻ 4
+
+#Chat
+
+tagChatSend=Gửi tới...
+tagChatCommand01=Nhóm
+tagChatCommand02=Mọi người
+tagChatCommand03=Trả lời
+tagChatCommand04=Kể
+tagChatCommand05=Cấm chat
+tagChatCommand06=Bỏ cấm
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=NPC đó đang nói chuyện với người chơi khác.
+
+#Treasure Trove
+tagTroveBusy=Có người chơi khác đang tương tác với đối tượng đó.
+
+#Maps
+
+tagAerialMapCenteredButton=Trung tâm
+tagAerialMapZoomText=Thu phóng
+
+tagMapWindowName=Bản đồ
+tagRiftWindowName=Sơ đồ Cổng dịch chuyển
+tagWorldMapWindowName=Bản đồ Thế giới
+
+tagMapSymbolAOI=POI
+tagMapSymbolAOIDesc=Một điểm đáng chú ý.
+tagMapSymbolSmuggler=Hòm đồ
+tagMapSymbolSmugglerDesc=Một nhân vật mờ ám giúp bạn lưu giữ trang bị và chuyển qua lại giữa các nhân vật của bạn.
+tagMapSymbolHero=Bạn
+tagMapSymbolHeroDesc=Vị trí hiện tại của bạn.
+tagMapSymbolInventor=N.Sáng chế
+tagMapSymbolInventorDesc=Một người thợ có khả năng tách bỏ các phụ kiện khỏi trang bị.
+tagMapSymbolMission=Nhiệm vụ
+tagMapSymbolMissionDesc=Nhiệm vụ hiện đang theo dõi.
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=Một nhân vật trong trò chơi.
+tagMapSymbolGroup=Nhóm
+tagMapSymbolGroupDesc=Vị trí các thành viên trong nhóm của bạn.
+tagMapSymbolRespawn=Thầy thuốc
+tagMapSymbolRespawnDesc=Thầy thuốc được huấn luyện thuật hồi sức và điều trị những vết thương trầm trọng.
+tagMapSymbolRiftgate=Cổng
+tagMapSymbolRiftgateDesc=Cổng dịch chuyển từ chiều không gian khác có thể đưa bạn tới những địa điểm khác nhau.
+tagMapSymbolVendor=Cửa hàng
+tagMapSymbolVendorDesc=Thương nhân với các loại hàng hóa.
+tagMapSymbolWitch=Tẩy điểm
+tagMapSymbolWitchDesc=Nhân vật thông tuệ có thể giúp bạn học lại các kỹ năng.
+tagMapSymbolShrine=Điện thờ
+tagMapSymbolShrineDesc=Điện thờ cổ đại được dâng hiến cho những vì sao và các cựu thần.
+tagMapSymbolSmith=Thợ rèn
+tagMapSymbolSmithDesc=Thợ lành nghề có khả năng tạo ra những trang bị mới.
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=Trở lại trò chơi
+tagOptionsMenuExit=Thoát về Main Menu
+tagOptionsMenuQuit=Thoát ra Desktop
+tagOptionsMenuOptions=Tùy chọn
+tagOptionsMenuGameSaved=Màn chơi của bạn đã được lưu
+tagOptionsMenuExitMenuConfirm=Bạn chắc chắn muốn thoát về main menu chứ?
+tagOptionsMenuExitGameConfirm=Bạn chắc chắn muốn thoát ra desktop chứ?
+tagInfoTitle=Thông tin
+tagInfoButtonYes=Có
+tagInfoButtonNo=Không
+tagInfoButtonOk=Đồng ý
+tagGameOver=Bạn đã chết!
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s2} {%s1}
+TripleStringFormat2={%s0} {%s1}{%s2}
+QuadStringFormat={%s3} {%s2} {%s1} {%s0}
+SkillBaseNamesFormat={    %s0}
+CostFormat=Giá: {%d0}
+ManaDisplayFormat=Năng lượng  {%d0} / {%d1} (Dự trữ {%d2})
+LifeDisplayFormat=Máu  {%d0} / {%d1}
+ExperienceDisplayFormat=Kinh nghiệm Hiện tại : {^y}{%d0}{^w}  ~  Kinh nghiệm cần để lên cấp : {^y}{%d1}
+
+tagExpDisplayFormat=Kinh nghiệm Hiện tại : {^y}{%t0}{^w}  ~  Kinh nghiệm cần để lên cấp : {^y}{%t1}
+
+tagCharPointsSpent=Điểm đã cộng:
+
+tagCharAttribute01={%+.0f0} {^E}Khéo léo
+tagCharAttribute02={%+.0f0} {^E}Thể chất
+tagCharAttribute03={%+.0f0} {^E}Tinh thần
+tagCharAttribute04={%+.0f0} {^E}Máu
+tagCharAttribute05={%+.0f0} {^E}Năng lượng
+tagCharConstitution={%+.0f0} {^E}Thể lực
+tagCharLifeRegen={%+.1f0} {^E}Máu hồi mỗi giây
+tagCharManaRegen={%+.1f0} {^E}Năng lượng hồi mỗi giây
+
+tagCharAttribute01Modifier={%+.0f0}% {^E}Khéo léo
+tagCharAttribute02Modifier={%+.0f0}% {^E}Thể chất
+tagCharAttribute03Modifier={%+.0f0}% {^E}Tinh thần
+tagCharAttribute04Modifier={%+.0f0}% {^E}Máu
+tagCharAttribute05Modifier={%+.0f0}% {^E}Năng lượng
+tagCharConstitutionModifier={%+.0f0}% {^E}Thể lực
+tagCharLifeRegenModifier={^E}Tăng lượng Máu hồi mỗi giây thêm {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}Tăng lượng Năng lượng hồi mỗi giây thêm {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveMod={%+.0f0} {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}Năng lượng Dự trữ
+
+tagCharRunSpeed={%+.0f0}% {^E}Tốc độ Di chuyển
+tagCharSpellCastSpeed={%+.0f0}% {^E}Tốc độ Thi triển
+tagCharAttackSpeed={%+.0f0}% {^E}Tốc độ Đánh
+tagCharTotalSpeedModifier={%+.0f0}% {^E}Tốc độ
+tagCharRunSpeedModifier={%+.0f0}% {^E}Tốc độ Di chuyển
+tagCharSpellCastSpeedModifier={%+.0f0}% {^E}Tốc độ Thi triển
+tagCharAttackSpeedModifier={%+.0f0}% {^E}Tốc độ Đánh
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^E}Khéo léo
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^E}Thể chất
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^E}Tinh thần
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^E}Máu
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^E}Năng lượng
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}Máu hồi mỗi giây
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}Máu hồi mỗi giây
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^E}Khéo léo
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^E}Thể chất
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^E}Tinh thần
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^E}Máu
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^E}Năng lượng
+tagCharLifeRegenModifierR={^E}Tăng lượng Máu hồi mỗi giây thêm {^H}{%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR={^E}Tăng lượng Năng lượng hồi mỗi giây thêm {^H}{%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}Năng lượng Dự trữ
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}Năng lượng Dự trữ
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^E}Tốc độ Di chuyển
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}Tốc độ Thi triển
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^E}Tốc độ Đánh
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}%{^E} Tốc độ Tổng
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}%{^E} Tốc độ Di chuyển
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}%{^E} Tốc độ Thi triển
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}%{^E} Tốc độ Đánh
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^E}Khả năng Tấn công
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^E}Khả năng Phòng thủ
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^E} Khả năng Tấn công
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^E} Khả năng Phòng thủ
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}Thời gian hồi Khiên
+tagCharEnergyAbsorptionPercentR={^E}Hấp thụ {^H}{%+.0f0}-{%.0f1}%{^E} Năng lượng từ Phép thuật của Địch
+tagCharDodgePercentR={%.0f0}-{%.0f1}%{^E} Cơ hội né đòn cận chiến
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}%{^E} Cơ hội tránh đạn
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}%{^E} Kinh nghiệm nhận được
+tagCharLightRadiusR={%+.0f0}-{%.0f1}%{^E} Phạm vi chiếu sáng
+tagCharItemGlobalReductionR=Giảm {%.0f0}-{%.0f1}%{^E} Yêu cầu Thuộc tính để mặc đồ
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}Yêu cầu Cấp độ để mặc đồ
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để mặc Giáp
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}Yêu cầu Khéo léo để mặc Giáp
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để mặc Giáp
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để đeo Trang sức
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để đeo Trang sức
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để đeo Trang sức
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm Khiên
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm Khiên
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm Khiên
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm Vũ khí Cận chiến
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm Vũ khí Cận chiến
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm Vũ khí Cận chiến
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm Vũ khí Tầm xa
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm Vũ khí Tầm xa
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm Vũ khí Tầm xa
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm Trượng
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm Trượng
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm Trượng
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm Vũ khí Hai tay
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm Vũ khí Hai tay
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm Vũ khí Hai tay
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Tinh thần để cầm mọi Vũ khí
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Thể chất để cầm mọi Vũ khí
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Yêu cầu Khéo léo để cầm mọi Vũ khí
+
+SkillManaCostReductionR=-{%.0f0}% {^E}Năng lượng Tiêu tốn
+SkillCooldownReductionR=-{%.0f0}% {^E}Thời gian hồi Kỹ năng
+SkillProjectileSpeedModifierR=Tăng {%+.0f0}% {^E}Tốc độ bay của đạn
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}Năng lượng Tiêu tốn
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}Thời gian hồi chiêu
+
+tagDamageConversion={^E}Chuyển {^H}{%.0f0}% {^E}{%s1} thành {%s2}
+tagDamageRemoval={^E}Giảm {^H}{%.0f0}% {^E}{%s1}
+tagConversionPhysical=Sát thương Vật lý
+tagConversionPierce=Sát thương Xuyên phá
+tagConversionElemental=Sát thương Nguyên tố
+tagConversionCold=Sát thương Băng
+tagConversionFire=Sát thương Lửa
+tagConversionPoison=Sát thương A-xít
+tagConversionLightning=Sát thương Sét
+tagConversionLife=Sát thương Sinh khí
+tagConversionChaos=Sát thương Hỗn nguyên
+tagConversionAether=Sát thương Aether
+tagConversionStun=Thời gian làm Choáng
+
+tagAttackSpeedNotSet=Tốc độ đánh:  Không cố định
+tagAttackSpeedVerySlow=Tốc độ đánh:  Rất chậm
+tagAttackSpeedSlow=Tốc độ đánh:  Chậm
+tagAttackSpeedAverage=Tốc độ đánh:  Trung bình
+tagAttackSpeedFast=Tốc độ đánh:  Nhanh
+tagAttackSpeedVeryFast=Tốc độ đánh:  Rất nhanh
+
+tagAttackSpeed={^W}{%.2f0} {^S}Đòn đánh mỗi Giây
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}Đòn đánh mỗi Giây
+
+tagCharOffensiveAbility={%+.0f0} {^E}Khả năng Tấn công
+tagCharDefensiveAbility={%+.0f0} {^E}Khả năng Phòng thủ
+tagCharOffensiveAbilityModifier={%+.0f0}% {^E}Khả năng Tấn công
+tagCharDefensiveAbilityModifier={%+.0f0}% {^E}Khả năng Phòng thủ
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}Thời gian hồi Khiên
+tagCharEnergyAbsorptionPercent=Hấp thụ {%+.0f0}% {^E}Năng lượng từ phép của kẻ địch
+tagCharDodgePercent={%.0f0}% {^E}Cơ hội né đòn cận chiến
+tagCharDeflectProjectiles={%.0f0}% {^E}Cơ hội tránh đòn tầm xa
+
+tagCharIncreasedExperience={%+.0f0}% {^E}Kinh nghiệm nhận được
+tagCharLightRadius={%+.0f0}% {^E}Phạm vi chiếu sáng
+
+tagCharItemGlobalReduction={^E}Giảm {^H}{%.0f0}% {^E}Yêu cầu Thuộc tính để mặc đồ
+tagCharLevelReqReduction=-{%.0f0} {^E}Yêu cầu Cấp độ để mặc đồ
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để mặc Giáp
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để mặc Giáp
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để mặc Giáp
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để đeo Trang sức
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để đeo Trang sức
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để đeo Trang sức
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Khiên
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Khiên
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Khiên
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Vũ khí Cận chiến
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Vũ khí Cận chiến
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Vũ khí Cận chiến
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Vũ khí Tầm xa
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Vũ khí Tầm xa
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Vũ khí Tầm xa
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Trượng
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Trượng
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Trượng
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Vũ khí Hai tay
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Vũ khí Hai tay
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Vũ khí Hai tay
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}Yêu cầu Tinh thần để cầm Vũ khí
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}Yêu cầu Thể chất để cầm Vũ khí
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}Yêu cầu Khéo léo để cầm Vũ khí
+
+tagChanceOf={^E}Có {^H}{%.1f0}% {^E}{Cơ hội {^H}
+tagChanceTo={^E}Có {^H}{%.1f0}% {^E}{Cơ hội để {^H}
+
+Strength=Thể chất
+Dexterity=Khéo léo
+Intelligence=Tinh thần
+Life=Máu
+Mana=Năng lượng
+UnusedPointsText={%d0} Điểm chưa Sử dụng
+LifeText={%.0f0} Máu
+ManaText={%.0f0} Năng lượng
+StrengthText={%.0f0} Thể chất
+DexterityText={%.0f0} Khéo léo
+IntelligenceText={%.0f0} Tinh thần
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [Cấp {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=Năng lượng  {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=Máu {%.0f0} / {%.0f1}
+ShortExperienceText=KN {%d0} / {%d1}
+ShortLevel=Cấp {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=Chí mạng
+DurationCriticalHitMult=Chí mạng (x{%.2f0})
+tagMiss=Trượt
+tagFumble=Hụt
+tagDodge=Né
+tagBlock=Đỡ
+tagDeflect=Đập văng
+tagInvulnerable=Không bị tổn thương
+GiveMoneyFormat=+{%d0} Sắt
+TakeMoneyFormat={%d0} Sắt
+ExperienceFormat=+{%d0} Kinh nghiệm
+FactionFormat=+{%d0} Danh tiếng với {%s1}
+FactionUnlocked=Đã mở khóa {%s0}
+LevelUpFormat=Lên cấp!
+SkillPointFormat={%d0} Điểm Kỹ năng
+AttributePointFormat={%d0} Điểm Tiềm năng
+MenuName=Tên: 
+MenuLevel=Cấp:   {%d0}
+ItemSkillIncrement={+%d0} {^E}cấp vào {%s1}
+ItemMasteryIncrement={+%d0} {^E}cấp vào kỹ năng {%s1}
+ItemAllSkillIncrement={+%d0} {^E}cấp Mọi kỹ năng
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond= mỗi giây
+tagDPS={%.1g0} Sát thương mỗi giây
+
+LevelRequirement=Cấp nhân vật
+ShieldBlockAbsorption={%.0f0}% Hấp thụ
+ShieldBlockRecoveryTime={%.2f0} giây thời gian hồi Khiên
+MeetsRequirement=Yêu cầu {%s0}: {%.0f1}
+MeetsRequirementWithReduction=Yêu cầu {%s0}: {%.0f1} [Giảm {^r%.0f2 ^y- %.0f3}%]
+FailsRequirementWithReduction={^r}Yêu cầu {%s0: %.0f1} [Giảm {%.0f2 ^y- %.0f3}%]
+FailsRequirement={^r}Yêu cầu {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={{^E}%s1: {^H}%.1f0 {^E}giây}
+SkillSecondFormatMod=+{%.1f0 {^E}Giây %s1}
+SkillDistanceFormat={{^E}%s1: {^H}%.1f0 {^E}mét}
+SkillDistanceFormatMod=+{%.1f0 {^E}Mét %s1}
+SkillCostFormat={{^E}Tốn {^H}%.1f0 {^E}%s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%s1 %.0f0%}
+SkillNumProjectilesFormat=Phóng ra {%d0} Đường đạn
+SkillWeaponDamageFormat={^E}Gây {^H}{%.0f0%} {^E}Sát thương Vũ khí
+SkillWeaponDamageValuesFormat={^E}Gây {^H}{%.0f0%} {^E}Sát thương Vũ khí ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={^E}Gây {^H}{%.0f0%} {^E}Sát thương Tay thuận ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={^E}Gây {^H}{%.0f0%} {^E}Sát thương Tay chiêu ({^H}{%.0f1} - {%.0f2}{^E})
+SkillChargeFactor=mỗi Mức Sạc
+SkillChargeMax={^E}Mức Sạc: 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=Thời gian Sạc
+SkillChargeFactorMod=tăng theo mỗi mức Sạc
+SkillChargeMaxMod=Mức Sạc: 
+SkillChargeDurationMod=tăng Thời gian Sạc
+SkillChanceWeight={%d0}% {^E}Cơ hội được Sử dụng
+SkillActivationChance={^E}Cơ hội Kích hoạt
+SkillDamageAbsorption={^E}Hấp thụ {^H}{%.0f0} {^E}Sát thương
+SkillDamageAbsorptionPercent={^E}Hấp thụ {^H}{%.0f0}% {^E}Sát thương
+SkillPetBurstSpawn={^E}Triệu hồi {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}Triệu hồi
+SkillPetBurstSpawnsMod=+{%d0} {^E}Triệu hồi
+SkillPetLimit={^E}Triệu hồi tối đa {^H}{%d0} 
+SkillPetLimitMod=+{%d0} {^E}Đệ có thể Triệu hồi
+SkillLifeBonus={^E}Hồi phục {^H}{%+.1f0} {^E}Máu
+SkillManaBonus={^E}Hồi phục {^H}{%+.1f0} {^E}Năng lượng
+SkillLifePercent={^E}Hồi phục {^H}{%.1f0}% {^E}Máu
+SkillManaPercent={^E}Hồi phục {^H}{%.1f0}% {^E}Năng lượng
+SkillLifeBonusAndPercent={^E}Hồi phục {^H}{%.0f1}% + {%.0f0} {^E}Máu
+SkillManaBonusAndPercent={^E}Hồi phục {^H}{%.0f1}% + {%.0f0} {^E}Năng lượng
+SkillPetDescriptionHeading=Thuộc tính của {%s0}:
+tagSkillPetAbilities=Kỹ năng của {%s0}:
+SkillPetDescriptionNextHeading=Cấp tiếp theo của {%s0}:
+SkillPetDescriptionHealth={%.0f0}  {^E}Máu
+SkillPetDescriptionMana={%.0f0}  {^E}Năng lượng
+SkillPetDescriptionDamageMinOnly={%.0f0}  Sát thương
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  Sát thương
+tagSkillPetTimeToLive={^E}Tồn tại trong {^H}{%.1f0} {^E}giây
+tagSkillPetTimeToLiveMod={^E}Tồn tại thêm {^H}{%+.1f0} {^E}giây
+tagSkillPrevious=… Trước
+tagSkillNext=Kế …
+HoldCtrlToShowBaseValues=Giữ CTRL để xem giá trị cơ bản.
+PressToAddUnusedSkillPoints=Nhấp chuột trái để cộng điểm kỹ năng chưa sử dụng.
+PressToAddUnusedDevotionPoints=Nhấp chuột trái để cộng điểm Tín ngưỡng
+PressToActivateDevotion=Nhấp chuột trái để Kích hoạt
+PressToAssignDevotion=Nhấp chuột trái để Gán
+AssignDevotionForExp=Phải được Gán để Nhận Kinh nghiệm
+SkillEnhancement=+{%d0} cấp vào mọi kỹ năng
+NoSkillPointsToAdd=Không có điểm kỹ năng để cộng.
+NoDevotionPointsToAdd=Hiện không còn điểm Tín ngưỡng
+LockedDevotion=Khóa - Yêu cầu một Vì sao nằm phía trước trong Chòm sao
+ActiveDevotion=Bật
+YouMustIncreaseMasteryLevel=Bạn phải tăng độ Thành thục để cộng thêm điểm.
+EnableOneBaseSkill=Ít nhất một Kỹ năng cần thiết phải được Bật
+MaxSkillLevelReached=Đã đạt Cấp Kỹ năng tối đa
+ActiveMasteriesAllowedReached=Số bảng kỹ năng cho phép đã đạt mức tối đa
+LifeMonitorPercent={^E}Kích hoạt khi Máu xuống thấp hơn {^H}{%.1f0}%
+FailedSkillDependancy=Cần Kỹ năng {%s0}
+FailedSkillDependancyAll=Cần những Kỹ năng sau:
+FailedSkillDependancyOne=Cần Một trong những Kỹ năng sau:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Cần Hành:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Cần Chòm sao:
+FailedConstellationSelfLocked=Chòm sao này đang phụ thuộc vào chính Hành của nó. Bạn cần thêm Hành từ những Chòm sao khác trước khi có thể rút điểm từ nó.
+ManaCost={^E}Năng lượng
+ManaCostPerSecond={^E}Năng lượng mỗi giây
+ActiveLifeCost={^E}Máu mỗi giây kích hoạt
+ActiveManaCost={^E}Năng lượng mỗi giây kích hoạt
+ActiveDuration=Thời gian hiệu lực
+Interval=Tần suất
+TargetRadius=Phạm vi Tác động
+TargetAngle={^E}Tấn công một góc {^H}{%.0f0} {^E}độ
+TargetAngleMod=+{%.0f0} {^E}độ vào Góc Tấn công
+TargetNumber={^E}Tối đa {^H}{%d0} {^E}Mục tiêu
+TargetNumberMod=+{%d0} {^E}Mục tiêu Tối đa
+CooldownTime={^E}Thời gian hồi
+ExplosionRadius=Bán kính
+TargetRange=Tầm đánh
+ProjectileLaunchRotation={%.1f0} Phân tán đường đạn
+ProjectileLaunchNumber={%d0} {^E}Đường đạn
+ProjectileLaunchNumberMod=+{%d0} {^E}Đường đạn
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}Mảnh
+ProjectileFragmentsLaunchNumber={%d0} {^E}Mảnh
+ProjectilePiercingChance={%.1f0}% {^E}Cơ hội bay xuyên qua kẻ địch
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}Cơ hội bay xuyên qua kẻ địch
+
+tagTooltipPetsHeader=Thú nuôi
+tagTooltipSkillsHeader=Kỹ năng Nhận được
+
+#Skill Wheel
+tagSkillConfig01=Thiết lập 1
+tagSkillConfig02=Thiết lập 2
+
+#Gamepad HUD
+tagGamePadSelect=Chọn
+tagGamePadBack=Quay lại
+tagGamePadEquip=Trang bị Vật phẩm
+tagGamePadDrop=Bỏ Vật phẩm
+tagGamePadUseItem=Dùng Vật phẩm
+tagGamePadSellItem=Bán Vật phẩm
+tagGamePadMoveItem=Di chuyển Vật phẩm
+tagGamePadScroll=Cuộn
+tagGamePadAssignSkills=Gán Kỹ năng
+tagGamePadSwapConfig=Đổi Thiết lập
+tagGamePadMove=Di chuyển
+tagGamePadZoomIn=Phóng to
+tagGamePadZoomOut=Thu nhỏ
+tagGamePadExit=Thoát
+tagGamePadRevert=Đảo ngược
+tagGamePadSplitStack=Tách
+
+tagGamePadCharacter=Nhân vật
+tagGamePadSkills=Kỹ năng
+tagGamePadMap=Bản đồ
+tagGamePadFactions=Phe phái
+tagGamePadAchieve=Thành tựu
+
+tagControllerUIWarning=Độ phân giải Màn hình hiện tại của bạn không hỗ trợ Giao diện dành cho Controller.
+
+tagShieldBlockInfo={%.0f0}% {^E}Cơ hội chặn {^W}{%.0f1} {^E}sát thương
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}Năng lượng tiêu hao
+SkillCooldownReduction=+{%.0f0}% {^E}Giảm thời gian hồi Kỹ năng
+SkillProjectileSpeedModifier={^E}Tăng {^H}{%+.0f0}% {^E}Tốc độ đường đạn
+SkillManaCostReductionModifier=-{%.0f0}% {^E}Năng lượng tiêu hao
+SkillCooldownReductionModifier=-{%.0f0}% {^E}Thời gian hồi Kỹ năng
+
+GlobalChanceOfAllTag={^E}Cơ hội: {^H}
+GlobalChanceOfOneTag={^E}Cơ hội xảy ra một trong những thứ sau: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}Cơ hội:{^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}Cơ hội xảy ra một trong những thứ sau:{^H}
+tagIndent={   }
+tagDamageAbsorptionTitle={^E}Bảo vệ khỏi sát thương:
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=Vật lý
+tagQualifyingDamagePierce=Xuyên phá
+tagQualifyingDamageLightning=Sét
+tagQualifyingDamageFire=Lửa
+tagQualifyingDamageCold=Băng
+tagQualifyingDamagePoison=Độc hoặc A-xít
+tagQualifyingDamageLife=Sinh khí
+tagQualifyingDamageBleeding=Xuất huyết
+tagQualifyingDamageElemental=Nguyên tố
+tagQualifyingDamageAether=Aether
+tagQualifyingDamageChaos=Hỗn nguyên
+
+DamageSingleFormat={^H}{%.0f0}
+DamageRangeFormat={^H}{%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}trong {^H}{%.1f0} {^E}giây
+DamageSingleFormatTime= {^E}trong {^H}{%.1f0} {^E}giây
+DamageRangeFormatTime= {^E}trong {^H}{%.1f0}-{%.1f1} {^E}giây
+DamageFixedSingleFormatSecond= {^E}trong {^H}{%.1f0} {^E}giây
+DamageFixedSingleFormatTime= {^E}trong {^H}{%.1f0} {^E}giây
+DamageFixedRangeFormatTime= {^E}trong {^H}{%.1f0} - {%.1f1} {^E}giây
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}giây
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}giây
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}giây
+tagDurationDamageOverTime={%d0} {^E}Sát thương mỗi Giây
+tagDotReductionAbsolute={^E}Giảm {^H}{%d0} {^E}
+tagDotReductionPercent={^E}Giảm {^H}{%d0}% {^E}
+tagDotTimeRemaining={^E}Còn {^H}{%.0f0} {^E}Giây
+tagDotTimeRemainingPrecise={^E}Còn {^H}{%.1f0} {^E}Giây
+tagDurationFumble={%d0}% {^E}Ra đòn Trượt
+tagDotBleeding=Xuất huyết
+tagDotCold=Tê cóng
+tagDotFire=Thiêu đốt
+tagDotPoison=Trúng độc
+tagDotLightning=Bị Điện giật
+tagDotChaos=Hỗn nguyên
+tagDotAether=Aether
+tagDotVitality=Giảm Sinh khí
+tagDotLifeLeech=Hút máu
+tagDotManaLeech=Hút Năng lượng 
+tagDotPhysical=Nội thương
+tagDotAttackSpeed=Tốc độ Tấn công
+tagDotCastSpeed=Tốc độ Thi triển
+tagDotRunSpeed=Tốc độ Chạy
+tagDotOffensiveAbility=Khả năng Tấn công
+tagDotDefensiveAbility=Khả năng Phòng thủ
+tagDotFumble=Cận chiến Lóng ngóng
+tagDotRangedFumble=Tầm ngắm Hạn chế
+tagDotTotalDamageReduction=Tổng Sát thương
+tagDotPhysicalDamageReduction=Sát thương Vật lý
+tagDotElementalDamageReduction=Sát thương Nguyên tố
+tagDotTotalResistReduction=Tổng Kháng
+tagDotPhysicalResistReduction=Kháng Vật lý
+tagDotElementalResistReduction=Kháng Nguyên tố
+tagDotStun=Choáng
+tagDotSleep=Ru ngủ
+tagDotTrap=Dính Bẫy
+tagDotFreeze=Đóng băng
+tagDotPetrify=Hóa đá
+
+tagSetItems=Bộ ({%d0})
+tagSecond={^E}giây
+tagSeconds={^E}giây
+DamagePerSecond={%.0f0} {^S}Sát thương mỗi giây (Nếu được trang bị)
+DamagePerSecondOffHand={%.0f0} {^S}Sát thương mỗi giây (Tay chiêu)
+DamagePhysicalChance= {%t0} {^E}Sát thương Vật lý
+DamageBasePhysical= {%t0} {^S}Sát thương Vật lý
+DamageBasePierceRatio={%.0f0}% {^S}Xuyên Giáp
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}Xuyên Giáp
+DamageBonusPhysical={%t0} {^E}Sát thương Vật lý
+tagDamageBaseFire={%t0} {^S}Sát thương Lửa
+tagDamageBaseLightning={%t0} {^S}Sát thương Sét
+tagDamageBaseCold={%t0} {^S}Sát thương Băng
+tagDamageBaseVitality={%t0} {^S}Sát thương Sinh khí
+tagDamageBasePoison={%t0} {^S}Sát thương A-xít
+tagDamageBaseChaos={%t0} {^S}Sát thương Hỗn nguyên
+tagDamageBaseAether={%t0} {^S}Sát thương Aether
+DamageCold={%t0} {^E}Sát thương Băng
+DamageFire={%t0} {^E}Sát thương Lửa
+DamageAether={%t0} {^E}Sát thương Aether
+DamageChaos={%t0} {^E}Sát thương Hỗn nguyên
+DamageLife={%t0} {^E}Sát thương Sinh khí
+DamageLifeLeech={%t0}% {^E}Sát thương mỗi Đòn đánh được chuyển thành Máu
+DamageLightning={%t0} {^E}Sát thương Sét
+DamageElemental={%t0} {^E}Sát thương Nguyên tố
+DamageModifierElemental={%+.0f0}% {^E}Sát thương Nguyên tố
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Sát thương Nguyên tố
+DamagePhysical=+{%t0} {^E}Sát thương Vật lý
+DamagePierce={%t0} {^E}Sát thương Xuyên phá
+DamagePoison={%t0} {^E}Sát thương A-xít
+DamageKnockdown={^E}Hất ngã đối tượng{^H}{%t0}
+DamageStun={^E}Làm choáng đối tượng{%t0}
+DamageFreeze={^E}Đóng băng đối tượng{%t0}
+DamagePetrify={^E}Tê liệt đối tượng{%t0}
+DamageTrap={^E}Cố định đối tượng{%t0}
+DamageTaunt={^E}Khiêu khích đối tượng
+DamageThreat={^E}Tạo ra thêm Mối đe dọa
+DamageConvert={^E}Kiểm soát tâm trí đối tượng{%t0}
+DamageFear={^E}Làm đối tượng hoảng sợ{%t0}
+DamageConfusion={^E}Làm đối tượng hoang mang{%t0}
+DamageDisruption={^E}Gián đoạn kỹ năng của đối tượng{%t0}
+DamagePercentCurrentLife={^E}Giảm {^H}{%t0}% {^E}Máu của Địch
+DamageManaDrain={^E}Đốt {^H}{%t0}% {^E}Năng lượng
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}phần Năng lượng bị Đốt gây Sát thương)
+DamageModifierManaBurn={%.0f0}% {^E}phần Năng lượng bị Đốt gây Sát thương
+
+DamageDurationAttackSpeed=% {^E}Giảm Tốc độ đánh của Mục tiêu
+DamageDurationCold= {^E}Sát thương Bỏng băng
+DamageDurationReduced= {^E}Giảm Phòng thủ
+DamageDurationFire= {^E}Sát thương Thiêu đốt
+DamageDurationLife= {^E}Rút Sinh khí
+DamageDurationLifeLeach= {^E}Hút máu
+DamageDurationLightning= {^E}Sát thương Điện giật
+DamageDurationManaLeach= {^E}Hút Năng lượng
+DamageDurationOffensiveAbility= {^E}Giảm Khả năng Tấn công của Mục tiêu
+DamageDurationOffensiveReduction= {^E}Giảm Sát thương Vật lý của Mục tiêu
+DamageDurationDefensiveAbility= {^E}Giảm Khả năng Phòng thủ của Mục tiêu
+DamageDurationDefensiveReduction= {^E}Giảm Giáp của Mục tiêu
+DamageDurationPhysical= {^E}Nội thương
+DamageDurationPoison= {^E}Sát thương Độc
+DamageDurationTotalSpeed=% {^E}Làm chậm Mục tiêu
+DamageDurationRunSpeed=% {^E}Giảm tốc độ Di chuyển của Mục tiêu
+DamageDurationSpellCastSpeed=% {^E}Giảm tốc độ Thi triển của Mục tiêu
+DamageDurationBleeding= {^E}Sát thương Xuất huyết
+DamageDurationElemental= {^E}Bỏng Nguyên tố
+
+DamageTotalDamageReductionPercent=% {^E}Giảm Sát thương của Mục tiêu
+DamageTotalDamageReductionAbsolute= {^E}Giảm Sát thương của Mục tiêu
+DamagePhysicalReductionPercent=% {^E}Giảm Sát thương Vật lý của Mục tiêu
+DamageElementalReductionPercent=% {^E}Giảm Sát thương Nguyên tố của Mục tiêu
+DamageTotalResistanceReductionPercent=% {^E}Giảm Kháng của Mục tiêu
+DamageTotalResistanceReductionAbsolute= {^E}Giảm Kháng của Mục tiêu
+DamagePhysicalResistanceReductionPercent=% {^E}Giảm Kháng Vật lý của Mục tiêu
+DamagePhysicalResistanceReductionAbsolute= {^E}Giảm Kháng Vật lý của Mục tiêu
+DamageElementalResistanceReductionPercent=% {^E}Giảm Kháng Nguyên tố của Mục tiêu
+DamageElementalResistanceReductionAbsolute= {^E}Giảm Kháng Nguyên tố của Mục tiêu
+DamageDurationFumble=% {^E}Cơ hội Đánh hụt lên Mục tiêu
+DamageDurationProjectileFumble=% {^E}Cơ hội Giảm độ chính xác của Mục tiêu
+
+DamageModifierPhysical={%+.0f0}% {^E}Sát thương Vật lý
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Sát thương Vật lý
+DamageModifierPierceRatio={^E}Tăng Xuyên giáp thêm {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}Tăng Xuyên giáp thêm {^H}{%.0f0}-{%.0f1}%
+DamageModifierPierce={%+.0f0}% {^E}Sát thương Xuyên phá
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}Sát thương Xuyên phá
+DamageModifierCold={%+.0f0}% {^E}Sát thương Băng
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^E}Sát thương Băng
+DamageModifierFire={%+.0f0}% {^E}Sát thương Lửa
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^E}Sát thương Lửa
+DamageModifierPoison={%+.0f0}% {^E}Sát thương A-xít
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^E}Sát thương A-xít
+DamageModifierLightning={%+.0f0}% {^E}Sát thương Sét
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^E}Sát thương Sét
+DamageModifierLife={%+.0f0}% {^E}Sát thương Sinh khí
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^E}Sát thương Sinh khí
+DamageModifierStun={%+.0f0}% {^E}Thời gian làm Choáng
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}Thời gian làm Choáng
+DamageModifierChaos={%+.0f0}% {^E}Sát thương Hỗn nguyên
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^E}Sát thương Hỗn nguyên
+DamageModifierAether={%+.0f0}% {^E}Sát thương Aether
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}Sát thương Aether
+DamageModifierKnockdown={%+.0f0}% {^E}Thời gian Hất ngã
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}Thời gian Hất ngã
+DamageModifierTrap={%+.0f0}% {^E}Thời gian Cố định
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}Thời gian Cố định
+DamageModifierFreeze={%+.0f0}% {^E}Thời gian Đóng băng
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}Thời gian Đóng băng
+DamageModifierPetrify={%+.0f0}% {^E}Thời gian Hóa đá
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}Thời gian Hóa đá
+
+DamageDurationModifierPhysical={%+.0f0}% {^E}Nội thương
+DamageDurationModifierBleeding={%+.0f0}% {^E}Sát thương Xuất huyết
+DamageDurationModifierCold={%+.0f0}% {^E}Sát thương Bỏng băng
+DamageDurationModifierFire={%+.0f0}% {^E}Sát thương Thiêu đốt
+DamageDurationModifierPoison={%+.0f0}% {^E}Sát thương Độc
+DamageDurationModifierLightning={%+.0f0}% {^E}Sát thương Điện giật
+DamageDurationModifierLife={%+.0f0}% {^E}Rút Sinh khí
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}Giảm tốc độ Đánh 
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}Giảm tốc độ Thi triển
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}Giảm tốc độ Di chuyển
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}Hút máu
+DamageDurationModifierManaLeach={%+.0f0}% {^E}Hút Năng lượng
+DamageDurationModifierOffensiveAbility={^E}Giảm {^H}{%+.0f0}% {^E}Khả năng Tấn công của Mục tiêu
+DamageDurationModifierDefensiveAbility={^E}Giảm {^H}{%+.0f0}% {^E}Khả năng Phòng thủ của Mục tiêu
+DamageDurationModifierOffensiveReduction={^E}Giảm {^H}{%+.0f0}% {^E}Sát thương Vật lý của Mục tiêu
+ImprovedTimeFormat= {^E}với {^H}{%+.0f0}% {^E}Thời gian tăng thêm
+ImprovedTimeFormatR= {^E}với {^H}{%+.0f0}-{%.0f1}% {^E}Thời gian tăng thêm
+IncreasedDuration={^H}{%+.0f0}% {^E}Thời gian {%s1} tăng thêm
+
+RetaliationCold={%t0} {^E}Phản đòn Băng
+RetaliationFire={%t0} {^E}Phản đòn Lửa
+RetaliationLife={%t0} {^E}Phản đòn Sinh khí
+RetaliationLightning={%t0} {^E}Phản đòn Sét
+RetaliationElemental={%t0} {^E}Phản đòn Nguyên tố
+RetaliationPhysical={%t0} {^E}Phản đòn Sát thương Vật lý
+RetaliationPierce={%t0} {^E}Phản đòn Xuyên phá
+RetaliationPoison={%t0} {^E}Phản đòn A-xít
+RetaliationAether={%t0} {^E}Phản đòn Aether
+RetaliationChaos={%t0} {^E}Phản đòn Hỗn nguyên
+RetaliationStun=Phản đòn Choáng trong {%t0}
+RetaliationFreeze=Phản đòn Đóng băng trong {%t0}
+RetaliationPetrify=Phản đòn Hóa đá trong {%t0}
+RetaliationTrap=Phản đòn Trói chân trong {%t0}
+RetaliationConvert=Phản đòn Thôi miên trong {%t0}
+RetaliationFear=Phản đòn Hoảng sợ trong {%t0}
+RetaliationConfusion=Phản đòn Hoang mang trong {%t0}
+RetaliationSleep=Phản đòn Ru ngủ trong {%t0}
+RetaliationPercentCurrentLife={^E}Phản kích làm giảm {^H}{%t0}% {^E}Máu kẻ địch
+RetaliationDurationAttackSpeed=% {^E}Giảm tốc độ đánh khi phản kích
+RetaliationDurationCold= {^E}Phản đòn Bỏng băng
+RetaliationDurationDefensiveAbility= {^E}Giảm Phòng thủ khi phản kích
+RetaliationDurationFire= {^E}Phản đòn Thiêu đốt
+RetaliationDurationLife= {^E}Phản đòn Rút Sinh khí
+RetaliationDurationLifeLeach= {^E}Phản đòn Hút máu
+RetaliationDurationLightning= {^E}Phản đòn Điện giật
+RetaliationDurationManaLeach= {^E}Phản đòn Hút Năng lượng
+RetaliationDurationOffensiveAbility= {^E}Giảm Khả năng Tấn công khi phản kích
+RetaliationDurationOffensiveReduction= {^E}Giảm Sát thương khi phản kích
+RetaliationDurationPhysical= {^E}Phản đòn Nội thương
+RetaliationDurationBleeding= {^E}Phản đòn Xuất huyết
+RetaliationDurationPoison= {^E}Phản đòn Độc
+RetaliationDurationRunSpeed=% {^E}Giảm Tốc độ chạy khi phản kích
+RetaliationDurationSpellCastSpeed=% {^E}Giảm Tốc độ Thi triển khi phản kích
+RetaliationModifierPhysical={%+.0f0}% {^E}Phản đòn Sát thương Vật lý
+RetaliationModifierPierceRatio={%+.0f0}% {^E}Phản đòn Xuyên phá
+RetaliationModifierPierce={%+.0f0}% {^E}Phản đòn Xuyên phá
+RetaliationModifierCold={%+.0f0}% {^E}Phản đòn Băng
+RetaliationModifierFire={%+.0f0}% {^E}Phản đòn Lửa
+RetaliationModifierPoison={%+.0f0}% {^E}Phản đòn A-xít
+RetaliationModifierLightning={%+.0f0}% {^E}Phản đòn Sét
+RetaliationModifierAether={%+.0f0}% {^E}Phản đòn Aether
+RetaliationModifierChaos={%+.0f0}% {^E}Phản đòn Hỗn nguyên
+RetaliationModifierElemental={%+.0f0}% {^E}Phản đòn Nguyên tố
+RetaliationModifierLife={%+.0f0}% {^E}Phản đòn Sát thương Sinh khí
+RetaliationModifierStun={%+.0f0}% {^E}Phản đòn Choáng
+RetaliationModifierSleep={%+.0f0}% {^E}Phản đòn Ru ngủ
+RetaliationDurationModifierPhysical={%+.0f0}% {^E}Phản đòn Nội thương
+RetaliationDurationModifierBleeding={%+.0f0}% {^E}Phản đòn Xuất huyết
+RetaliationDurationModifierCold={%+.0f0}% {^E}Phản đòn Bỏng băng
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}Giảm Phòng thủ khi phản kích
+RetaliationDurationModifierFire={%+.0f0}% {^E}Phản đòn Thiêu đốt
+RetaliationDurationModifierLife={%+.0f0}% {^E}Phản đòn Rút Sinh khí
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}Phản đòn Hút máu
+RetaliationDurationModifierLightning={%+.0f0}% {^E}Phản đòn Điện giật
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}Phản đòn Hút Năng lượng
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}Giảm Khả năng Tấn công khi phản kích
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}Giảm Sát thương khi phản kích
+RetaliationDurationModifierPoison={%+.0f0}% {^E}Phản đòn Độc
+
+DefenseAbsorptionProtection={%.0f0} Giáp
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} Giáp
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}Giáp
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}Giáp
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}Giáp Thêm
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}Giáp Thêm
+DefensePhysical={%.0f0}% {^E}Kháng Vật lý
+DefensePhysicalR={%.0f0}-{%.0f1}% {^E}Kháng Vật lý
+DefensePierce={%.0f0}% {^E}Kháng Xuyên phá
+DefensePierceR={%.0f0}-{%.0f1}% {^E}Kháng Xuyên phá
+DefenseElementalResistance={%.0f0}% {^E}Kháng Nguyên tố
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^E}Kháng Nguyên tố
+DefenseCold={%.0f0}% {^E}Kháng Băng
+DefenseColdR={%.0f0}-{%.0f1}% {^E}Kháng Băng
+DefenseFire={%.0f0}% {^E}Kháng Lửa
+DefenseFireR={%.0f0}-{%.0f1}% {^E}Kháng Lửa
+DefenseAether={%.0f0}% {^E}Kháng Aether
+DefenseAetherR={%.0f0}-{%.0f1}% {^E}Kháng Aether
+DefenseChaos={%.0f0}% {^E}Kháng Hỗn nguyên
+DefenseChaosR={%.0f0}-{%.0f1}% {^E}Kháng Hỗn nguyên
+DefensePoison={%.0f0}% {^E}Kháng Độc & A-xít
+DefensePoisonR={%.0f0}-{%.0f1}% {^E}Kháng Độc & A-xít
+DefenseLightning={%.0f0}% {^E}Kháng Sét
+DefenseLightningR={%.0f0}-{%.0f1}% {^E}Kháng Sét
+DefenseLife={%.0f0}% {^E}Kháng Sinh khí
+DefenseLifeR={%.0f0}-{%.0f1}% {^E}Kháng Sinh khí
+DefenseStun={%.0f0}% {^E}Giảm thời gian bị Choáng
+DefenseStunR={%.0f0}-{%.0f1}% {^E}Giảm thời gian bị Choáng
+DefenseStunNegative={%.0f0}% {^E}Kháng làm Choáng
+DefenseLifeLeach={%.0f0}% {^E}Kháng Hút máu
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}Kháng Hút máu
+DefenseManaLeach={%.0f0}% {^E}Kháng Hút Năng lượng
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}Kháng Hút Năng lượng
+DefenseTrap={%.0f0}% {^E}Giảm thời gian bị Trói
+DefenseTrapNegative={%.0f0}% {^E}Kháng Trói
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}Giảm thời gian bị Trói
+DefenseFreeze={%.0f0}% {^E}Giảm thời gian bị Đóng băng
+DefenseFreezeNegative={%.0f0}% {^E}Kháng Đóng băng
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}Giảm thời gian bị Đóng băng
+DefenseKnockdown={%.0f0}% {^E}Giảm thời gian bị Hất ngã
+DefenseKnockdownNegative={%.0f0}% {^E}Kháng Hất ngã
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}Giảm thời gian bị Hất ngã
+DefensePetrify={%.0f0}% {^E}Giảm thời gian bị Hóa đá
+DefensePetrifyNegative={%.0f0}% {^E}Kháng Hóa đá
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}Giảm thời gian bị Hóa đá
+DefenseTaunt={%.0f0}% {^E}Bảo vệ khỏi Khiêu khích (Chỉ dành cho Pet/Bẫy)
+DefenseConvert={%.0f0}% {^E}Giảm thời gian bị Thôi miên (Chỉ dành cho Pet/Bẫy)
+DefenseFear={%.0f0}% {^E}Giảm thời gian Hoảng sợ (Chỉ dành cho Pet/Bẫy)
+DefenseConfusion={%.0f0}% {^E}Giảm thời gian Mất phương hướng (Chỉ dành cho Pet/Bẫy)
+DefenseDisruption={%.0f0}% {^E}Bảo vệ khỏi Gián đoạn Kỹ năng
+DefensePercentLife={%.0f0}% {^E}Kháng Rút Sinh khí
+DefenseBleeding={%.0f0}% {^E}Kháng Xuất huyết
+DefenseBleedingR={%.0f0}-{%.0f1}% {^E}Kháng Xuất huyết
+DefenseBlock={^E}Chặn {^H}{%.0f0} {^E}Sát thương
+DefenseReflect={^E}Phản lại {^H}{%.0f0}% {^E}Sát thương
+DefenseReflectR={^E}Phản lại {^H}{%.0f0}-{%.0f1}% {^E}Sát thương
+DefensePhysicalDuration={%.0f0}% {^E}Giảm Thời gian Nội thương
+DefenseBleedingDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Xuất huyết
+DefenseColdDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Bỏng băng
+DefenseFireDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Thiêu đốt
+DefensePoisonDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Độc
+DefenseLightningDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Điện giật
+DefenseLifeDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Rút Sinh khí
+DefenseLifeLeachDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Hút Máu
+DefenseManaLeachDuration={^E}Giảm {^H}{%.0f0}% {^E}Thời gian Hút Năng lượng
+DefensePercentCurrentLife={%.0f0}% {^E}Resistance to Life Reduction
+DefenseManaBurnRatio={%.0f0}% {^E}Kháng Đốt Năng lượng
+DefenseProtectionModifier={^E}Tăng Giáp thêm {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}Tăng Giáp thêm {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}Tăng Sát thương Hấp thụ được thêm {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}Tăng Sát thương Hấp thụ được thêm {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^E}Tăng Kháng Vật lý hiện tại thêm {^H}{%.0f0}%
+DefensePierceModifier={^E}Tăng Kháng Xuyên phá hiện tại thêm {^H}{%.0f0}%
+DefenseColdModifier={^E}Tăng Kháng Băng hiện tại thêm {^H}{%.0f0}%
+DefenseFireModifier={^E}Tăng Kháng Lửa hiện tại thêm {^H}{%.0f0}%
+DefensePoisonModifier={^E}Tăng Kháng Độc và A-xít hiện tại thêm {^H}{%.0f0}%
+DefenseLightningModifier={^E}Tăng Kháng Sét hiện tại thêm {^H}{%.0f0}%
+DefenseLifeModifier={^E}Tăng Kháng Sinh khí hiện tại thêm {^H}{%.0f0}%
+DefenseChaosModifier={^E}Tăng Kháng Hỗn nguyên hiện tại thêm {^H}{%.0f0}%
+DefenseAetherModifier={^E}Tăng Kháng Aether hiện tại thêm {^H}{%.0f0}%
+DefenseStunModifier={^E}Tăng Kháng Choáng hiện tại thêm {^H}{%.0f0}%
+DefenseBlockModifier={%+.0f0}% {^E}Tỉ lệ chặn của Khiên
+DefenseBlockAmountModifier={%+.0f0}% {^E}Sát thương chặn được của Khiên
+DefenseBlockAmountModifierR={%+.0f0}-{%+.0f1}% {^E}Sát thương chặn được của Khiên
+DefenseReflectModifier={%+.0f0}% {^E}Sát thương Phản lại
+DefenseLifeLeachModifier={^E}Tăng Kháng Hút máu hiện tại thêm {^H}{%.0f0}%
+DefenseManaLeachModifier={^E}Tăng Kháng Hút năng lượng hiện tại thêm {^H}{%.0f0}%
+DefensePercentLifeModifier={^E}Tăng Kháng Phần trăm Máu hiện tại thêm {^H}{%.0f0}%
+DefenseBleedingModifier={^E}Tăng Kháng Xuất huyết hiện tại thêm {^H}{%.0f0}%
+DefenseElementalModifier={^E}Tăng Kháng Nguyên tố hiện tại thêm {^H}{%.0f0}%
+DefensePhysicalDurationModifier={%+.0f0}% {^E}Giảm Thời gian Bị thương
+DefenseBleedingDurationModifier={%+.0f0}% {^E}Giảm Thời gian Xuất huyết
+DefenseColdDurationModifier={%+.0f0}% {^E}Giảm Thời gian Bỏng băng
+DefenseFireDurationModifier={%+.0f0}% {^E}Giảm Thời gian Thiêu đốt
+DefensePoisonDurationModifier={%+.0f0}% {^E}Giảm Thời gian trúng Độc
+DefenseLightningDurationModifier={%+.0f0}% {^E}Giảm Thời gian Điện giật
+DefenseLifeDurationModifier={%+.0f0}% {^E}Giảm Thời gian Rút Sinh khí
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}Giảm Thời gian Hút máu
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}Giảm Thời gian Hút năng lượng
+DefensePhysicalMaxResist={%+.0f0}% {^E}Kháng Vật lý Tối đa
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Vật lý Tối đa
+DefensePierceMaxResist={%+.0f0}% {^E}Kháng Xuyên phá Tối đa
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Xuyên phá Tối đa
+DefenseColdMaxResist={%+.0f0}% {^E}Kháng Băng Tối đa
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Băng Tối đa
+DefenseFireMaxResist={%+.0f0}% {^E}Kháng Lửa Tối đa
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Lửa Tối đa
+DefenseAetherMaxResist={%+.0f0}% {^E}Kháng Aether Tối đa
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Aether Tối đa
+DefenseChaosMaxResist={%+.0f0}% {^E}Kháng Hỗn nguyên Tối đa
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Hỗn nguyên Tối đa
+DefensePoisonMaxResist={%+.0f0}% {^E}Kháng Độc & A-xít Tối đa
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Độc & A-xít Tối đa
+DefenseLightningMaxResist={%+.0f0}% {^E}Kháng Sét Tối đa
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Sét Tối đa
+DefenseLifeMaxResist={%+.0f0}% {^E}Kháng Sinh khí Tối đa
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Sinh khí Tối đa
+DefenseStunMaxResist={%+.0f0}% {^E}Giảm thời gian Choáng Tối đa
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}Giảm thời gian Choáng Tối đa
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}Kháng Hút máu Tối đa
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Hút máu Tối đa
+DefenseManaLeachMaxResist={%+.0f0}% {^E}Kháng Hút Năng lượng Tối đa
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Hút Năng lượng Tối đa
+DefenseTrapMaxResist={%+.0f0}% {^E}Giảm thời gian bị Trói Tối đa
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}Giảm thời gian bị Trói Tối đa
+DefenseFreezeMaxResist={%+.0f0}% {^E}Giảm thời gian bị Đóng băng Tối đa
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}Giảm thời gian bị Đóng băng Tối đa
+DefensePetrifyMaxResist={%+.0f0}% {^E}Giảm thời gian bị Hóa đá Tối đa
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}Giảm thời gian bị Hóa đá Tối đa
+DefenseDisruptionMaxResist={%+.0f0}% {^E}Chống gián đoạn Kỹ năng Tối đa
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}Chống gián đoạn Kỹ năng Tối đa
+DefenseBleedingMaxResist={%+.0f0}% {^E}Kháng Xuất huyết Tối đa
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Xuất huyết Tối đa
+DefenseSleepMaxResist={%+.0f0}% {^E}Kháng Ru ngủ Tối đa
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Ru ngủ Tối đa
+DefenseAllMaxResist={%+.0f0}% {^E}Kháng Tất cả Tối đa
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Tất cả Tối đa
+DefenseReflectResist={%+.0f0}% {^E}Giảm Sát thương phản lại
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}Giảm Sát thương phản lại
+
+RacialBonusPercentDamage={^E}Tăng {^H}{%+.0f0}% {^E}Sát thương với {%s1}
+RacialBonusAbsoluteDamage={^E}Tăng {^H}{%+.0f0} {^E}Sát thương với {%s1}
+RacialBonusPercentDefense={^E}Giảm {^H}{%.0f0}% {^E}Sát thương từ {%s1}
+RacialBonusAbsoluteDefense={^E}Giảm {^H}{%.0f0} {^E}Sát thương từ {%s1}
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}Khiến mục tiêu Ngủ{%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}Sát thương Ru ngủ
+tagDefenseSleep={%.0f0}% {^E}Kháng Ru ngủ
+tagDefenseSleepModifier={%+.0f0}% {^E}Kháng Ru ngủ
+tagDamageModifierTotalDamage={%+.0f0}% {^E} vào Tất cả sát thương
+tagDamageModifierCritDamage={%+.0f0}% {^E}Sát thương Chí mạng
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}Sát thương Chí mạng
+tagDamageModifierDamageMult={^E}Tổng Sát thương tăng thêm {^H}{%.0f0}% 
+tagRetaliationModifierTotalDamage={%+.0f0}% {^E}vào Tất cả Sát thương Phản lại
+tagTotalSpeedResistance={%.0f0}% {^E}Kháng Làm chậm
+tagMindcontrolledMonster=Bị Thôi miên
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Cơ hội tác động tới tối đa {^H}{%d1} {^E}mục tiêu
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}Cơ hội tác động tới tối đa {^H}{%d1} {^E}mục tiêu
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}Cơ hội tác động tới tối đa {^H}{%d1} {^E}mục tiêu
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}Cơ hội tác động tới tối đa {^H}{%d1} {^E}mục tiêu
+tagSparkMaxNumberSingle={^E}Tác động tới tối đa {^H}{%d0} {^E}mục tiêu
+tagSparkMaxNumberSingleMod={^E}Tác động tới tối đa thêm {^H}+{%d0} {^E}mục tiêu
+tagSparkMaxNumber={^E}Tác động tới tối đa {^H}{%d0} {^E}mục tiêu
+tagSparkMaxNumberMod={^E}Tác động tới tối đa {^H}+{%d0} {^E}mục tiêu
+
+tagItemGrantSkill=Cho Kỹ năng:
+tagItemSkill= (Nhận được từ Trang bị)
+tagItemSkillShort= (Trang bị)
+tagEffect=Hiệu quả:
+tagSkillGrantEffect=Quyền năng Thiên phú:
+tagDevotionAttached=Gắn với:
+
+tagItemUseDirections=[Nhấp Chuột phải để sử dụng]
+
+tagInspectTitle=Kiểm tra
+tagInspectOption=Kiểm tra Người chơi
+tagInspectWarning=Người chơi đó ở quá xa để kiểm tra.
+tagGroup01=Đã bật PVP
+tagGroup02=Đã bật Tự lập Nhóm
+tagAutoItemSkill= (Nhận được từ Trang bị - Nội tại tự Kích hoạt)
+tagExclusiveSkill=^oKỹ năng Độc nhất - Chỉ một Kỹ năng Độc nhất được bật trong cùng một thời điểm.
+
+tagAutoSort=Tự Sắp xếp
+tagAutoComplete=Tự ghép Phụ kiện
+tagAttributeUndo=Hoàn tác
+
+tagQuestItem=Vật phẩm Nhiệm vụ
+
+
+tagCR_Jewelry=Trang sức:
+tagRelicError=Bạn không thể gắn thánh vật hoặc phụ kiện vào một món đồ Xịn hoặc Huyền thoại.
+
+tagExperienceDisplayFormat=Kinh nghiệm hiện tại : {^y}{%t0}{^w}  ~  Kinh nghiệm để lên cấp : {^y}{%t1}
+tagCXP=KN : {%t0}
+tagGrave01=Mộ của ~ {%t0}
+tagGrave02=Bị giết bởi {%t0}
+tagGrave03=Kinh nghiệm nhận lại : {%d0}
+tagHeroXPShort={%d0} KN từ Anh hùng
+tagBossXPShort={%d0} KN từ Trùm
+tagBossXPLong01=Đã giết Trùm
+tagBossXPLong02=Nhận được {%d0} KN
+tagHeroXPLong01=Đã giết Anh hùng
+tagHeroXPLong02=Nhận được {%d0} KN
+
+tagPetBonusNameAllPets=Cộng cho Tất cả Đệ
+tagPetBonusNameOnePet=Cộng cho Đệ {%s0}
+tagPetBonusNameTwoPets=Cộng cho Đệ {%s0} và {%s1}
+tagPetBonusNameManyPets=Cộng cho Đệ
+
+TagSpeakerSetup=Cài đặt Loa
+TagHeadphoneSpeakers=Tai nghe
+Tag41Speakers=Loa 4.1
+Tag51Speakers=Loa 5.1
+TagKeybind40=Dùng Thanh phím nóng Thay thế
+tagKeybindUnassigned=Chưa gán
+
+tagSelectPet1=Chọn Đệ 1
+tagSelectPet2=Chọn Đệ 2
+tagSelectPet3=Chọn Đệ 3
+tagSelectPet4=Chọn Đệ 4
+tagSelectPet5=Chọn Đệ 5
+tagSelectAllPets=Chọn Tất cả Đệ
+tagPortraitAggressive=Đặt chế độ Công kích
+tagPortraitNormal=Đặt chế độ Bình thường
+tagPortraitDefensive=Đặt chế độ Phòng vệ
+tagPortraitHireling=Kiểm tra
+
+tagMove=Di chuyển
+tagForceMove=Di chuyển Bắt buộc
+tagUse=Tương tác
+tagPickup=Nhặt
+
+tagUC_Button=Mở khóa Nội dung
+tagUC_Message=Xin gõ mã mở khóa của bạn để mở khóa nội dung mới.
+tagUC_OK=Đồng ý
+tagUC_Cancel=Hủy
+tagUC_Error=Bạn đã mở khóa nội dung đó với nhân vật này rồi. 
+
+tagHotSlotSwap=Chuyển đổi giữa thanh phím nóng chính và phụ.
+tagHotSlotTitle=Thanh Phím nóng Thay thế
+tagEmptyHotSlot=Loại bỏ phím dùng nhanh này.
+
+tagDevotionUnassigned=Không có Kỹ năng
+
+#Stack Window
+
+tagStackOk=Đồng ý
+tagStackCancel=Hủy
+
+#Multiplayer
+
+tagMPTrade=Giao dịch
+tagMPGroup=Nhóm
+tagMPInGame=Đang chơi
+tagMPCharName=Tên Nhân vật
+tagMPCharLevel=Cấp
+tagMPCharClass=Lớp
+tagMPAdd=Thêm
+tagMPRemove=Loại bỏ
+tagMPMessage=Nhắn tin
+tagMPInvite=Mời
+tagMPLeave=Rời Nhóm
+tagMPBan=Cấm
+tagMPAvailable=Người chơi hiện có
+tagMPGroup1=Nhóm 1
+tagMPGroup2=Nhóm 2
+tagMPGroup3=Nhóm 3
+tagMPNoClass=N/A
+tagMPInviteMessage={%t0} đã mời bạn tham gia một nhóm.
+tagMPInviteError={%t0} đang trong nhóm khác rồi.
+tagMPInviteSend={%t0} đã nhận được lời mời tham gia nhóm của bạn.
+tagMPInviteRemove={%t0} đã bị loại khỏi nhóm.
+tagMPMessageJoin={%t0} đã tham gia nhóm của bạn.
+tagMPMessageLeave={%t0} đã rời khỏi nhóm của bạn.
+tagMPMessageDeny={%t0} đã từ chối lời mời.
+tagMPMessageBan={%t0} đã bị cấm tham gia phòng chơi.
+tagMPMessageGameJoin={%t0} đã tham gia trò chơi.  Độ khó đã được điều chỉnh phù hợp với số người.
+tagMPMessageGameLeave={%t0} đã rời khỏi trò chơi.
+tagMPQuestionBan=Bạn chắc mình muốn cấm {%t0} tham gia phòng chơi chứ?
+tagMPInviteAccept=Chấp nhận
+tagMPInviteDeny=Từ chối
+tagMPStats=Thông tin Phòng chơi:
+tagMPMapName=Tên Bản đồ :
+tagMPServerName=Tên Máy chủ :
+tagMPServerAddress=Địa chỉ Máy chủ :
+tagMPPing=Ping :
+tagMPTime=Thời gian đã qua :
+tagMPServer=Tên Máy chủ: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Cổng: {%t0}
+tagMPErrorNoTarget=Người chơi ở quá xa để chọn làm mục tiêu.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagTradeError01={%t0} đang giao dịch với người khác.
+tagTradeError02={%t0} đã từ chối lời mời giao dịch.
+tagTradeError03={%t0} xin giao dịch.
+tagTradeError04=Bạn không còn đủ chỗ trống trong hành trang để chấp nhận giao dịch này.
+tagTradeButton01=Giao dịch
+tagTradeButton02=Hủy
+tagTradeDistance=Người chơi đó ở quá xa để giao dịch.
+tagChatGroup=Nhóm
+tagChatAll=TẤT CẢ
+tagChatFriends=BẠN BÈ
+tagChatReply=TRẢ LỜI
+tagChatSpeak=Nói với . . .
+tagChatError=Không có người chơi tên như vậy.
+tagChatMuted={%t0} đã bị chặn chat.
+tagChatUnmuted={%t0} không bị chặn chat nữa.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+

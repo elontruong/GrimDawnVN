@@ -1,0 +1,286 @@
+#Loading Tips
+tagLoadingTip01={^g}Mẹo: {^w}Bạn có thể lọc chiến lợi phẩm theo Chất lượng (Tốt+, Hiếm+, v.v.) {^n}bằng nút Lọc Chiến lợi phẩm ở phía dưới bên trái Giao diện.
+tagLoadingTip02={^g}Mẹo: {^w}Nếu bạn tìm thấy một Điện thờ chưa thể được khôi phục, {^n}vị trí của nó sẽ được đánh dấu lên Bản đồ Thế giới.
+tagLoadingTip03={^g}Mẹo: {^w}Bạn có thể xem lại các Mẹo vào bất cứ thời điểm nào trong Sổ tay, {^n}phím tắt mặc định: H.
+tagLoadingTip04={^g}Mẹo: {^w}Kẻ địch với cấp độ thấp hơn bạn đáng kể {^n}sẽ không cho điểm Kinh nghiệm hay Danh tiếng với Phe.
+tagLoadingTip05={^g}Mẹo: {^w}Hãy nhớ cộng điểm vào Độ thành thục. {^n}Chúng cung cấp những chỉ số căn bản sẽ giúp bạn sống sót và mặc trang bị.
+tagLoadingTip06={^g}Mẹo: {^w}Hãy tới www.GrimDawn.com để đọc Hướng dẫn Chơi, {^n}bao gồm khá nhiều thông tin về các cơ chế của trò chơi.
+tagLoadingTip07={^g}Mẹo: {^w}Quái Anh hùng (được đánh dấu bằng một Ngôi sao) {^n}là những kẻ địch mạnh mẽ với nhiều khả năng độc đáo, cũng rớt đồ xịn hơn.
+tagLoadingTip08={^g}Mẹo: {^w}Kẻ địch với cấp độ thấp hơn bạn đáng kể sẽ không rớt {^n}Nguyên liệu Chế tác Hiếm chẳng hạn như Trái tim Cổ xưa.
+tagLoadingTip09={^g}Mẹo: {^w}Ở Độ khó Cao cấp, trị số kháng cơ bản của bạn bị giảm đi 25%. {^n}Sự bất lợi đó tăng lên tới 50% ở Độ khó Tối thượng.
+tagLoadingTip10={^g}Mẹo: {^w}Có rất nhiều vị trí bí mật trong ở xứ Cairn. {^n}Hãy quan sát kỹ và biết đâu bạn sẽ tìm được những kho báu được giấu kín!
+tagLoadingTip11={^g}Mẹo: {^w}Ở Độ khó Kỳ cựu và cao hơn, {^n}Trùm sẽ hồi lại một phần thanh máu khi bạn bị hạ gục.
+tagLoadingTip12={^g}Mẹo: {^w}Khám phá thế giới để tìm những Rương-Chỉ-dùng-một lần, {^n}chúng luôn rớt một món đồ Xịn, một lần cho mỗi nhân vật.
+tagLoadingTip13={^g}Mẹo: {^w}Trạng bị Xịn và Huyền thoại có thể cho bạn những kỹ năng độc đáo để hỗ trợ, {^n}thậm chí là định hình, hướng xây dựng nhân vật của bạn.
+tagLoadingTip14={^g}Mẹo: {^w}Một số quái vật có thể rớt những trang bị chỉ chúng có,{^n} gọi là Đồ hiếm của Quái.
+tagLoadingTip15={^g}Mẹo: {^w}Trang bị Huyền thoại rất hiếm gặp, nhưng cũng vô cùng mạnh mẽ. {^n}Chúng bắt đầu rớt từ cấp 50+.
+tagLoadingTip16={^g}Mẹo: {^w}Bộ trang bị có nhiều điểm thưởng khi mặc cùng nhau {^n}và thậm chí có thể cho bạn thêm kỹ năng mới nữa.
+tagLoadingTip17={^g}Mẹo: {^w}Phụ kiện gắn trên vũ khí luôn cho một kỹ năng kích hoạt {^n}có thể dùng để bổ sung cho cách xây dựng nhân vật.
+tagLoadingTip18={^g}Mẹo: {^w}Thánh vật là những vật phẩm đặc biệt chỉ có thể tạo ra bởi một Thợ rèn lành nghề.
+tagLoadingTip19={^g}Mẹo: {^w}Nhiều Phụ kiện chỉ có thể chế tác ra. {^n}Hãy học thêm những Bản Thiết kế mới bằng cách làm thân với những Phe phái ở xứ Cairn.
+tagLoadingTip20={^g}Mẹo: {^w}Ở độ khó cao hơn bạn sẽ có cơ hội tìm được những vật phẩm tốt hơn, {^n}nhưng thử thách cũng khó khăn hơn.
+tagLoadingTip21={^g}Tip: {^w}Bạn có thể xoay camera vào bất cứ thời điểm nào bằng cách giữ nút chuột giữa. Hoặc bạn cũng có thể gán phím khác.
+
+#Tutorial Pages
+
+tagTutorialTip06Title=Thức ăn còn nguyên
+tagTutorialTip06TextA=Bạn vừa tìm thấy một bữa ăn bị bỏ lại, nhiều khả năng là của một người kém may mắn hơn. Ăn nó, bạn sẽ được hồi phục lại một phần Thể lực của mình.
+
+tagTutorialTip08Title=Chào mừng tới với Grim Dawn
+tagTutorialTip08TextA=Cảm ơn bạn đã ủng hộ chúng tôi và sản phẩm của chúng tôi. Grim Dawn có thể hoàn thành được là nhờ vào sự hào phóng của những người góp vốn, dù là qua Trang chủ, dự án Kickstarter hay từ Steam Early Access.
+tagTutorialTip08TextB=Nếu bạn gặp phải lỗi, xin hãy báo tại diễn đàn của chúng tôi tại www.grimdawn.com.
+tagTutorialTip08SubtitleA=Mẹo Hướng dẫn
+tagTutorialTip08TextC=Bạn có thể bật hoặc tắt mẹo hướng dẫn trong trò chơi vào bất cứ lúc nào trong mục tùy chọn. Menu Tùy chọn có thể mở ngay trong trò chơi bằng phím {^x}[Escape]{^-}.
+
+tagTutorialTip09Title=Cửa sổ Thương gia
+tagTutorialTip09TextA=Thương nhân mua bán vũ khí và các trang bị cần thiết để sống sót trước những hiểm nguy ở xứ Cairn.
+tagTutorialTip09TextB=Trong thời buổi khó khăn này, trang bị tốt chẳng hề rẻ. Các thương gia sẽ không chi nhiều tiền cho những vật phẩm phổ thông, nhưng đồ đạc có dính dáng đến ma thuật khá được giá.
+
+tagTutorialTip10Title=Cổng dịch chuyển
+tagTutorialTip10TextA=Tìm được Cổng dịch chuyển cho phép bạn di chuyển nhanh chóng giữa nhiều địa điểm trên khắp xứ Cairn. Nhấp chuột trái vào Cổng dịch chuyển để mở Bản đồ Thế giới và chọn địa điểm cần tới.
+tagTutorialTip10SubtitleA=Cổng dịch chuyển Cá nhân
+tagTutorialTip10TextB=Là một người đã tiếp xúc với Aether, bạn có khả năng mở một Cổng dịch chuyển Cá nhân. Để mở Cổng, nhấp chuột vào nút Mở Cổng dịch chuyển bên phải thanh phím tắt kỹ năng, hoặc bấm nút {^x}[%t0]{^-}.
+tagTutorialTip10TextC=Cổng dịch chuyển cá nhân có thể mở ở hầu hết mọi nơi trên thế giới, và được kết nối với mạng lưới Cổng dịch chuyển chính. Cổng của bạn sẽ mở cho tới khi bạn quay trở lại, và trong khoảng thời gian đó thành viên trong nhóm của bạn cũng có thể đi qua. Bạn chỉ có thể mở một Cổng dịch chuyển cá nhân vào cùng một thời điểm.
+
+tagTutorialTip14Title=Thuốc
+tagTutorialTip14TextA=Thuốc hồi Máu và Năng lượng lần lượt hồi máu và năng lượng cho nhân vật của bạn. Để uống thuốc, nhấp chuột vào hình của nó ở Thanh phím tắt hoặc bấm phím nóng đã gán.
+tagTutorialTip14TextB=Lúc đầu Thuốc sẽ được gán vào hai ô cuối trên Thanh phím tắt. Bạn có thể gán lại chúng vào bất cứ ô nào bằng cách nhấp chuột phải vào một ô trống và chọn một loại thuốc từ trình đơn hiện ra.
+tagTutorialTip14TextC=Để uống Thuốc, nhấp chuột vào hình của nó ở Thanh phím tắt hoặc bấm phím nóng đã gán.
+tagTutorialTip14TextD=Bạn sẽ tìm được thuốc trong các rương hòm và rớt từ quái, nhưng bạn cũng luôn có thể mua thêm từ bất cứ thương nhân nào nếu bạn cảm thấy thiếu.
+
+tagTutorialTip15Title=Lên Cấp
+tagTutorialTip15TextA=Mỗi lần nhân vật của bạn thăng cấp, bạn sẽ nhận được điểm Tiềm năng và Kỹ năng.
+tagTutorialTip15TextB=Mỗi Điểm Tiềm năng có thể được dùng để tăng Khéo léo, Thể chất và Tinh thần thêm 8 điểm.
+tagTutorialTip15TextC=Điểm Kỹ năng có thể được dùng để tăng độ thành thục, mở khóa kỹ năng mới, hoặc cải thiện những kỹ năng đã mở khóa.
+tagTutorialTip15TextD=Ban đầu, bạn sẽ nhận được 3 điểm kỹ năng mỗi cấp, nhưng khi bạn trở nên mạnh mẽ hơn, con số đó sẽ giảm xuống 2 (ở cấp 51+) và cuối cùng là 1 điểm mỗi cấp.
+tagTutorialTip15SubtitleA=Phân phối Điểm
+tagTutorialTip15TextE=Điểm Tiềm năng được phân phối trong cửa sổ Nhân vật. Nhấp chuột vào biểu tượng bên trái thanh phím tắt, hoặc bấm {^x}[%t0]{^-}. Để phân phối một điểm tiềm năng, hãy nhấp chuột vào dấu "+" bên cạnh chỉ số tương ứng.
+tagTutorialTip15TextF=Điểm kỹ năng được phân phối bằng cách mở Cửa sổ Kỹ năng. Nhấp chuột vào biểu tượng bên trái thanh phím tắt, hoặc bấm {^x}[%t0]{^-}.
+tagTutorialTip15SubtitleB=Kinh nghiệm
+tagTutorialTip15TextG=Bạn có thể theo dõi lượng kinh nghiệm của mình trên thanh mày vàng bên dưới ống máu và năng lượng, cũng như trong Cửa sổ Nhân vật. Thanh đó cho bạn thấy kinh nghiệm hiện tại, kinh nghiệm nhận được, và kinh nghiệm cần để đạt tới cấp tiếp theo. Khi thanh đó đầy, bạn tăng thêm một cấp.
+
+tagTutorialTip16Title=Cửa sổ Nhân vật
+tagTutorialTip16TextA=Dùng Cửa sổ Nhân vật để trang bị vật phẩm, sắp xếp lại hành trang, sử dụng điểm tiềm năng và xem một bảng tổng hợp những chỉ số của nhân vật. Di chuột lên trên một chỉ số để xem thêm thông tin.
+tagTutorialTip16SubtitleA=Quản lý Hành trang
+tagTutorialTip16TextB=Để trang bị một vật phẩm, nhấp chuột phải vào nó từ hành trang của bạn hoặc kéo nó đến một ô trang bị phù hợp. Bạn có thể vứt một vật phẩm bằng cách đưa nó ra khỏi cửa sổ nhân vật, hoặc nhấp chuột vào nó và bấm phím {^x}[{%t0}]{^-}.
+tagTutorialTip16SubtitleB=Điểm Tiềm năng 
+tagTutorialTip16TextC=Sử dụng điểm tiềm năng bằng cách nhấp chuột vào dấu "+" bên trái thuộc tính mong muốn. Mỗi điểm tiềm năng tăng thuộc tính thêm 8 điểm.
+
+tagTutorialTip17Title=Bộ Kỹ năng
+tagTutorialTip17TextA=Chọn một bộ kỹ năng là quyết định giúp định hình nhân vật. Những bộ kỹ năng khác nhau mang tới những phong cách chơi hết sức khác biệt, hãy lựa chọn cẩn thận.
+tagTutorialTip17TextB=Khi bạn đã chọn một bộ kỹ năng và tăng điểm vào đó, bạn sẽ không thể lựa chọn lại được nữa.
+tagTutorialTip17TextC=Bạn sẽ được lựa chọn bộ kỹ năng thứ hai khi nhân vật đạt tới cấp 10.
+
+tagTutorialTip20Title=Phụ kiện
+tagTutorialTip20TextA=Phụ kiện có thể được dùng để nâng cấp trang bị. Chúng luôn xuất hiện dưới dạng mảnh, có thể ghép lại để nhận được thêm điểm thưởng. Phụ kiện hiếm được hiển thị bằng một đường viền màu vàng nhạt.
+tagTutorialTip20SubtitleA=Gắn Phụ kiện
+tagTutorialTip20TextB=Nhấp chuột phải vào một phụ kiện để chọn, sau đó nhấp chuột trái vào món đồ bạn muốn gắn. Chú ý rằng mỗi phụ kiện chỉ có thể đi kèm với một vài loại trang bị nhất định.
+tagTutorialTip20SubtitleB=Ghép Phụ kiện
+tagTutorialTip20TextC=Bạn có thể ghép những mảnh phụ kiện cùng tên để có nhiều điểm thưởng hơn.
+tagTutorialTip20TextD=Mảnh phụ kiện cùng loại có thể gán vào trang bị sau khi mảnh đầu tiên đã gắn xong.
+
+tagTutorialTip22Title=Cửa sổ Kỹ năng
+tagTutorialTip22TextA=Bạn sẽ nhận được thêm điểm kỹ năng mỗi khi lên cấp. Dùng những điểm kỹ năng này để tăng độ thành thục hoặc mở khóa kỹ năng.
+tagTutorialTip22SubtitleA=Mức độ Thành thục
+tagTutorialTip22TextB=Nếu bạn tăng điểm kỹ năng vào mức độ thành thục, bạn sẽ mở ra những tầng kỹ năng mới. Bạn có thể tăng độ thành thục bằng cách nhấp chuột vào nút Độ thành thục ở góc dưới bên trái của Cửa sổ Kỹ năng.
+tagTutorialTip22TextC=Bạn phải có ít nhất một điểm thành thục để mở khóa tầng kỹ năng đầu tiên.
+tagTutorialTip22SubtitleB=Cấp Kỹ năng
+tagTutorialTip22TextD=Nhấp chuột vào một kỹ năng đã mở khóa để cộng điểm vào kỹ năng đó. Điểm đầu tiên sẽ cho phép bạn sử dụng kỹ năng. Những điểm sau đó sẽ làm cho kỹ năng mạnh mẽ hơn.
+tagTutorialTip22TextE=Những đường xanh lá hiển thị liên kết tới các kỹ năng bổ trợ. Bạn phải có ít nhất một điểm ở kỹ năng cơ bản trước khi có thể tăng vào các kỹ năng bổ trợ.
+
+tagTutorialTip23Title=Phân bố Kỹ năng
+tagTutorialTip23TextA=Kỹ năng Chủ động (biểu tượng hình vuông) cần phải được gán vào các nút chuột hoặc Thanh phím tắt trước khi bạn có thể sử dụng chúng.
+tagTutorialTip23TextB=Để gán một kỹ năng, nhấp chuột phải vào một ô trong thanh phím tắt hoặc trên các nút chuột ở bên phải nó rồi chọn kỹ năng muốn gán từ trình đơn hiện ra.
+tagTutorialTip23SubtitleA=Sử dụng Kỹ năng
+tagTutorialTip23TextC=Dùng kỹ năng trên Thanh phím tắt bằng cách nhấp chuột trái vào biểu tượng, hoặc bấm phím tắt đã gán.
+tagTutorialTip23TextD=Kỹ năng Bị động (biểu tượng tròn) luôn có hiệu lực và không cần phải gán vào Thanh phím tắt. Ngay khi bạn tăng điểm vào, bạn sẽ nhận được lợi ích từ chúng ngay lập tức.
+
+tagTutorialTip24Title=Chết
+tagTutorialTip24TextA=Khi máu của bạn trở về 0, nhân vật của bạn sẽ chết. Khi chết, bạn sẽ mất một ít kinh nghiệm và nhân vật sẽ hồi sinh tại khu dân cư gần nhất bạn tới. Bạn có thể lấy lại một phần kinh nghiệm đã mất bằng cách nhặt lại Bia mộ của mình.
+tagTutorialTip24TextB=Để tránh phải chết, hãy tận dụng khả năng hồi máu cực nhanh của nhân vật, được kích hoạt khi ra khỏi giao tranh trong vài giây. Khi Thể lực đã cạn, nhớ sử dụng thuốc và các kỹ năng để sống sót.
+
+tagTutorialTip26Title=Tán gẫu
+tagTutorialTip26TextA=Bạn có thể dùng Cửa sổ Tán gẫu để gửi thông điệp đến người chơi khác cùng phòng. Để gửi tin nhắn riêng, chọn một người nhận bằng cách nhấp chuột vào nút "Gửi Tới".
+tagTutorialTip26SubtitleA=Liên kết Vật phẩm
+tagTutorialTip26TextB=Để đưa vật phẩm vào tán gẫu, giữ shift và nhấp chuột trái vào món đồ mong muốn với cửa sổ chat đang mở. Một tin nhắn sẽ được tự động gửi với một đường dẫn tới món đồ.
+
+tagTutorialTip27Title=Chơi Nhiều người
+tagTutorialTip27TextA=Tham gia tổ đội với những người chơi khác cho phép bạn chia sẻ kinh nghiệm và đồ. Bạn có thể mở Cửa sổ Nhóm bằng cách nhấp vào biểu tượng, hoặc bấm {^x}[%t0]{^-}. Tổ đội cũng quan trọng trong những phòng PvP.
+tagTutorialTip27TextB=Bạn có thể mời người chơi khác trong cùng đội giao dịch bằng cách nhấp chuột phải vào chân dung của họ và chọn "Giao dịch".
+tagTutorialTip27TextC=Bạn cũng có thể trò chuyện với người chơi khác trong trò chơi bằng Cửa sổ Tán gẫu, mở bằng cách bấm {^x}[%t0]{^-}.
+
+tagTutorialTip28Title=Giao dịch
+tagTutorialTip28TextA=Bạn có thể trao đổi vật phẩm bằng cách đặt chúng trong cửa sổ giao dịch bên phía bạn. Bạn có thể trao đổi mảnh sắt bằng cách nhập một giá trị kế bên biểu tượng ở phía trên của cửa sổ.
+tagTutorialTip28TextB=Cả hai người phải đồng ý giao dịch trước khi việc trao đổi diễn ra. Nếu giao dịch bị hủy, mọi vật phẩm và mảnh sắt sẽ được trả về hành trang của người chơi.
+
+tagTutorialTip33Title=Học Kỹ năng
+tagTutorialTip33TextA=Khi lên cấp, điều quan trọng là phải phân phối điểm vào cả các kỹ năng lẫn tăng độ thành thục. Học kỹ năng mới có thể cho bạn những khả năng công thủ mạnh mẽ.
+tagTutorialTip33TextB=Để cộng điểm, nhấp chuột vào một kỹ năng đã mở khóa trong Cửa sổ Kỹ năng. Điểm đầu tiên sẽ cho phép bạn sử dụng kỹ năng đó. Những điểm tiếp theo sẽ làm kỹ năng mạnh mẽ hơn nữa.
+
+tagTutorialTip34Title=Mua và bán
+tagTutorialTip34TextA=Nếu hành trang của bạn đã đầy, có thể bạn sẽ muốn tới gặp một thương nhân để bán đi những món đồ không cần thiết.
+tagTutorialTip34TextB=Thương nhân thường ở những khu vực an toàn do con người kiểm soát, nhưng bạn cũng có thể tình cờ gặp những du thương trên khắp thế giới. Hãy để mắt tới biểu tượng thương nhân trên La bàn hoặc trong Bản đồ.
+
+tagTutorialTip35Title=Đệ
+tagTutorialTip35TextA=Đệ tự động đi theo và chiến đấu bên cạnh bạn. Nếu bạn muốn trực tiếp ra lệnh cho chúng, bạn có thể giữ {^x}[{%t0}]{^-} trong khi nhấp chuột vào đệ mong muốn ở góc trên bên trái màn hình, rồi chọn một mục tiêu.
+tagTutorialTip35TextB=Bạn có thể thả đệ đi bất cứ lúc nào bằng cách nhấp chuột phải vào chân dung của chúng và chọn "Giải tán".
+tagTutorialTip35TextC=Bạn có thể ra lệnh cho tất cả đệ cùng tấn công hoặc di chuyển tới một mục tiêu bằng cách sử dụng kỹ năng Đệ Tấn công. Để gán kỹ năng này, nhấp chuột phải vào một ô trong Thanh phím nóng hoặc các nút chuột ở bên phải thanh và chọn kỹ năng từ trình đơn hiện ra.
+
+tagTutorialTip36Title=Tái phân bổ Kỹ năng
+tagTutorialTip36TextA=Người Dẫn dắt Linh hồn cho phép bạn chọn lại những kỹ năng đã học. Nhấp chuột vào biểu tượng một kỹ năng trong giao diện Dẫn dắt Linh hồn để bỏ bớt một điểm khỏi kỹ năng đó. Giá của việc này tăng lên theo mỗi điểm bạn loại bỏ.
+tagTutorialTip36TextB=Bạn không thể rút điểm đã cộng vào độ Thành thục. Thêm vào đó, bạn không thể bỏ điểm cuối cùng khỏi kỹ năng với kỹ năng bổ trợ vẫn còn điểm.
+
+tagTutorialTip37Title=Kẻ buôn lậu
+tagTutorialTip37TextA=Những Kẻ buôn lậu có thể giúp bạn giữ đồ, thậm chí còn hỗ trợ chuyển đổi chúng giữa các nhân vật! Bạn có thể dùng rương ở chỗ bất cứ Kẻ buôn lậu nào trên khắp xứ Cairn.
+tagTutorialTip37TextB=Vật phẩm có thể được chuyển nhanh chóng bằng cách giữ Shift và nhấp chuột trái.
+tagTutorialTip37TextC=Nhấp chuột vào Chuyển Vật phẩm để chia sẻ đồ với các nhân vật khác của bạn.
+
+tagTutorialTip38Tile=Chuyển Vật phẩm
+tagTutorialTip38TextA=Vật phẩm để trong giao diện Chuyển Vật phẩm của Kẻ buôn lậu được chia sẻ giữa mọi nhân vật của bạn (có phân biệt Chế độ Bình thường và Hardcore).
+tagTutorialTip38TextB=Bạn có thể mở rộng hòm đồ chung bằng cách mua thêm thẻ, hiện ở phía bên trái giao diện.
+tagTutorialTip38SubtitleA=Chuyển đồ giữa các nhân vật
+tagTutorialTip38TextC=Để chuyển đồ, hãy đặt chúng vào giao diện Chuyển Vật phẩm. Khi bạn nạp một nhân vật khác, bạn có thể lấy những món đồ đó từ Kẻ buôn lậu.
+tagTutorialTip38SubtitleB=Chuyển đồ giữa những Người chơi
+tagTutorialTip38TextD=Để trao đổi vật phẩm với nhân vật của người chơi khác trong khi chơi mạng, bạn phải dùng chức năng Giao dịch. Nhấp chuột phải vào chân dung người chơi, rồi chọn "Giao dịch".
+
+tagTutorialTip39Title=Nhà sáng chế
+tagTutorialTip39TextA=Nhà sáng chế có khả năng tách các Phụ kiện và Nâng cấp khỏi trang bị. Trong quá trình này chỉ có thể giữ lại món trang bị hoặc phụ kiẹn. Mọi Nâng cấp nếu có sẽ bị mất.
+tagTutorialTip39SubtitleA=Loại bỏ Phụ kiện
+tagTutorialTip39TextB=Việc loại bỏ Phụ kiện khỏi trang bị tốn một khoản phí tỉ lệ với tổng giá trị của món đồ, Nâng cấp và Phụ kiện. Hãy đặt một món đồ có gắn Phụ kiện vào giao diện Nhà sáng chế để bắt đầu.
+tagTutorialTip39TextC=Bạn có thể chọn giữ lại vật phẩm hoặc phụ kiện. Nhưng thứ kia sẽ bị mất.
+tagTutorialTip39SubtitleB=Chỉ loại bỏ Nâng cấp
+tagTutorialTip39TextD=Khi bạn chọn chỉ loại bỏ một Nâng cấp, cả món đồ và Phụ kiện đều không bị ảnh hưởng. Nếu một Nâng cấp bị Khóa được loại bỏ theo cách này, và món đồ vốn không bị Khóa, tình trạng Khóa cũng sẽ bị loại bỏ luôn.
+
+tagTutorialTip42Title=Thợ rèn
+tagTutorialTip42TextA=Thợ rèn có khả năng chế tác những món đồ có uy lực. Ông ta vốn đã là một người thợ lành nghề và mọi thứ ông chế ra đều có chút chỉ số thưởng từ chế tác, nhưng kiến thức của ông còn có thể được mở rộng thêm bằng những bản thiết kế mới.
+tagTutorialTip42SubtitleA=Bản thiết kế
+tagTutorialTip42TextB=Thợ rèn sẽ học cách chế tác những vật phẩm mới khi bạn tìm được những bản thiết kế mới. Bản thiết kế có thể nhận được từ nhiệm vụ, hoặc lượm được ở bất kỳ đâu.
+tagTutorialTip42SubtitleB=Chế tác
+tagTutorialTip42TextC=Để bắt đầu chế tác, hãy chọn một công thức trong giao diện Chế tác. Những vật phẩm sẽ được tự động đặt vào giao diện chế tác, chúng được lấy từ Hòm đồ riêng, Hòm đồ Chung, Hành trang và Đồ đang mặc trên người, theo đúng thứ tự đó.
+tagTutorialTip42TextD=Nếu có đủ nguyên liệu cần thiết, bạn có thể bấm nút Kết hợp để chế tác món đồ.
+
+tagTutorialTip43Title=Bản thiết kế
+tagTutorialTip43TextA=Bản thiết kế là nguyên mẫu dùng để chế tạo những trang bị mạnh mẽ vốn đã bị lãng quên, Thợ rèn có thể nghiên cứu nó.
+tagTutorialTip43TextB=Để học một bản thiết kế, nhấp chuột phải vào nó. Nếu bạn chưa học bản thiết kế này, nó sẽ được thêm vào danh sách vật phẩm Thợ rèn có thể chế tạo.
+tagTutorialTip43TextC=Các bản thiết kế được chia sẻ giữa các nhân vật (phân biệt bởi Chế độ Bình thường và Hardcore) và bạn chỉ có thể học một Bản thiết kế một lần duy nhất.
+
+tagTutorialTip44Title=Thợ rèn vẫn mất tích!
+tagTutorialTip44TextA=Bạn vừa học một bản thiết kế mới, nhưng lại chưa có một Thợ rèn đủ khả năng chế tác món đồ đó.{^n}{^n}Bạn phải tìm một Thợ rèn trước khi bắt tay vào chế tác.{^n}{^n}Thợ rèn sẽ biết cách chế tác bản thiết kế này ngay lập tức thôi.
+tagTutorialTip44TextB=
+
+tagTutorialTip45Title=Thể lực
+tagTutorialTip45TextA=Khi giao tranh kết thúc và thanh máu của bạn không còn đầy, một hệ thống hồi phục phụ gọi là Thể lực sẽ được kích hoạt.
+tagTutorialTip45TextB=Thể lực sẽ nhanh chóng hồi đầy thanh máu, nhưng đồng thời cũng sẽ bị rút cạn dần. Thanh màu vàng nằm đè lên thanh máu là Thể lực của bạn.{^N}{^N}
+tagTutorialTip45TextC=Thể lực sẽ tự động hồi lại khi bạn tìm được Khẩu phần Ăn hoặc Tinh hoa Sự sống, cũng như khi Nhân vật của bạn Lên Cấp hoặc Chết.
+tagTutorialTip45TextD=Nếu cạn Thể lực, bạn sẽ không được hồi máu nhanh khi ra khỏi giao tranh nữa.
+
+tagTutorialTip46Title=Cạn Thể lực
+tagTutorialTip46TextA=Bạn đã hết Thể lực và sẽ không được hồi máu nhanh khi ra khỏi giao tranh. Bạn có thể khôi phục lại Sinh lực bằng Khẩu phần Ăn hoặc Tinh hoa Sự sống.
+
+tagTutorialTip47Title=Tháo dỡ
+tagTutorialTip47TextA=Tới gặp Nhà sáng chế để tách trang bị thành Phế liệu, với cơ hội tạo ra một mảnh Phụ kiện. Trang bị càng xịn, càng có khả năng cao tạo ra Phụ kiện xịn.
+tagTutorialTip47SubtitleA=Tháo dỡ một Trang bị
+tagTutorialTip47TextB=Để Tháo dỡ một Trang bị, bạn sẽ cần Mìn và mảnh sắt. Một món đồ bị tháo dỡ sẽ mất vĩnh viễn. Hãy đặt một món đồ có chất lượng tối thiểu là Tốt vào giao diện Tháo dỡ để bắt đầu.
+tagTutorialTip47TextC=Ngay khi bấm nút Tháo dỡ, lượng Mìn và Sắt yêu cầu sẽ được trừ khỏi hành trang của bạn và món đồ sẽ được chuyển thành những bộ phận cơ bản..
+
+tagTutorialTip49Title=So sánh Vũ khí
+tagTutorialTip49TextA=Khi bạn di chuột lên một món đồ trong Hành trang, bạn sẽ thấy một bảng so sánh giữa món đồ đó và món bạn đang trang bị. Trong trường hợp đó là vũ khí, bạn sẽ thấy thêm thông tin so sánh về Sát thương mỗi Giây (DPS).
+tagTutorialTip49SubtitleA=So sánh bỏ qua Phụ kiện
+tagTutorialTip49TextB=Bạn có thể so sánh hai món vũ khí khi không gắn phụ kiện bằng cách giữ phím {^x}[Ctrl]{^-}.
+
+tagTutorialTip50Title=Nâng cấp
+tagTutorialTip50TextA=Nâng cấp xuất hiện dưới dạng bột cường hóa, có thể sử dụng để nâng cấp trang bị của bạn. Cách chế tạo các Nâng cấp là một bí mật được giữ kín của mỗi phe phái khắp xứ Cairn.
+tagTutorialTip50TextB=Để sử dụng một nâng cấp, hãy nhấp chuột phải vào nó. Sau đó bạn có thể ghép nó vào trang bị phù hợp. Sau khi ghép, Nâng cấp không thể bị gỡ bỏ, nhưng có thể được thay thế bằng cái khác
+
+tagTutorialTip51Title=Ghép Nâng cấp
+tagTutorialTip51TextA=Nhấp chuột phải vào một Nâng cấp để chọn, sau đó nhấp chuột trái vào món đồ bạn muốn ghép nó vào.
+tagTutorialTip51TextB=Chú ý rằng mỗi Nâng cấp chỉ có thể ghép vào một số loại vật phẩm nhất định và không thể được gỡ ra sau khi ghép; nhưng bạn vẫn có thể gắn đè một Nâng cấp khác lên trên cái đã có.
+
+tagTutorialTip53Title=Phụ trách Hậu cần
+tagTutorialTip53TextA=Người Phụ trách Hậu cần bán những vật phẩm của riêng mỗi phe. Những món trang bị này chỉ dành cho người đã chứng minh được bản thân với phe của họ.
+tagTutorialTip53SubtitleA=Trang bị Khóa
+tagTutorialTip53TextB=Trang bị mua từ Người Phụ trách Hậu cần mỗi phe bị khóa với nhân vật của bạn và không thể giao dịch hay đặt vào giao diện Chuyển đồ.
+tagTutorialTip53TextC=Nếu một Nâng cấp Khóa được ghép vào một món đồ, món đồ đó cũng bị khóa luôn.
+
+tagTutorialTip55Title=Cửa sổ Phe phái
+tagTutorialTip55TextA=Sử dụng Cửa sổ Phe phái để theo dõi tiến độ của bạn với các phe phái ở xứ Cairn cũng như xác định những việc mình cần làm để nhận được những đặc ân của họ.
+tagTutorialTip55SubtitleA=Kiếm tìm Danh tiếng
+tagTutorialTip55TextB=Mỗi phe có nhu cầu và mục tiêu riêng. Bạn có thể xem cách giành được sự tôn trọng của họ trong mục "Danh tiếng nhận được từ".
+tagTutorialTip55TextC=Mức danh tiếng quyết định cách các phe phái ở xứ Cairn đối xử với bạn. Danh tiếng cao hơn cho phép bạn mua hàng từ các thương gia của phe đó với giá rẻ hơn đồng thời được tiếp cận với những trạng bị xịn hơn từ Quân nhu của họ.
+tagTutorialTip55TextD=Khi bạn đạt tới những mức danh tiếng khác nhau, có thể sẽ có nhiệm vụ mới có thể nhận. Đừng quên chúng.
+tagTutorialTip55TextE=Chú ý rằng khi bạn trở nên nổi tiếng hơn, bạn sẽ cần tiêu diệt những kẻ địch mạnh mẽ hơn mới nhận được thêm danh tiếng.
+
+tagTutorialTip56Title=Truy nã
+tagTutorialTip56TextA=Truy nã là một cách tuyệt vời để tăng danh tiếng với nhiều phe phái ở Cairn. Nhiệm vụ Truy nã cho bạn công việc với độ khó và phần thưởng khác nhau đồng thời thường không có chỉ dẫn. Bạn phải săn con mồi của mình với sự trợ giúp hạn chế.
+tagTutorialTip56SubtitleA=Truy nã có thê làm nhiều lần
+tagTutorialTip56TextB=Không giống nhiệm vụ thường, nhiệm vụ Truy nã không bị giới hạn chỉ làm một lần với mỗi nhân vật. Mỗi Phe sẽ đưa ra cho bạn tới 5 nhiệm vụ mỗi lần chơi, và bạn có thể sẽ gặp lại những nhiệm vụ Truy nã mình đã làm trong lần trước rồi.{^N}{^N}
+
+tagTutorialTip59Title=Điện thờ
+tagTutorialTip59TextA=Điện thờ là những di tích cổ đại của một đế chế đã mất từ lâu, những bia đá dành cho những vị thần và các thiên tượng. Điện thờ phải được thanh tẩy bằng cách đánh bại một thực thể tha hóa bị kẹt bên trong hoặc khôi phục bằng cách hiến một loại nguyên liệu chế tác hiếm. Yêu cầu cụ thể không giống nhau giữa các điện thờ.
+tagTutorialTip59CaptionA=Khôi phục Điện thờ
+tagTutorialTip59TextB=Để khôi phục một điện thờ, bạn phải có những nguyên liệu cần thiết trong Hòm đồ Riêng, Hòm đồ Chung, Hành trang và đồ đang mặc, chúng được lấy tự động theo thứ tự đó. Nếu có đủ nguyên liệu cần thiết, bạn có thể bấm nút Cống nạp để khôi phục Điện thờ.
+tagTutorialTip59CaptionB=Điểm Tín ngưỡng
+tagTutorialTip59TextC=Khi khôi phục một điện thờ bạn nhận được một điểm tín ngưỡng. Phân phối Điểm Tín ngưỡng ở Cửa sổ Tín ngưỡng, có thể mở thông qua Cửa số Kỹ năng. Hãy nhấp chuột vào biểu tượng nằm bên trái thanh phím tắt, hoặc bấm {^x}[%t0]{^-}.
+
+tagTutorialTip60Title=Cửa sổ Tín ngưỡng
+tagTutorialTip60TextA=Cửa sổ Tín ngưỡng cho phép bạn dâng những Điểm Tín ngưỡng của mình cho những vị thần và thiên tượng ở xứ Cairn.
+tagTutorialTip60TextB=Khi bạn hoàn thành những Chòm sao, bạn sẽ nhận được Hành, chúng lại cho phép bạn tiếp cận với những Chòm sao còn hùng mạnh hơn nữa.
+tagTutorialTip60SubtitleA=Hành
+tagTutorialTip60TextC=Những Chòm sao được xếp vào năm Hành khác nhau, đại diện cho các muôn mặt của vũ trụ. Những Chòm sao khác nhau yêu cầu lượng Hành khác nhau để mở khóa.
+tagTutorialTip60SubtitleB=Sử dụng Điểm Tín ngưỡng
+tagTutorialTip60TextD=Những Chòm sao khởi đầu đều cho lượng Hành lớn, trong khi những chòm sao hùng mạnh nhất chẳng cho một chút nào.
+tagTutorialTip60TextE=Chú ý rằng nếu bạn bỏ điểm khỏi một mảnh của một Chòm sao đã hoàn thành, bạn sẽ mất lượng Hành nhận được từ nó.
+tagTutorialTip60TextF=Những ngôi sao sáng xanh là nơi bạn có thể cộng điểm vào. Nhấp chuột trái vào một ngôi sao để mở khóa điểm thưởng của nó.
+tagTutorialTip60TextG=Những ngôi sao có vành đai đánh dấu vị trí của những Quyền năng Thiên phú, bạn có thể mở khóa chúng để gia cường những kỹ năng chính của mình với hiệu ứng mới.
+
+tagTutorialTip61Title=Quyền năng Thiên phú
+tagTutorialTip61TextA=Quyền năng Thiên phú là những khả năng mạnh mẽ tự kích hoạt có thể gán vào những kỹ năng chính từ Bộ kỹ năng và Trang bị của bạn. Quyền năng Thiên phú được gán vào kỹ năng sẽ nhận được kinh nghiệm khi bạn chiến đấu và làm nhiệm vụ, chúng sẽ lên cấp và tăng sức mạnh. Khi được gán vào kỹ năng của đệ, chúng sẽ được điều chỉnh theo sát thương của đệ.
+tagTutorialTip61SubtitleA=Gán vào một Kỹ năng Chính
+tagTutorialTip61TextB=Để gán một Quyền năng Thiên phú, trước tiên bạn phải mở khóa nó trong Cửa sổ Tín ngưỡng, sau đó chọn một Kỹ năng Chính phù hợp từ danh sách xổ ra. Bạn có thể gán lại một Quyền năng Thiên phú vào bất cứ thời điểm nào mà không phải chịu hình phạt gì. Nếu bạn bỏ gán một Quyền năng Thiên phú, nó sẽ giữ lại tất cả điểm kinh nghiệm và cấp đã nhận được.
+
+#Quick Tips
+
+tagQuickTipMainMenu={^z}Chào mừng đến với Grim Dawn!{^-}{^n}{^n}{^w}Mẹo Hướng dẫn{^-} đang được bật. Bạn có thể tắt chúng bất cứ lúc nào trong menu Tùy chọn.{^n}{^n}{^w}Độ khó Bình thường{^-} được dành cho những người chơi chưa có nhiều kinh nghiệm với thể loại ARPG.{^n}{^n}Để có một trải nghiệm khó khăn hơn hãy chọn {^w}Độ khó Kỳ cựu{^-}.
+tagQuickTip06={^z}Thức ăn còn nguyên{^-}Nhặt một bữa ăn còn nguyên hồi phục lại một lượng lớn Thể lực, cho phép bạn hồi Máu nhanh chóng khi ra khỏi giao tranh.
+tagQuickTip07={^z}Bạn đã mở khóa một Cổng dịch chuyển!{^-}{^n}{^n}{^w}Mở Cổng dịch chuyển{^-} {^x}[%t0]{^-} cho phép bạn tạo ra một cánh cổng dùng để dịch chuyển đến những Cổng dịch chuyển khác trên khắp xứ Cairn.
+tagQuickTip08={^z}Mẹo Hướng dẫn{^-}{^n}{^n}{^s}Mẹo Hướng dẫn{^-} đang được bật. Bạn có thể tắt chúng bất cứ lúc nào trong menu Tùy chọn. Để xem thêm thông tin, chỉ cần nhấp chuột vào một mẹo khi nó hiện ra, hoặc nhấp chuột phải vào để đóng nó lại. Có thể xem Trợ giúp của trò chơi vào bất cứ thời điểm nào trong Sổ tay {^x}[%t0]{^-}.
+tagQuickTip09={^z}Thương gia{^-}{^n}{^n}Thương gia cho phép bạn bán những chiến lợi phẩm thu thập được và mua trang bị cùng thuốc. Nhấp chuột phải vào một món đồ là cách nhanh nhất để bán hoặc mua.
+tagQuickTip11={^z}Cổng dịch chuyển Cá nhân{^-}{^n}{^n}Dùng Cổng dịch chuyển Cá nhân để mở bản đồ Thế giới rồi chọn một Cổng dịch chuyển để đi tới đó.
+tagQuickTip14={^z}Thuốc{^-}{^n}{^n}Thuốc có thời gian hồi dài, nhưng chúng có thể được dùng để nhanh chóng hồi lại Máu hoặc Năng lượng của bạn. Để uống thuốc, nhấp chuột vào biểu tượng lọ thuốc trên thanh phím tắt hoặc bấm phím tắt đã được gán. 
+tagQuickTip15={^z}Lên cấp{^-}{^n}{^n}Khi lên cấp bạn nhận được Điểm Tiềm năng và Kỹ năng để phân phối trong Cửa sổ Nhân vật và Cửa sổ Kỹ năng.
+tagQuickTip16={^z}Cửa sổ Nhân vật{^-}{^n}{^n}Cửa sổ Nhân vật cho phép bạn quản lý Hành trang, Trang bị, và xem các Chỉ số của nhân vật.
+tagQuickTip20={^z}Phụ kiện{^-}{^n}{^n}Phụ kiện tăng sức mạnh cho vật phẩm và trang bị, chúng có thể được ghép lại để nhận nhiều điểm thưởng hơn.
+tagQuickTip21={^z}Bộ Kỹ năng phụ{^-}{^n}{^n}Bạn đã đạt cấp 10, và có thể chọn một bộ kỹ năng thứ hai.
+tagQuickTip22={^z}Cửa sổ Kỹ năng{^-}{^n}{^n}Cửa sổ Kỹ năng{^x}[%t0]{^-} cho phép bạn sử dụng Điểm Kỹ năng nhận được khi lên cấp.
+tagQuickTip23={^z}Độ Thành thục và Kỹ năng{^-}{^n}{^n}Tăng lượng điểm cộng vào thanh Độ Thành thục cho phép mở khóa thêm kỹ năng cũng như cung cấp thêm điểm thưởng vào các chỉ số chính. Đừng quên học những kỹ năng mới bên cạnh việc nâng cao độ thành thục.
+tagQuickTip24={^z}Chết không phải là Hết!{^-}{^n}{^n}Khi chết bạn sẽ mất kinh nghiệm, nhưng bạn có thể thu hồi lại một phần kinh nghiệm đã mất bằng cách nhặt lại Bia mộ của mình.
+tagQuickTip26={^z}Tán gẫu{^-}{^n}{^n}Bấm {^x}[Enter]{^-} để trò chuyện với người chơi khác, hoặc bấm "Gửi tới" để gửi một Thông điệp Riêng tư. Shift và nhấp chuột vào một vật phẩm sẽ gửi một liên kết để những người chơi khác trong trò chơi có thể xem thông tin về vật phẩm đó.
+tagQuickTip27={^z}Chơi Nhiều người{^-}{^n}{^n}Mở Cửa sổ Nhóm {^x}[%t0]{^-} để lập tổ đội. Bấm {^x}[Enter]{^-} để trò chuyện với người chơi khác.
+tagQuickTip30={^z}Kỹ năng chưa được gán!{^-}{^n}{^n}Kỹ năng Chủ động phải được gán vào thanh phím tắt trước khi có thể sử dụng. Nhấp chuột phải vào một ô trên thanh để gán kỹ năng vào đó.
+tagQuickTip31={^z}Thuốc Hồi máu{^-}{^n}{^n}Khi máu của bạn xuống thấp trong giao tranh, hãy dùng thuốc để hồi lại. Thuốc Hồi máu có thời gian hồi dài nhưng khôi phục được một lượng máu lớn.
+tagQuickTip32={^z}Có điểm chưa cộng!{^-}{^n}{^n}Bạn có điểm tiềm năng hoặc kỹ năng chưa cộng. Nhớ sử dụng điểm mỗi khi lên cấp.
+tagQuickTip33={^z}Học Kỹ năng{^-}{^n}{^n}Việc học Kỹ năng cũng quan trọng ngang với tăng độ Thành thục. Kỹ năng cho bạn nhiều khả năng công thủ mạnh mẽ.
+tagQuickTip34={^z}Hành trang đã đầy!{^-}{^n}{^n}Hãy mở Cửa sổ Nhân vật để quản lý hành trang, hoặc tới gặp một thương gia để bán những chiến lợi phẩm bạn thu được lấy sắt.
+tagQuickTip35={^z}Triệu hồi Đệ{^-}{^n}{^n}Bạn có thể ra lệnh cho tất cả đệ cùng tấn công hoặc di chuyển tới một mục tiêu bằng cách ra lệnh cho chúng bằng Kỹ năng Đệ Tấn công. Chúng cũng có thể được đặt ở chế độ tấn công/phòng thủ, cũng như bỏ triệu hồi khi cần thiết.
+tagQuickTip36={^z}Người Dẫn dắt Linh hồn{^-}{^n}{^n}Người Dẫn dắt Linh hồn cho phép bạn cộng lại điểm kỹ năng và tín ngưỡng với cái giá là Sắt và Tinh thể Aether. Mỗi điểm cộng lại sẽ tăng giá của điểm tiếp theo.
+tagQuickTip37={^z}Kẻ buôn lậu{^-}{^n}{^n}Kẻ buôn lậu cho phép bạn cất những vật phẩm bạn muốn để dành vào Hòm đồ Riêng, cũng như sử dụng Hòm đồ Chung.
+tagQuickTip38={^z}Hòm đồ Chung{^-}{^n}{^n}Hòm đồ Chung có thể được dùng để chuyển đồ qua lại giữa những nhân vật của bạn. Có thể dùng Sắt mua thêm Hòm đồ Chung.
+tagQuickTip39={^z}Nhà sáng chế{^-}{^n}{^n}Nhà sáng chế cho phép bạn tách Phụ kiện ra khỏi vật phẩm, và Tháo dỡ những vật phẩm không dùng tới thành các loại nguyên liệu chế tác.
+tagQuickTip42={^z}Thợ rèn{^-}{^n}{^n}Thợ rèn chế ra những vật phẩm mạnh mẽ từ những Bản thiết kế bạn học được cùng đủ loại thành phần có thể tìm thấy trên khắp thế giới.
+tagQuickTip43=^{z}Bản thiết kế{^-}{^n}{^n}Hãy tới gặp Thợ rèn để chế tác vật phẩm từ các Bản thiết kế bạn đã học, cùng với những nguyên liệu chế tác bạn có trong tay.
+tagQuickTip44={^z}Bản thiết kế{^-}{^n}{^n}Bản thiết kế cần tới một Thợ rèn mới có tác dụng. Những thiết kế bạn đã thu thập được sẽ được ghi nhận cho tới khi bạn tìm được một thợ rèn phù hợp.
+tagQuickTip45={^z}Hồi phục nhanh{^-}{^n}{^n}Thể lực được chuyển hóa thành máu khi ra khỏi giao tranh, cho phép bạn hồi phục nhanh chóng giữa những trận đánh chừng nào vẫn còn thể lực.
+tagQuickTip46={^z}Hết sức rồi!{^-}{^n}{^n}Khi hết Thể lực bạn không thể hồi Máu nhanh khi ra khỏi giao tranh nữa. Hãy thu thập Bữa ăn còn nguyên và Tinh hoa Sự sống để hồi phục lại Thể lực.
+tagQuickTip47={^z}Tháo dỡ{^-}{^n}{^n}Cửa sổ Tháo dỡ cho phép bạn phá những món đồ không dùng tới thành các bộ phận cơ bản, rồi dùng chúng để chế tác những món đồ khác.
+tagQuickTip49={^z}So sánh Trang bị{^-}{^n}{^n}Di chuột lên một vật phẩm sẽ hiện ra bản so sánh giữa vật phẩm đó với món đồ bạn đang mặc.
+tagQuickTip50={^z}Nâng cấp{^-}{^n}{^n}Nâng cấp có thể được dùng vào trang bị để nhận thêm điểm thưởng. Bạn có thể mua chúng từ Quân nhu mỗi phe khi đạt tới mức danh tiếng cần thiết.
+tagQuickTip52={^z}Tăng Danh tiếng{^-}{^n}{^n}Bạn vừa nhận được thêm danh tiếng với một trong những phe phái ở xứ Cairn. Bạn có thể theo dõi danh tiếng của mình trong Cửa sổ Phe phái {^x}[%t0]{^-}.
+tagQuickTip53={^z}Quân nhu{^-}{^n}{^n}Quân nhu cho phép bạn mua những vật phẩm và nâng cấp riêng của mỗi phep khi đạt tới mức danh tiếng yêu cầu.
+tagQuickTip54={^z}Danh tiếng{^-}{^n}{^n}Mức Danh tiếng của bạn với một trong những phe phái ở xứ Cairn vừa tăng lên. Cửa sổ Phe phái {^x}[%t0]{^-} có thông tin về những phần thưởng cho những mức danh tiếng cao hơn.
+tagQuickTip55={^z}Cửa sổ Phe phái{^-}{^n}{^n}Cửa sổ Phe phái cho phép bạn xem Danh tiếng hiện tại của mình với những phe phái thân thiện và thù địch, đồng thời xem thêm thông tin về họ.
+tagQuickTip56={^z}Truy nã{^-}{^n}{^n}Không như những nhiệm vụ thương, nhiệm vụ truy nã có thể làm lại nhiều lần. Mỗi phe sẽ giao cho bạn tối đã 5 nhiệm vụ truy nã mỗi lần chơi.
+tagQuickTip57={^z}Điện thờ{^-}{^n}{^n}Thanh tẩy điện thờ cho bạn Điểm Tín ngưỡng để phân phối thông qua Cửa sổ Kỹ năng {^x}[%t0]{^-}. Tín ngưỡng là một lớp tùy biến nhân vật nữa thêm vào với hệ thống Bộ Kỹ năng.
+tagQuickTip58={^z}Thanh tẩy Điện thờ{^-}{^n}{^n}Điện thờ có thể được thanh tẩy bằng cách cống nạp cho những vị thần, hoặc đánh bại những kẻ địch bị kẹt bên trong điện thờ, tùy thuộc vào loại điện thờ bạn gặp.
+tagQuickTip59={^z}Điểm Tín ngưỡng{^-}{^n}{^n}Điểm Tín ngưỡng nhận được từ việc thanh tẩy điện thờ có thể được dùng trong Cửa sổ Tín ngưỡng, mở thông qua Cửa sổ Kỹ năng {^x}[%t0]{^-}.
+tagQuickTip60={^z}Cửa sổ Tín ngưỡng{^-}{^n}{^n}Cửa sổ Tín ngưỡng cho phép bạn sử dụng điểm Tín ngưỡng nhận được từ việc thanh tẩy điện thờ. Mỗi điểm sử dụng cho phép bạn mở khóa những điểm thưởng và kỹ năng mới.
+tagQuickTip61={^z}Quyền năng Thiên phú{^-}{^n}{^n}Gán Quyền năng Thiên phú của bạn vào một kỹ năng bằng cách nhấp chuột vào biểu tượng trong Cửa sổ Tín ngưỡng và chọn một kỹ năng từ danh sách.

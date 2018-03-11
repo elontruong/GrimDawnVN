@@ -1,0 +1,27 @@
+Ngã tư Ác quỷ
+Đoàn buôn Mất tích
+Tìm thấy Đoàn buôn
+Bạn tình cờ bắt gặp một đoàn xe thồ bị phá hoại trên con đường gần Bờ sông Mù sương. Dù có nhiều dấu hiệu của một vụ ẩu đả, nhưng không thấy người đánh xe. {^n}{^n}Dấu vết của bọn Slith cùng vệt máu dẫn sâu vào trong khu đầm lầy. Có lẽ người đánh xe đó vẫn còn sống. Hãy kiểm tra những khu trại của bọn Slith quanh Bờ sông Mù sương để tìm lữ khách bất hạnh này.
+Tìm Người đánh Xe thồ trong trại của bọn Slith dọc trên Đường Burrwitch
+
+Nói chuyện với Người đánh Xe thồ
+Luther Graves bị thương rất nặng, bị nhốt trong một cái lồng của Slith bên Bờ sông Mù sương. Nhìn vào số xác người rải rác xung quanh, anh ta hẳn đã rất may mắn. {^n}{^n}Hãy nói chuyện với anh ta để tìm hiểu sự tình.
+Nói chuyện với Người đánh Xe thồ bị bắt giữ
+
+
+
+
+Dịch chuyển Luther Graves về nơi an toàn (Backup for old characters, should no longer be applicable)
+Luther Graves bị thương rất nặng, bị nhốt trong một cái lồng của Slith bên Bờ sông Mù sương. Nhìn vào số xác người rải rác xung quanh, anh ta hẳn đã rất may mắn. {^n}{^n}Hãy nói chuyện với anh ta để tìm hiểu sự tình.
+Nói chuyện với Người đánh Xe thồ bị bắt giữ
+
+Đến thăm Luther Graves ở Giao lộ
+Luther Graves đã được an toàn ở Ngã tư Ác quỷ. {^n}{^n}Hãy tới thăm xem anh ta sống thế nào.
+
+
+
+Nói chuyện với Luther Graves ở Ngã tư Ác quỷ
+
+
+
+

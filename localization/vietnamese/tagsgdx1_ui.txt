@@ -1,0 +1,87 @@
+#Faction
+tagFactionBeasts=Quái thú
+tagFactionBeastsInfo= Những sinh vật của lông và móng vuốt, của vảy và nọc độc, của ngạnh giáp và ngạnh gai; chúng đều là một phần của xứ Cairn. Thông qua một trong những quy luật tàn nhẫn nhất của tự nhiên, mạnh được yếu thua, chúng trở nên mạnh mẽ hơn qua mỗi thế hệ. {^n}{^n} Dù có là sức mạnh của thiên nhiên hay những mưu mô xuẩn ngốc của con người, những quái thú xứ Cairn vẫn sẽ tồn tại, trở nên mạnh hơn, dữ tợn hơn và liều lĩnh hơn.
+tagFactionBeastsRewards1=Xuất hiện Nemesis
+tagFactionBeastsRewards2=Xuất hiện quái Anh hùng
+tagFactionBeastsRewards3=Thêm Kẻ địch
+tagFactionBeastsRewards4=Trống
+tagFactionBeastsRewards5=N/A
+tagFactionBeastsRewards6=N/A
+tagFactionBeastsRewards7=N/A
+tagFactionBeastsRewards8=N/A
+tagFactionUser9=Hội Phù thủy Đầm Ugden
+tagFactionUser9Info=Trụ sở: Đầm Ugden {^n}{^n} Không có nhiều thông tin về Hội Phù thủy bí ẩn ở Đầm Ugden. Là một tập hợp phù thủy và pháp sư, hội tìm cách che chở những thành viên bị ngược đãi bởi một xã hội chưa thấu hiểu tới mức (thường là chính đáng) sợ hãi sức mạnh của họ. {^n}{^n} Sau nhiều thập kỷ lẩn tránh sự truy đuổi của Hội Luminari, những phù thủy đã tạo ra một chốn ẩn cư nằm sâu trong Đầm Ugden, một nơi ngay cả những kẻ săn đuổi tận tâm nhất cũng không dám tới. Tuy nhiên nơi này cũng nảy ra những nguy hiểm riêng. {^n}{^n} Những ai đến lánh nạn cùng hội phải luôn cảnh giác bởi những mối đe dọa mới, dù là từ vài lữ khách đi lạc tình cờ đến nơi họ ẩn náu hay từ chính những sinh vật hoang dã nguy hiểm tron đầm lầy, vẫn liên tục trỗi dậy. {^n}{^n} Tệ hơn, vẫn còn đó những bí mật của đầm lầy ngay cả hội phù thủy cũng tránh né, lo ngại sẽ lặp lại những sai lầm trong quá khứ để Hội Luminari lần ra được dấu vết của họ.
+tagFactionUser9Rewards1=N/A
+tagFactionUser9Rewards2=N/A
+tagFactionUser9Rewards3=N/A
+tagFactionUser9Rewards4=Trống
+tagFactionUser9Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser9Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser9Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe {^n}Vũ khí của Phe {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser9Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Giáp Cao cấp {^n}Bản thiết kế Huyền thoại
+tagFactionUser10=Barrowholm
+tagFactionUser10Info=Trụ sở: Đầm Ugden {^n}{^n} Barrowholm, một hòn ngọc thực sự trong vũng bùn, đối lập hoàn toàn với những hung hiểm ở khu đầm lầy bao quanh với kiến trúc gần như hoàn mỹ và cuộc sống thanh bình. Cư dân ở đây trân trọng ngôi nhà của mình và mang tới một thái độ kỳ lạ, vừa thận trọng cảnh giác vừa nồng ấm đón chào với những vị khách mới tới. {^n}{^n} Rốt cuộc thì, trong thế giới bị tàn phá bởi cả Aetherial và Âm binh, một thứ hoàn hảo nhường này phải được bảo vệ bằng mọi giá.
+tagFactionUser10Rewards1=Xuất hiện Nemesis
+tagFactionUser10Rewards2=Xuất hiện quái Anh hùng
+tagFactionUser10Rewards3=Thêm Kẻ địch
+tagFactionUser10Rewards4=Trống
+tagFactionUser10Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser10Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser10Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe {^n}Vũ khí của Phe {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser10Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Giáp Cao cấp {^n}Bản thiết kế Huyền thoại
+tagFactionUser11=Quân Kháng chiến Malmouth
+tagFactionUser11Info=Trụ sở: Malmouth {^n}{^n} Từ là niềm tự hào của miền đông, Malmouth là một kỳ quan công nghiệp của đế chế Erulan, với cảng biển tấp nập cùng nền kinh tế phát đạt. Nó cũng là một trong những thành phố đầu tiên thất thủ trong những sự kiện diễn ra trong ngày định mệnh Grim Dawn. {^n}{^n} Bị tàn phá từ bên trong bởi những sinh vật Aether ma mãnh, chỉ trong vòng vài tuần Malmouth từ một biểu tượng lộng lẫy của đế chế đã biến thành cơn ác mộng sinh động cho cư dân tại đây. Nhưng không phải mọi người dân thành Malmouth đều bỏ mạng khi chiến sự nổ ra. Một số đã sống sót...chịu đựng...phản kháng. {^n}{^n} Giờ đây chính những con người đó đang tạo thành nòng cốt của cuộc kháng chiến nhằm giành lại thành phố từ tay những kẻ xâm lược; nhưng vật lực của họ sắp cạn và nhân lực thì có hạn khi đem so với đoàn quân gần như vô hạn những sinh vật Aether đang đóng bên trong thành Malmouth.
+tagFactionUser11Rewards1=N/A
+tagFactionUser11Rewards2=N/A
+tagFactionUser11Rewards3=N/A
+tagFactionUser11Rewards4=Trống
+tagFactionUser11Rewards5=Được dùng Cửa hàng của Phe
+tagFactionUser11Rewards6=Nhiệm vụ mới {^n}Được dùng Bảng truy nã {^n}Vũ khí của Phe {^n}Giáp của Phe {^n}Bản thiết kế của Phe
+tagFactionUser11Rewards7=Nhiệm vụ mới {^n}Nâng cấp của Phe {^n}Vũ khí của Phe {^n}Trang sức của Phe {^n}Giấy Thừa nhận {^n}Bản thiết kế của Phe
+tagFactionUser11Rewards8=Nâng cấp Hiếm {^n}Giấy Ủy nhiệm {^n}Giáp Cao cấp {^n}Bản thiết kế Huyền thoại
+tagFactionUser12=Quân Tiên phong Aetherial
+tagFactionUser12Info= Trong số những sinh vật Aether đã nghiền nát đế chế của loài người, trong một sự kiện giờ đây được gọi bằng cái tên Grim Dawn, có những kẻ vượt qua ranh giới trước tiên, những kẻ sẽ trở thành điềm báo cho sự diệt vong của nhân loại. {^n}{^n} Chúng là những kẻ đầu tiên trà trộn vào Erulan, những kẻ đầu tien thao túng những con người vô tri tự đào hố chôn mình. Đoàn quân Tiên phong Aetherial này giờ đang lan truyền sự tha hóa của mình từ đống đổ nát của nơi từng là niềm tự hào của đế chế đã mất. {^n}{^n} Nhưng tất cả sự thảm sát này vốn chỉ là khởi đầu cho mưu đồ của chúng mà thôi. Dưới bàn tay nhào nặn của bọn Aetherial, những tác phẩm kinh tởm mới đang cựa mình ngay dưới lòng đất thành Malmouth. Dù thứ gì xuất hiện tiếp sau đây cũng có thể đặt dấu chấm hết cho sự phản kháng của loài người.
+tagFactionUser12Rewards1=Xuất hiện Nemesis
+tagFactionUser12Rewards2=Xuất hiện quái Anh hùng
+tagFactionUser12Rewards3=Thêm Kẻ địch
+tagFactionUser12Rewards4=Trống
+tagFactionUser12Rewards5=N/A
+tagFactionUser12Rewards6=N/A
+tagFactionUser12Rewards7=N/A
+tagFactionUser12Rewards8=N/A
+
+#Quest
+tagCodexJournalSubHeadingUgdenbog=Người Sống sót - Đầm Ugden
+tagCodexJournalSubHeadingBarrowholm=Người Sống sót - Barrowholm
+tagCodexJournalSubHeadingMalmouth=Người Sống sót - Malmouth
+
+#SkillUI
+
+tagSkillUndoClass=Bỏ chọn Class
+
+#Transmuter
+tagTransmuterWindow=Ảo ảnh sư
+tagTransmuteButton=Dùng Ảo ảnh
+tagTransmuteNew=Bạn nhận được một Ảo ảnh mới: {%t0}
+tagTransmutePageFormat={%d0} / {%d1}
+tagTransmuteNoItems=Hiện bạn không mặc trang bị gì Ảo ảnh sư có thể tác nghiệp.
+tagTransmuteTotalGold=Sắt Hiện có:
+tagTransmuteCost=Giá:
+
+SkillDamageAbsorptionReflectPercent={^E}Phản lại {^H}{%.0f0}% {^E}Sát thương Hấp thụ
+
+tagGDX1w=GrimDawn/images/evil
+
+#Maps
+
+tagMapSymbolTransmuteNpc=Ảo ảnh sư
+tagMapSymbolTransmuteNpcDesc=Illusionist illusions.
+
+#Skills
+tagItemSkillModified= {^E}vào {^Z}{%s0}
+
+#Char Stats Tab 2
+tagCharStatsInquisitorSkillsBonus=Kỹ năng Inquisitor
+tagCharStatsInquisitorSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Inquisitor.
+tagCharStatsNecroSkillsBonus=Kỹ năng Necromancer
+tagCharStatsNecroSkillsBonusInfo=Điểm cộng thêm vào mọi kỹ năng đã học trong Bảng Necromancer.

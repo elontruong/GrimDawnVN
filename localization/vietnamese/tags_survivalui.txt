@@ -1,0 +1,105 @@
+#Survival Mode Tags
+
+#Main
+tagSurvivalMode_Desc="Tiến vào Luyện ngục, một trường thí luyện nơi sức mạnh và lòng can đảm được thử thách trước những đợt quân thù vô tận. Kẻ nào sống ots sẽ được tưởng thưởng bằng những kho báu phong phú.
+tagSurvivalDeath=Bạn tiêu rồi, nhưng các đồng đội của bạn vẫn có thể hoàn thành đợt này. Nếu họ thành công, bạn sẽ được hồi sinh ở cuối trận đánh.
+tagSurvivalLastDeath=Cả nhóm của bạn tiêu hết rồi.
+
+#Achievements
+achGroupSurvival=Luyện ngục
+
+achS001Title=Nhà vô địch Luyện ngục
+achS001Desc=Hoàn thành Luyện ngục qua Đợt thứ 150.
+
+achS002Title=Kẻ Chinh phục Luyện ngục
+achS002Desc=Hoàn thành Luyện ngục qua Đợt thứ 150 ở Độ khó Thách thức.
+
+achS003Title=Chúa tể Luyện ngục
+achS003Desc=Hoàn thành Luyện ngục qua Đợt thứ 150 ở Độ khó Đấu sĩ.
+
+achS004Title=Vượt quá 900000 rồi!
+achS004Desc=Đạt tối thiểu 900000 điểm ở Luyện ngục.
+
+achS005Title=Leo thang
+achS005Desc=Đạt tối thiểu 5000000 điểm ở Luyện ngục.
+
+achS006Title=Đỉnh điểm
+achS006Desc=Đạt tối thiểu 10000000 điểm ở Luyện ngục.
+
+achS007Title=Chúa tể Luyện ngục Không thể Ngăn cản
+achS007Desc=Hoàn thành Luyện ngục ở Độ khó Đấu sĩ với cổng dịch chuyển thứ 6 được kích hoạt.
+
+achS008Title=Thế Thủ
+achS008Desc=Xây một Công trình Phòng thủ.
+
+achS009Title=Quá tải Phòng thủ
+achS009Desc=Xây 50 Công trình Phòng thủ.
+
+achS010Title=Ngón tay Thiên thần
+achS010Desc=Kích hoạt một Thiên Phúc.
+
+achS011Title=Thiên thần Dìu dắt
+achS011Desc=Kích hoạt 25 Thiên Phúc.
+
+achS012Title=Trời giúp!
+achS012Desc=Kích hoạt cả 4 Thiên Phúc trong cùng một Luyện ngục.
+
+
+#Mutators
+
+tagNewMutator=Biến dị mới Có hiệu lực
+tagNewMutators=Biến dị mới Có hiệu lực
+tagMutatorGained={%s0} đã nhận được Biến dị {^r}{%s1}
+tagMutatorPlayers=Người chơi
+tagMutatorMonsters=Quái vật
+
+# Survival HUD Rollovers
+
+tagHUDScore01=Điểm
+tagHUDScore01Info=Điểm Luyện ngục bạn nhận được trong lần chơi này; được tính dựa vào số đợt quái bạn đánh bại, số quái đã giết, độ khó của trò chơi, và Cơ số nhân Điểm.
+
+tagHUDMultiplier01=Cơ số nhân Điểm
+tagHUDMultiplier01Info=Cơ số nhân Điểm bạn đạt được; được tính dựa vào số Thời gian Thưởng bạn vượt qua liên tục. Nếu bạn không vượt qua được Thời gian Thưởng, Cơ số nhân sẽ được đặt lại.
+
+tagHUDTribute01=Cống hiến
+tagHUDTribute01Info=Số Cống hiến bạn nhận được ở Luyện ngục. Cống hiến là một loại tiền tệ có thể dùng để đổi lấy Thiên Phúc, xây Trụ và tiếp tục cuộc chinh phục ở nhiều điểm mốc khác nhay. Bạn không thể giữ hơn 100 Cống hiến ở cùng một thời điểm.
+
+tagHUDTimer01=Thời gian Thưởng
+tagHUDTimer01Info=Nếu bạn tiêu diệt hết một Đợt quái của Luyện ngục trước khi thời gian này kết thúc, Cơ số nhân Điểm sẽ tăng lên.
+
+tagHUDWaveTier01=Đợt hiện tại
+tagHUDWaveTier01Info=Đợt Quái bạn đang chiến đấu.
+
+
+
+#Tutorials
+tagTutorialTip62Title=Luyện ngục đang gọi...
+tagTutorialTip62TextA=Bạn đã bước chân vào Luyện ngục, một bố trí xảo quyệt của gã Lokarr bí ẩn. Tại đây, năng lực chiến đấu của bạn sẽ được thử thách trước những sinh vật đáng sợ nhất của Grim Dawn.
+tagTutorialTip62TextB=Khi đã sẵn sàng, hãy nói chuyện với Lokarr, Chủ Luyện ngục.
+tagTutorialTip62SubtitleA=Đầy tớ của Lokarr
+tagTutorialTip62TextC=Bất cứ lúc nào giữa những đợt quái của Luyện ngục, bạn có thể tìm gặp những đầy tớ của Lokarr để sử dụng những dịch vụ cơ bản như Thương nhân, Thợ rèn hay người Dẫn dắt Linh hồn.
+tagTutorialTip62SubtitleB=Cống hiến
+tagTutorialTip62TextD=Có thể nhận được Cống hiến thông qua chiến đấu trong Luyện ngục. Chúng có thể được dùng vào nhiều thứ, như xây Trụ quanh đấu trường hoặc kích hoạt những Thiên Phúc mạnh mẽ.
+tagTutorialTip62SubtitleC=Đại Pháp sư Bất tử
+tagTutorialTip62TextE=Torralia mang tới một dịch vụ đặc biệt chỉ có tại Luyện ngục. Hãy gặp bà ta để dùng những điểm Cống hiến quý giá vào Thiên Phúc hoặc mở khóa thêm Điểm Tín ngưỡng.
+
+tagTutorialTip63Title=Công trình Phòng thủ
+tagTutorialTip63TextA=Bạn đã xây một Công trình Phòng thủ trong Luyện ngục. Những kiến trúc này sẽ hỗ trợ bạn trong trận chiến với đám tay chân của Lokarr.
+tagTutorialTip63TextB=Công trình Phòng thủ không thể bị phá hủy và không gây ra mối đe dọa nào.
+tagTutorialTip63SubtitleA=Nâng cấp
+tagTutorialTip63TextC=Các công trình Phòng thủ có thể được nâng cấp thêm, tăng cường hiệu quả của chúng và thậm chí còn mở khóa một kỹ năng mới, nhưng lượng Cống hiến và Sắt cần dùng sẽ tăng lên sau mỗi lần. Mỗi Công trình Phòng thủ có thể được nâng cấp hai lần.
+
+tagTutorialTip64Title=Hoàn thành Luyện ngục
+tagTutorialTip64TextA=Nỗ lực của bạn trong Luyện ngục đã tới điểm dừng, dù đó là thất bại thảm hại hay thành công rực rỡ, nhưng đó vẫn chưa phải kết thúc.
+tagTutorialTip64TextB=Giờ bạn có thể vào Buồng Kho báu và nhận phần thưởng cho tiến độ, điểm số và những điểm thưởng thêm bạn đã kích hoạt từ lúc khởi đầu.
+tagTutorialTip64SubtitleA=Tái khởi động Luyện ngục
+tagTutorialTip64TextC=Nếu bạn muốn chiến đấu trong cùng Luyện ngục này một lần nữa, bạn có thể gặp Lokarr để tái lập lại sự kiện từ đợt đầu tiên.
+tagTutorialTip64TextD=Chú ý rằng việc này sẽ xóa sạch mọi rương hòm trong Buồng Kho báu và dỡ bỏ mọi Công trình Phòng thủ bạn đã dựng nên.
+tagTutorialTip64SubtitleB=Bắt đầu lại ở một Điểm mốc
+tagTutorialTip64TextE=Nếu bạn vượt qua Đợt thứ 50, bạn cũng sẽ có lựa chọn sự dụng Cống hiến để bắt đầu lại từ Điểm mốc gần nhất, là 20 đợt trước khi bạn dừng lại, làm tròn đến đợt chẵn chục gần nhất (vd. kết thúc ở Đợt thứ 55 sẽ cho bạn bắt đầu lại ở đợt thứ 30).
+tagTutorialTip64TextF=Mỗi lần bắt đầu lại, lượng Cống hiến cần dùng sẽ tăng lên. Bạn có thể bắt đầu lại tối đa 3 lần.
+tagTutorialTip64TextG=Chú ý rằng việc này sẽ xóa sạch mọi rương hòm trong Buồng Kho báu và dỡ bỏ mọi Công trình Phòng thủ bạn đã dựng nên.
+
+tagQuickTip62={^z}Luyện ngục đang gọi...{^-}{^n}{^n}Khi nào sẵn sàng, hãy nói chuyện với Lokarr, hoặc làm việc với những NPC Dịch vụ quanh đây trước.{^n}{^n}Nhấp chuột vào đây để xem thêm thông tin về Luyện ngục.
+tagQuickTip63={^z}Công trình Phòng thủ{^-}{^n}{^n}Bạn đã xây một Công trình Phòng thủ trong Luyện ngục. Những kiến trúc này sẽ hỗ trợ bạn trong trận chiến với đám tay chân của Lokarr. Mỗi công trình có thể được nâng cấp thêm hai lần.
+tagQuickTip64={^z}Hoàn thành Luyện ngục{^-}{^n}{^n}Khi Luyện ngục đã kết thúc, bạn có thể vào Buồng Kho báu để nhận thưởng. Bạn cũng có lựa chọn bắt đầu lại từ đầu, hoặc từ một Điểm mốc nếu bạn đã mở khóa được một trong số chúng.
